@@ -1,17 +1,13 @@
 {{ define "main" }}
 
-<h1>Basic Blog Usercase</h1>
+<h1>மதுரை தமிழ் இலக்கிய மின்பதிப்புத் திட்டம்</h1>
 <p>
-  We shall practice below to become an expert
-  <ul>
-    <li><a href="/posts">Listing All the Posts</a></li>
-  </ul>
+  இது ஒரு உலகளாவிய தமிழர்கள் இணையம்வழி ஒன்றுகூடி தமிழ் இலக்கியங்களின் மின்பதிப்புக்களை உருவாக்கி அவற்றை இணையம்வழி உலகெங்கிலும் உள்ள தமிழர்களும் தமிழார்வலர்களும் இலவசமாக பெற வசதிசெய்யும் திட்டம்.
 </p>
 
-<h2>All articles</h2>
-
-{{ range where .Data.Pages "Type" "posts" }}
+<h2>நூல்கள்</h2>
+{{ range where .Site.Pages "Type" "books" }}
   {{ .Render "article" }}
-{{ end }} -
+{{ end }}
 
 {{ end }}
