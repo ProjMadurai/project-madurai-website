@@ -1,5 +1,6 @@
 ---
 title: திருக்குறள்
+weight: 1
 authors:
   - rmhari
 tags:

@@ -1,5 +1,6 @@
 ---
 title: ஆத்திசூடி
+weight: 2
 authors:
   - rmhari
   - sathishk

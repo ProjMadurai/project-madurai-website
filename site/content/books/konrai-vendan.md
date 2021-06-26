@@ -1,5 +1,6 @@
 ---
 title: கொன்றை வேந்தன்
+weight: 3
 authors:
   - sathishk
 tags:
