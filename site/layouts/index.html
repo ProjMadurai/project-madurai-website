@@ -1,0 +1,17 @@
+{{ define "main" }}
+
+<h1>Basic Blog Usercase</h1>
+<p>
+  We shall practice below to become an expert
+  <ul>
+    <li><a href="/posts">Listing All the Posts</a></li>
+  </ul>
+</p>
+
+<h2>All articles</h2>
+
+{{ range where .Data.Pages "Type" "posts" }}
+  {{ .Render "article" }}
+{{ end }} -
+
+{{ end }}

@@ -1,10 +1,17 @@
-{{ define "main" }} {{ $section := .Site.GetPage "section" .Section }}
-{{if .NextInSection}}<a href="{{.NextInSection.Permalink}}">Previous</a>{{end}}
+{{ define "main" }}
 
-{{if .PrevInSection}}<a href="{{.PrevInSection.Permalink}}">Next</a>{{end}}
+<article>
 
-<div>
-    {{- .Content -}}
-</div>
+
+  <header>
+    <h1>{{ .Title }}</h1>
+    <p>by {{ .Render "author-link" }}
+  </header>
+  {{ .Content }}
+  <footer>
+    <h2>About the {{ cond (eq (len .Params.authors) 1) "author" "authors" }}</h2>
+    {{ .Render "author-figure" }}
+  </footer>
+</article>
 
 {{ end }}

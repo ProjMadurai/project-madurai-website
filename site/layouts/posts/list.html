@@ -1,20 +1,9 @@
 {{ define "main" }}
 
-<nav class="navbar">
-    <div class="row w-100">
-        <h5 class="text-center">{{.Title}}</h5>
-    </div>
-  </nav>
-  
+<h1>{{ .Params.title }}</h1>
 
-<main class="pt-3">
-    <ul>
-    <!-- Ranges through content/posts/*.md -->
-    {{ range .Pages }}
-        <li>
-            <a href="{{strings.TrimRight "/" .Permalink}}">{{.Title}}</a>
-        </li>
-    {{ end }}
-    </ul>
-</main>
+{{ range .Data.Pages }}
+  {{ .Render "article" }}
+{{ end }}
+
 {{ end }}
