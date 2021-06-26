@@ -2,9 +2,9 @@
   <h3><a href="{{ .Permalink }}" class="block-link">{{ .Title }}</a></h3>
   <p>
     {{ .Summary | truncate 200 }}
-    <a href="{{ .Permalink }}">Read more</a>
+    <a href="{{ .Permalink }}"> மேலும்</a>
   </p>
   <p class="byline">
-    by {{ .Render "author-link" }}
+    இயற்றியவர் {{ .Render "author-link" }}
   </p>
 </article>
