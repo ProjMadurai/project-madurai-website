@@ -3,6 +3,8 @@ title: 	மூதுரை
 weight: 5
 authors:
   - rmhari
+genres:
+  - rmhari 
 tags:
   - cake
   - chocolate

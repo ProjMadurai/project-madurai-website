@@ -3,6 +3,8 @@ title: 	தெய்வப் பாடல்கள்
 weight: 40
 authors:
   - rmhari
+genres:
+  - rmhari 
 tags:
   - cake
   - chocolate

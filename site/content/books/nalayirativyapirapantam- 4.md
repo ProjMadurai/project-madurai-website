@@ -3,6 +3,8 @@ title: 	நாலாயிர திவ்ய பிரபந்தம் / 4
 weight: 34
 authors:
   - rmhari
+genres:
+  - rmhari 
 tags:
   - cake
   - chocolate

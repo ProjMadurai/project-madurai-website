@@ -3,6 +3,8 @@ title: திருவாசகம் - 2 (11-51)
 weight: 7
 authors:
   - rmhari
+genres:
+  - rmhari 
 tags:
   - cake
   - chocolate

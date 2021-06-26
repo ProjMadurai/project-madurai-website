@@ -3,6 +3,8 @@ title: திருவருட்பா /திருமுறை 1 (பாட�
 weight: 46
 authors:
   - rmhari
+genres:
+  - rmhari 
 tags:
   - cake
   - chocolate

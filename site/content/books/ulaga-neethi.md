@@ -3,6 +3,8 @@ title: 	உலகநீதி
 weight: 54
 authors:
   - rmhari
+genres:
+  - rmhari 
 tags:
   - cake
   - chocolate

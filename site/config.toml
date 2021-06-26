@@ -8,4 +8,5 @@ title = "Example site with author pages"
 
 [taxonomies]
   author = "authors"
+  genre = "genres"
   tag = "tags"

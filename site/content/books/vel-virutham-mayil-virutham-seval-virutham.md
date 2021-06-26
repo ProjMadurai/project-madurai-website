@@ -3,6 +3,8 @@ title: 	வேல் விருத்தம்; மயில் விரு�
 weight: 56
 authors:
   - rmhari
+genres:
+  - rmhari 
 tags:
   - cake
   - chocolate

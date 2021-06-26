@@ -3,6 +3,8 @@ title: 	கந்தர் அநுபூதி
 weight: 55
 authors:
   - rmhari
+genres:
+  - rmhari 
 tags:
   - cake
   - chocolate

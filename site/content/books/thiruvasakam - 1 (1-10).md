@@ -3,6 +3,8 @@ title: 	திருவாசகம்-1(1-10)
 weight: 6
 authors:
   - rmhari
+genres:
+  - rmhari 
 tags:
   - cake
   - chocolate

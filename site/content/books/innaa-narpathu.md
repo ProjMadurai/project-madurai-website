@@ -3,6 +3,8 @@ title: 	இன்னா நாற்பது
 weight: 58
 authors:
   - rmhari
+genres:
+  - rmhari 
 tags:
   - cake
   - chocolate

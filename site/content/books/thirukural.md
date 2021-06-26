@@ -3,6 +3,8 @@ title: திருக்குறள்
 weight: 1
 authors:
   - rmhari
+genres:
+  - rmhari 
 tags:
   - cake
   - chocolate

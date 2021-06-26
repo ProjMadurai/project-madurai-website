@@ -3,6 +3,8 @@ title: 	ஆசாரக் கோவை
 weight: 57
 authors:
   - rmhari
+genres:
+  - rmhari 
 tags:
   - cake
   - chocolate

@@ -3,6 +3,8 @@ title: 	திருமுறை 10 /திருமந்திரம்
 weight: 36
 authors:
   - rmhari
+genres:
+  - rmhari 
 tags:
   - cake
   - chocolate

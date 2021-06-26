@@ -3,6 +3,8 @@ title: தேசிக பிரபந்தம்
 weight: 41
 authors:
   - rmhari
+genres:
+  - rmhari 
 tags:
   - cake
   - chocolate

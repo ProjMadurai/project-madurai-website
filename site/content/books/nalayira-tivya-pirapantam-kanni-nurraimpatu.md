@@ -3,6 +3,8 @@ title: நாலாயிர திவ்ய பிரபந்தம் / க�
 weight: 17
 authors:
   - rmhari
+genres:
+  - rmhari 
 tags:
   - cake
   - chocolate

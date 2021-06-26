@@ -3,6 +3,8 @@ title: 	சுய சரிதை
 weight: 51
 authors:
   - rmhari
+genres:
+  - rmhari 
 tags:
   - cake
   - chocolate

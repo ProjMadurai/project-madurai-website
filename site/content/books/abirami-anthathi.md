@@ -3,6 +3,8 @@ title: அபிராமி அந்தாதி
 weight: 62
 authors:
   - rmhari
+genres:
+  - rmhari 
 tags:
   - cake
   - chocolate

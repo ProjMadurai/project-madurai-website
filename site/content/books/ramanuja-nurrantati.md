@@ -3,6 +3,8 @@ title: இராமானுஜ நூற்றந்தாதி
 weight: 32
 authors:
   - rmhari
+genres:
+  - rmhari 
 tags:
   - cake
   - chocolate

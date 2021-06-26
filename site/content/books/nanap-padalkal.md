@@ -3,6 +3,8 @@ title: ஞானப் பாடல்கள்
 weight: 52
 authors:
   - rmhari
+genres:
+  - rmhari 
 tags:
   - cake
   - chocolate

@@ -3,6 +3,8 @@ title: களவழி நாற்பது
 weight: 60
 authors:
   - rmhari
+genres:
+  - rmhari 
 tags:
   - cake
   - chocolate

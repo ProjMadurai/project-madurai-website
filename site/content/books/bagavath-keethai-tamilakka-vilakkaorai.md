@@ -3,6 +3,8 @@ title: 	பகவத் கீதை /தமிழாக்கம்; விள�
 weight: 42
 authors:
   - rmhari
+genres:
+  - rmhari 
 tags:
   - cake
   - chocolate

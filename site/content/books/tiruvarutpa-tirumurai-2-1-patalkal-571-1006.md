@@ -3,6 +3,8 @@ title: 	திருவருட்பா /திருமுறை 2.1 (பா�
 weight: 47
 authors:
   - rmhari
+genres:
+  - rmhari 
 tags:
   - cake
   - chocolate

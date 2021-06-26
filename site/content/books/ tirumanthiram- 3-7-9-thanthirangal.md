@@ -3,6 +3,8 @@ title: திருமந்திரம் - 3 (7-9 தந்திரங்க
 weight: 37
 authors:
   - rmhari
+genres:
+  - rmhari 
 tags:
   - cake
   - chocolate

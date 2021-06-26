@@ -3,6 +3,8 @@ title: 	தேசிய கீதங்கள்
 weight: 39
 authors:
   - rmhari
+genres:
+  - rmhari 
 tags:
   - cake
   - chocolate

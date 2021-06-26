@@ -3,6 +3,8 @@ title: விவிலியம் /புதிய ஏற்பாடு /ம�
 weight: 49
 authors:
   - rmhari
+genres:
+  - rmhari 
 tags:
   - cake
   - chocolate

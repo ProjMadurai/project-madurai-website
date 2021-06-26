@@ -3,6 +3,8 @@ title: பல்வகைப் பாடல்கள்
 weight: 53
 authors:
   - rmhari
+genres:
+  - rmhari 
 tags:
   - cake
   - chocolate

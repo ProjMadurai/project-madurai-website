@@ -3,6 +3,8 @@ title: 	திருக்குறள் /ஆங்கில மொழியா
 weight: 45
 authors:
   - rmhari
+genres:
+  - rmhari 
 tags:
   - cake
   - chocolate

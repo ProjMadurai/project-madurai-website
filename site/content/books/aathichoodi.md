@@ -3,6 +3,8 @@ title: ஆத்திசூடி
 weight: 2
 authors:
   - rmhari
+genres:
+  - rmhari 
   - sathishk
 tags:
   - chocolate

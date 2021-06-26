@@ -3,6 +3,8 @@ title: திருமந்திரம் - 2 (3-6 தந்திரங்க
 weight: 35
 authors:
   - rmhari
+genres:
+  - rmhari 
 tags:
   - cake
   - chocolate

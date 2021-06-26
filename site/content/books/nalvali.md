@@ -3,6 +3,8 @@ title: 	நல்வழி
 weight: 4
 authors:
   - rmhari
+genres:
+  - rmhari 
 tags:
   - cake
   - chocolate

@@ -3,6 +3,8 @@ title: 	தண்ணீர் தேசம்
 weight: 38
 authors:
   - rmhari
+genres:
+  - rmhari 
 tags:
   - cake
   - chocolate

@@ -3,6 +3,8 @@ title: 	நாலடியார்
 weight: 44
 authors:
   - rmhari
+genres:
+  - rmhari 
 tags:
   - cake
   - chocolate

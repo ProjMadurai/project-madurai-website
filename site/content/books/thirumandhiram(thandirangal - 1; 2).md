@@ -3,6 +3,8 @@ title: திருமந்திரம் (தந்திரங்கள் -
 weight: 8
 authors:
   - rmhari
+genres:
+  - rmhari 
 tags:
   - cake
   - chocolate

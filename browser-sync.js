@@ -13,6 +13,9 @@
 // eslint-disable-next-line no-undef
 module.exports = {
     files: ["dist/css/*.css", "dist/js/*.js", "dist/**/*.html"],
-    serveStatic: ['dist'],
+    serveStatic: [{
+        route: '/project-madurai-website',
+        dir: 'dist'
+    }],
     ghostMode: false,
 };

@@ -3,6 +3,8 @@ title: நளவெண்பா
 weight: 43
 authors:
   - rmhari
+genres:
+  - rmhari 
 tags:
   - cake
   - chocolate

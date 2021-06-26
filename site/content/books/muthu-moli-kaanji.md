@@ -3,6 +3,8 @@ title: முதுமொழிக் காஞ்சி
 weight: 61
 authors:
   - rmhari
+genres:
+  - rmhari 
 tags:
   - cake
   - chocolate
