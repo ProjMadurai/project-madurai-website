@@ -19,8 +19,8 @@
 <body>
   <main class="container mt-5 w-100 h-100">
 
-    {{ with .Params.home }}
-    <-- no header --->
+    {{ with .IsHome }}
+
     {{ else }}
     {{ block "header" . }}{{ partial "header" . }}{{end}}
     {{ end }}
