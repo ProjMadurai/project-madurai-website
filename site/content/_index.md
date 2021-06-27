@@ -1,0 +1,13 @@
+---
+title: Hi Dude
+weight: 35
+authors:
+  - rmhari
+genres:
+  - rmhari 
+tags:
+  - cake
+  - chocolate
+---
+
+SASSASAS
