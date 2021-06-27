@@ -1,10 +1,23 @@
 // Import Custom Variables
 
+@import "./base/typography";
+@import "./themes/theme";
+@import "./vendors/bootstrap";
 
+main > .container {
+  padding: 60px 15px 0;
+}
 
-@import './base/typography';
-@import './themes/theme';
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
 
-@import './vendors/bootstrap';
-
-
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
