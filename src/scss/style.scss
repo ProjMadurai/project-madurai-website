@@ -4,6 +4,15 @@
 @import "./themes/theme";
 @import "./vendors/bootstrap";
 
+
+body { 
+  background: url(../images/BG.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 main > .container {
   padding: 60px 15px 0;
 }

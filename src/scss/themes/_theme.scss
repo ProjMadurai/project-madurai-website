@@ -4,7 +4,7 @@ $theme-colors: (
     "primary": #346cb0,
     "secondary": #f6f7f9,
     "success": #00a28a,
-    "info": #0179a8,
+    "info": #4EA2D1,
     "warning": #f7c46c,
     "danger": #b76ba3,
     "light": #f6f7f9,
@@ -12,7 +12,17 @@ $theme-colors: (
 );
 
 // Typography Related
-$link-color: #00a28a;
-$headings-color:              #00a28a;
+$link-color: #855B51;
+$navbar-brand-font-size:            1.8rem;
+$navbar-light-brand-color:                #2E206B;
+$navbar-light-brand-hover-color:          #2E206B;
+
+$navbar-light-color:                #6C493D;
+$navbar-light-hover-color:          #CD8161;
+$navbar-light-active-color:          #CD8161;
+
+$border-color:                #A99D91;
+
+$headings-color:              #665E53;
 $mark-bg:                     #fcf8e3;
 $blockquote-footer-color:     #ff00ff;
