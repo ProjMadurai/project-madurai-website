@@ -35,6 +35,12 @@
       href="/docs/5.0/assets/img/favicons/safari-pinned-tab.svg"
       color="#7952b3"
     />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css"
+      integrity="sha256-h20CPZ0QyXlBuAw7A+KluUYx/3pK+c7lYEpqLTlxjYQ="
+      crossorigin="anonymous"
+    />
     <link rel="icon" href="/docs/5.0/assets/img/favicons/favicon.ico" />
     <meta name="theme-color" content="#7952b3" />
 
@@ -57,9 +63,9 @@
   <body class="d-flex flex-column h-100">
     <header>
       <!-- Fixed navbar -->
-      <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+      <nav class="navbar navbar-expand-md fixed-top bg-light">
         <div class="container-fluid">
-          <a class="navbar-brand" href="#">திட்டம் மதுரை</a>
+          <a class="navbar-brand fw-bold" href="#">திட்டம் மதுரை</a>
           <button
             class="navbar-toggler"
             type="button"
@@ -72,32 +78,30 @@
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
-            <ul class="navbar-nav me-auto mb-2 mb-md-0">
+            <ul class="navbar-nav ms-auto mb-2 mb-md-0">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="#">முகப்பு</a>
+                <a class="nav-link active fw-bold" aria-current="page" href="#">முகப்பு</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">புத்தகங்கள்</a>
+                <a class="nav-link fw-bold" href="#">புத்தகங்கள்</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">ஆசிரியர்கள்</a>
+                <a class="nav-link fw-bold" href="#">ஆசிரியர்கள்</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">தொண்டர்கள்</a>
+                <a class="nav-link fw-bold" href="#">தொண்டர்கள்</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">நோக்கம்</a>
+                <a class="nav-link fw-bold" href="#">நோக்கம்</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">தொடர்பு கொள்க</a>
+                <a class="nav-link fw-bold" href="#">தொடர்பு கொள்க</a>
               </li>
             </ul>
-            <form class="form-navbar">
-              
-              <button class="btn btn-outline-success" type="submit">
-                
-              </button>
+            <form class="d-flex">
+              <button class="btn" type="submit"><i class="fas fa-search"></i></button>
             </form>
+           
           </div>
         </div>
       </nav>
