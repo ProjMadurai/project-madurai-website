@@ -1,18 +1,10 @@
 {{ define "main" }}
 
-<article>
-
-
-  <header>
-    <h1>{{ .Title }}</h1>
-    <p>இயற்றியவர் {{ .Render "author-link" }}
-      <p>Genre {{ .Render "genre-link" }}
-  </header>
-  {{ .Content }}
-  <footer>
-    <h2>About the {{ cond (eq (len .Params.authors) 1) "author" "authors" }}</h2>
-    {{ .Render "author-figure" }}
-  </footer>
-</article>
+<div class="container px-3 min-vh-100">
+<h4>{{ .Title }}</h4>
+  <p>
+    {{ .Content }}
+  </p>
+</div>
 
 {{ end }}
