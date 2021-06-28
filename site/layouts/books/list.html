@@ -34,13 +34,13 @@
         {{ range .Pages }}
         <div class="col">
           <a href="{{strings.TrimRight "/" .Permalink}}"><div class="card border-0" >
-          <img src="{{strings.TrimRight "/" .Params.thumbnail}}" class="card-img-top img-thumbnail" alt="...">
+          <img src="{{strings.TrimRight "/" .Params.thumbnail}}" class="card-img-top p-2" alt="...">
           <div class="card-body">
-          <h6 class=" text-truncate">{{ .Title }}</h6>
+          <h6 class="text-truncate fw-bold text-center">{{ .Title }}</h6>
           {{- range $index, $element := .Params.authors }}
           {{ if gt $index 0 }} & {{ end }}
-          <span class="text-truncate">
-              <small >{{ . }}</small>
+          <span>
+              <h6 class="text-truncate text-center">{{ . }}</h6>
           </span>
           {{ end }}
           </div>
