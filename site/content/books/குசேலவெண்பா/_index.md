@@ -10,7 +10,7 @@ authors:
 
 # kucEla vENpA by cEturAmaiyyar (in unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## குசேல வெண்பா
 ஆசிரியர் : நா. சேதுராமய்யர்

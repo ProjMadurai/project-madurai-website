@@ -9,7 +9,7 @@ authors:
 
 # civanjAnapOtam of meykaNTa tEvar (in tamil script, unicode/utf-8 format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### civanjAnapOtam by meykaNTa tEvar
 in Tamil Script, Unicode/utf-8 format
@@ -1119,5 +1119,6 @@ Contents
 
 (முற்றும்)
 This page was first put up on June 30, 2000
-Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, 
+Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, 
+
 kumar@vt.edu?subject=PM80-civanjAnapOtam)

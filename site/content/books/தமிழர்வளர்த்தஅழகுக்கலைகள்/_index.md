@@ -9,7 +9,7 @@ authors:
 
 # tamizar vaLartta kalaikaL by mayilai cIni vEngkaTacAmi (in unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## தமிழர் வளர்த்த அழகுக் கலைகள்
 ஆசிரியர்: மயிலை சீனி. வேங்கடசாமி

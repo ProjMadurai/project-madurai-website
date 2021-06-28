@@ -10,7 +10,7 @@ authors:
 
 # kumarakOTTak kalampakam of capApati mutaliyAr (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## சபாபதி முதலியார் இயற்றிய
 ஸ்ரீகாஞ்சீபுரம் "குமரகோட்டக்கலம்பகம்"

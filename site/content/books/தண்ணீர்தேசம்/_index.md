@@ -7,9 +7,9 @@ authors:
   - கவிதைத் தொகுப்பு
 ---
 
-# acOkar kataikaL by nArA nAcciyappan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
+
 
 ### தண்ணீர் தேசம் - பாகம் 1
 (புதுக்கவிதை - நாவல்)

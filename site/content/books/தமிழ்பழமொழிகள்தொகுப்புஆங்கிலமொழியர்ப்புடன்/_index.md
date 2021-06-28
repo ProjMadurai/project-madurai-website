@@ -9,7 +9,7 @@ authors:
 
 # Tamil Proverbs collection with English Translation by Percival -part 1 (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## தமிழ் பழமொழிகள் தொகுப்பும்
 ஆங்கில மொழிபெயர்ப்பும்

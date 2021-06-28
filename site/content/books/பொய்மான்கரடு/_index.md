@@ -10,7 +10,7 @@ authors:
 
 # poimAn karaTu of kalki kirushNamUrti (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## கல்கி கிருஷ்ணமூர்த்தியின்
 பொய்மான் கரடு

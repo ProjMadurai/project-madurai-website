@@ -10,7 +10,7 @@ authors:
 
 # Mathuraik kalampakam (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)[## kumara kuruparar's mathuraik kalampakam
+[## kumara kuruparar's mathuraik kalampakam
 (in tamil script, unicode format)
 
 குமரகுருபரர் அருளிய

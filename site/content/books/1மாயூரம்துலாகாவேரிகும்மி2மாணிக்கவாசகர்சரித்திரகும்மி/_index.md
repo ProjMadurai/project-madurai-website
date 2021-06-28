@@ -10,7 +10,7 @@ authors:
 
 # mAyuram tulA kAveri kummi by municAmi mutaliyAr (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### மாயூரம் துலா காவேரி கும்மி
 சிறுமணவூர் முனிசாமி முதலியார் எழுதியது
@@ -18,17 +18,7 @@ mAyuram tulA kAveri kummi
 by cirumaNavUr municAmi mutaliyAr
 In tamil script, unicode/utf-8 format
 
-**Acknowledgements:**
-Our Sincere thanks go to the Tamil Digital Library /Tamil Virtual Academy for providing a scanned image/PDF of this work.
-The e-text has been generated using Google OCR online tool and subsequent correction of the output file.
-We thank Mrs. Meenakshi Balaganesh for her assistance in the preparation of this work
-Preparation of HTML and PDF versions: Dr. K. Kalyanasundaram, Lausanne, Switzerland.
-© Project Madurai, 1998-2020.
-Project Madurai is an open, voluntary, worldwide initiative devoted to preparation
-of electronic texts of tamil literary works and to distribute them free on the Internet.
-Details of Project Madurai are available at the website
-**[https://www.projectmadurai.org/](https://www.projectmadurai.org/)**
-You are welcome to freely distribute this file, provided this header page is kept intact.
+
 
 ### மாயூரம் துலா காவேரி கும்மி
 சிறுமணவூர் முனிசாமி முதலியார் எழுதியது

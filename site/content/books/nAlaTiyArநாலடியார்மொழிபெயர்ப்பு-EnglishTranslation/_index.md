@@ -9,7 +9,7 @@ authors:
 
 # nAlaTiyAr -English Translation by Pope and Ellis (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### நாலடியார்
 ஆங்கில மொழிபெயர்ப்பு

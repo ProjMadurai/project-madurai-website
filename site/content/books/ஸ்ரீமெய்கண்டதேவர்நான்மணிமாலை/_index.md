@@ -10,7 +10,7 @@ authors:
 
 # meikaNTatEvar nAnmaNimAlai of periyacAmi piLLai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## உறையூர் தே. பெரியசாமி பிள்ளை அருளிய
 ஸ்ரீமெய்கண்டதேவர் நான்மணிமாலை

@@ -9,7 +9,7 @@ authors:
 
 # ilakkiya kATcikaL by ci. pAlacuppiramaNiyan (in unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## இலக்கியக் காட்சிகள்
 டாக்டர் சி. பாலசுப்பிரமணியன்

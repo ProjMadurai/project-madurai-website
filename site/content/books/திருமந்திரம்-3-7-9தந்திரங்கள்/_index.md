@@ -10,7 +10,7 @@ authors:
 
 # tirumantiram of tirumUlar -part IIIa (1704- 2121) (in tamil script, Unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## tirumantiram of tirumUlar - part IIIa
 (in Tamil Script, Unicode/UTF-8 format)

@@ -9,7 +9,7 @@ authors:
 
 # veRRivErkai of ativIrarAma paNTIyan with urai (in unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## அதிவீரராம பாண்டியன் எழுதிய
 வெற்றிவேற்கை

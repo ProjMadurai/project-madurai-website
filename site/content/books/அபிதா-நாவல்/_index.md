@@ -10,7 +10,7 @@ authors:
 
 # apitA of laa. ca. irAmAmirutam (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## லா. ச. ராமாமிருதம் எழுதிய
 அபிதா (நாவல்)

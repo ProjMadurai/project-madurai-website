@@ -9,7 +9,7 @@ authors:
 
 # nEminAtam of kuNavira paNTitar with commentary (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## குணவீரபண்டிதர் இயற்றிய "நேமிநாதம்"
 மூலம் உரையுடன்

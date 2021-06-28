@@ -10,7 +10,7 @@ authors:
 
 # panca tantirakkatai of vishnu sarma (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## விஷ்ணு சர்மா இயற்றிய
 "பஞ்சதந்திரக் கதை."

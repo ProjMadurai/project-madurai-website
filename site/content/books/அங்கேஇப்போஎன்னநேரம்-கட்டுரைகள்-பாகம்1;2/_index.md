@@ -9,7 +9,7 @@ authors:
 
 # angkE ippO enna nEram (collection of essays) by A. Muthulingam, part 1 (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## அங்கே இப்போ என்ன நேரம்
 ( கட்டுரைத் தொகுப்பு) - பாகம் 1

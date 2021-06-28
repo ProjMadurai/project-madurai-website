@@ -9,7 +9,7 @@ authors:
 
 # eTTu nATkaL by C.N. Annadurai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### எட்டு நாட்கள் (கட்டுரைகள்)
 அறிஞர் அண்ணா

@@ -9,7 +9,7 @@ authors:
 
 # kALamEkap pulavar pATalkaL (in tamil script, unicode format)
 
-ÿÿ    ![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+ÿÿ    
 
 ## kavi kALamEkap pulavar pATalkaL
 (in tamil script, unicode format)

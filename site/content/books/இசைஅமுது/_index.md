@@ -9,7 +9,7 @@ authors:
 
 # icai amutu by Bharathidasan(in tamil script, unicode/utf-8 format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## Literary Works of Bharathidaasan ( Kanakasubbaratnam, 1891-1964)
 VI : icai amutu (in Tamil Script, unicode/utf-8 format)

@@ -9,7 +9,7 @@ authors:
 
 # mAntarukkuL teivam of Kalki -part 1, chapters 1-33 (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## மாந்தருக்குள் ஒரு தெய்வம் - முதற் பாகம்
 அத்தியாயங்கள் 1-33

@@ -9,7 +9,7 @@ authors:
 
 # varNAsramam by CN Annadurai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## வர்ணாஸ்ரமம் (கட்டுரைகள்)
 அறிஞர் கா. ந. அண்ணாதுரை

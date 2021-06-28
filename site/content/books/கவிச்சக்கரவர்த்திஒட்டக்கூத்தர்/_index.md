@@ -10,7 +10,7 @@ authors:
 
 # kavic cakkiravarti oTTakkUttar, lectures of cirpi pAlacupramaNiyan (chapters 1 to 10) (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## கவிச் சக்கரவர்த்தி ஒட்டக்கூத்தர்
 சி. பாலசுப்பிரமணியன் சொற்பொழிவுகள்

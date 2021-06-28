@@ -9,7 +9,7 @@ authors:
 
 # atikamAn neTumAn anjci by ki.vA. jekannAtan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## அதிகமான் நெடுமான் அஞ்சி
 கி.வா.ஜகந்நாதன்

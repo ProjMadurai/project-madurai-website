@@ -10,7 +10,7 @@ authors:
 
 # tirumalaiANTavar kuRavanjci(in tamil script, unicode/utf-8 format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### tirumalaiANTavar kuRavanjci
 (in Tamil Script, Unicode format)
@@ -1349,4 +1349,5 @@ It is not known who is the author of this work. The deity on whom this poem has 
 மண்டிய பின்வெறு வாயைச் சுவையடா சிங்கா. (21)
 குறிப்பு- இதன் பின்னர் வரிகள் கிடைக்க வில்லை.
 This page was first put up on May 11, 2001
-Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, kumar@vt.edu?  subject=PM110 : kuRuntokai)
+Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, kumar@vt.edu?
+  subject=PM110 : kuRuntokai)

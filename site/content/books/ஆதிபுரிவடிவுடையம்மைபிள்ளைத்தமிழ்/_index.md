@@ -10,7 +10,7 @@ authors:
 
 # Atipuri vaTivuTaiyammai piLLaittamiz (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## ஆதிபுரி வடிவுடையம்மை பிள்ளைத்தமிழ்.
 ஆசிரியர் வித்துவான் கனகசபைத்தம்பிரான்

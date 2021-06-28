@@ -10,7 +10,7 @@ authors:
 
 # pARkaTAl of laa.ca. irAmAmirutam (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## பாற்கடல்
 (இளமை நினைவுகள்)

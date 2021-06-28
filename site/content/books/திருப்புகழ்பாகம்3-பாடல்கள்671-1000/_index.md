@@ -10,7 +10,7 @@ authors:
 
 # aruNakirinAtar tiruppukaz-part 3 (in tamil script, Unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## aruNakirinAtar aruLiya tiruppukaz
 part 3, verses 671- 1000

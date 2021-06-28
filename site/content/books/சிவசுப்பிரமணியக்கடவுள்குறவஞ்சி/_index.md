@@ -10,7 +10,7 @@ authors:
 
 # kunRAkkuTi kuravanjci of vIrapatrak kavirAyar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## வீரபத்திரக் கவிராயரவர்கள் இயற்றிய
 சிவசுப்பிரமணியக்கடவுள் "குறவஞ்சி"

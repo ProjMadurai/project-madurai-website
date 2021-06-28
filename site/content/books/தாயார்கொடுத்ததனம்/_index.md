@@ -9,7 +9,7 @@ authors:
 
 # tAyAr koTutta tanam by nAmakkal irAmalingkam piLLai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### தாயார் கொடுத்த தனம் (கட்டுரைகள்)
 நாமக்கல் கவிஞர் வெ. இராமலிங்கம்பிள்ளை

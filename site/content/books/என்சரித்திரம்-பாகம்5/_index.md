@@ -9,7 +9,7 @@ authors:
 
 # en caritiram of U.vE. cAminAta aiyar , part 5 (chapters 101-122) (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## என் சரித்திரம் - பாகம் 5
 (அத்தியாயம் 101-122)

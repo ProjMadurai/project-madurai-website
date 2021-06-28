@@ -10,7 +10,7 @@ authors:
 
 # tiruppErUrk kalampakam of ku. naTEca kavuNTar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## திருப்பேரூர்க் கலம்பகம்
 ஆசிரியர் - கவியரசு கு. நடேச கவுண்டர்

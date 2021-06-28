@@ -9,7 +9,7 @@ authors:
 
 # Short stories (4) of C.N. Annadurai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## சிறு கதைகள் நான்கு
 அறிஞர் கா. ந. அண்ணாதுரை

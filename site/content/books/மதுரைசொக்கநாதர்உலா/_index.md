@@ -10,7 +10,7 @@ authors:
 
 # pirapantam type works of civapirakAca cuvAmikaL (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## சிவப்பிரகாச சுவாமிகள் அருளிய
 பிரபந்தத் திரட்டில் உள்ள நூல்கள்

@@ -9,7 +9,7 @@ authors:
 
 # etir pArAta muttam of pAratitAcan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)  [### etir pArAta muttam
+  [### etir pArAta muttam
 of pAratitAcan
 (in tamil script, unicode format)
 

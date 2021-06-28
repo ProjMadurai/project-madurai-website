@@ -9,7 +9,7 @@ authors:
 
 # mAji kaTavulkaL by C.N. Annadurai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### மாஜி கடவுள்கள்
 அறிஞர் கா. ந. அண்ணாதுரை

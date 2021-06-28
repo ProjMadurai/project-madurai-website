@@ -9,7 +9,7 @@ authors:
 
 # ArAiccik kaTTuraikaL part-1 of nAvalar cOmacuntara paratiyAr (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## ஆராய்ச்சி நூல்கள் - பாகம் 1
 நாவலர் சோமசுந்தர பாரதியார்

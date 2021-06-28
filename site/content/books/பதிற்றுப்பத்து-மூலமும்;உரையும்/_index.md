@@ -9,7 +9,7 @@ authors:
 
 # patiRRuppattu (with the commentary of Auvai Duraisamy Pillai) part 1 (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## பதிற்றுப்பத்து - மூலமும்
 ஔவை துரைசாமி பிள்ளை விளக்க உரையும் - பாகம் 1

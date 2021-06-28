@@ -10,7 +10,7 @@ authors:
 
 # kalingkattup paraNi of jeyangkoNTAr (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### kalingkattup paraNi of CeyangkoNTAr
 (in Tamil Script, unicode format)
@@ -2651,4 +2651,5 @@ kalingkattup paraNi of CeyangkoNTAr
 ### கலிங்கத்துப் பரணி முற்றிற்று
 
 This page was first put up on November 28, 2001 and last revised to TSCII 1.7 version on 14 March 2002
-Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, kumar@vt.edu?  subject=PM123 : kalingkattupparaNi)
+Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, kumar@vt.edu?
+  subject=PM123 : kalingkattupparaNi)

@@ -10,7 +10,7 @@ authors:
 
 # Recent Malayalam short stories (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## சமீபத்திய மலையாளச் சிறுகதைகள்
 எம். முகுந்தன் (தொகுப்பு)

@@ -9,7 +9,7 @@ authors:
 
 # kUttiyal tiraTTu (in tamil script, Unicode/utf-8 format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)  **கூத்தியல் திரட்டு
+  **கூத்தியல் திரட்டு
 
 kUttiyal tiraTTu
 (in tamiz UTF-8 encoding)

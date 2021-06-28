@@ -9,7 +9,7 @@ authors:
 
 # kampan kaNTa araciyal by kunRakkuTi aTikaL (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### கம்பன் கண்ட ஆட்சியில் -
 அரசியல் சமூகம் (சொற்பொழிவு)

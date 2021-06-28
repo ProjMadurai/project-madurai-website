@@ -9,7 +9,7 @@ authors:
 
 # meynjAnap pulampal (Siddar's series) (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)  [
+  [
 ### paththirakiriyAr's meynjAnap pulampal (Siddar's series)
 (in tamil script, unicode/utf-8 format)
 

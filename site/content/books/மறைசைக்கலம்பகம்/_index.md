@@ -10,7 +10,7 @@ authors:
 
 # maRaicaik kalampakam of pItAmparap pulavar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## மறைசைக் கலம்பகம்
 யாழ்ப்பாணத்து நீர்வேலிப் பீதாம்பரப்புலவர் அருளியது

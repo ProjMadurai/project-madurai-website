@@ -10,7 +10,7 @@ authors:
 
 # ceyUr piLLaittamiz of vIrarakava mutaliyAr(in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## அந்தக்ககவி வீரராகவ முதலியார் இயற்றிய
 சேயூர் முருகன் பிள்ளைத்தமிழ்

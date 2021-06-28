@@ -9,7 +9,7 @@ authors:
 
 # AtinAtan maTal by ceyangkoNTAr (in unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## செயங்கொண்டார் இயற்றிய
 காரானை விழுப்பரையன் மடல் என்னும்

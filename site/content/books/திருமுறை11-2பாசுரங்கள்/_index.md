@@ -10,7 +10,7 @@ authors:
 
 # 11th tirumuRai pAsurams (in tamil script, Unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### 11th tirumuRai collections of nampi ANTAr nampi -part I
 (825 pAcurams of several authors)
@@ -4032,4 +4032,5 @@ You are welcome to freely distribute this file, provided this header page is kep
 கோமதலை வாண்மதியங் கொம்பு.23 **(பாசுரங்கள் 24-30 கிடைக்கப் பெறவில்லை)**
 திருச்சிற்றம்பலம்
 This web page was first put up on Dec 10, 2001 and last revised to TSCII 1.7 version on 14 March 2002
-Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, kumar@vt.edu?  subject=PM126 : 11th tirumurai part I)
+Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, kumar@vt.edu?
+  subject=PM126 : 11th tirumurai part I)

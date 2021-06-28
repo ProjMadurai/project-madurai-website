@@ -10,7 +10,7 @@ authors:
 
 # makizmAk kalampakam of tozuvUr vElayuta mutaliyAr (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## தொழுவூர் வேலாயுத முதலியாராற்
 செய்யப்பட்ட "மகிழ்மாக் கலம்பகம்"

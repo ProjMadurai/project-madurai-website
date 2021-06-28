@@ -9,7 +9,7 @@ authors:
 
 # kuRinjci malar of nA. pArtacArati -part 1 (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## தீபம் நா. பார்த்தசாரதியின் படைப்புகள் :
 குறிஞ்சி மலர் - பாகம் 1 (அத்தியாங்கள் 1-12)

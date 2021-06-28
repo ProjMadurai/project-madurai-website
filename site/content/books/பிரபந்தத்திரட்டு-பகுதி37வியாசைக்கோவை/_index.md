@@ -10,7 +10,7 @@ authors:
 
 # viyAcakkOvai of mInATcicuntaram piLLai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## திரிசிரபுரம் ஸ்ரீமீனாட்சிசுந்தரம் பிள்ளை
 இயற்றிய "வியாசைக்கோவை" (4160 - 4610)

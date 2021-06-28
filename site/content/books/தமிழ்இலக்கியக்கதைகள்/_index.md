@@ -9,7 +9,7 @@ authors:
 
 # Tales from Tamil Literature by nA. pArtacArati (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## தமிழ் இலக்கியக் கதைகள்
 தீபம் நா. பார்த்தசாரதி

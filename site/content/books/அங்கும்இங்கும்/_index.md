@@ -9,7 +9,7 @@ authors:
 
 # angkum ingkum (travelogue) of N.D. Sundaravadivelu (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## அங்கும் இங்கும்
 (பயணக் கட்டுரைகள்)

@@ -10,7 +10,7 @@ authors:
 
 # navatantirak kataikaL by cuppiramaNiya pAratiyAr (in unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## நவதந்திரக் கதைகள்
 மகாகவி சுப்பிரமணிய பாரதியார்

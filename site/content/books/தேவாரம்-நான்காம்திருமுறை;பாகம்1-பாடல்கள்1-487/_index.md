@@ -10,7 +10,7 @@ authors:
 
 # tirunAvukaracar tEvAram 4-part 1 (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## tirunAvukkaracar tEvAram -tirumuRai 4 part 1
 (verses (1 - 487 ))

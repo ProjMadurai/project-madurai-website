@@ -9,7 +9,7 @@ authors:
 
 # krishna kAnam ( in Tamil, in Unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## Sri Krishna gAnam
 By UththukkAdu Sri Venkatasubbaiyar (in Tamil, Unicode format)

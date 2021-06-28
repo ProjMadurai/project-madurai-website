@@ -9,7 +9,7 @@ authors:
 
 # umAr kayAm of nArA nAcciyappan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## உமார் கயாம் (நாவல்)
 எழுதியவர் நாரா. நாச்சியப்பன்

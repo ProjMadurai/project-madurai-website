@@ -10,7 +10,7 @@ authors:
 
 # eRipatta nAyanar carittirak kIrtanai by vengkatacuppaiyar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## வெங்கடசுப்பையரவர்கள் இயற்றிய
 எறிபத்த நாயனார் சரித்திரக் கீர்த்தனை

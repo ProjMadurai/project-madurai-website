@@ -10,7 +10,7 @@ authors:
 
 # vacanta kOkilam (novel) of vatuvUr turaicAmi aiyangkAr (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## வடுவூர் கே. துரைசாமி ஐயங்கார் (1880-1942)
 எழுதிய நாவல் "வஸந்த கோகிலம்"

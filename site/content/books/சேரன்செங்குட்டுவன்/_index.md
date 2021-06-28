@@ -9,7 +9,7 @@ authors:
 
 # cEran cengkuTTuvan by mu. irAkavaiyangkAr (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## சேரன் - செங்குட்டுவன்.
 மு. இராகவையங்கார்

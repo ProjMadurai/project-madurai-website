@@ -7,9 +7,9 @@ authors:
   - நீதிநெறி
 ---
 
-# works of Auvaiyar: AticUTi, konRai vEntan, mUturai & nalvazi (in tamil script, unicode format)
+# 
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## Works of Auvaiyar :
 AticuTi, konRai vEntan, mUturai & nalvazi

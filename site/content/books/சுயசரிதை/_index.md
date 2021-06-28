@@ -9,7 +9,7 @@ authors:
 
 # Bharathiyar Paadalkal - part II (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## C. Subramania Bharathiyar padalkaL - part II
 gnanap pAdalkaL, palvakaip pAdalkaL & cuya carithai

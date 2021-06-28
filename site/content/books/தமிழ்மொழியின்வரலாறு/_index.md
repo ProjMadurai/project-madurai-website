@@ -9,7 +9,7 @@ authors:
 
 # tamiz mozi varalARu by V.K. Suryanarayana Sastriyar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## தமிழ்மொழியின் வரலாறு
 வி.கோ. சூரியநாராயண சாஸ்திரியார்

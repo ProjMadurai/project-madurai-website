@@ -10,7 +10,7 @@ authors:
 
 # kapOtipurak kAtal by Annadurai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### கபோதிபுரத்துக் காதல் (குறும் புதினம்)
 கா. ந. அண்ணாதுரை

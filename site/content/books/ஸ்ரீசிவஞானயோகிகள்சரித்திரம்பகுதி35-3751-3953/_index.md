@@ -9,7 +9,7 @@ authors:
 
 # kumarakurupara cuvAmikaL carittiram by mInATci cuntaram piLLai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### திரிசிரபுரம் மீனாட்சிசுந்தரம் பிள்ளையவர்கள்
 இயற்றிய ஸ்ரீசிவஞானயோகிகள் சரித்திரம்

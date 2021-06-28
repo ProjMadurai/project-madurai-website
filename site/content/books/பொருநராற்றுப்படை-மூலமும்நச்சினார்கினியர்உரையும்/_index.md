@@ -11,7 +11,7 @@ authors:
 
 # porunarARRuppaTai with naccinArkiniyar urai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## முடத்தமக் கண்ணியார் பாடிய
 பொருநராற்றுப்படை : மூலமும் நச்சினார்கினியர் உரையும்

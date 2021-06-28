@@ -9,7 +9,7 @@ authors:
 
 # taNTalaiyAr catkam of paTikkAcup pulavar (in tamil script, TSCII format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## பழமொழி விளக்கம் என்னும்
 "தண்டலையார் சதகம்"

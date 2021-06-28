@@ -9,7 +9,7 @@ authors:
 
 # akamum puRamum by A.S. Gnanasambhandan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## அகமும் புறமும் (இலக்கிய கட்டுரைகள்)
 பாகம் 1 - அகம்

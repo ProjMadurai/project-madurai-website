@@ -9,7 +9,7 @@ authors:
 
 # camaNamum tamizum by mylai vengkaTacAmi -part I (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## சமணமும் தமிழும் (முதல் பாகம்)
 மயிலை சீனி. வேங்கடசாமி

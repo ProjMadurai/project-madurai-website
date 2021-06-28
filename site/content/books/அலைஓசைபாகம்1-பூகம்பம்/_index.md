@@ -9,7 +9,7 @@ authors:
 
 # kalkiyin2 alai Ocai part 1<br>(in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## கல்கியின் அலை ஒசை
 பாகம் 1- பூகம்பம்

@@ -10,7 +10,7 @@ authors:
 
 # vinayakar akaval with commentaries (in Tamil, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### vinayakar akaval of avuaiyAr with the
 commentary of Guhasri Racapati

@@ -9,7 +9,7 @@ authors:
 
 # An Introduction to the Study of Tiruvalluvar by auvai turaicAmi piLLai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## திருவள்ளுவர் ஆய்வுக்கான ஓர் அறிமுகம்
 ஆங்கிலத்தில் சொற்பொழிவு
@@ -19,16 +19,7 @@ authors:
 A lecture by Prof. Avvai S. Duraiswamy Pillai
 In bilingual (English-Tamil) scripts, unicode/utf-8 format
 
-**Acknowledgements:**
-Our Sincere thanks go to the Tamil Virtual Academy for providing a scanned PDF of this work.
-The e-text has been generated using Google OCR and subsequent editing and proof-reading.
-Preparation of HTML and PDF versions: Dr. K. Kalyanasundaram, Lausanne, Switzerland.
-© Project Madurai, 1998-2019.
-Project Madurai is an open, voluntary, worldwide initiative devoted to preparation
-of electronic texts of tamil literary works and to distribute them free on the Internet.
-Details of Project Madurai are available at the website
-**[https://www.projectmadurai.org/](https://www.projectmadurai.org/)**
-You are welcome to freely distribute this file, provided this header page is kept intact.
+
 
 ### An Introduction to the Study of Tiruvalluvar
 A lecture by Prof. Avvai S. Duraiswamy Pillai

@@ -9,7 +9,7 @@ authors:
 
 # kAnakattin kural, translation by p. tUran (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## கானகத்தின் குரல்
 ஜாக் லண்டன் எழுதிய நாவல்,

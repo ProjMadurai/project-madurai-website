@@ -9,7 +9,7 @@ authors:
 
 # nAyanmAr tiRam by tiru vi kalyANacuntaranar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### நாயன்மார் திறம்
 திரு. வி. கலியாண சுந்தரனார்

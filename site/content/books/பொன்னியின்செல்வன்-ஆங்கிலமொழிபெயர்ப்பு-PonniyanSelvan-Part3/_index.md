@@ -10,7 +10,7 @@ authors:
 
 # Ponniyin Selvan - part 3 -English Translation
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## கல்கி கிருஷ்ணமூர்த்தியின்
 பொன்னியின் செல்வன் - பாகம் 3அ

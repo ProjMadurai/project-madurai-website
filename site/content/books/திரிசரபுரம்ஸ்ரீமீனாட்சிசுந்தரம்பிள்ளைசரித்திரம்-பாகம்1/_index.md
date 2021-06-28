@@ -9,7 +9,7 @@ authors:
 
 # mInAtci cuntaram piLLai carittiram by u.vE. cAminAta aiyar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## திரிசரபுரம் ஸ்ரீ மீனாட்சிசுந்தரம் பிள்ளையவர்கள்
 சரித்திரம் - பாகம் 1.1

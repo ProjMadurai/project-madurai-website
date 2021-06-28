@@ -9,7 +9,7 @@ authors:
 
 # tAmaraip poikai of ki.vA. jekannAtan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## தாமரைப் பொய்கை
 (சங்கநூற் காட்சிகள்)

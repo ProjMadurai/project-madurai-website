@@ -9,7 +9,7 @@ authors:
 
 # yacOtara kAviyam (with notes of auvai turaicAmi piLLai) (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## யசோதர காவியம் - மூலமும்
 ஔவை துரைசாமி பிள்ளை உரையும் - பாகம் 1

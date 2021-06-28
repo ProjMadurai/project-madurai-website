@@ -10,7 +10,7 @@ authors:
 
 # tirukkuRaL verses with maNakkuTavar urai (in unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## திருவள்ளுவர் அருளிச் செய்த
 திருக்குறள் மூலமும் மணக்குடவர் உரையும்

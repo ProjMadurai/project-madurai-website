@@ -10,7 +10,7 @@ authors:
 
 # cOmacuntara mummaNikkOvai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## சோமசுந்தர மும்மணிக்கோவை
 அ. சோமசுந்தர முதலியார் எழுதியது

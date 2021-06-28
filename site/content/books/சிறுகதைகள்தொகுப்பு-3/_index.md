@@ -9,7 +9,7 @@ authors:
 
 # short stories, collection 3 of putumaippittan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## சிறுகதைகள் (தொகுப்பு- 3)
 புதுமைப்பித்தன் எழுதியது.

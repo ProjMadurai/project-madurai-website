@@ -2,14 +2,14 @@
 title: 'பொன்னியின் செல்வன் - ஆங்கில மொழிபெயர்ப்பு (Ponniyan Selvan - Part 1; 2)'
 weight: 278
 authors:
-  - கல்கி கிருஷ்ணமூர்த்தி - இந்திரா நீலமேகம் (Kalki Krishnamurthy - Indra Neelameggham)
-authors:
-  - நாவல்; மொழிபெயர்ப்பு
+  - கல்கி கிருஷ்ணமூர்த்தி 
+  - இந்திரா நீலமேகம் (Kalki Krishnamurthy - Indra Neelameggham)
+genres:
+  - நாவல்
 ---
 
 # Ponniyin Selvan -English Translation of Indra Neelameggham - part 1A (chapters 1-30)
 
-![](https://www.projectmadurai.org/projectmadurai/pmdr0.gif)      ![pmlogo](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
 
 ## Ponniyan Selvan of
 Kalki Krishnamurthy

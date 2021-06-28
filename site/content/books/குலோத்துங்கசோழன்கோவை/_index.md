@@ -10,7 +10,7 @@ authors:
 
 # kulOttungka cOzan kOvai of aruNAcalak kavirAyar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## அருணாசலக்கவிராயர் எழுதிய
 குலோத்துங்கசோழன் கோவை

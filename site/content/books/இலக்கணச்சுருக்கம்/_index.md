@@ -9,7 +9,7 @@ authors:
 
 # tamizar vaLartta kalaikaL by mayilai cIni vEngkaTacAmi (in unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## இலக்கணச் சுருக்கம்
 ஆறுமுகநாவலர்

@@ -10,7 +10,7 @@ authors:
 
 # Jeyakantan Short Story collection-3 (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## Short Story Collections of Jeyakantan - 3
 

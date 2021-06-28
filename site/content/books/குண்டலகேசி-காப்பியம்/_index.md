@@ -9,7 +9,7 @@ authors:
 
 # kuNTalakEci with cOmacuntaranAr commentary(in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## குண்டலகேசி (காப்பியம்)
 பொ.வே. சோமசுந்தரனார் விளக்கவுரைகளுடன்

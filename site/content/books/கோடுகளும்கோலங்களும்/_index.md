@@ -9,7 +9,7 @@ authors:
 
 # kOTukaLum kOlangkaLum by rAjam kirushNan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## கோடுகளும் கோலங்களும்
 (சமூக நாவல்)

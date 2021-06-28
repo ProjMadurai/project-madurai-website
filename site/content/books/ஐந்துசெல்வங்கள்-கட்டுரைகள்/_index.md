@@ -9,7 +9,7 @@ authors:
 
 # aintu celvangkaL by KAP Viswanathan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### ஐந்து செல்வங்கள் (கட்டுரைகள்)
 ஆசிரியர் கி. ஆ. பெ. விசுவநாதம்

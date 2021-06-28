@@ -9,7 +9,7 @@ authors:
 
 # nAka kumAra kAviyam with notes of cinnacAmi nayinAr (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## நாக குமார காவியம்
 மூலமும் சின்னசாமி நயினார் உரையும்

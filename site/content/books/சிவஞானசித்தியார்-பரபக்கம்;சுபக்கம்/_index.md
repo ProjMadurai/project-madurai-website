@@ -9,7 +9,7 @@ authors:
 
 # civanjAna cittiyAr of aruNanti civAccAriyAr (in Tamil, Unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## civanjAna cittiyAr of aruNanti civam
 (para paksham, supaksham)

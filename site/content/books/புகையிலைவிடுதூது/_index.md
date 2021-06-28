@@ -10,7 +10,7 @@ authors:
 
 # pukaiyilai viTu tUtu of cIniccarkaraip pulavar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## சீனிச்சர்க்கரைப்புலவர் இயற்றிய
 "புகையிலை விடு தூது"

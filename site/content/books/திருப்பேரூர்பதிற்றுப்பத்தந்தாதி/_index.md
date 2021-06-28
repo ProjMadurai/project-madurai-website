@@ -10,7 +10,7 @@ authors:
 
 # tiruppErUr patiantAti of cupramaNiya cuvAmikaL (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## சுப்ரமணிய சுவாமிகள் அருளிய
 திருப்பேரூர் பதிற்றுப்பத்தந்தாதி

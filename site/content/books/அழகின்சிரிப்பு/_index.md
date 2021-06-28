@@ -9,7 +9,7 @@ authors:
 
 # azakin cirippu by Bharathidasan(in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## azakin cirippu by Bharathidaasan
 ( Kanakasubbaratnam, 1891-1964, Pseud. Bharathidaasan )

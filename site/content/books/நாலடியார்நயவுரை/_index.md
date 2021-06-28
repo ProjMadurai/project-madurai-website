@@ -9,7 +9,7 @@ authors:
 
 # nAlaTiyAr urai by cuntara caNmukanAr(in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### நாலடியார் நயவுரை
 புலவர் சுந்தர சண்முகனார்

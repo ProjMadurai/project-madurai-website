@@ -10,7 +10,7 @@ authors:
 
 # vaTivuTaiyammai piLLaittamiz by naTarAca kavirAyar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### வயிரவன் கோவில் வடிவுடையம்மை பிள்ளைத்தமிழ்
 சேந்தன்குடி வி. நடராச கவிராயரவர்கள் இயற்றியது

@@ -10,7 +10,7 @@ authors:
 
 # kauri nAyaki piLLaittamiz by catAcivam piLLai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### திருக்கேதீச்சரத்துக் கௌரிநாயகி பிள்ளைத்தமிழ்
 சி. இ. சதாசிவம்பிள்ளை அவர்கள் இயற்றியது.

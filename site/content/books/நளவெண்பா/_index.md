@@ -9,7 +9,7 @@ authors:
 
 # naLaveNpA by pukaZenthip pulavar (in tamil script, Unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## naLaveNpA by pukaZenthip pulavar
 

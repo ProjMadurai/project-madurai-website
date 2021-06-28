@@ -9,7 +9,7 @@ authors:
 
 # ilakkiya aNikaL by C. pAlacuppiramaNiyan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### இலக்கிய அணிகள்
 (ஆராய்ச்சிக் கட்டுரைகள்)

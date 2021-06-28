@@ -9,7 +9,7 @@ authors:
 
 # pauttamum tamizum by mayilai cIni vEngkatacAmi (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## ”பௌத்தமும் தமிழும்”
 மயிலை, சீனி. வேங்கடசாமி

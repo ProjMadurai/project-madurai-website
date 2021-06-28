@@ -10,7 +10,7 @@ authors:
 
 # Meenakshiammai pillaithamiz (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)[## kumara kuruparar's meenakshiammai pillai thamiz
+[## kumara kuruparar's meenakshiammai pillai thamiz
 (in tamil script, Unicode/UTF-8 format)
 
 குமரகுருபரர் அருளிய

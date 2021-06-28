@@ -11,7 +11,7 @@ authors:
 
 # nammAlvAr tiruvAimozi, English Translation by Kausalya Hart, part 1 (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## நம்மாழ்வார் அருளிய திருவாய்மொழி
 (பாகம் 1 / பிரபந்த பாசுரம் 2791 - 3342)

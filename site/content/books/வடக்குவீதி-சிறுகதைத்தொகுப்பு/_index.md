@@ -9,7 +9,7 @@ authors:
 
 # vaTAkku vIti of A. Muttulingam (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## வடக்கு வீதி
 (சிறுகதைத் தொகுப்பு)

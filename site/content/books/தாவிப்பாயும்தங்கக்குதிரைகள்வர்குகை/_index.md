@@ -9,7 +9,7 @@ authors:
 
 # tAvippAyum tangkak kutirai by nArA nAcciyappan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### 1. தாவிப் பாயும் தங்கக் குதிரை
 2. கள்வர் குகை

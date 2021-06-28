@@ -9,7 +9,7 @@ authors:
 
 # tani vITu of ki. vA. jekannAtan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## தனி வீடு
 (சொற்பொழிவுகள்)

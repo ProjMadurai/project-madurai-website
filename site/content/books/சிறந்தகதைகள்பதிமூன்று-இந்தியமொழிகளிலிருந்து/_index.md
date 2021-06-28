@@ -9,7 +9,7 @@ authors:
 
 # 13 Indian short stories translated in Tamil by vallikkaNNan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## சிறந்த கதைகள் பதிமூன்று
 இந்திய மொழிகளிலிருந்து சிறந்த கதைத் தொகுப்பு

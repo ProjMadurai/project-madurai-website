@@ -9,7 +9,7 @@ authors:
 
 # tamizar nATTup pATalkaL-part 1, compiled by en. vanamAmalai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## தமிழர் நாட்டுப் பாடல்கள் - பாகம் 1
 தொகுப்பாசிரியர்: நா. வானமாமலை

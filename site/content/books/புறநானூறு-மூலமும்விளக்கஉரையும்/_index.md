@@ -9,7 +9,7 @@ authors:
 
 # puranAnUru, with auvai turaicAmi piLLai commentary, part 2 (verrses 201 to 270) (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## புறநானூறு -பாகம் 2A (201முதல் 270வரை)
 ஒளவை சு. துரைசாமிப் பிள்ளை

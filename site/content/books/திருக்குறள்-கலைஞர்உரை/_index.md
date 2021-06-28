@@ -9,7 +9,7 @@ authors:
 
 # tirukkuRaL- kalaignar karuNaniti urai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## திருக்குறள் கலைஞர் உரை
 கலைஞர் மு. கருணாநிதி

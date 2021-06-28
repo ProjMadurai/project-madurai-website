@@ -9,7 +9,7 @@ authors:
 
 # cittar pAtalkaL Series -part II (paTTinattAr pATalkaL) (in tamil script, unicode / utf-8 format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)  [
+  [
 ## cittar pAtalkaL Series -part II (paTTinattAr pATalkaL)
 in Tamil Script, unicode/utf-8 format
 சித்தர் பாடல்கள் தொகுப்பு - II
@@ -893,5 +893,6 @@ header page is kept intact.
 ஒத்தவிட நித்திரையென் றொத்து மிருந்தேண்டி? 48
 திருச்சிற்றம்பலம்
 This page was first put up on August 22, 2000
-Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, 
+Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, 
+
 kumar@vt.edu?subject=PM83-paTTinattAr songs)

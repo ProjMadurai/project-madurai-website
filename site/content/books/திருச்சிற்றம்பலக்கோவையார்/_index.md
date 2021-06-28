@@ -9,7 +9,7 @@ authors:
 
 # tirucciRRampalakkOvaiyAr of mAnikkavacakar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### tirukkOvaiyAr (aka as tirucciRRampalakkOvaiyAr)
 of mAnikkavacakar, in Tamil Script, Unicode/utf-8 format
@@ -3352,5 +3352,6 @@ of mAnikkavacakar, in Tamil Script,unicode format
 திருச்சிற்றம்பலம்
 
 This page was first put up on March 9, 2000
-Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, 
+Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, 
+
 kumar@vt.edu?subject=PM-kiizkaNakku-IV)

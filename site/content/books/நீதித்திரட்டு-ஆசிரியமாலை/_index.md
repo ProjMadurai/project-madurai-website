@@ -9,7 +9,7 @@ authors:
 
 # nItit tiraTTu: A collection of some literary works partially lost (in tamil script, Unicode/UTF-8 format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## நீதித்திரட்டு (மறைந்து போன
 பழம் தமிழ் நூல்களில் சில)

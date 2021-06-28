@@ -10,7 +10,7 @@ authors:
 
 # kAkkai viTu tUtu of pAntalUr veNkOziyar (chapters 1 to 10) (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## காக்கை விடு தூது
 ஆசிரியர் : பாந்தளூர் வெண்கோழியார்

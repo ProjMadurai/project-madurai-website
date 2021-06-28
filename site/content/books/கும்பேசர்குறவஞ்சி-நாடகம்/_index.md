@@ -9,7 +9,7 @@ authors:
 
 # kumpEcar kuRavanjci (play) of pApanAca mutaliyAr (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## கும்பேசர் குறவஞ்சி (நாடகம்)
 ஸ்ரீ பாபநாச முதலியார் இயற்றியது

@@ -10,7 +10,7 @@ authors:
 
 # tiruvaNNAmalai carittirakkummi by municAmi mutaliyAr (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### சிறுமணவூர் முனிசாமி முதலியார் இயற்றிய
 திருவண்ணாமலை வல்லாளமகாராஜன் சரித்திரக்கும்மி

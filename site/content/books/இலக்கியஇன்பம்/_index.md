@@ -9,7 +9,7 @@ authors:
 
 # ilakkiya inpam by nAmakkal irAmalingkam piLLai (in unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## இலக்கிய இன்பம்
 (ஆராய்ச்சிக் கட்டுரைகள்)

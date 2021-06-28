@@ -10,7 +10,7 @@ authors:
 
 # oruthuraikkOvai of amirta kavirAyar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## பொன்னாங்கால் அமிர்தகவிராயரவர் இயற்றிய
 இரகுநாதசேதுபதி ஒருதுறைக்கோவை.

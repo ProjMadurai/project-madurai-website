@@ -7,7 +7,7 @@ authors:
   - சங்ககாலம் – எட்டுத்தொகை
 ---
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### puRanAnURu (in Tamil Script, unicode format )
 

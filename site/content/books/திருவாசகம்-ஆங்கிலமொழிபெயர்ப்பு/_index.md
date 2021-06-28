@@ -10,7 +10,7 @@ authors:
 
 # English Translation of tiruvAcakam of mAnikka vAcakar (in unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## மாணிக்க வாசகர் அருளிய திருவாசகம்
 கௌசல்யா ஹார்ட் அவர்களின்

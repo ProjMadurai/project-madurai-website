@@ -9,7 +9,7 @@ authors:
 
 # vELir vaRalARu of mu. irAkavaiyangkAr (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## மு. இராகவயங்கார் அவர்களின்
 "வேளிர் வரலாறு"

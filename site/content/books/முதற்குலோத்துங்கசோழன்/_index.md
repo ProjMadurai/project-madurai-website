@@ -10,7 +10,7 @@ authors:
 
 # mutaR kulOttungka cOzan by T.V. Sadasiva Pandarattaar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### முதற் குலோத்துங்க சோழன்
 T. V. சதாசிவ பண்டாரத்தார்

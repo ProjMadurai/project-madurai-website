@@ -9,7 +9,7 @@ authors:
 
 # tanit tamiz mAtci of maRaimalai aTikaL (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## "தனித்தமிழ் மாட்சி"
 மறைமலை அடிகள்

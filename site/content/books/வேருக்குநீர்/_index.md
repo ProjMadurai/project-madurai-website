@@ -10,7 +10,7 @@ authors:
 
 # vErukku nIr (novel) of rAjam kirushNan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## வேருக்கு நீர்
 (சாகித்திய அகாதமி பரிசு பெற்ற நாவல்)

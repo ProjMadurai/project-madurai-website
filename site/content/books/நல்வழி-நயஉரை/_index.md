@@ -9,7 +9,7 @@ authors:
 
 # nalvazi naya urai by cuntara caNmukanAr (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### ஒளவையார் அருளிய நல்வழி
 சுந்தர சண்முகனார் எழுதிய நயஉரை

@@ -9,7 +9,7 @@ authors:
 
 # vAzkai nalam of kunRakkuTi aTikalAr (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## வாழ்க்கை நலம்
 குன்றக்குடி அடிகள் எழுதியது.

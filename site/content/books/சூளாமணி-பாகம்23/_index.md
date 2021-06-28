@@ -9,7 +9,7 @@ authors:
 
 # cULAmaNi, part 2, verses 827-1554 (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## சூளாமணி - பாகம் 2
 (கல்யாணச் சருக்கம்,

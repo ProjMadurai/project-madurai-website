@@ -9,7 +9,7 @@ authors:
 
 # cevvAzai Short stories of C.N. Annadurai (English Translation) (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## செவ்வாழை முதலிய 4 சிறுகதைகள்
 அறிஞர் கா. ந. அண்ணாதுரை

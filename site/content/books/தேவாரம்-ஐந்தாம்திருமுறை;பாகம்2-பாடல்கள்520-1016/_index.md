@@ -10,7 +10,7 @@ authors:
 
 # tirunAvukaracar tEvAram 5-part 2 (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## tirunAvukkaracar tEvAram -
 tirumuRai 5 part 2, verses (510 -1016)

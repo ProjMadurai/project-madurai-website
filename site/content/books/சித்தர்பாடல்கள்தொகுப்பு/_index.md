@@ -9,7 +9,7 @@ authors:
 
 # Siddar pAtalkaL Series I) (in tamil script, Unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)  [
+  [
 ### siththar pAtalkaL Series - I
 (in tamil script, unicode/utf-8 format)
 

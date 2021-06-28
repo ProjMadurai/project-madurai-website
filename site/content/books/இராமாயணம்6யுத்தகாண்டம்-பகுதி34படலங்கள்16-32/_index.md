@@ -9,7 +9,7 @@ authors:
 
 # rAmayaNam of kampar -canto 6 (yutta kantam), part 3 (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## கவிச்சக்கரவர்த்தி கம்பர் இயற்றிய
 இராமாயணம் - யுத்த காண்டம்

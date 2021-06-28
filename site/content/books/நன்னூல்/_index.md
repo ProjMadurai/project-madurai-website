@@ -9,7 +9,7 @@ authors:
 
 # nannUl of pavaNanti munivar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### nannUl of pavaNati munivar
 (in tamil script, unicode format)

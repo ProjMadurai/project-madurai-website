@@ -9,7 +9,7 @@ authors:
 
 # tirukkuRaL - English Translation by Ramachandra Dikshitar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## திருக்குறள் - ஆங்கில மொழிபெயர்ப்பு
 ஆசிரியர் : இராமசந்திர தீக்‌ஷிதர்

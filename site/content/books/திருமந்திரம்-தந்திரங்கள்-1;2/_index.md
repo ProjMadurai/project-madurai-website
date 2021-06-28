@@ -10,7 +10,7 @@ authors:
 
 # tirumantiram of tirumUlar -verses 1-548 (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## tirumantiram of tirumUlar
 (10th tirumuRai in nampi ANTAr nampi anthology)

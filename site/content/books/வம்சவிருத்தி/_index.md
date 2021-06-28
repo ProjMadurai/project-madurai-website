@@ -9,7 +9,7 @@ authors:
 
 # vamca virutti of A. Muthulingam (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## வம்ச விருத்தி
 அ.முத்துலிங்கம்

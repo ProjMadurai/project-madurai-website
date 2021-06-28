@@ -9,7 +9,7 @@ authors:
 
 # auvaiyar tanippATalkaL - puliyUr kEcikan urai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### ஒளவையார் தனிப்பாடல்கள்
 புலியூர்க் கேசிகன்

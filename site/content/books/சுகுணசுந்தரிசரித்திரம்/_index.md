@@ -10,7 +10,7 @@ authors:
 
 # cukuNa cuntari carittiram by mAyUram vEtanAyakam piLLai (in unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## சுகுணசுந்தரி சரித்திரம்
 (நாவல்/புதுமைக் கதை- புதிய பதிப்பு)

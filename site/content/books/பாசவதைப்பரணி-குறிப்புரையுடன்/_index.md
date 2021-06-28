@@ -10,7 +10,7 @@ authors:
 
 # pAcavatai paraNi , U.Ve.Caminata aiyar edited (in unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## பாசவதைப் பரணி (குறிப்புரையுடன்)
 உ. வே. சாமிநாதையர் (தொகுப்பு)

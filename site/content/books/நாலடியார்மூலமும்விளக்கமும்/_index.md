@@ -9,7 +9,7 @@ authors:
 
 # nAlatiyAr with makAtEva aiyar notes (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## நாலடியார் மூலமும்
 மகாதேவ முதலியார் அரும்பொருள் விளக்கமும்

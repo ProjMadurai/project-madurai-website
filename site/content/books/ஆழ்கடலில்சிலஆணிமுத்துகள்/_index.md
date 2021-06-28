@@ -9,7 +9,7 @@ authors:
 
 # Az kaTalil ANi muttukkaL by cuntara caNmukanAr(in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## ஆழ்கடலில் சில ஆணிமுத்துகள்
 முனைவர் சுந்தர சண்முகனார்

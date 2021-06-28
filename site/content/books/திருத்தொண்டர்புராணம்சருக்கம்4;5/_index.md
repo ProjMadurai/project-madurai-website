@@ -10,7 +10,7 @@ authors:
 
 # periya purANam of cEkkizAr, part 2 (in tamil script, TSCII format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## சேக்கிழார் அருளிய
 திருத்தொண்டர் புராணம்

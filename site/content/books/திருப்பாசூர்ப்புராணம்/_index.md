@@ -9,7 +9,7 @@ authors:
 
 # tiruppAcUrp purANam of kalyANa cuntara mutaliyAr (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## திருப்பாசூர்ப் புராணம்
 ஆசிரியர்: பூவை-கலியாணசுந்தர முதலியாரவர்கள்

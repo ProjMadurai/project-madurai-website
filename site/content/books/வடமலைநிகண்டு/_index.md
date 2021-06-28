@@ -9,7 +9,7 @@ authors:
 
 # vaTamalai nikaNTu (compiled by Iswara Bharathi, in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## vaTamalai nikaNTu (of Iswara Bharathi,
 in Tamil Script, unicode format)

@@ -9,7 +9,7 @@ authors:
 
 # engE pOkiROm of kunRakkuTi aTikaLAr (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## எங்கே போகிறோம்?
 (வானொலி சொற்பொழிவுகள்)

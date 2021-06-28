@@ -10,7 +10,7 @@ authors:
 
 # Namakkal kavinjar Ramalingam Pillai pATalkaL- part III (in tamil script, unicode/utf-8 format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### Namakkal kavinjar V. Ramalingam Pillai (1888-1972)
 pATalkaL, part III (181 - 251)
@@ -1759,5 +1759,6 @@ You are welcome to freely distribute this file, provided this header page is kep
 வாழிய வையகம் வாழ்ந்திட வேண்டி
 வாழிய கொடியே! வாழ்கபல் லாண்டு! (கொடி)
 This page was first put up on Sept 15, 2000
-Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, 
+Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, 
+
 kumar@vt.edu?subject=PM84-nAmakkal kavinjar songs III)

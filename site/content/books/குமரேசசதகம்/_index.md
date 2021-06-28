@@ -10,7 +10,7 @@ authors:
 
 # kumarEca catakam of kurupAta tAcar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## குருபாத தாசர் அருளிய
 குமரேச சதகம்

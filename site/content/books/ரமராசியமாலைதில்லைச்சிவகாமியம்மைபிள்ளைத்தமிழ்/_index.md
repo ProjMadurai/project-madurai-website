@@ -10,7 +10,7 @@ authors:
 
 # citamparat tOttirat tiraTTu (in unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## சிதம்பரத் தோத்திரத்திரட்டு
 (சிதம்பரநாதர் திருவருட்பா, சிதம்பர வெண்பா, பரமராசியமாலை

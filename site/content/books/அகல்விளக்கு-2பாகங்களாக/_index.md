@@ -10,7 +10,7 @@ authors:
 
 # akal viLakku (novel) -part 1of mu. varatarAjanAr (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## அகல் விளக்கு ( நாவல்)
 மு. வரதராசனார் எழுதியது.

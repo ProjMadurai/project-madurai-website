@@ -9,7 +9,7 @@ authors:
 
 # tamiziyakkam" by pAvEntar pAratitAcan(in tamil script, unicode/utf-8 format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### "tamiziyakkam" by pAvEntar pAratitAcan
 in Tamil script, unicode/utf-8 format
@@ -564,5 +564,6 @@ You are welcome to freely distribute this file, provided this header page is kep
 மொழிப்போரே வேண்டுவது தொடக்கஞ்செய் வீர்வெல்வீர் மொழிப்போர் வெல்க! 120
 ---------------
 This page was first put up on August 29, 2000
-Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, 
+Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, 
+
 kumar@vt.edu?subject=PM83-tamiziyakkam)

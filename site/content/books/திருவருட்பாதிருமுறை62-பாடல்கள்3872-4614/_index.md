@@ -10,7 +10,7 @@ authors:
 
 # tiruvarutpA of rAmalingka aTikaL - tanippATalkaL (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## tiruvarutpA of rAmalingka aTikaL
 palvakaiya tanippATalkaL

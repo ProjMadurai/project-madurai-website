@@ -9,7 +9,7 @@ authors:
 
 # collection of short sotries of Jeyakantan - part 4 (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## சிறு கதைகள் / தொகுப்பு 4
 ஆசிரியர்: ஜெயகாந்தன்

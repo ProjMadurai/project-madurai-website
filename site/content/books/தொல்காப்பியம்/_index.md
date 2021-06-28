@@ -9,7 +9,7 @@ authors:
 
 # tolkAppiyam (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## tolkAppiyam of tolkAppiyar
 

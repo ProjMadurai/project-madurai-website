@@ -9,7 +9,7 @@ authors:
 
 # vaLaiyApati with the commentary of po.ve. cOmacuntaranAr(in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## வளையாபதி
 பெருமழைப் புலவர் திரு பொ வே சோமசுந்தரனார்

@@ -9,7 +9,7 @@ authors:
 
 # 11th tirumuRai pAsurams (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## T. Meenakshisundaram Pillai's
 pirapantat tirattu - part 1

@@ -10,7 +10,7 @@ authors:
 
 # maturaikkAnjci -naccinArkiniyar urai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## மதுரைக் காஞ்சி/ நச்சினார்கினியர் உரை
 உ.வே. சாமிநாத அய்யர் (தொகுப்பு)

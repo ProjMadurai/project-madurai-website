@@ -9,7 +9,7 @@ authors:
 
 # nIakEci, one of five minor epics- author not known (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## ஐஞ்சிறு காப்பியங்களில் ஒன்றான
 " நீலகேசி"

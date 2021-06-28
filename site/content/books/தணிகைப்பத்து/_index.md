@@ -10,7 +10,7 @@ authors:
 
 # taNikaippattu of cengkalvarAya piLLai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## வ. சு. செங்கல்வராய பிள்ளை எழுதிய
 தணிகைப் பத்து

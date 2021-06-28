@@ -9,7 +9,7 @@ authors:
 
 # cantirOtayam (play) of C.N. Annadurai (English Translation) (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## சந்திரோதயம் (நாடகம்)
 அறிஞர் கா. ந. அண்ணாதுரை

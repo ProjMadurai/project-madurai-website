@@ -9,7 +9,7 @@ authors:
 
 # cittiraccarititira pukazccimAlai of mInATcicuntaram piLLai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### திரிசிரபுரம் ஸ்ரீமீனாட்சிசுந்தரம் பிள்ளை இயற்றிய
 சித்திரச்சத்திரப் புகழ்ச்சிமாலை

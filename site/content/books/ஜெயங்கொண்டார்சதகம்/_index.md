@@ -10,7 +10,7 @@ authors:
 
 # jeyangkonTAr catakam of muttappa ceTTiyAr (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## முத்தப்பச் செட்டியார் அருளிய
 ஜெயங்கொண்டார் சதகம்

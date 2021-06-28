@@ -9,7 +9,7 @@ authors:
 
 # camutAya maRumalarcci ilakkiyangkaL by kundRakkuTi aTikal (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### சமுதாய மறுமலர்ச்சி இலக்கியங்கள்
 (இலக்கியச் சொற்பொழிவுகள்)

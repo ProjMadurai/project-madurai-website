@@ -9,7 +9,7 @@ authors:
 
 # ninaivu manjcari 1 of u. vE. cAminAta aiyar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## நினைவு மஞ்சரி (கட்டுரைகள்)
 முதற் பாகம்

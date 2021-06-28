@@ -9,7 +9,7 @@ authors:
 
 # karikaAl vaLavan of ki.vA. jakannAtan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## கரிகால் வளவன்
 கி. வா. ஜகன்னாதன்

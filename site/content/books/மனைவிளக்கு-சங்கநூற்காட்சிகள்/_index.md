@@ -9,7 +9,7 @@ authors:
 
 # manai viLakku by ki.vA. jakannaAtan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## மனை விளக்கு
 (சங்கநூற் காட்சிகள்)

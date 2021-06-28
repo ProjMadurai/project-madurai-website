@@ -10,7 +10,7 @@ authors:
 
 # mutaloliyalantAti by taNTapANi cuvAmikaL (in unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## முதலொலியலந்தாதி.
 தண்டபாணி சுவாமிகள் திருவாய்மலர்ந்தருளியது

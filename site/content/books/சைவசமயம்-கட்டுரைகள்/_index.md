@@ -9,7 +9,7 @@ authors:
 
 # caiva camayam of M. Rajamanickanar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## "சைவ சமயம் (கட்டுரைகள்)"
 டாக்டர். மா. இராசமாணிக்கனார்

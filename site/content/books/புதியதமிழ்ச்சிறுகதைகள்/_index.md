@@ -9,7 +9,7 @@ authors:
 
 # New Tamil Short Stories (edited by acOkamittiran) (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## புதிய தமிழ்ச் சிறுகதைகள்
 தொகுப்பாசிரியர்: அசோகமித்திரன்

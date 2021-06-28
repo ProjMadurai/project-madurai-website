@@ -11,7 +11,7 @@ authors:
 
 # tiruvAcakam/English Translation by Rev. G.U.Pope / part II
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## tiruvAcagam or Sacred Utterances
 of the Tamil Poet, Saint and Sage MAnikka-vACagar

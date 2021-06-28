@@ -10,7 +10,7 @@ authors:
 
 # tirunaRaiyUr nampi mEka viTu tUtu (in unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## திருநறையூர் நம்பி மேகவிடு தூது
 பிள்ளைப்பெருமாளையங்கார் எழுதியது(? )

@@ -9,7 +9,7 @@ authors:
 
 # ainthiNai50, ainthiNai70, thiNaimozhi50 & innilai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## patinenkiizkannakku noolkaL -II
 ainthinai aimpathu (mARan poRaiyanAr) , ainthinai ezupathu (mUvAthiyAr)

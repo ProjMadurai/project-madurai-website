@@ -10,7 +10,7 @@ authors:
 
 # ciRAppurANam canto 1-part 1 (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### ciRAppurANam of umaRup pulavar
 Canto 1 part I (verses 1-596)

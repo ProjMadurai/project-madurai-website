@@ -10,7 +10,7 @@ authors:
 
 # oru kOTTukku veLiyE by cu. camuttiram (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### ஒரு கோட்டுக்கு வெளியே (நாவல்)
 சு. சமுத்திரம்

@@ -9,7 +9,7 @@ authors:
 
 # kAtalinAl alla (novel) by R. Karthigesu (in unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## காதலினால் அல்ல! (நாவல்)
 ரெ.கார்த்திகேசு

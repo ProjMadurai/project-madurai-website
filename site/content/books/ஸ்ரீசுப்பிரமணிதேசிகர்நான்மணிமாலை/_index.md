@@ -10,7 +10,7 @@ authors:
 
 # cuppiramaNiya tEcikar nAnmaNimAlai of kavirAja paNTitar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## சந்திரசேகர கவிராஜபண்டிதர் அருளிய
 ஸ்ரீ சுப்பிரமணிதேசிகர் நான்மணிமாலை

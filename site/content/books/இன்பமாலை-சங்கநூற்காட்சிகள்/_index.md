@@ -9,7 +9,7 @@ authors:
 
 # inba mAlai of ki.vA. jekannAtan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## இன்ப மாலை
 (சங்கநூற் காட்சிகள்)

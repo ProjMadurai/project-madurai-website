@@ -10,7 +10,7 @@ authors:
 
 # mAlai aintu (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)  [### Maalai ainthu
+  [### Maalai ainthu
 (in tamil script, unicode format)
 மாலை ஐந்து
 (கயற்கண்ணி மாலை,

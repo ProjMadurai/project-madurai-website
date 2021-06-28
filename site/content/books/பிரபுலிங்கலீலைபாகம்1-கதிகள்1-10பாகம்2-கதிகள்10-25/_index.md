@@ -10,7 +10,7 @@ authors:
 
 # pirapulingka leelai of civaprakAca cuvAmikaL -part 1 (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## சிவப்பிரகாச சுவாமிகள் இயற்றிய
 பிரபுலிங்க லீலை / பாகம் 1 (கதிகள் 1- 10 )

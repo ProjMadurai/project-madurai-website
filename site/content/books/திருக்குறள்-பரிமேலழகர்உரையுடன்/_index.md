@@ -9,7 +9,7 @@ authors:
 
 # tirukkuRaL verses with commentary by parimElazakar -part 1 /aRattupAl(in Tamil, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## tirukkuRaL
 verses with commentary of parimElazakar

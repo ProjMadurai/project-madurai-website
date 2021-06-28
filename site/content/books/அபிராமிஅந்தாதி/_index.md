@@ -10,7 +10,7 @@ authors:
 
 # Abirami Anthaathi - With explanations - in Tamil script/unicode
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## AbirAmi andhAthi by AbirAmi Bhatter
 with explanations from Kavingar Kannathasan

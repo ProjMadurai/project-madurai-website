@@ -9,7 +9,7 @@ authors:
 
 # kOyir purANam (with umapathi civaccAriyAr notes) /பாகம் 1(in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## கோயிற்புராணம் / பாகம் 1
 உமாபதி சிவாச்சாரியார் பொழிப்புரையுடன்

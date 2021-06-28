@@ -9,7 +9,7 @@ authors:
 
 # Songs of C. Subramania Bharathiyar - part IV (in tamil script, unicode/utf-8 format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### C. Subramaniya Bharathiyar Songs - Part IV
 (pAnjcAli capatam -part I)

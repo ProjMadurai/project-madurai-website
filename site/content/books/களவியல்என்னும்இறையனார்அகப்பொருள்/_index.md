@@ -9,7 +9,7 @@ authors:
 
 # iRayan2Ar_akapporuL (in tamil script unicode/UTF-8 format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## களவியல் என்னும்
 "இறையனார் அகப்பொருள்"

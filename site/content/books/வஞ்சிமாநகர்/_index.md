@@ -9,7 +9,7 @@ authors:
 
 # vanjcimAnakar of mu. irakavaiyankAr (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## வஞ்சி மாநகர்
 மு. இராகவயங்கார் எழுதியது.

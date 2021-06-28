@@ -10,7 +10,7 @@ authors:
 
 # irattinakiri ulA of kavirAcap piLLai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### சேறைக் கவிராசபிள்ளை இயற்றிய
 வாட்போக்கி என்னும் "இரத்தினகிரியுலா"

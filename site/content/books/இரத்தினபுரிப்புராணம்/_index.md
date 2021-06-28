@@ -10,7 +10,7 @@ authors:
 
 # irattinapurip purANam of tIrtakirit tEcikar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## தீர்த்தகிரித் தேசிகரால் செய்யப்பட்ட
 ஊற்றத்தூர் என்கின்ற இரத்தினபுரிப் புராணம்.

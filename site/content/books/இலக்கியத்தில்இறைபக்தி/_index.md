@@ -9,7 +9,7 @@ authors:
 
 # ilakkiyattil iRai pakti by mAnilan (ki. jakatIsvaran) (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## இலக்கியத்தில் இறை பக்தி
 டாக்டர் மாநிலன்

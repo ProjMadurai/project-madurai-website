@@ -10,7 +10,7 @@ authors:
 
 # kaTal kaTanta naTpu by periyacAmit tUran (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### கடல் கடந்த நட்பு
 (ஜூடி & லட்சுமி தமிழாக்கம்)

@@ -9,7 +9,7 @@ authors:
 
 # malarum uLLam - part 1 (collection of songs for children) by aza. vaLLiyappA (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## "மலரும் உள்ளம்"
 சிறுவர்களுக்கான பாடல்கள் தொகுப்பு -1

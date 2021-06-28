@@ -9,7 +9,7 @@ authors:
 
 # cuzalil mitakkum tIpangkaL (novel) of rAjam kirushNan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## சுழலில் மிதக்கும் தீபங்கள் (முழு நாவல்)
 ராஜம் கிருஷ்ணன்

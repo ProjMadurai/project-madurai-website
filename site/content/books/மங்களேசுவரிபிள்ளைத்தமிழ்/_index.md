@@ -10,7 +10,7 @@ authors:
 
 # tiruvuttarakOcamangkai mangkaLEcuvari piLLaittamiz (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### திருவுத்தரகோசமங்கை மங்களேசுவரி பிள்ளைத்தமிழ்
 (வி. மு. சுப்பிரமணிய ஐயர் குறிப்புரையுடன்)

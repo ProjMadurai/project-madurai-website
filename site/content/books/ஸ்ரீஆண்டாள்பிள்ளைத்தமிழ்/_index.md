@@ -10,7 +10,7 @@ authors:
 
 # ANTAL piLLaittamiz, edited by mu. vENukOpAlacAmi(in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## ஸ்ரீஆண்டாள் பிள்ளைத்தமிழ்
 மு. வேணுகோபாலசாமி நாயுடவர்கள் தொகுப்பு

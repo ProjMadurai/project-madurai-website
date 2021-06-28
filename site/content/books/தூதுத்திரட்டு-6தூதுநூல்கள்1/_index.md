@@ -10,7 +10,7 @@ authors:
 
 # tUtut tiraTTu (collection of 6 tUtu works) (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## தூதுத் திரட்டு (6 தூது நூல்கள்)
 புலவர் பசுபதி, சந்திரசேகரன் தொகுப்பு

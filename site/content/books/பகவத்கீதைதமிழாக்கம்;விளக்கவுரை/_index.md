@@ -9,7 +9,7 @@ authors:
 
 # Bhagavad Gita - Subramaniya Bharathi Commentary (in tamil script, Unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## BHAGAVAD GITA - COMMENTARY IN TAMIL
 BY C. SUBRAMANIA BHARATHIYAR

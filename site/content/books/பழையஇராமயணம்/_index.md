@@ -9,7 +9,7 @@ authors:
 
 # Remnants of Tamil Works lost over the years- I (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### Remnants of Tamil Works lost over the years- I
 pazaya rAmAyaNam

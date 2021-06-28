@@ -10,7 +10,7 @@ authors:
 
 # desika prabandam (in tamil script, Unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## desika prabandam
 (in Tamil Script, Unicode/UTF-8 format)

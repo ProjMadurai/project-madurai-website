@@ -9,7 +9,7 @@ authors:
 
 # iyal tamiz inpam by cuntara caNmukanAr (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### இயல் தமிழ் இன்பம்
 முனைவர் சுந்தர சண்முகனார்

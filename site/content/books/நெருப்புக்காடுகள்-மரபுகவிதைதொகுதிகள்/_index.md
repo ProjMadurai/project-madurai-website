@@ -9,7 +9,7 @@ authors:
 
 # neruppuk kATukaL by tennavan (in unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## நெருப்புக் காடுகள்
 (மரபு கவிதை தொகுதிகள்)

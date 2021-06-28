@@ -10,7 +10,7 @@ authors:
 
 # kanjcakiri citttEcar catakam of ananta nArayaNa carmA (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## சேலம் அநந்த நாராயண சர்மா
 இயற்றிய "கஞ்சகிரி சித்தேசர் சதகம்"

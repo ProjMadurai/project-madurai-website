@@ -10,7 +10,7 @@ authors:
 
 # viciRi vAzai by cAvi (S. viswanathan) (in unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## விசிறி வாழை (காதல் நவீனம்)
 சாவி (சா. விஸ்வநாதன்)

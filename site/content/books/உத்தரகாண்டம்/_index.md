@@ -9,7 +9,7 @@ authors:
 
 # uttara kANTam by rAjam kirushNan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## உத்தரகாண்டம் (சமூக நாவல்)
 ராஜம் கிருஷ்ணன்

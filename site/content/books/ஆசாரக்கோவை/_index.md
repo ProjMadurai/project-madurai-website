@@ -9,7 +9,7 @@ authors:
 
 # AcarakkOvai of peruvAyin muLLiyAr (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## AcarakkOvai by peruvAyin muLLiyAr
 (in tamil script, unicode/UTF-8 format)

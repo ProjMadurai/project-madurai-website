@@ -10,7 +10,7 @@ authors:
 
 # azakar kalampakam of aripatta nAvalar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## அரிபத்த நாவலர் எழுதிய
 திருமாலிருஞ்சோலைமலை அழகர் கலம்பகம்

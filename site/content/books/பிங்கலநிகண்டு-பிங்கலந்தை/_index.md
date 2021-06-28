@@ -9,7 +9,7 @@ authors:
 
 # pingkala nikaNTu of pingala munivar -part 3 (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## பிங்கலமுனிவர் செய்த
 பிங்கலந்தையென்னும் "பிங்கல நிகண்டு"

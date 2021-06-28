@@ -9,7 +9,7 @@ authors:
 
 # pAvalar viruntu by V.K. Suryanarayana Sastriyar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## பாவலர் விருந்து
 வி.கோ. சூரியநாராயண சாஸ்திரியார்

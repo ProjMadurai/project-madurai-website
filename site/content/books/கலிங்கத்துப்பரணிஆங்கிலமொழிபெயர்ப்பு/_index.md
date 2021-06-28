@@ -9,7 +9,7 @@ authors:
 
 # kalingathupparani -English Translation - Kausalya Hart (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## Kalingathupparani -English Translation
 by Kausalya Hart

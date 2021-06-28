@@ -10,7 +10,7 @@ authors:
 
 # paTtinappAlai -naccinArkiniyar urai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## பட்டினப்பாலை / நச்சினார்கினியர் உரை
 உ.வே. சாமிநாத அய்யர் (தொகுப்பு)

@@ -10,7 +10,7 @@ authors:
 
 # campantar tEvAram 3-part 1 (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## campantar tEvAram -tirumuRai 3 part 1
 (verses 1 - 713)

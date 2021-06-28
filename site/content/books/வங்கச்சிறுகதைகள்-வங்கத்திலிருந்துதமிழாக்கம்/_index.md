@@ -9,7 +9,7 @@ authors:
 
 # vangac ciru kataikaL, Tamil translation by S. Krishnamurthi /part 1 (in tamil script, unicode format)
 
-vangac ciru kataikaL, Tamil translation by S. Krishnamurthi /part 1 (in tamil script, unicode format)      ![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+vangac ciru kataikaL, Tamil translation by S. Krishnamurthi /part 1 (in tamil script, unicode format)      
 
 ## வங்கச் சிறுகதைகள்
 தொகுப்பு: அருண்குமார் மகோபாத்யாய்

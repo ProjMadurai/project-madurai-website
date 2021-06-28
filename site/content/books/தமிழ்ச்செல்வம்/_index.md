@@ -9,7 +9,7 @@ authors:
 
 # ilakkiyac celvam by auvai turaicAmi piLLai (in unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## தமிழ்ச் செல்வம்
 (இலக்கியக் கட்டுரைகள்)

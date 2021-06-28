@@ -10,7 +10,7 @@ authors:
 
 # cOza maNTala catakam of vELUr Atmanata tEcikar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## சோழ மண்டல சதகம்
 ஆசிரியர் வேளூர் ஆத்ம நாத தேசிகர்

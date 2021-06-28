@@ -9,7 +9,7 @@ authors:
 
 # cirikkum pookkal (collection of songs for children) by aza. vaLLiyappA (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## "சிரிக்கும் பூக்கள்"
 சிறுவர்களுக்கான பாடல்கள் தொகுப்பு

@@ -10,7 +10,7 @@ authors:
 
 # "nari viruttam" of tiruttakkatEvar (in UTF-8)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)  நரி விருத்தம்
+  நரி விருத்தம்
 திருத்தக்க தேவர்
 
 nari viruttam

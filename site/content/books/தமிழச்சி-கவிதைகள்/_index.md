@@ -9,7 +9,7 @@ authors:
 
 # tamizacci (poems) of kavinjar vANitAcan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## தமிழச்சி (கவிதைகள்)
 கவிஞர் வாணிதாசன்

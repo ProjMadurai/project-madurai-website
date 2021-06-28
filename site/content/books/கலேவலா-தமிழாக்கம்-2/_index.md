@@ -9,7 +9,7 @@ authors:
 
 # Kalevala - A Finland Epic -part II (songs 19-25) <br> (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)  [
+  [
 ## Kalevala - A Finland Epic -part II (songs 19-25)
 (in tamil script, unicode/utf-8 format)
 

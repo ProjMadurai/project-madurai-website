@@ -9,7 +9,7 @@ authors:
 
 # Holy Bible - New Testament - part VI (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### Holy Bible - New Testament - part VI
 Jacob, Peter-1 & 2, John -1-3 , Jude & Revelation

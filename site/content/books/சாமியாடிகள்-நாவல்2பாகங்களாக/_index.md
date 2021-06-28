@@ -10,7 +10,7 @@ authors:
 
 # cAmiyAtikaL, part 1 by cu. camuttiram (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### சாமியாடிகள் (நாவல்)
 பாகம் 1 (அத்தியாயம் 1-16)

@@ -9,7 +9,7 @@ authors:
 
 # kaviccakravarti kampar by R. Raghava Iyengar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## மகாவித்வான் ரா. இராகவையங்காரின்
 கவிச்சக்ரவர்த்தி கம்பர்

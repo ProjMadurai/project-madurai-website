@@ -10,7 +10,7 @@ authors:
 
 # kacciyappa munivar pirapantangkaL - part 1 (3 pirpantams) (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### கவிராஷஸ ஸ்ரீ கச்சியப்பமுனிவர் பிரபந்தங்கள்
 முதற்பகுதி.

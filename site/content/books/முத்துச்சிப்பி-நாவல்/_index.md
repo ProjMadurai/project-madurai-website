@@ -10,7 +10,7 @@ authors:
 
 # muttuccippi by Saroja Ramamurthy (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### முத்துச் சிப்பி (நாவல்)
 சரோஜா ராமமூர்த்தி

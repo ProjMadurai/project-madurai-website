@@ -9,7 +9,7 @@ authors:
 
 # mAna vijayam by V.K. Suryanarayana Sastriyar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## வி.கோ. சூரியநாராயண சாஸ்திரியார்
 இயற்றிய நூற்றொகுதி

@@ -9,7 +9,7 @@ authors:
 
 # irupA irupatu & uNmai viLakkam (in Tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### Works of Saiva Siddhantha Sastras Anthology - I :
 irupA irupatu (aruNanti civAcAriyAr) &

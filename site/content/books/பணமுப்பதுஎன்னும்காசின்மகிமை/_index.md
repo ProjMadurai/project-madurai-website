@@ -9,7 +9,7 @@ authors:
 
 # paNamuppatu of rAkavAcAriyAr (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## "பணமுப்பது" என்னும் "காசின்மகிமை"
 எழுதியவர் : திருக்கணமங்கை தனவந்தரி ஸ்ரீ இராகவாசாரியார்

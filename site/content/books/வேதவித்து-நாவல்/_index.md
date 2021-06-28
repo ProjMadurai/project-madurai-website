@@ -10,7 +10,7 @@ authors:
 
 # vEta vittu by cAvi (cA. visvanAtan) (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## "வேத வித்து" (நாவல்)
 சாவி (சா. விஸ்வநாதன்)

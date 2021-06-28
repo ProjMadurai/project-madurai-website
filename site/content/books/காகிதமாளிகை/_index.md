@@ -10,7 +10,7 @@ authors:
 
 # kAkita mALikai - Tamil translation of Telugu Novel (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## காகித மாளிகை
 எழுதியவர் : முப்பாள ரங்கநாயகம்ம

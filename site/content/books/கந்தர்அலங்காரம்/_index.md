@@ -10,7 +10,7 @@ authors:
 
 # kandar anubuthi, kandar alangaram and vel/mayil/cEval viruttham (in tamil script, Unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## kandar anubuthi, kandar alangaram and vel/mayil/cEval viruttham
 of aruNagiri nAthar

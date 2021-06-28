@@ -10,7 +10,7 @@ authors:
 
 # putu meruku -short stories of ki.vA. jekannAtan (in tamil script, Unicode/ utf8-format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## " புது மெருகு"
 (சிறுகதைத் தொகுப்பு)

@@ -9,7 +9,7 @@ authors:
 
 # mInATci cuntaram piLLai carittiram, volume 2 part 1 (in unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## திரிசிரபுரம் மகாவித்துவான் ஸ்ரீ மீனாட்சிசுந்தரம்
 பிள்ளையவர்கள் சரித்திரம் - இரண்டாம் பாகம், பகுதி 1

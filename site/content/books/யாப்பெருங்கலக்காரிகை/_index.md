@@ -9,7 +9,7 @@ authors:
 
 # yApparungkalakkArikai
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## yApparungkalakkArikai
 of amitacAkarar (in tamil script, unicode format)

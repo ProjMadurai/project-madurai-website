@@ -10,7 +10,7 @@ authors:
 
 # pArvati, B.A. novel by C.N. Annadurai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### பார்வதி பி.ஏ. (புதினம்)
 அறிஞர் அண்ணா

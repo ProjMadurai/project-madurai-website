@@ -10,7 +10,7 @@ authors:
 
 # nAlAyira divya pirapantam -part I ( 1- 473) (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## nAlAyira divya pirapantam -part I ( 1- 473)
 (in Tamil script, unicode/utf-8 format)

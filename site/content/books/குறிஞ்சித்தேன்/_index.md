@@ -9,7 +9,7 @@ authors:
 
 # kurinjcit tEn by rAjam krishNan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## குறிஞ்சித் தேன்
 திருமதி ராஜம் கிருஷ்ணன்

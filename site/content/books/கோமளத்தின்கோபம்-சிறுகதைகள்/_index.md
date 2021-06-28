@@ -9,7 +9,7 @@ authors:
 
 # kOmalattin kOpam (short stories) by C.N. Annadurai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### கோமளத்தின் கோபம் (சிறுகதைகள்)
 அறிஞர் அண்ணா

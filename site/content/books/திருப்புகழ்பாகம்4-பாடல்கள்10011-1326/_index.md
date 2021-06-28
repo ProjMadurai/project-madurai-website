@@ -10,7 +10,7 @@ authors:
 
 # aruNakirinAtar tiruppukaz-part 4 (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## aruNakirinAtar aruLiya tiruppukaz
 part 4, verses 1001 - 1326

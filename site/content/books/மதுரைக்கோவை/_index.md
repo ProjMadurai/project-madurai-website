@@ -10,7 +10,7 @@ authors:
 
 # maturaikkOvai of cangkara nAraNar (in Tamil, Unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## maturaikkOvai
 of nimpaic cangkara nAraNar

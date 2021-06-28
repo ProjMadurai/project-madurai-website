@@ -9,7 +9,7 @@ authors:
 
 # tolkAppiyam, ezuttatikAram, naccinArkiniyar urai, part 1 (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## தொல்காப்பியம் -எழுத்ததிகாரம் - பாகம் 1
 நச்சினார்கினியர் உரை

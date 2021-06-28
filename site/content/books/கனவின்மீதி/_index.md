@@ -9,7 +9,7 @@ authors:
 
 # kanavin meethi... by K.P. Aravindan (in tamil script, unicode/utf-8 format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## Tamil Works of Contemporary Sri Lankan Authors - VIII
 kanavin meethi... A collection of Poems by K.P. Aravindan

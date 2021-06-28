@@ -9,7 +9,7 @@ authors:
 
 # cOzar varalARu by ma. rAcamANikkanAr (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## சோழர் வரலாறு (பாகம் 1)
 டாக்டர். மா. இராசமாணிக்கனார்

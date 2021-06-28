@@ -10,7 +10,7 @@ authors:
 
 # tiruttaNikai ARRuppaTai of kacciyappa munivar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## கவிராட்சச கச்சியப்ப முனிவரின்
 திருத்தணிகையாற்றுப்படை

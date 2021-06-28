@@ -9,7 +9,7 @@ authors:
 
 # cilappathikaaram - part 2 (maduraik kANTam)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### cilappathikaaram - 2. maturaik kANTam
 of ilankO aTikaL (in tamil script, unicode format)

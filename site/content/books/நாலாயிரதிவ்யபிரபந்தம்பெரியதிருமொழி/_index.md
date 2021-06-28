@@ -10,7 +10,7 @@ authors:
 
 # nAlAyira divya pirapantam, part II (pAcurams 948- 1447) (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## நாலாயிரத் திவ்வியப் பிரபந்தம்
 திருமங்கையாழ்வார் அருளிய பெரிய திருமொழி

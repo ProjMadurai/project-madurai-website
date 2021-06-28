@@ -10,7 +10,7 @@ authors:
 
 # tivAn lotapata cingh by vaduvUr turaicAmi aiyangkAr (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## வடுவூர் K. துரைசாமி ஐயங்கார் எழுதிய
 "திவான் லொடபட சிங் பகதூர்" (நாவல்)

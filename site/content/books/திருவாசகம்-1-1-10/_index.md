@@ -10,7 +10,7 @@ authors:
 
 # tiruvAcakam of mANikka vAcakar- part I (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## tiruvAcakam of mAnikka vAcakar -part I
 in Tamil script, Unicode/UTF-8 format)

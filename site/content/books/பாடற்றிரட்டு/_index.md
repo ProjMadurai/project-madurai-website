@@ -9,7 +9,7 @@ authors:
 
 # pATaRRitiraTTu of V.O. citamparam piLLai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## வ.உ. சிதம்பரம் பிள்ளையவர்கள் இயற்றிய
 "பாடற்றிரட்டு"

@@ -9,7 +9,7 @@ authors:
 
 # tamiz inpam of R.P. Sethu Pillai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## தமிழ் இன்பம்
 (கட்டுரைத் தொகுப்பு)

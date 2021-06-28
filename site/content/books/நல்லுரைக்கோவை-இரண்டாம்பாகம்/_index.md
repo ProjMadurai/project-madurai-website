@@ -9,7 +9,7 @@ authors:
 
 # nalluraikkOvai -2 of u. vE. cAminAta aiyar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## நல்லுரைக்கோவை (கட்டுரைகள்)
 இரண்டாம் பாகம்

@@ -9,7 +9,7 @@ authors:
 
 # utayaNakumAra kaviyam with the commentaries (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## உதயணகுமார காவியம் :
 பொ. வே. சோமசுந்தரனார் உரையுடன்

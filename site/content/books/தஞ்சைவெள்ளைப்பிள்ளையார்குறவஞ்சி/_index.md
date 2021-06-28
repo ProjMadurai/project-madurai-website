@@ -10,7 +10,7 @@ authors:
 
 # tanjcai veLLaippiLLaiyAr kuRavanjci (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### தஞ்சை வெள்ளைப் பிள்ளையார் குறவஞ்சி
 பாடிய ஆசிரியர் பெயர் தெரியவில்லை

@@ -10,7 +10,7 @@ authors:
 
 # puLLirukkuvELUrk kalampakam of paTikkAcup pulavar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## படிக்காசுப்புலவர் அருளிச்செய்த
 புள்ளிருக்குவேளூர்க் கலம்பகம்

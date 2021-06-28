@@ -9,7 +9,7 @@ authors:
 
 # Alamum amutamum by tiru vi. kalyANacuntaranAr (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### ஆலமும் அமுதமும் (கட்டுரைகள்)
 திரு.வி. கலியாணசுந்தரனார்
@@ -18,16 +18,6 @@ authors:
 by tiru vi. kalyANacuntaranAr
 In tamil script, unicode/utf-8 format
 
-**Acknowledgements:**
-Our Sincere thanks go to Digital Library of India /archive.org for providing a scanned PDF of this work.
-This e-text has been prepared using Google OCR online tool and subsequent proof-reading of the output file.
-Preparation of HTML and PDF versions: Dr. K. Kalyanasundaram, Lausanne, Switzerland.
-**© Project Madurai, 1998-2021.**
-Project Madurai is an open, voluntary, worldwide initiative devoted to preparation
-of electronic texts of tamil literary works and to distribute them free on the Internet.
-Details of Project Madurai are available at the website
-https://www.projectmadurai.org/
-You are welcome to freely distribute this file, provided this header page is kept intact.
 
 ### ஆலமும் அமுதமும் (சைவ சித்தாந்தம் பற்றிய கட்டுரைகள்)
 திரு.வி. கலியாணசுந்தரனார்

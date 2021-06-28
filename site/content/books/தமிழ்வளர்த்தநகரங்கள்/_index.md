@@ -9,7 +9,7 @@ authors:
 
 # tamiz valartta nagarangkaL by Navaneetakrishnan (in unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## தமிழ் வளர்த்த நகரங்கள்
 அ. க. நவநீத கிருட்டிணன்

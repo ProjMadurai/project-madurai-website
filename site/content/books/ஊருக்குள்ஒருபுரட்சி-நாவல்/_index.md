@@ -10,7 +10,7 @@ authors:
 
 # Urukkul puraTci by cu. camuttiram (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## ஊருக்குள் ஒரு புரட்சி
 சு. சமுத்திரம் எழுதியது

@@ -10,7 +10,7 @@ authors:
 
 # veLLOTu periyaNNan kuravanjci by kumAracAmip pulavar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### குமாரசாமிப் புலவர் இயற்றிய
 வெள்ளோடு பெரியண்ணன் குறவஞ்சி

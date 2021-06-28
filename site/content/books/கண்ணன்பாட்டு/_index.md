@@ -10,7 +10,7 @@ authors:
 
 # Songs of C. Subramania Bharathiyar - part III(in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## C. Subramaniya Bharathiyar Songs - Part III
 (kaNNan pATTu & kuyil pATTu)

@@ -9,7 +9,7 @@ authors:
 
 # pattukkOttai pAtalkaL Index (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)  [### pattukkOttai kalyAnasundaram's songs
+  [### pattukkOttai kalyAnasundaram's songs
 (in tamil script, unicode format)
 பட்டுக்கோட்டை கல்யாணசுந்தரம் தந்த
 பாட்டுக்கோட்டை பாடல்கள்

@@ -9,7 +9,7 @@ authors:
 
 # auvaiyar works with the notes of Arumuka nAvalar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### ஔவையார் பாடல்கள் (4)
 (ஆத்திசூடி, கொன்றைவேந்தன், நல்வழி, வாக்குண்டாம்)

@@ -10,7 +10,7 @@ authors:
 
 # Tamil works of kumarakurupara cuvAmikaL (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### Works of kumarakurupara cuvAmikaL:
 tirucentUr kantar kaliveNpA, cakalakalAvalli mAlai &
@@ -584,4 +584,5 @@ You are welcome to freely distribute this file, provided this header page is kep
 பூண்பதே தீர்ந்த பொருள்.101
 நீதிநெறி விளக்கம் முற்றிற்று.
 This page was first put up on March 5, 2002
-Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, kumar@vt.edu?subject=PM144-kumarakuruparar works II)
+Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, 
+kumar@vt.edu?subject=PM144-kumarakuruparar works II)

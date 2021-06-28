@@ -9,7 +9,7 @@ authors:
 
 # Three Tamil Operas, edited by ki.vA. jakannAtan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## மூன்று தமிழ் நாடகங்கள் :
 1. மதன சுந்தரப் பிரசாத சந்தான விலாசம்
@@ -20,16 +20,7 @@ Three Tamil Operas: matana cuntarap piracAta vilAcam
 critically edited by ki.vA. jakannAtan
 In tamil script, unicode/utf-8 format
 
-**Acknowledgements:**
-Our Sincere thanks go to the archive.org for providing a scanned image/PDF of this work.
-The e-text has been generated using Google OCR online tool.
-Preparation of HTML and PDF versions: Dr. K. Kalyanasundaram, Lausanne, Switzerland.
-© Project Madurai, 1998-2019.
-Project Madurai is an open, voluntary, worldwide initiative devoted to preparation
-of electronic texts of tamil literary works and to distribute them free on the Internet.
-Details of Project Madurai are available at the website
-**[https://www.projectmadurai.org/](https://www.projectmadurai.org/)**
-You are welcome to freely distribute this file, provided this header page is kept intact.
+
 
 ### மூன்று தமிழ் நாடகங்கள்
 1. மதன சுந்தரப் பிரசாதசந்தான விலாசம் (அருணாசல கவி)

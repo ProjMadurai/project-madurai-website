@@ -10,7 +10,7 @@ authors:
 
 # caracuvati antAti & caTakOparantAti of kampar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### caracuvati antAti & catakOpar antAti of kampar
 (in Tamil script, unicode /utf-8 format)

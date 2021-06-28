@@ -10,7 +10,7 @@ authors:
 
 # periya purANam of cEkkizAr, part 2 (in tamil script, Unicode/UTF-8 format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ##
 

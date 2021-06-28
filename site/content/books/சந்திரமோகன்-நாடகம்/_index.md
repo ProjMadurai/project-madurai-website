@@ -9,7 +9,7 @@ authors:
 
 # cantiramOkan by ka. nA. aNNAturai(in unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## சந்திரமோகன் ( நாடகம்)
 (சிவாஜி கண்ட இந்து ராஜ்யம்)

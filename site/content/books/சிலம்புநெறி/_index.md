@@ -9,7 +9,7 @@ authors:
 
 # cilampu neRi of kunRakkuTi aTikaLAr (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## சிலம்பு நெறி
 தவத்திரு குன்றக்குடி அடிகளார்

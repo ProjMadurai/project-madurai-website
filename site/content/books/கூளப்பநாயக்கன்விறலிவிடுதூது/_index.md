@@ -10,7 +10,7 @@ authors:
 
 # kULappa nAyakkan viRali viTu tUtu (in unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## கூளப்ப நாயக்கன் விறலி விடு தூது
 ஆசிரியர் சுப்ர தீபக் கவி

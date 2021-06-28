@@ -10,7 +10,7 @@ authors:
 
 # English Translation of aRappaLeesvara catakam by Kausalya Hart (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## அம்பலவாணக் கவிராயரவர்கள்
 பாடிய "சதுரகிரி அறப்பளீசுர சதகம்"

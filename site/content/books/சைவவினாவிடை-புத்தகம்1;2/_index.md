@@ -10,7 +10,7 @@ authors:
 
 # caiva vinA viTai of Arumuka nAvalar, books 1 and 2 (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## சைவ வினாவிடை (புத்தகம் 1, 2)
 ஆசிரியர் : ஆறுமுக நாவலர்

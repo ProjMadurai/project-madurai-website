@@ -11,7 +11,7 @@ authors:
 
 # civa tattuva vivEkam by civanjAna cuvAmikaL (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### சிவதத்துவ விவேகம்
 சிவஞான சுவாமிகள் மொழிபெயர்த்தருளியது

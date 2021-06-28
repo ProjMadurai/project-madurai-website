@@ -9,7 +9,7 @@ authors:
 
 # tamiz nAtaka varalARum cangkara cuvAmikaLum by njAnacampantan (in unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## தமிழ் நாடக வரலாறும்
 சங்கரதாச சுவாமிகளும்

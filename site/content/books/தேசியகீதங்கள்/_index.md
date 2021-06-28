@@ -9,7 +9,7 @@ authors:
 
 # cuppiramaNiya pAratiyAr pATalkaL -tEciya kItangkaL(in unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### cuppiramaNiya pAratiyAr pATalkaL
 (tEciya kItangkaL)(in tamil script, Unicode/UTF-8 format)

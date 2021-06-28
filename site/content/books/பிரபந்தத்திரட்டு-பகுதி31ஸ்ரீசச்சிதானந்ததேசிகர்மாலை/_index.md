@@ -10,7 +10,7 @@ authors:
 
 # sri caccitAnanta tEcikar mAlai of minATcicuntaram piLLai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## திருவாவடுதுறை ஆதீனத்து மஹாவித்வான்
 திரிசிரபுரம் ஸ்ரீ மீனாட்சிசுந்தரம் பிள்ளையவர்களின்

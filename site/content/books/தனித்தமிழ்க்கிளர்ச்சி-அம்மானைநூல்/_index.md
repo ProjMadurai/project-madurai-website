@@ -10,7 +10,7 @@ authors:
 
 # tanit tamiz ciLarcci by cuntara caNmukanAr (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### தனித் தமிழ்க் கிளர்ச்சி
 (அம்மானை நூல்)

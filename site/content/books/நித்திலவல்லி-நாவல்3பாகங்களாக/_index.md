@@ -9,7 +9,7 @@ authors:
 
 # nittalavalli by tIpam nA. pArtacArati -part 1(in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## நித்திலவல்லி, பாகம் 1
 தீபம் நா. பார்த்தசாரதி எழுதியது

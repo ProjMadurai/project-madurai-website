@@ -9,7 +9,7 @@ authors:
 
 # Or iravu (play) by C N Annadurai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## ஓர் இரவு ( நாடகம்)
 கா. ந. அண்ணாதுரை (அறிஞர் அண்ணா)

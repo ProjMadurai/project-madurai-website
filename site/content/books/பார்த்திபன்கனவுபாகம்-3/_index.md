@@ -10,7 +10,7 @@ authors:
 
 # kalkiyin2 pArttipan2 kan2vu part 3 (in tamil script, Uncidoe/UTF-8 format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## கல்கியின்
 பார்த்திபன் கனவு

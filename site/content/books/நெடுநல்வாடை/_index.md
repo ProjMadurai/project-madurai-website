@@ -10,7 +10,7 @@ authors:
 
 # neTunalvATai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### neTunalvATai
 of maturaik kaNakkAyanAr makanAr nakkiirar
@@ -244,5 +244,6 @@ You are welcome to freely distribute this file, provided this header page is kep
 நெடுநல்வாடை முற்றிற்று.
 ----------------------
 This page was first put up on April 27, 2000
-Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, 
+Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, 
+
 kumar@vt.edu?subject=PM70-neTunalvATai)

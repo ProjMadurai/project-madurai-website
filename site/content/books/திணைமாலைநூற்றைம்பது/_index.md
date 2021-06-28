@@ -9,7 +9,7 @@ authors:
 
 # tiNaimAlai nURRaimpatu (in unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## திணைமாலை நூற்றைம்பது
 (ஆசிரியர் கணிமேதாவியார்)

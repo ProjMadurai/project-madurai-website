@@ -9,7 +9,7 @@ authors:
 
 # puttar ponmozi 100 by cuntara caNmukanAr(in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### புத்தர் பொன்மொழி நூறு (செய்யுள் நூல்)
 புலவர் சுந்தர சண்முகனார்

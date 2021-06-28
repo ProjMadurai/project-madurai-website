@@ -10,7 +10,7 @@ authors:
 
 # tiruvaruNaik kalampakam of caiva ellappa nAvalar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## சைவ எல்லப்ப நாவலரால்
 அருளிச் செய்யப்பட்ட

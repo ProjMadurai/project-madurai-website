@@ -10,7 +10,7 @@ authors:
 
 # amutAmpikai piLLaittamiz of civanjAna cuvAmikaL (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## சிவஞான சுவாமிகள் அருளிச்செய்த
 குளத்தூர் அமுதாம்பிகை பிள்ளைத்தமிழ்.

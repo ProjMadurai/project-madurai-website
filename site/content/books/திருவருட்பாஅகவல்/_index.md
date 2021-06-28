@@ -10,7 +10,7 @@ authors:
 
 # thiruvarutpa ahaval & vadivudai mANikka mAlai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## thiruvarutpa ahaval & vadivudai mANikka mAlai of Ramalinga AdikaL
 திருவருட்பா அகவல் & திருவொற்றியூர் வடிவுடை மாணிக்க மாலை

@@ -9,7 +9,7 @@ authors:
 
 # tamizkkalai by tiru vi kalyANacuntaranar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### தமிழ்க்கலை (சொற்பொழிவுகள்)
 தமிழ்ப் பெரியார் திரு. வி. கலியாண சுந்தரனர்

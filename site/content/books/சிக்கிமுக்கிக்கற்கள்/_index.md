@@ -9,7 +9,7 @@ authors:
 
 # cikki mukkik kaRkaL (collection of songs for children) by aza. vaLLiyappA (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## சிக்கிமுக்கிக் கற்கள்
 (சிறுகதைத் தொகுப்பு)

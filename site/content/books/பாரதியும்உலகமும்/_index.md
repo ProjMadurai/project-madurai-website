@@ -9,7 +9,7 @@ authors:
 
 # pAratiyum ulakamum by M.P. periyacAmit tUran (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## "பாரதியும் உலகமும்"
 செந்தமிழ்ச் செல்வர் ம. ப. பெரியசாமித் தூரன்

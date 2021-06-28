@@ -9,7 +9,7 @@ authors:
 
 # paccaiyappar (a play) by M. Varadarajan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## பச்சையப்பர் (ஓர் நாடகம்)
 டாக்டர். மு.வரதராசனார் எழுதியது

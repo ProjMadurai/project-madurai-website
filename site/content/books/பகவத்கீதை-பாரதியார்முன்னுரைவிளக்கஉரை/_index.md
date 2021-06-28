@@ -9,7 +9,7 @@ authors:
 
 # பகவத் கீதை-விளக்க உரை- சுப்ரமணிய பாரதியார் (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## பகவத் கீதை-
 சுப்ரமணிய பாரதியாரின்

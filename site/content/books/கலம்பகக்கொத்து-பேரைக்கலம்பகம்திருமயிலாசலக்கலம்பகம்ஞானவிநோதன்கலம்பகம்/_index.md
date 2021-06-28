@@ -10,7 +10,7 @@ authors:
 
 # kalampakak kottu (in unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## கலம்பகக் கொத்து
 (பேரைக் கலம்பகம், திருமயிலாசலக் கலம்பகம்

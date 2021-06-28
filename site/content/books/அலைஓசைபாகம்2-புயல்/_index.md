@@ -9,7 +9,7 @@ authors:
 
 # கல்கியின் அலை ஒசை - இரண்டாம் பாகம் - 'புயல்
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## கல்கியின் அலை ஒசை
 இரண்டாம் பாகம் - 'புயல்'

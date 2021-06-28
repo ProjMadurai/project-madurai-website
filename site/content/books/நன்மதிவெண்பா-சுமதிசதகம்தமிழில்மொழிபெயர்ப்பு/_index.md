@@ -10,7 +10,7 @@ authors:
 
 # nanmati veNpA - Tamil translation by Sreenivasa Aiyangar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## நன்மதி வெண்பா.
 (சுமதி சதகம் / தமிழில் மொழி பெயர்ப்பு)

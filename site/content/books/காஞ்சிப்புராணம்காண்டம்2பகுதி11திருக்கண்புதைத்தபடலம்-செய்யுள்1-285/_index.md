@@ -9,7 +9,7 @@ authors:
 
 # kanjcip purANam, canto 2, patalam 1 of kacciyappa munivar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## கச்சியப்ப முனிவர் அருளிய
 காஞ்சிப் புராணம் - இரண்டாங் காண்டம்

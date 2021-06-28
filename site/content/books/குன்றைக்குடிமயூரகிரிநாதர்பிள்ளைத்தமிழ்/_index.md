@@ -10,7 +10,7 @@ authors:
 
 # mayUrakinAtar piLLaittamiz of cuppiramaNiya pAratiyAr (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## "குன்றைக்குடி மயூரகிரிநாதர் பிள்ளைத்தமிழ்"
 மழவைராயனேந்தல் சுப்பிரமணிய பாரதியார் இயற்றியது.

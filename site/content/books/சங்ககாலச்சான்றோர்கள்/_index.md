@@ -9,7 +9,7 @@ authors:
 
 # cangkakAlac cAnROrkaL of na. canjcIvi (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## சங்ககாலச் சான்றோர்கள்
 ஆசிரியர்: ந. சஞ்சீவி

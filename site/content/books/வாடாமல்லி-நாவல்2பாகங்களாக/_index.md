@@ -10,7 +10,7 @@ authors:
 
 # vATA malli by cu. camuttiram - part 1 (chapters 1-21) (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### வாடா மல்லி (நாவல்)
 பாகம் 1 (அத்தியாயம் 1-21)

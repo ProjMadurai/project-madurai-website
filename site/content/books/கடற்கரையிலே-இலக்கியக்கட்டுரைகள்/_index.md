@@ -9,7 +9,7 @@ authors:
 
 # kaTaRkkaraiyilE by rA. pi. cEtup piLLai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## கடற்கரையிலே
 (இலக்கியக் கட்டுரைகள்)

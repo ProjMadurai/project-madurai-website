@@ -9,7 +9,7 @@ authors:
 
 # peNNin perumai by thiru vi. kalyANacuntaranAr (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### பெண்ணின் பெருமை
 அல்லது வாழ்க்கைத்துணை

@@ -10,7 +10,7 @@ authors:
 
 # Commentary on mullaip pattu (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### Tamil Works of Contemporary Sri Lankan Authors - I
 "EzANTu ilakkiya vaLarcci" (by M. Thalaiyasingam )

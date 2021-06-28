@@ -9,7 +9,7 @@ authors:
 
 # Essays on Thirukkural by KAP Viswanathan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### திருக்குறள் கட்டுரைகள்
 ஆசிரியர் கி. ஆ. பெ. விசுவநாதம்

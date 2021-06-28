@@ -10,7 +10,7 @@ authors:
 
 # mAntarukkuL teivam of kalki kirushNamUrti -part 2, chapters 1-21 (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## கல்கி கிருஷ்ணமூர்த்தியின்
 மாந்தருக்குள் ஒரு தெய்வம்

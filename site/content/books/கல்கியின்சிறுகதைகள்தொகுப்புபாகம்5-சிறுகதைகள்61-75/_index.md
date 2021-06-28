@@ -9,7 +9,7 @@ authors:
 
 # Short Stories collection of Kalki Krishnamurthy - part 5 (in unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## கல்கியின் சிறுகதைகள்
 தொகுப்பு (பாகம் 5)

@@ -10,7 +10,7 @@ authors:
 
 # vikrama cOzan ulA - English Translation - Kausalya Hart (in tamil script, unicode format)
 
-vikrama cOzan ulA - English Translation - Kausalya Hart (in tamil script, unicode format)      ![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+vikrama cOzan ulA - English Translation - Kausalya Hart (in tamil script, unicode format)      
 
 ## maturai cokkanAtar ulA
 of purANatirumalainAtar

@@ -9,7 +9,7 @@ authors:
 
 # kAtal ninaivukaL of pAratitAcan (in tamil script, unicode/utf-8 format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## Literary Works of Bharathidaasan ( Kanakasubbaratnam, 1891-1964)
 V : kAthal ninaivukaL (in Tamil Script, unicode/utf-8 format)

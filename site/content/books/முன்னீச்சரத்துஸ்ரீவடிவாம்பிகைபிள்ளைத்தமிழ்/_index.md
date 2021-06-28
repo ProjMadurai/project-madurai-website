@@ -10,7 +10,7 @@ authors:
 
 # munnIccaratti vaTivAmpikai piLLaittamiz by cokkan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### முன்னீச்சரத்து ஸ்ரீவடிவாம்பிகை பிள்ளைத்தமிழ்
 ஆக்கம்: சொக்கன்

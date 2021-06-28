@@ -9,7 +9,7 @@ authors:
 
 # AtmAvin rAkangkaL of nA. pArtacArati (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## தீபம் நா. பார்த்தசாரதியின் படைப்புகள் :
 ஆத்மாவின் ராகங்கள்

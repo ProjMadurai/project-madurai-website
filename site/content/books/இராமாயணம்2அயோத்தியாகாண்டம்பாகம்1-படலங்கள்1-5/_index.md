@@ -9,7 +9,7 @@ authors:
 
 # rAmayaNam of kampar -canto 2, part 1 (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## கவிச்சக்கரவர்த்தி கம்பர் இயற்றிய
 இராமாயணம்

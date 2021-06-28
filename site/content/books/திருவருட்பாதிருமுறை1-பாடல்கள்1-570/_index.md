@@ -10,7 +10,7 @@ authors:
 
 # thiruvarutpa -thirumurai I /verses (1-537) (in tamil script, Unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### thiruvarutpa of rAmalinga adikaL (aka vaLLaLAr)
 thirumurai -I (verses 1 - 537)

@@ -10,7 +10,7 @@ authors:
 
 # tirumuRai kaNTa purANam (in tamil script, TSCII format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## கொற்றவன்குடி உமாபதி சிவாசாரியார்
 அருளிச்செய்த

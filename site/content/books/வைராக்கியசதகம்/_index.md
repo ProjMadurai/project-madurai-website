@@ -10,7 +10,7 @@ authors:
 
 # vairAkkiya catakam of cAttalingka cuvAmikaL (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## திருத்துறையூர் சாந்தலிங்க சுவாமிகள்
 அருளிச் செய்த "வைராக்கிய சதகம்"

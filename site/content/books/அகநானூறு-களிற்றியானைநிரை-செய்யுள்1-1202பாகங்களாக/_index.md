@@ -10,7 +10,7 @@ authors:
 
 # akanAnUru - part 1 with cOmacuntaranAr commentary (verses 1-60)(in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## அகநானூறு: களிற்றியானை நிரை
 பாகம் 1 செய்யுள் 1-60

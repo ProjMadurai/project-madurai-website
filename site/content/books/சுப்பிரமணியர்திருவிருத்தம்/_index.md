@@ -10,7 +10,7 @@ authors:
 
 # two tiruviruttams of cupramaNiya tampirAn (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## சுப்பிரமணியர் திருவிருத்தம்,
 திருத்தணிகைத் திருவிருத்தம்.

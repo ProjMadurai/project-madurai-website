@@ -9,7 +9,7 @@ authors:
 
 # rUpAvati (play) by V.K. Suryanarayana Sastriyar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## ரூபாவதி (நாடகம்)
 வி.கோ. சூரியநாராயண சாஸ்திரியார்

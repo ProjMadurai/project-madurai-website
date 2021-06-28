@@ -9,7 +9,7 @@ authors:
 
 # tiruviLaiyATaR purANam of paranjcOti munivar - canto 2 part 1 (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## பரஞ்சோதி முனிவர் அருளிய
 திருவிளையாடற் புராணம்

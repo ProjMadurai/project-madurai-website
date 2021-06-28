@@ -10,7 +10,7 @@ authors:
 
 # perUr mummaNikkOvai of kantacAmi mutaliyAr (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## மேலைச்சிதம்பரம் என்கிற
 பேரூர் மும்மணிக்கோவை

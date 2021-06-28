@@ -9,7 +9,7 @@ authors:
 
 # vElin veRRi by rA.pi. cEtu piLLai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## வேலின் வெற்றி
 டாக்டர் ரா. பி. சேதுப்பிள்ளை

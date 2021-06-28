@@ -9,7 +9,7 @@ authors:
 
 # ponniyin celvan of kalki
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### "ponniyin celvan" of kalki krishnamurthi
 contents page (in tamil script, unicode format)

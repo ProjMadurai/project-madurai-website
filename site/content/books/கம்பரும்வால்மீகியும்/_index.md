@@ -9,7 +9,7 @@ authors:
 
 # kamparum vAlmIkiyum by nAmakkal irAmalingkam piLLai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### கம்பரும் வால்மீகியும்
 நாமக்கல் கவிஞர் வெ. இராமலிங்கம்பிள்ளை

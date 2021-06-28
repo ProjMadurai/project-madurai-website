@@ -9,7 +9,7 @@ authors:
 
 # chooLaamaNi -Introduction(in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## chooLaamaNi -Introduction
 (in tamil script, unicode/utf-8 format)

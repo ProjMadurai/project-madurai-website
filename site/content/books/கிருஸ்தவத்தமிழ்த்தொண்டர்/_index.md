@@ -10,7 +10,7 @@ authors:
 
 # kirustuvat tamiz tonTar by R.P. Sethu Pillai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### கிருஸ்தவத் தமிழ்த் தொண்டர்
 ரா. பி. சேதுப் பிள்ளை

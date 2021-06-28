@@ -10,7 +10,7 @@ authors:
 
 # ariccantiran kummi by anatarAyan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### அரிச்சந்திரன் கும்மி
 அனுமந்தராயன்

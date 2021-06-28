@@ -9,7 +9,7 @@ authors:
 
 # akanAnUru - part 3 with nAvalar vEngkaTacAmi nATTAr commentary (verses 301-400)(in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## அகநானூறு: நித்திலக் கோவை
 பாகம் 3, செய்யுள் 301- 400

@@ -9,7 +9,7 @@ authors:
 
 # ceyyuLilakkaNam by kalyANacuntara mutaliyAr (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## செய்யுளிலக்கணம் - கத்தியரூபம்.
 பூவை - கலியாணசுந்தர முதலியார்

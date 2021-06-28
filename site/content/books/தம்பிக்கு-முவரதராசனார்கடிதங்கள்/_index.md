@@ -9,7 +9,7 @@ authors:
 
 # tampikku - letters of M. Varadarajan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## "தம்பிக்கு"
 மு. வரதராசனார் கடிதங்கள்

@@ -10,7 +10,7 @@ authors:
 
 # cokkanAta mAlai of muttucAmip piLLai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## மாயூரம் முத்துசாமிப்பிள்ளை இயற்றிய
 சொக்கநாத மாலை

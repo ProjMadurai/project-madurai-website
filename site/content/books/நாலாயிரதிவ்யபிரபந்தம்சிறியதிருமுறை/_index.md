@@ -10,7 +10,7 @@ authors:
 
 # nAlAyira tivya pirapantam - part 4 (verses 2032-2790) (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## நாலாயிரத் திவ்வியப் பிரபந்தம், பாகம் 4
 (பாடல்கள் 2032-2790)

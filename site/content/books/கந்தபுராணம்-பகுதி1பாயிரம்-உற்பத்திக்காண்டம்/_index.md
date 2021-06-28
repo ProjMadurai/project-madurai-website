@@ -9,7 +9,7 @@ authors:
 
 # kanta purANam of kAcciyappa civAccAriyAr - part 1 (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### கச்சியப்ப சிவாச்சாரியார் அருளிய
 கந்த புராணம் - பகுதி 1

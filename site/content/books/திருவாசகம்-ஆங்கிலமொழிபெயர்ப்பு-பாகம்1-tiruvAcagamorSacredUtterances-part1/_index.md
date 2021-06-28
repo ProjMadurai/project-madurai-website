@@ -12,7 +12,7 @@ authors:
 
 # tiruvAcakam - English translation of Rev.G.U. Pope -part I
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## tiruvAcakam -part I
 English Translation, Commentary of (late) Rev.G.U. Pope

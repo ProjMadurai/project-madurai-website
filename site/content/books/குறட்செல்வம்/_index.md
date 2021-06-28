@@ -9,7 +9,7 @@ authors:
 
 # kuRat celvam by kunRakkuTi AtikaL (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### குறட் செல்வம்
 தவத்திரு குன்றக்குடி அடிகள்

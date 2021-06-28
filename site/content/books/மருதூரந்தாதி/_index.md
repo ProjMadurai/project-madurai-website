@@ -10,7 +10,7 @@ authors:
 
 # marutUrantAti of talaimalaikaNTa tEvar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## தலைமலைகண்டதேவர் இயற்றிய
 "மருதூரந்தாதி" : மூலமும்

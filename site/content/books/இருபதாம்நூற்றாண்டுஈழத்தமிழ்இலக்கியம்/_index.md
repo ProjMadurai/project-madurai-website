@@ -9,7 +9,7 @@ authors:
 
 # Twentieth Century Ceylon Tamil Literature by C. Maunaguru, Mau. Chitralega & M. A. Nuhman
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### Twentieth Century Ceylon Tamil Literature
 by C. Maunaguru, Mau. Chitralega & M. A. Nuhman
@@ -460,4 +460,5 @@ Cassiee Chetty Symon, Tamil Plutarch, 1859.
 மறுமலர்ச்சிக் காலம், இலக்கியச் சிறப்பிதழ். கலைப் பெருமன்றம், தெல்லிப்பளை, 1973.
 **/*/* இருபதாம் நூற்றாண்டு ஈழத்துத் தமிழ் இலக்கியம் /*/* முற்றும்.**
 This page was first put up on July 17, 2001
-Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, kumar@vt.edu?  subject=PM117 : srilankan works XII:)
+Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, kumar@vt.edu?
+  subject=PM117 : srilankan works XII:)

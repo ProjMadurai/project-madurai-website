@@ -9,7 +9,7 @@ authors:
 
 # cilappatikAram of ilangkO aTikaL with the commentary of vEngkaTacAmi nATTAr -part 1(in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### இளங்கோவடிகள் இயற்றிய "சிலப்பதிகாரம்" மூலமும்
 நாவலர் பண்டித ந.மு. வேங்கடசாமி நாட்டாரவர்கள்

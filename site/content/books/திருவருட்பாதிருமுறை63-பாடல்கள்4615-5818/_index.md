@@ -10,7 +10,7 @@ authors:
 
 # tiruvarutpA- 6th tirumuRai -part III (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## tiruvarutpA of rAmalinga aTikaL
 tirumuRai -VI part III (verses 4615 - 5063)

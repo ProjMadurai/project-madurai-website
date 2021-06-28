@@ -9,7 +9,7 @@ authors:
 
 # piratapa mutaliyar carittiram by vetanayakam pillai (in unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## பிரதாப முதலியார் சரித்திரம்
 ஆசிரியர் - மயூரம் வேதநாயகம் பிள்ளை (1826 - 1889)

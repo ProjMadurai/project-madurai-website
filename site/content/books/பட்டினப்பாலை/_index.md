@@ -10,7 +10,7 @@ authors:
 
 # paTTinappAlai (in tamil script, unicode /utf-8 format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### paTTinappAlai of kaTiyalUr uruttirang kaNNanAr
 in Tamil script, unicode/utf-8 format
@@ -355,5 +355,6 @@ You are welcome to freely distribute this file, provided this header page is kep
 பட்டினப்பாலை முற்றிற்று
 ------------------
 This page was first put up on June 22, 2000
-Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, 
+Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, 
+
 kumar@vt.edu?subject=PM77-paTTinappAlai)

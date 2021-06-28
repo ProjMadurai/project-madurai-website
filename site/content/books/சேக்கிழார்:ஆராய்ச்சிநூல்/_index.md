@@ -9,7 +9,7 @@ authors:
 
 # Cekkizar of M. Rajamanickanar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## "சேக்கிழார் : ஆராய்ச்சி நூல்"
 டாக்டர். மா. இராசமாணிக்கனார்

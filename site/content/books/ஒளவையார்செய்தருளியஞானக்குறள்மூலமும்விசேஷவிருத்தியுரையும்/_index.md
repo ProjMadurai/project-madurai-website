@@ -9,7 +9,7 @@ authors:
 
 # njAnakkuRaL of auvaiyAr with commentary (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### ஒளவையார் செய்தருளிய குறள் (ஞானக்குறள்)
 மூலமும் வடிவேலு முதலியார் எழுதிய விசேஷ விருத்தியுரையும்

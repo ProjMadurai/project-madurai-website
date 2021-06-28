@@ -9,7 +9,7 @@ authors:
 
 # cinna cangkaran katai by Subramaniya Bharathiyar (in unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## சின்னச் சங்கரன் கதை
 சுப்ரமணிய பாரதியார்

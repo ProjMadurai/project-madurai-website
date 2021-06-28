@@ -10,7 +10,7 @@ authors:
 
 # aruNakirinAtar pORRi akaval by cengkalvarAya piLLai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## வ. சு. செங்கல்வராய பிள்ளை எழுதிய
 அருணகிரிநாதர் போற்றி அகவல்

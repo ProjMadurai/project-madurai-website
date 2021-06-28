@@ -10,7 +10,7 @@ authors:
 
 # njAnak kuravanjci (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## ஞானக் குறவஞ்சி
 பதிப்பாசிரியர் : வீ. சொக்கலிங்கம்

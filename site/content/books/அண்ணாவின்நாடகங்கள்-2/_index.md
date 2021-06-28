@@ -9,7 +9,7 @@ authors:
 
 # aNNAvin nATakangkaL 2 by C.N. Annadurai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### அண்ணாவின் நாடகங்கள் -2
 (வேலைக்காரி & கண்ணாயிரத்தின் உலகம்!)

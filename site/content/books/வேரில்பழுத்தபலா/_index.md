@@ -9,7 +9,7 @@ authors:
 
 # veril pazutta palaA of cu. camuttiram (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## வேரில் பழுத்த பலா
 (சாகித்திய அக்காதமி பரிசு பெற்ற படைப்பு)

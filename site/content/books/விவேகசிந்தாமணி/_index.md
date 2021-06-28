@@ -9,7 +9,7 @@ authors:
 
 # vivEka cinthAmani (in tamil script, Unicode/utf-8 format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)[
+[
 ### vivEka cinthAmani
 (in tamil script, Unicode/ utf-8 format)
 

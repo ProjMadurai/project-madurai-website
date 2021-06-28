@@ -10,7 +10,7 @@ authors:
 
 # kaTampar kOyil ulA (in tamil script, Unicode/ utf8-format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## "கடம்பர்கோயில் உலா "
 (உ.வே.சாமிநாதைய்யரவர்களின் குறிப்புரையுடன்)

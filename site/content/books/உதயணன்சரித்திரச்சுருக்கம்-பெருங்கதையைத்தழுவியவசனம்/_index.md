@@ -9,7 +9,7 @@ authors:
 
 # utayaNan carittirac curukkam of U.Ve. cAminAta aiyar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## உதயணன் சரித்திரச் சுருக்கம்
 எழுதியவர்: உ.வே. சாமிநாதையர்

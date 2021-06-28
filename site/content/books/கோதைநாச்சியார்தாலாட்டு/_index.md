@@ -9,7 +9,7 @@ authors:
 
 # kOtai nAcciyAr tAlATTu (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## kOtai nAcciyAr tAlATTu
 (author not known, in Tamil Script, unicode format)

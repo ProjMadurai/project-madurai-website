@@ -9,7 +9,7 @@ authors:
 
 # cantirikaiyin kathai by Subramania Bharathiyar(in tamil script, unicode/utf-8 format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## Literary Works of C. Subramania Bharathiyar
 V: cantirikaiyin katai (in Tamil Script, unicode/utf-8 format)

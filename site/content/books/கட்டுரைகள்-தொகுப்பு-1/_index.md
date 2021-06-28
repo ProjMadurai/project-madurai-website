@@ -9,7 +9,7 @@ authors:
 
 # Essays (collection) of C. Subramania Bharathiyar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## சி. சுப்ரமணிய பாரதியார் கட்டுரைகள்
 தொகுப்பு - 1

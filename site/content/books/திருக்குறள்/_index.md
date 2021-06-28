@@ -9,7 +9,7 @@ authors:
 
 # tirukuRaL of tiruvaLLuvar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## tirukuRaL of tiruvaLLuvar:
 (in Tamil Script, unicode/UTF-8 format)

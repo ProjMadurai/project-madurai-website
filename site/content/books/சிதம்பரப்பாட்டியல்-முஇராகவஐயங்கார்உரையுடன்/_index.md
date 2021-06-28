@@ -9,7 +9,7 @@ authors:
 
 # citamparap pATTiyal with irakavaiyangkAr notes (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## பரஞ்சோதியார் எழுதிய
 சிதம்பரப்பாட்டியல்

@@ -9,7 +9,7 @@ authors:
 
 # kaNTatEvip purANam of ti. mInATcicuntaram piLLai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## கண்டதேவிப் புராணம்.
 திரிசிரபுரம் மஹாவித்துவான்

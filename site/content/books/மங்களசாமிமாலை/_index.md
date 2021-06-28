@@ -9,7 +9,7 @@ authors:
 
 # mangkalacAmi mAlai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## மங்களசாமி மாலை
 (நல்லொழுக்கச் செய்யுள் தொகுப்பு நூல்)

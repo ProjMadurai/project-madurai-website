@@ -9,7 +9,7 @@ authors:
 
 # ulakaneethi of ulakanaathar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## ulakaneethi of ulakanaathar
 உலக நீதி

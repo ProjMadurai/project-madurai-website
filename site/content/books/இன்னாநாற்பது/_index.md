@@ -9,7 +9,7 @@ authors:
 
 # inna40, iniyavai40, kalavazhi40 & muthumozikkAnchi (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## patinenkiizkannakku noolkaL -I
 inna40 (kapilar), iniyavai40 (pUthanjEthanAr),

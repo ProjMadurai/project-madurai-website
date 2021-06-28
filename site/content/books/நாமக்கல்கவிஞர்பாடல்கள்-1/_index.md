@@ -10,7 +10,7 @@ authors:
 
 # Songs of Namakkal kavinjar Ramalingam Pillai - part I(in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### Namakkal kavinjar V. Ramalingam Pillai (1888-1972) Songs- part I
 in Tamil Script, Unicode/utf-8 format
@@ -4763,5 +4763,6 @@ You are welcome to freely distribute this file, provided this header page is kep
 குறையாது ஜேய் ஹிந்த்
 மேலுள்ள பாசம். . .(ஜேய்)
 This page was first put up on May 10, 2000
-Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, 
+Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, 
+
 kumar@vt.edu?subject=PM72-namakkal kavi songs-I)

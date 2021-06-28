@@ -9,7 +9,7 @@ authors:
 
 # ciRAppurANam canto 3-part 2 (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## ciRAppurANam of umaRup pulavar
 canto 3 - hijURattuk kANTam part 2 (verses 608-1403)

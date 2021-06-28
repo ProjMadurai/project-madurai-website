@@ -9,7 +9,7 @@ authors:
 
 # kalittokai (in Tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## kalittokai
 (in Tamil Script, unicode/utf-8 format)

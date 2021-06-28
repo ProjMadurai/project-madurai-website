@@ -9,7 +9,7 @@ authors:
 
 # aRivuk kataikaL by KAP Viswanathan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### அறிவுக் கதைகள் நூறு
 டாக்டர் கி. ஆ. பெ. விசுவநாதம்

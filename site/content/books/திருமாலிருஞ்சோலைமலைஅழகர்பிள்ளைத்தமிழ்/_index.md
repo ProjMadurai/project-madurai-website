@@ -10,7 +10,7 @@ authors:
 
 # tirumAlirunj cOlaimalai azakar piLLaittamiz(in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## திருமாலிருஞ் சோலைமலை
 அழகர் பிள்ளைத் தமிழ்

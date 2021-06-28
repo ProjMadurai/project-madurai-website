@@ -10,7 +10,7 @@ authors:
 
 # Short stories of Re. Karthigesu (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## Short stories of Re. Karthigesu
 (oru cumArAna kaNavan, pakkiyam piRantirukkiRAL,

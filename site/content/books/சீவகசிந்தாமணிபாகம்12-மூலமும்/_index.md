@@ -9,7 +9,7 @@ authors:
 
 # cIvakacintamaNi with cOmacuntaranAr urai - part 1(in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## திருத்தக்க தேவர் இயற்றிய
 சீவகசிந்தாமணி - மூலமும்

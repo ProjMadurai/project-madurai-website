@@ -10,7 +10,7 @@ authors:
 
 # kOmpi viruttam of cuppiramaNiya mutaliyAr (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## கோம்பி விருத்தம் : மூலமும் உரையும்
 வெ.ப. சுப்பிரமணிய முதலியார் இயற்றியது.

@@ -9,7 +9,7 @@ authors:
 
 # short stories collection of vallikkaNNan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## வல்லிக்கண்ணன் கதைகள்
 சிறுகதை தொகுப்பு - பாகம் 1

@@ -9,7 +9,7 @@ authors:
 
 # cilappathikaaram
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## cilappathikaaram - pukaark kaaNtam
 of ilankO aTikaL (in tamil script, unicode format)

@@ -9,7 +9,7 @@ authors:
 
 # mukam koL by K.P. Aravindan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## Tamil Works of Contemporary Sri Lankan Authors - VI
 mukam koL by K.P. Aravindan

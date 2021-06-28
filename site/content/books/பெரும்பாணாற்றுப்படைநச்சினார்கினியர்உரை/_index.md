@@ -10,7 +10,7 @@ authors:
 
 # perumpANARRuppaTai -naccinArkiniyar urai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## பெரும்பாணாற்றுப்படை
 நச்சினார்கினியர் உரை

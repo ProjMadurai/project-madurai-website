@@ -10,7 +10,7 @@ authors:
 
 # mUvarulA of oTTakkuttar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### mUvarulA of oTTakkUttar (vikkirama cOzanulA,
 kulOttungka cOzanulA, irAcarAca cOzanulA)

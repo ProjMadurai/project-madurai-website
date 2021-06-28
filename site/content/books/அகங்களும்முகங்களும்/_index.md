@@ -9,7 +9,7 @@ authors:
 
 # akangkaLum mukangkaLum (by cu. vilvaretinam) (in Tamil script, Unicode)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### Tamil Works of Contemporary Sri Lankan Authors - II
 akangkaLum mukangkaLum (by cu. vilvaretinam)

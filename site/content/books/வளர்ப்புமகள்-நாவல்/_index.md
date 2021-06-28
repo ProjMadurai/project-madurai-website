@@ -10,7 +10,7 @@ authors:
 
 # vaLarpu makaL by cu. camuttiram (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### வளர்ப்பு மகள் (நாவல்)
 சு. சமுத்திரம்

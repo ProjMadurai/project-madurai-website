@@ -10,7 +10,7 @@ authors:
 
 # tEvaiulA of palapaTTaTai cokkanAtak kavirAyar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## பலபட்டடை சொக்கநாதக்கவிராயர்
 இயற்றிய

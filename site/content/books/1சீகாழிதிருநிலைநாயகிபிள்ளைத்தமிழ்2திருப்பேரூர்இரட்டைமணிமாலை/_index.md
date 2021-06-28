@@ -10,7 +10,7 @@ authors:
 
 # cIkAzi tirunilainAyaki piLLaittamiz by naTEca kavunTar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### சீகாழி திருநிலைநாயகி பிள்ளைத்தமிழ்
 நூலாசிரியர் : கவியரசு. கு. நடேசகவுண்டர்

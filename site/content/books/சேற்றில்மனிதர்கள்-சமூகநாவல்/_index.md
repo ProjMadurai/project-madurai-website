@@ -9,7 +9,7 @@ authors:
 
 # cERRil manitarkaL by rAjam kirushNan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## சேற்றில் மனிதர்கள்
 ராஜம் கிருஷ்ணன் எழுதியது

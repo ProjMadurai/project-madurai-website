@@ -9,7 +9,7 @@ authors:
 
 # njAnaratam by cuppiramaNiya pAratiyAr (in unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## ஞானரதம் (கட்டுரைகள்)
 மகாகவி சுப்பிரமணிய பாரதியார்

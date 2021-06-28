@@ -10,7 +10,7 @@ authors:
 
 # kaNNappar kalampakam of turaicAmi mutaliyAr (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## கண்ணப்பர் கலம்பகம்
 நூலாசிரியர் வீ. துரைசாமி முதலியார

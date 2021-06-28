@@ -9,7 +9,7 @@ authors:
 
 # p. tUran kavitaikaL (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## தூரன் கவிதைகள்
 (ம. ப. பெரியசாமித்தூரன் எழுதிய

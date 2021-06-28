@@ -10,7 +10,7 @@ authors:
 
 # kaTaiyam kaliyANiyammai piLLaittamiz by tirucciRRampalam (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### கடையம் (வளைசை) கலியாணியம்மை பிள்ளைத்தமிழ்
 திருப்புலியூர் அழகிய திருச்சிற்றம்பல தேசிகர் இயற்றியது

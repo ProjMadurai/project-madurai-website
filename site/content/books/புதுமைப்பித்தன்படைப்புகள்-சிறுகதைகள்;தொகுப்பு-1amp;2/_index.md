@@ -10,7 +10,7 @@ authors:
 
 # Short stories of Putumaippittan -part 1 (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## புதுமைப்பித்தன் கதைகள் :
 தொகுப்பு -1

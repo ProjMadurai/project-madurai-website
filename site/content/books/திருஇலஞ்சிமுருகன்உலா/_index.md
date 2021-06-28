@@ -10,7 +10,7 @@ authors:
 
 # tiru ilanjci murukan ulA of paNTArakkavirAyar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## திரு இலஞ்சி முருகன் உலா
 ஆசிரியர்: பண்டாரக்கவிராயர்

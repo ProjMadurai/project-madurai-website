@@ -9,7 +9,7 @@ authors:
 
 # tiruk kaLiRRup padiyAr & tiruvuntiyAr (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)  [## Saiva Siddhantha Sastras - VI - tirukkaLiRRuppaTiyAr
+  [## Saiva Siddhantha Sastras - VI - tirukkaLiRRuppaTiyAr
 (in tamil script, unicode format)
 
 சைவ சித்தாந்த நூல்கள் /மெய்கண்ட சாத்திரம் - VI

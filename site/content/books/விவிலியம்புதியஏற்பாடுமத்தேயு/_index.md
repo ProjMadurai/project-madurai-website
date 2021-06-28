@@ -9,7 +9,7 @@ authors:
 
 # Holy Bible - New Testament - part Ia (Book of Mathew) (in tamil script, Unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## Holy Bible - New Testament - part Ia
 Gospel according to Mathew

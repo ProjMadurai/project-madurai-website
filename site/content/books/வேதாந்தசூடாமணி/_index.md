@@ -10,7 +10,7 @@ authors:
 
 # vEtAnta cUTamaNi of civapirakAca cuvAmikaL (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## சிவப்பிரகாச சுவாமிகள் அருளிய
 வேதாந்த சூடாமணி

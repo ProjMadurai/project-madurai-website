@@ -9,7 +9,7 @@ authors:
 
 # kAviyamum Oviyamum of ki. vA. jekannAtan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## காவியமும் ஓவியமும்
 (கட்டுரைகள்)

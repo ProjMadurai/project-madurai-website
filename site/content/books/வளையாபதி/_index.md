@@ -9,7 +9,7 @@ authors:
 
 # Remnants of Tamil Works lost over the years- II (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### Remnants of Tamil Works lost over the years- I I
 vaLaiyApati

@@ -10,7 +10,7 @@ authors:
 
 # tiruppOrUrk kiLLai viTutUtu (in unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## திருப்பேரூர்க் கிள்ளைவிடு தூது
 கோயமுத்தூர் கந்தசாமி முதலியார் இயற்றியது

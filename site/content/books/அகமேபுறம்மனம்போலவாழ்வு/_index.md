@@ -10,7 +10,7 @@ authors:
 
 # akame puram by V.O. Chidambaram pillai /Tamil Translation (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## அகமே புறம்
 வ.உ. சிதம்பரம் பிள்ளை மொழி பெயர்ப்பு

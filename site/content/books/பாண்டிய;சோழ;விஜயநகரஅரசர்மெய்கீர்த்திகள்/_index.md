@@ -9,7 +9,7 @@ authors:
 
 # pANTiya, Chola, Vijayanagara mannarkalin meikkIrtikaL (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### pANTiya, Chola, Vijayanagara
 mannarkalin meikkIrtikaL
@@ -3153,4 +3153,5 @@ Only the moolam texts (and not the commentaries and other research works of the 
 வீரவசந்தராயர் நயனாருக்கு ஆண்டு - 10
 மூன்றாவதில் விபவ வருஷம் கார்த்திகை மாதம் ...
 This page was first put up on Jan 16, 2002
-Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, kumar@vt.edu?subject=PM134-meikkiirtikaL)
+Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, 
+kumar@vt.edu?subject=PM134-meikkiirtikaL)

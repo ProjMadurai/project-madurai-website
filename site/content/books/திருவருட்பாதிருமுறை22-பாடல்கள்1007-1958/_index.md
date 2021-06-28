@@ -10,7 +10,7 @@ authors:
 
 # tiruvarutpA -tirumuRai II (verses 1007-1543) (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## tiruvarutpA of rAmalingka aTikaL
 tirumuRai -II part 2 (verses 1007 - 1543)

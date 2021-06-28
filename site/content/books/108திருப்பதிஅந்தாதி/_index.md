@@ -10,7 +10,7 @@ authors:
 
 # 108 tiruppati antAti of maNavALa tEcikar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## அழகிய மணவாள தாசர் எனப்படும்
 திவ்யகவி பிள்ளைப் பெருமாள் ஐயங்கார் எழுதிய
@@ -20,20 +20,6 @@ authors:
 of piLLaip perumAL aiyankAr @ azakiya maNavALa tAcar
 In tamil script, unicode/utf-8 format
 
-**Acknowledgements:**
-Our Sincere thanks go to the Digital Library of India for providing a scanned image
-version of this work for the etext preparation.
-This etext has been produced via Distributed Proof-reading Implementation and
-we thank the following volunteers for their assistance:
-Anbu Jaya, R. Navaneethakrishnan, P. Thulasimani, Rammohan Krishnan,
-S. Kalyankumar and S.C. Thamizharasu
-Preparation of HTML and PDF versions: Dr. K. Kalyanasundaram, Lausanne, Switzerland.
-© Project Madurai, 1998-2014.
-Project Madurai is an open, voluntary, worldwide initiative devoted to preparation
-of electronic texts of tamil literary works and to distribute them free on the Internet.
-Details of Project Madurai are available at the website
-**[http://www.projectmadurai.org/](http://www.projectmadurai.org/)**
-You are welcome to freely distribute this file, provided this header page is kept intact.
 
 ### அழகிய மணவாள தாசர் எனப்படும்
 திவ்யகவி பிள்ளைப் பெருமாள் ஐயங்கார் எழுதிய

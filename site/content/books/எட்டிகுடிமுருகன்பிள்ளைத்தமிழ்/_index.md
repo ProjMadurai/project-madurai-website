@@ -10,7 +10,7 @@ authors:
 
 # eTTikuTi murukan piLLaittamiz (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## எட்டிகுடி முருகன் பிள்ளைத் தமிழ்
 ஆசிரியர்: கோவை.கு. நடேச கவுண்டர்

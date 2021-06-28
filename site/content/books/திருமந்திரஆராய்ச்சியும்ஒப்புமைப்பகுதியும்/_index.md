@@ -10,7 +10,7 @@ authors:
 
 # tirumantira ARAicciyum oppumaip pakutiyum by cengkalvarAya piLLai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## வ. சு. செங்கல்வராய பிள்ளை எழுதிய
 திருமந்திர ஆராய்ச்சியும் ஒப்புமைப்பகுதியும்

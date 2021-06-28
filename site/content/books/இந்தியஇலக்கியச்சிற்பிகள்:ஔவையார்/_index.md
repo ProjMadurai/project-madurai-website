@@ -9,7 +9,7 @@ authors:
 
 # auvaiyar by tamizaNNal (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### "இந்திய இலக்கியச் சிற்பிகள்:
 ஔவையார்"

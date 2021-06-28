@@ -10,7 +10,7 @@ authors:
 
 # mAn viTu tUtu of kuzantaik kavirAyar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## மான் விடு தூது
 குழந்தைக் கவிராயர் இயற்றியது

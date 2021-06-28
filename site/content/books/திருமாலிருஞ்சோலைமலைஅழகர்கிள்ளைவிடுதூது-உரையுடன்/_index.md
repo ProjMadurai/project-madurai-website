@@ -10,7 +10,7 @@ authors:
 
 # azakar kiLLai viTu tUtu by cokkanAta piLLai (in unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## திருமாலிருஞ் சோலைமலை
 அழகர் கிள்ளைவிடு தூது

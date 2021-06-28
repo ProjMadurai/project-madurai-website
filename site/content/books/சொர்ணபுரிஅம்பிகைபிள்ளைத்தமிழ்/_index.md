@@ -10,7 +10,7 @@ authors:
 
 # corNapuri ampikai piLLaittamiz (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### "சொர்ணபுரி அம்பிகை பிள்ளைத்தமிழ்"
 (ஆக்கியோன் யார் என தெரியவில்லை)

@@ -9,7 +9,7 @@ authors:
 
 # iru naNparkaL - drama of pammal campanta mutaliyAr (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## பம்மல் சம்பந்த முதலியார் எழுதிய
 இரண்டு நண்பர்கள் (நாடகம்)

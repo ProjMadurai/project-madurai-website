@@ -11,7 +11,7 @@ authors:
 
 # tirumurukARRuppaTai with urai of vaiyApuri piLLai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### நக்கீரதேவ நாயனார் அருளிய
 திருமுருகாற்றுப்படை - மூலமும்

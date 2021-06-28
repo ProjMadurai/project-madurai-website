@@ -10,7 +10,7 @@ authors:
 
 # kuLattUrkkOvai by mInaTcicuntaram piLLai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### ஸ்ரீமீனாட்சிசுந்தரம்பிள்ளையவர்கள் பிரபந்தத்திரட்டு
 குளத்தூர்க்கோவை. (4611-5049 )

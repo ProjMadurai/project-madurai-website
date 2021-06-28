@@ -9,7 +9,7 @@ authors:
 
 # arumpu anpukaL of Kalki Krishnamurthi - part 1(in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## அரும்பு அம்புகள் (நாவல்) - பாகம் 1
 அமரர் கல்கி கிருஷ்ணமூர்த்தி

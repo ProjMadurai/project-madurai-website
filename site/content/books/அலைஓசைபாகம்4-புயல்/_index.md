@@ -9,7 +9,7 @@ authors:
 
 # kalkiyin alai Ocai part 4 (in tamil script, utf-8 format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## கல்கியின் "அலை ஒசை"
 பாகம் 4 - பிரளயம்

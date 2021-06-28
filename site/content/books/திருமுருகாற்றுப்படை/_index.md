@@ -9,7 +9,7 @@ authors:
 
 # tirumurukARRuppaTai with the commentaries of ki.vA. jakannAtan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## திருமுருகாற்றுப்படை
 திரு.கி. வா. ஜகந்நாதன் எழுதிய பொழிப்புரையுடன்

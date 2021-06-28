@@ -9,7 +9,7 @@ authors:
 
 # oru mamaramum marangkottip paravaikalum by camuttiram (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## ஒரு மாமரமும் மரங்கொத்திப் பறவைகளும்
 (சிறுகதைத் தொகுப்பு)

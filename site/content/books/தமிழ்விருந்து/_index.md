@@ -9,7 +9,7 @@ authors:
 
 # tamiz viruntu by rA.pi. cEtu piLLai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## தமிழ் விருந்து
 ரா.பி.சேதுப்பிள்ளை

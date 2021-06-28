@@ -9,7 +9,7 @@ authors:
 
 # tolkAppiyam -naccinArkiniyar urai, poruLatikAram, part 1 (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## தொல்காப்பியம்/ நச்சினார்கினியர் உரை
 பொருளதிகாரம்: அகத்திணையியல்

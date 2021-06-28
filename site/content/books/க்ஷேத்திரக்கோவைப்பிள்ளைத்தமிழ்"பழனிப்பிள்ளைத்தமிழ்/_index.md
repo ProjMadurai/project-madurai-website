@@ -10,7 +10,7 @@ authors:
 
 # kshEtrakkOvaip piLLaittamiz by citampara munivar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### "க்ஷேத்திரக்கோவைப் பிள்ளைத் தமிழ்"
 காஞ்சீபுரம் ஸ்ரீ சிதம்பர முனிவர் எழுதியது

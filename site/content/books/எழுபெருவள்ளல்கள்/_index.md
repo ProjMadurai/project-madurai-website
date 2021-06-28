@@ -9,7 +9,7 @@ authors:
 
 # ezu peru vaLLalkaL by ki.vA. jakannAtan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## எழு பெரு வள்ளல்கள்
 கி. வா. ஜகந்நாதன்

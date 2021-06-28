@@ -10,7 +10,7 @@ authors:
 
 # Namakkal kavinjar Ramalingam Pillai pATalkaL- part II(in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## Namakkal kavinjar V. Ramalingam Pillai (1888-1972)
 pATalkaL- part I I (98 -180)

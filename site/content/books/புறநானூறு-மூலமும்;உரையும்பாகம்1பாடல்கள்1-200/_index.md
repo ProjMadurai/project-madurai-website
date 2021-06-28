@@ -9,7 +9,7 @@ authors:
 
 # puRanAnURu (with the commentary of Auvai Duraisamy Pillai) part 1 -verses 1 to 60 (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## புற நானூறு - மூலமும்
 ஔவை துரைசாமி பிள்ளை விளக்க உரையும் - பாகம் 1

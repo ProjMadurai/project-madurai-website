@@ -9,7 +9,7 @@ authors:
 
 # karippu maNikaL (novel) of rAjam kirushNan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## கரிப்பு மணிகள் (சமூக நாவல்)
 ஆசிரியர் : ராஜம் கிருஷ்ணன்

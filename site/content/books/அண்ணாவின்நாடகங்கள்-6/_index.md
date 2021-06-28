@@ -9,7 +9,7 @@ authors:
 
 # aNNAvin nATakangkaL 6 by C.N. Annadurai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### அண்ணாவின் நாடகங்கள் (6)
 டாக்டர் சி. என். அண்ணாதுரை

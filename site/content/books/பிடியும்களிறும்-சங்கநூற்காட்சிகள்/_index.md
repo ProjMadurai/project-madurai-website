@@ -9,7 +9,7 @@ authors:
 
 # piTiyum kaLiRum by ki.vA. jakannAtan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## பிடியும் களிறும்
 (சங்கநூற் காட்சிகள்)

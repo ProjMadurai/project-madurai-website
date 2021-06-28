@@ -10,7 +10,7 @@ authors:
 
 # vIravallur marakatavalliyammai piLLaittamiz (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### வீரை. சு. பழனிக்குமாரு பண்டாரம் இயற்றிய
 "வீரவநல்லூர் மரகதவல்லியம்மை பிள்ளைத்தமிழ்"

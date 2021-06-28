@@ -9,7 +9,7 @@ authors:
 
 # Bharathidasan Kavithaikal -part 1 (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### pAratitAcan kavitaikaL
 mutaRl tokuti - 75 kavitaikaL

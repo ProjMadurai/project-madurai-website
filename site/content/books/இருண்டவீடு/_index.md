@@ -9,7 +9,7 @@ authors:
 
 # iruNTa viiTu by Bharathidasan(in tamil script, unicode/utf-8 format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## Literary Works of Bharathidaasan ( Kanakasubbaratnam, 1891-1964)
 III : iruNTa viiTu (in Tamil Script, unicode/utf-8 format)
@@ -951,5 +951,6 @@ You are welcome to freely distribute this file, provided this header page is kep
 /*
 முற்றும்.
 This page was first put up on October 3, 2000
-Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, 
+Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, 
+
 kumar@vt.edu?subject=PM86-iruNTa viiTu)

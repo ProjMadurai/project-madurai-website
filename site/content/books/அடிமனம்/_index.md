@@ -9,7 +9,7 @@ authors:
 
 # aTi manam (essays) by periyacAmit tUran (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## அடிமனம்
 (மனத்தைப் பற்றிய கட்டுரைகள்)

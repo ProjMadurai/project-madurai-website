@@ -10,7 +10,7 @@ authors:
 
 # 11th tirumuRai pAcurams (verses 1-825)(in tamil script, unicode forma <TITLE>11th tirumuRai pAsurams (in tamil script, Unicode/UTF8 format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## 11th tirumuRai collections of nampi ANTAr nampi -part I
 (825 pAcurams of several authors)

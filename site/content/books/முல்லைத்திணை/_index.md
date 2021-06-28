@@ -9,7 +9,7 @@ authors:
 
 # mullaittiNai of mu.varatarAcanAr(in tamil script, Unicode/utf-8 format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 # "முல்லைத்திணை" :
 மு.வரதராசனார்

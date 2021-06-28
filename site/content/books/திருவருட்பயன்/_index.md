@@ -9,7 +9,7 @@ authors:
 
 # tiruvarutpayan of umApati civAccAriyAr (in tamil script, unicode/utf-8 format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### உமாபதி சிவாசாரியார் அருளிய திருவருட்பயன்
 tiruvarutpayan of umApati civAccAriyAr
@@ -265,5 +265,6 @@ tiruvarutpayan of umApati civAccAriyAr
 வெள்ளத்து அலைவர் மிக. 100
 திருவருட்பயன் முற்றிற்று.
 This page was first put up on August 10, 2000
-Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, 
+Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, 
+
 kumar@vt.edu?subject=PM81-tiruvarutpayan)

@@ -9,7 +9,7 @@ authors:
 
 # ninaivum ninaippum (speeches) by C.N. Annadurai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### நிலையும் நினைப்பும் & ஏ, தாழ்ந்த தமிழகமே!
 (சொற்பொழிவுகள்)

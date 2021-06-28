@@ -9,7 +9,7 @@ authors:
 
 # kaTalvIran kolumpus i by nArA nAcciyappan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### கடல்வீரன் கொலம்பஸ்
 (வரலாற்றுக் கட்டுரைகள்)

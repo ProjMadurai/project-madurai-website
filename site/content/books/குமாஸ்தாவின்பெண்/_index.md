@@ -9,7 +9,7 @@ authors:
 
 # kumAstAvin peN by C.N. Annadurai (in unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## ”குமாஸ்தாவின் பெண்”
 அறிஞர் அண்ணா

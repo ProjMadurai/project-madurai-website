@@ -9,7 +9,7 @@ authors:
 
 # cIvaka cintAmaNi - curukkam (with notes of auvai turaicAmi piLLai) (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## சீவக சிந்தாமணி - சுருக்கம்
 உரைக் குறிப்புக்களுடன் - பாகம் 1

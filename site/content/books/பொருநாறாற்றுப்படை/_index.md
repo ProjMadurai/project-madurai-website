@@ -10,7 +10,7 @@ authors:
 
 # porunar ARRuppaTai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### porunar ARRuppaTai of muTattAmakkaNNiyAr
 ( in Tamil Script, Unicode /utf-8 format )

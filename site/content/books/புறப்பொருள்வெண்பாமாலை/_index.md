@@ -10,7 +10,7 @@ authors:
 
 # purapporuL veNpAmAlai in tscii tamil text
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 புறப்பொருள் வெண்பாமாலை
 ஐயனாரிதனார்

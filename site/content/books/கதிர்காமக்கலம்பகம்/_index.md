@@ -10,7 +10,7 @@ authors:
 
 # katirkAmak kalampakam of kantappa cuvAmikaL (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## கதிர்காமக் கலம்பகம்
 ஆசிரியர்: கந்தப்ப சுவாமிகள்

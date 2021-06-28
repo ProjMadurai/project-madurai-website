@@ -9,7 +9,7 @@ authors:
 
 # vijaya rangkam (play) by pammal campanta mutaliyAr (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## பம்மல் சம்பந்த முதலியார் அவர்களின்
 "விஜய ரங்கம் (நாடகம்)"

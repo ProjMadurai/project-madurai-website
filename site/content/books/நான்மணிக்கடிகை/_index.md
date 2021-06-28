@@ -9,7 +9,7 @@ authors:
 
 # naanmaNikkaTikai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## naanmaNikkaTikai of viLampinaakanaar
 (one of kiiz kaNakku works)

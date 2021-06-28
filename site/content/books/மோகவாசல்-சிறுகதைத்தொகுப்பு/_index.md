@@ -9,7 +9,7 @@ authors:
 
 # mOkavAcal - a collection of short stories by ranjcakumAr (in Tamil script, unicode)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### Tamil Works of Contemporary Sri Lankan Authors - IV
 mOkavAcal - a collection of short stories by ranjcakumAr

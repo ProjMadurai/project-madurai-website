@@ -9,7 +9,7 @@ authors:
 
 # putu veLLam by ki.vA. jakannAtan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### புது வெள்ளம் (சங்கநூற் காட்சிகள் )
 கி. வா. ஜகந்நாதன்

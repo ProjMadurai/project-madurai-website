@@ -10,7 +10,7 @@ authors:
 
 # mEnakA -part 1 by vaTuvUr turaicAmi aiyangkAr (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### மேனகா ( நாவல்) - முதல் பாகம்
 வடுவூர் கே. துரைசாமி ஐயங்கார்

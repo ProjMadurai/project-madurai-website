@@ -10,7 +10,7 @@ authors:
 
 # nAlAyira tiviya pirapantam - English Translation - part 4 (in unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## நாலாயிரத் திவ்வியப் பிரபந்தம்
 ஆழ்வார் பாசுரங்கள் - பாகம் 4 (நான்காம் ஆயிரம்)

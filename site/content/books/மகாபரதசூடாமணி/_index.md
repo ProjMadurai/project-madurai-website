@@ -9,7 +9,7 @@ authors:
 
 # mahAparata cuTAmaNi (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### mahAparata cUTAmaNi
 (author not known)
@@ -4852,4 +4852,5 @@ As indicated above, the first three chapters form the present work. The fourth c
 சேர்ந்ததோ ரங்க மாகிச் செயறொறுந் திரியு மாங்கே
 ஆய்ந்திடுந் தாள சந்தி நிபுணமென் னதற்குத் தானே....1046 அநுபந்தம் முற்றும்.
 This page was first put up on Jan 10, 2002
-Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, kumar@vt.edu?subject=PM133-mahAparata cUTAmaNi)
+Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, 
+kumar@vt.edu?subject=PM133-mahAparata cUTAmaNi)

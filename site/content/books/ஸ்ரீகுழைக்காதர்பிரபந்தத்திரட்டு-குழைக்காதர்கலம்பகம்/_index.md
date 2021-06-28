@@ -10,7 +10,7 @@ authors:
 
 # kUzaikkAtar pirapantat tirattu -1 (kuzaikkAtar kalampakam) (in tamil script, unicode format)
 
-kUzaikkAtar pirapantat tirattu -1 (kuzaikkAtar kalampakam) (in tamil script, unicode format)      ![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+kUzaikkAtar pirapantat tirattu -1 (kuzaikkAtar kalampakam) (in tamil script, unicode format)      
 
 ## ஸ்ரீ குழைக்காதர் பிரபந்தத்திரட்டு
 1- குழைக்காதர் கலம்பகம்

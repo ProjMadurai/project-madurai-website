@@ -10,7 +10,7 @@ authors:
 
 # nellai kAntimatiyammai kalittuRai antAti (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### வ. அழகியசொக்கநாத பிள்ளை இயற்றிய
 "திருநெல்வேலி காந்திமதியம்மை கலித்துறை அந்தாதி"

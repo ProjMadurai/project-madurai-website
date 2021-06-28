@@ -10,7 +10,7 @@ authors:
 
 # antima kAlam, a novel by R. Karthigesu (in tamil script, Unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## antima kAlam (a novel)
 by Re. Karthigesu of Malaysia
@@ -2101,4 +2101,5 @@ Pemadam என்ற முத்திரையுடன் போதைப் 
 ### (முற்றும்)
 
 This page was first put up on May 5, 2003
-Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, kumar@vt.edu?subject=PM172-antima kAlam by Karthigesu)
+Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, 
+kumar@vt.edu?subject=PM172-antima kAlam by Karthigesu)

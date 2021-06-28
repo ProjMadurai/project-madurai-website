@@ -9,7 +9,7 @@ authors:
 
 # en caritiram of U.vE. cAminAta aiyar , part 1 (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## என் சரித்திரம் - பாகம் 1
 உ.வே.சாமிநாதையரவர்கள்

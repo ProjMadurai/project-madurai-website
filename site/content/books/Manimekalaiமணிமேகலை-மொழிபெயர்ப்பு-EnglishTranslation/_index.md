@@ -10,7 +10,7 @@ authors:
 
 # maNimEkalai -English Translation by Kausalya Hart (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### சீத்தலை சாத்தனாரின் ”மணிமேகலை”
 ஆங்கில மொழிபெயர்ப்பு

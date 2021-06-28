@@ -9,7 +9,7 @@ authors:
 
 # tamiz nAvelin tORRamum vaLarcciyum by ki.vA. jakannAtan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## தமிழ் நாவலின் தோற்றமும் வளர்ச்சியும்
 (பல்கலைக் கழகச் சொற்பொழிவுகள்)

@@ -10,7 +10,7 @@ authors:
 
 # tirumurukARRuppaTai urai by cuntara caNmukanAr (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### நக்கீரர் எழுதிய திருமுருகாற்றுப்படை- மூலமும்
 பேராசிரியர் சுந்தர சண்முகனார்உரையும்

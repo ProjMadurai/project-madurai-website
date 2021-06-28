@@ -9,7 +9,7 @@ authors:
 
 # pazamozhi 400 (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## pazamozhi nAnUru
 of munRurai araiyanAr (5th Century.A.D)

@@ -10,7 +10,7 @@ authors:
 
 # tiruvarutpA- 3rd tirumurai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## tiruvarutpA of rAmalinga aTikaL
 tirumuRai -III (verses 1959 - 2570)

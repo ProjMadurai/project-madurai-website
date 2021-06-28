@@ -10,7 +10,7 @@ authors:
 
 # kaccik kalampakam of pUNTi arangkanAa mutaliyAr (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## கச்சிக்கலம்பகம்.
 ஆசிரியர்: பூண்டி அரங்கநாதமுதலியார்

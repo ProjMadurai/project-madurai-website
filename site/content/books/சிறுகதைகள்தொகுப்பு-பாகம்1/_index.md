@@ -9,7 +9,7 @@ authors:
 
 # short stories collection -part 1 by Subramaniya Bharathiyar (in unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## சிறுகதைகள் தொகுப்பு - பாகம் 1
 சுப்ரமணிய பாரதியார்

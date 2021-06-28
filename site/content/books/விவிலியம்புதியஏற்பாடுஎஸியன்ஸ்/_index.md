@@ -9,7 +9,7 @@ authors:
 
 # Holy Bible - New Testament - part V (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## Holy Bible - New Testament - part V
 Galatians, Ephesians, Colossians, Thessalonians1 & 2,

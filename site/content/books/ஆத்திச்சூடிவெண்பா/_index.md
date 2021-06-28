@@ -9,7 +9,7 @@ authors:
 
 # AtticUTi veNpA of irAmapArati (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## இராமபாரதி இயற்றிய
 ஆத்திச்சூடி வெண்பா

@@ -10,7 +10,7 @@ authors:
 
 # vaTam piTikka vAngka (novel) by cAvi (in unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## வடம் பிடிக்க வாங்க, ஜப்பானுக்கு!
 சாவி (சா. விஸ்வநாதன்) எழுதியது

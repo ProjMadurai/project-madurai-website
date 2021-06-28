@@ -9,7 +9,7 @@ authors:
 
 # maNipallavalam of nA. partacArati - part 4(in unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## தீபம் நா. பார்த்தசாரதியின்
 மணிபல்லவம் (சரித்திர நாவல்)

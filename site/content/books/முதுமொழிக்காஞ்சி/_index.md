@@ -9,7 +9,7 @@ authors:
 
 # mutumozik kAnjci with notes of cuntara caNmukanAr (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## முது மொழிக் காஞ்சி
 சுந்தர சண்முகனார் உரையுடன்

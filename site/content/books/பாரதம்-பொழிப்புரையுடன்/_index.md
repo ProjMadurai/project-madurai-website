@@ -10,7 +10,7 @@ authors:
 
 # pAratam of peruntEvanAr (with notes) (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## பெருந்தேவனார் அருளிய
 பாரதம் (பொழிப்புரையுடன்)

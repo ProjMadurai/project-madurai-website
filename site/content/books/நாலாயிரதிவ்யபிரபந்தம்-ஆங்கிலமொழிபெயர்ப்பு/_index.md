@@ -10,7 +10,7 @@ authors:
 
 # nAlayira tivya pirapantam -English Translation by Kausalya Hart- part 1 (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## நாலாயிர திவ்ய பிரபந்தம்
 ஆங்கில மொழிபெயர்ப்பு

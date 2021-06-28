@@ -10,7 +10,7 @@ authors:
 
 # kalvETTup pATalkaL manjari (in Unicode tamil text)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 **கல்வெட்டுப் பாடல்கள் மஞ்சரி (3):
 சிராமலை அந்தாதி,

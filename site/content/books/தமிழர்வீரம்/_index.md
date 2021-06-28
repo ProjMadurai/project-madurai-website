@@ -9,7 +9,7 @@ authors:
 
 # tamizar vIram of rA.pi. cEtu piLLai (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## தமிழர் வீரம்
 ஆசிரியர் - ரா.பி. சேதுபிள்ளை

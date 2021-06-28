@@ -9,7 +9,7 @@ authors:
 
 # tamizttAtta u.vE.cA by ki.vA.jakkannAtan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### இந்திய இலக்கியச் சிற்பிகள் : தமிழ்த் தாத்தா
 (டாக்டர் உ. வே. சாமிநாத ஐயரவர்கள் வாழ்வும் இலக்கியப் பணியும்)

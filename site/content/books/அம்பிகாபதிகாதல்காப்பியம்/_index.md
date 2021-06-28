@@ -9,7 +9,7 @@ authors:
 
 # ampikApati kAppiyam by cuntara caNmukanAr(in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### அம்பிகாபதி காதல் காப்பியம்
 (அருஞ்சொற் பொருளுடன்)

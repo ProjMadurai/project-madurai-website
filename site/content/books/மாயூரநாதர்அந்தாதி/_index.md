@@ -10,7 +10,7 @@ authors:
 
 # mAyUranAtar antAti of muttucAmi aiyar (in unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## மாயூரநாதர் அந்தாதி
 வே. முத்துஸாமி ஐயர் எழுதியது

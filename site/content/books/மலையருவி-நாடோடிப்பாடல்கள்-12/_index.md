@@ -9,7 +9,7 @@ authors:
 
 # malai aRuvu (collection of songs) edited by ki.vA. jakannAtan, part 1 (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### மலையருவி (நாடோடிப் பாடல்கள்)
 பர்ஸி மாக்வீன் (சேகரிப்பு),

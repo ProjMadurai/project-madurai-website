@@ -9,7 +9,7 @@ authors:
 
 # cIkAt talapurANam of aruNacalak kavirAyar - part 2 (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## அருணாசலக் கவிராயர் இயற்றிய
 சீகாழித் தலபுராணம்

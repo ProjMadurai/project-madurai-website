@@ -10,7 +10,7 @@ authors:
 
 # naTarAca catakam of citamparanAta munivar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## நடராச சதகம்
 ஆசிரியர் ஸ்ரீமத் சிதம்பரநாத முனிவர்

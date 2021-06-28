@@ -9,7 +9,7 @@ authors:
 
 # pAratiyum pAratitAcanum by njAnacampantan (in unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## பாரதியும் பாரதிதாசனும்
 பேராசிரியர் அ. ச. ஞானசம்பந்தன்

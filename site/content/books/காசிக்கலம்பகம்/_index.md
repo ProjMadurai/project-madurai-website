@@ -10,7 +10,7 @@ authors:
 
 # kAcik kalampakam of kumaraguruparar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## works of Kumarakurupara cuvAmikaL:
 kAcik kalampakam
@@ -934,4 +934,5 @@ You are welcome to freely distribute this file, provided this header page is kep
 
 ### காசிக் கலம்பகம் முற்றிற்று
 This file was last revised on 20 October 2003
-Please send your comments to the [webmasters of this website](mailto:kalyan.geo@yahoo.com,   kumar@vt.edu?subject=PM196-kAcik kalampakam).
+Please send your comments to the [webmasters of this website](mailto:kalyan.geo@yahoo.com, 
+  kumar@vt.edu?subject=PM196-kAcik kalampakam).

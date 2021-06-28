@@ -9,7 +9,7 @@ authors:
 
 # paTTaNattup piLLaiyAr purANam (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## பட்டணத்துப்பிள்ளையார் புராணம்
 

@@ -9,7 +9,7 @@ authors:
 
 # Kalevala - A Finland Epic -part 1b (in tamil script, Unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)  [
+  [
 ## Kalevala - A Finland Epic -part Ib (in tamil script, unicode/utf-8 format)
 
 கலேவலா - பின்லாந்தின் தேசிய காவியம்

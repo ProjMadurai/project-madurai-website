@@ -10,7 +10,7 @@ authors:
 
 # vAlaik kummi, edited by Kumaravel (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## வாலைக் கும்மி
 பதிப்பு இர. குமரவேல்

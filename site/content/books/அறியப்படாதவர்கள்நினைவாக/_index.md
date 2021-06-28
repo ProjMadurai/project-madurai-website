@@ -9,7 +9,7 @@ authors:
 
 # aRiyappaTatavarkaL ninaivAka by A. Jesurajah (in tamil script, unicodew format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### Tamil Works of Contemporary Sri Lankan Authors - XI
 aRiyappaTAtavarkaL ninaivAka by A. Jesurajah
@@ -1212,4 +1212,5 @@ aRiyappaTAtavarkaL ninaivAka...!
 5.11.81
 /* /* முற்றும் /* /*
 This page was first put up on April 24, 2001
-Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, kumar@vt.edu?subject=PM107 ninaivaka)
+Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, 
+kumar@vt.edu?subject=PM107 ninaivaka)

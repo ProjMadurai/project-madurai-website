@@ -9,7 +9,7 @@ authors:
 
 # nAlaTiyAr urai by cuntara caNmukanAr(in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### திருக்குறள் : குறட்பாக்கள் தமிழிலும் கவியோகி மகரிஷி
 சுத்தானந்த பாரதியாரின் ஆங்கில மொழியாக்கமும்

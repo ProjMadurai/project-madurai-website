@@ -10,7 +10,7 @@ authors:
 
 # tiruvAcakat tEN by kunRakkuTi aTikaL (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### திருவாசகத் தேன்
 தவத்திரு குன்றக்குடி அடிகளார்

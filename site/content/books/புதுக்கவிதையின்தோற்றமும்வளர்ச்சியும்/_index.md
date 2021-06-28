@@ -9,7 +9,7 @@ authors:
 
 # putuk kavitaiyin tORRamum vaLarcciyum by vallikkaNNan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## "புதுக்கவிதையின் தோற்றமும் வளர்ச்சியும்"
 (சாகித்ய அகாதமி பரிசு பெற்ற நூல்)

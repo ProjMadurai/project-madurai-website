@@ -9,7 +9,7 @@ authors:
 
 # apinava kataikal by T. celvakEcavarAya mutaliyAr (in tamil script, unicode format)
 
-apinava kataikal by T. celvakEcavarAya mutaliyAr (in tamil script, unicode format)      ![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+apinava kataikal by T. celvakEcavarAya mutaliyAr (in tamil script, unicode format)      
 
 ## அபிநவ கதைகள்
 (தி. செல்வகேசவராய முதலியார்)

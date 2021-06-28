@@ -10,7 +10,7 @@ authors:
 
 # aatavan kataikaL, Naa. Parthasarathy edited. (in tamil script, unicode format)
 
-aatavan kataikaL, Naa. Parthasarathy edited. (in tamil script, unicode format)      ![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+aatavan kataikaL, Naa. Parthasarathy edited. (in tamil script, unicode format)      
 
 ## ஆதவன் சிறுகதைகள்
 தொகுப்பு: இந்திரா பார்த்தசாரதி

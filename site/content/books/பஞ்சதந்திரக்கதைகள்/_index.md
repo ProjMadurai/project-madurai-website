@@ -9,7 +9,7 @@ authors:
 
 # panjca tantirak kataikaL by nArA nAcciyappan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### பஞ்ச தந்திரக் கதைகள்
 ஆசிரியர் பாவலர் நாரா. நாச்சியப்பன்

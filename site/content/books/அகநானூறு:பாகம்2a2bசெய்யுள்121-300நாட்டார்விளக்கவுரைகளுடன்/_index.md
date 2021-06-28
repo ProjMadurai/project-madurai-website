@@ -9,7 +9,7 @@ authors:
 
 # akanAnUru - part 2A with nAvalar vEngkaTacAmi nATTAr commentary (verses 121-210)(in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## அகநானூறு: மணிமிடை பவளம்
 பாகம் 2a செய்யுள் 121-210

@@ -9,7 +9,7 @@ authors:
 
 # nalluraikkOvai -4 of u. vE. cAminAta aiyar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## நல்லுரைக்கோவை -
 நான்காம் பாகம் (கட்டுரைகள்)

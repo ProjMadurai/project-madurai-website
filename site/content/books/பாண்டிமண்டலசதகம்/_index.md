@@ -10,7 +10,7 @@ authors:
 
 # pANTi maNTala catakam of aiyamperumAL Aciriyar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## மதுரை ஐயம்பெருமாள்
 இயற்றிய "பாண்டிமண்டல சதகம்"

@@ -9,7 +9,7 @@ authors:
 
 # cintanaiyaLar makkiyaveLLi by nArA nAcciyappan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ### சிந்தனையாளர் மாக்கியவெல்லி
 எழுதியவர் : நாரா. நாச்சியப்பன்

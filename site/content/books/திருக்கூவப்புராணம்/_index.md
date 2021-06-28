@@ -9,7 +9,7 @@ authors:
 
 # tirukkUva purANam of civapirakAca cuvAmikaL(in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## திருக்கூவப்புராணம்
 ஆசிரியர்: துறைமங்கலம் சிவப்பிரகாச சுவாமிகள்

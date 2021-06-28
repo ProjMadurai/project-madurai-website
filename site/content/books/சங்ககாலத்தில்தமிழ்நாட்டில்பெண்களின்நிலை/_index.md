@@ -9,7 +9,7 @@ authors:
 
 # The Status of Women in Tamil Nadu During the Sangam Age by C. Balasubramanian(in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## சங்க காலத்தில் தமிழ் நாட்டில்
 பெண்களின் நிலை (சொற்பொழிவு)

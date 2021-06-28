@@ -9,7 +9,7 @@ authors:
 
 # Nadakak kalai by Auvai T.K. Shanmugam (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## நாடகக் கலை
 அவ்வை டி கே. சண்முகம்

@@ -9,7 +9,7 @@ authors:
 
 # kalkiyin2 alai Ocai part 2<br>(in tamil script, unicode/utf-8 format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## கல்கியின் அலை ஒசை
 பாகம் 3 - 'எரிமலை'

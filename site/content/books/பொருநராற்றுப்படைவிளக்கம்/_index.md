@@ -9,7 +9,7 @@ authors:
 
 # porunarARRuppaTai viLakkam of ki.vA. jakannatan (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## பொருநராற்றுப்படை விளக்கம்
 கி. வா. ஐகந்நாதன்

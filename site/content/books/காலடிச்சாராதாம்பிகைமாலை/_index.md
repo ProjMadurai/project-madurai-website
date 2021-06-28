@@ -10,7 +10,7 @@ authors:
 
 # sri kAlaTic cAratAmbikai mAlai of tinTukkal vengkucAmi aiyar (in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## திண்டுக்கல் வெங்குசாமி அய்யர் அருளிச்செய்த
 "காலடிச் சாராதாம்பிகை மாலை"

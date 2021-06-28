@@ -10,7 +10,7 @@ authors:
 
 # canmuka kavacham & thiruchendur kandar kalivenpa(in tamil script, unicode format)
 
-![](https://www.projectmadurai.org/pm_etexts/utf8/pmdr0.gif)
+
 
 ## canmuka kaavacam of pAmpan kumarakurutAca cuvamikaL (1853-1929) &
 thirucentUr kandar kaliveNpA of kumarakuruparar
