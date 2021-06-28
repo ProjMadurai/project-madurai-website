@@ -2,29 +2,51 @@
 <div class="container px-3 min-vh-100">
 <nav class="navbar">
 
-    <ol class="breadcrumb">
-        {{if ne .Parent.Title "Books"}}
+    {{if eq .Title "Books"}}
+    
+    {{ else }}
+
+    <ol class="breadcrumb">      
+        {{if ne .Parent.Title "Books"}}  
         <li class="breadcrumb-item" aria-current="page">
             <a class="h4" href="{{strings.TrimRight "/" .Parent.Permalink}}">{{.Parent.Title}}</a>
-        </li>
-        {{end}}
+        </li>     
         <li class="breadcrumb-item h5" aria-current="page">{{.Title}}</li>
+        {{ else }}
+        <h4>{{.Title}}</h4>
+        {{end}}   
+        
     </ol>
+    {{end}}
+
+    
     
    
   </nav>
   
 
 <main class="pt-3">
-    <ul>
-    <!-- Ranges through content/posts/*.md -->
-    {{ range .Pages }}
-        <li>
-            <a href="{{strings.TrimRight "/" .Permalink}}">{{.Title}}</a>
-        </li>
-    {{ end }}
-    </ul>
 
-    {{- .Content -}} </main>
+
+    <div class="row row-cols-1 row-cols-md-6 gx-4">
+        {{ range .Pages }}
+        <div class="col">
+          <div class="card border-0" >
+            <img src="https://placeimg.com/100/80/people" class="card-img-top img-thumbnail" alt="...">
+            <div class="card-body">
+                <h5 class="fw-bold">{{ .Title }}</h5>
+                {{- range $index, $element := .Params.authors }}
+                {{ if gt $index 0 }} & {{ end }}
+                <small>{{ . }}</small>
+              {{ end }}
+            </div>
+          </div>
+        </div>
+        
+        {{ end }}
+    </div>
+
+    {{- .Content -}} 
+</main>
 </div>
 {{ end }}
