@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 371
 authors:
   - சிவஞான சுவாமிகள்
-authors:
+genres:
   - பிரபந்தம்
   - பிள்ளைத்தமிழ்
 ---

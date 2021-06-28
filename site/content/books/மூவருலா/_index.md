@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 116
 authors:
   - ஒட்டக்கூத்தர்
-authors:
+genres:
   - உலா
   - பிரபந்தம்
 ---

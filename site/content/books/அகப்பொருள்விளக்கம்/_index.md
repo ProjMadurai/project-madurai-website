@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 295
 authors:
   - நாற்கவிராச நம்பி
-authors:
+genres:
   - இலக்கணம்
 ---
 

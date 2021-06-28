@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 366
 authors:
   - துரைசாமி முதலியார்
-authors:
+genres:
   - கலம்பகம்
   - பிரபந்தம்
 ---

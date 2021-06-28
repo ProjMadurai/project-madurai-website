@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 627
 authors:
   - பிள்ளைப்பெருமாளையங்கார்
-authors:
+genres:
   - தூது
   - பிரபந்தம்
 ---

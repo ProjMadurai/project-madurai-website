@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 494
 authors:
   - ஔவை துரைசாமி பிள்ளை விளக்க உரை
-authors:
+genres:
   - சங்ககாலம் – எட்டுத்தொகை
 ---
 

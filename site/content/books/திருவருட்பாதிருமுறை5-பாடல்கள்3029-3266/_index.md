@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 128
 authors:
   - இராமலிங்க அடிகள்
-authors:
+genres:
   - சமயம்
   - சைவம்
 ---

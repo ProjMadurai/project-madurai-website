@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 509
 authors:
   - ஔவை துரைசாமிப்பிள்ளை (தொகுப்பு)
-authors:
+genres:
   - காப்பியம்
 ---
 

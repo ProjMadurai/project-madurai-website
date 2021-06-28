@@ -5,7 +5,7 @@ weight: 222
 authors:
   - mAnikkavACagar)
   - ஜி.யூ. போப் (G.U.Pope
-authors:
+genres:
   - சமயம்
   - சைவம்
 ---

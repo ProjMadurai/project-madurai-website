@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 392
 authors:
   - வ. சு. செங்கல்வராய பிள்ளை
-authors:
+genres:
   - சமயம்
   - சைவம்
 ---

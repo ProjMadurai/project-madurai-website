@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 681
 authors:
   - அவ்வை தி.க. சண்முகம்
-authors:
+genres:
   - வரலாறு
 ---
 

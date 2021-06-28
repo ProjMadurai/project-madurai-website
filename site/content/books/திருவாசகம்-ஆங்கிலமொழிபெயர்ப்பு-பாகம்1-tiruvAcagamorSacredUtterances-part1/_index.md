@@ -6,7 +6,7 @@ authors:
   - mAnikkavACagar)
   - ஜி.யூ. போப்
   - மாணிக்க வாசகர் (G.U. Pope
-authors:
+genres:
   - சமயம்
   - சைவம்
 ---

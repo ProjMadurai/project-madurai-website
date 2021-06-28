@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 726
 authors:
   - தமிழண்ணல் (இராம. பெரியகருப்பன்)
-authors:
+genres:
   - வரலாறு / சரித்திரம்
 ---
 

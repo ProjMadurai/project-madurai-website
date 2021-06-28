@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 365
 authors:
   - மாயூரம் முத்துசாமிப் பிள்ளை
-authors:
+genres:
   - பிரபந்தம்
   - மாலை
 ---

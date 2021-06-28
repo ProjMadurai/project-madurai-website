@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 448
 authors:
   - வெ.ப. சுப்பிரமணிய முதலியார்
-authors:
+genres:
   - பிரபந்தம்
   - விருத்தம்
 ---

@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 508
 authors:
   - ஔவை துரைசாமி பிள்ளை (உரை )
-authors:
+genres:
   - காப்பியம்
 ---
 

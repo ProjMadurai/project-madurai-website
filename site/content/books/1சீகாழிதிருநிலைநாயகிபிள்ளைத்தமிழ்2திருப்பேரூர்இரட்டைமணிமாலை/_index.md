@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 766
 authors:
   - 1. கவியரசு. கு. நடேசகவுண்டர் 2. சி.கே. சுப்பிரமணிய முதலியார்
-authors:
+genres:
   - பிரபந்தம்
   - பிள்ளைத்தமிழ், மாலை
 ---

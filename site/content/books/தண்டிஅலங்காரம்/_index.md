@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 145
 authors:
   - தண்டியாசிரியர்
-authors:
+genres:
   - இலக்கணம்
 ---
 

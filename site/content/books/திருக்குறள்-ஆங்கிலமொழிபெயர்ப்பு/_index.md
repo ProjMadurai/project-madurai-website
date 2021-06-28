@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 664
 authors:
   - இராமசந்திர தீக்‌ஷிதர்
-authors:
+genres:
   - ஆங்கில மொழிபெயர்ப்பு
 ---
 

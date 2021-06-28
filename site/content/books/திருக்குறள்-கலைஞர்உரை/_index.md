@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 611
 authors:
   - கலைஞர் மு. கருணாநிதி
-authors:
+genres:
   - நீதிநெறி – பதினெண்கீழ்க்கணக்கு
 ---
 

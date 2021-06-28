@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 729
 authors:
   - (i) சிதம்பர முனிவர்; (ii) சின்னப்ப நாயக்கர்
-authors:
+genres:
   - பிரபந்தம்
   - பிள்ளைத்தமிழ்
 ---

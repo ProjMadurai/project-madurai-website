@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 200
 authors:
   - ஸ்ரீ ஈசான்ய ஞான தேசிகர் மீது
-authors:
+genres:
   - தூது
   - பிரபந்தம்
 ---

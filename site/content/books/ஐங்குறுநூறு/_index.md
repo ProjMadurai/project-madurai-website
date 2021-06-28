@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 28
 authors:
   - பல ஆசிரியர்கள் (5)
-authors:
+genres:
   - சங்ககாலம் – எட்டுத்தொகை
 ---
 

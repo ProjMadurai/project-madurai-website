@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 123
 authors:
   - செயங்கொண்டார்
-authors:
+genres:
   - பரணி
   - பிரபந்தம்
 ---

@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 610
 authors:
   - கவிஞர் வாணிதாசன்
-authors:
+genres:
   - கவிதைத் தொகுப்பு
 ---
 

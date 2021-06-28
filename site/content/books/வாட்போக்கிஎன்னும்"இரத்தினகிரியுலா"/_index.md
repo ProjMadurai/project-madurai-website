@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 769
 authors:
   - சேறைக் கவிராசபிள்ளை ஸ்ரீநிவாசையர் குறிப்புரையுடன்
-authors:
+genres:
   - உலா
   - பிரபந்தம்
 ---

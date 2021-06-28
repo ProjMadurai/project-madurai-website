@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 772
 authors:
   - திரு. வி. கலியாண சுந்தரனர்
-authors:
+genres:
   - சொற்பொழிவுகள்
 ---
 

@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 368
 authors:
   - படிக்காசுப் புலவர்
-authors:
+genres:
   - கலம்பகம்
   - பிரபந்தம்
 ---

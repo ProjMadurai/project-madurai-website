@@ -2,9 +2,9 @@
 title: 'விவிலியம் /பழைய ஏற்பாடு /8 (ரூத்து); 9 (சாமுவேல் - முதல் நூல்); 10 (சாமுவேல் - இரண்டாம் நூல்)'
 thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 248
-authors:
+genres:
   - விவிலியம்
-authors:
+genres:
   - சமயம் – கிருத்துவம்
 ---
 

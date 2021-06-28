@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 152
 authors:
   - பவநந்தி முனிவர்
-authors:
+genres:
   - இலக்கணம்
 ---
 

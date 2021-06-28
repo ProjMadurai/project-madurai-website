@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 6
 authors:
   - திருமங்கை ஆழ்வார்
-authors:
+genres:
   - சமயம்
   - வைணவம்
 ---

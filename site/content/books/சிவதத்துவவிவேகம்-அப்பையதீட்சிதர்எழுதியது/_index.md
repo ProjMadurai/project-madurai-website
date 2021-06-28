@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 746
 authors:
   - சிவஞான சுவாமிகள் மொழிபெயர்ப்பு
-authors:
+genres:
   - சமயம்
   - சைவம்
   - தமிழ் மொழிபெயர்ப்பு

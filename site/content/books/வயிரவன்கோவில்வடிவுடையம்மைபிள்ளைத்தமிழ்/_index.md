@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 783
 authors:
   - சேந்தன்குடி வி. நடராச கவிராயரவர்கள்
-authors:
+genres:
   - பிரபந்தம்
   - பிள்ளைத்தமிழ்
 ---

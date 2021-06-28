@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 562
 authors:
   - பாந்தளூர் வெண்கோழியார் ச. வெள்ளைவாரணனார் (தொகுப்பு)
-authors:
+genres:
   - தூது
   - பிரபந்தம்
 ---

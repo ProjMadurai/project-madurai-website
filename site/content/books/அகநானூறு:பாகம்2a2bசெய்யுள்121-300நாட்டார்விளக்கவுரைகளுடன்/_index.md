@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 523
 authors:
   - நாவலர், ந.மு. வேங்கடசாமி நாட்டார்
-authors:
+genres:
   - சங்ககாலம் – எட்டுத்தொகை
 ---
 

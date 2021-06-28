@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 782
 authors:
   - திருப்புலியூர் அழகிய திருச்சிற்றம்பல தேசிகர்
-authors:
+genres:
   - பிரபந்தம்
   - பிள்ளைத்தமிழ்
 ---

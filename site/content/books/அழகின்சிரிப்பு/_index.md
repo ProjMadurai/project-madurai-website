@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 37
 authors:
   - பாரதிதாசன்
-authors:
+genres:
   - கவிதைகள்
 ---
 

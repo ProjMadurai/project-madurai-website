@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 103
 authors:
   - சொக்கநாதப்புலவர்
-authors:
+genres:
   - தூது
   - பிரபந்தம்
 ---

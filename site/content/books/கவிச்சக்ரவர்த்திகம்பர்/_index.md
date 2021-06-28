@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 202
 authors:
   - இராகவ ஐயங்கார்
-authors:
+genres:
   - வரலாறு / சரித்திரம்
 ---
 

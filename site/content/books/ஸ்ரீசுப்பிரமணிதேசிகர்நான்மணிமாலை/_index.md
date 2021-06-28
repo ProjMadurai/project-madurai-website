@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 356
 authors:
   - சந்திரசேகர கவிராஜ பண்டிதர்
-authors:
+genres:
   - பிரபந்தம்
   - மாலை
 ---

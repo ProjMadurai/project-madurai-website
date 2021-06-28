@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 320
 authors:
   - குருஞான சம்பந்தர்
-authors:
+genres:
   - பிரபந்தம்
   - வெண்பா
 ---

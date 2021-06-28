@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 598
 authors:
   - கி. வா. ஜகந்நாதன்
-authors:
+genres:
   - சங்ககாலம் – பத்துப்பாட்டு
 ---
 

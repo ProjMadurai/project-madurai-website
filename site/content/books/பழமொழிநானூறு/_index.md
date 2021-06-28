@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 36
 authors:
   - முன்றுறையரையனார்
-authors:
+genres:
   - நீதிநெறி – பதினெண்கீழ்க்கணக்கு
 ---
 

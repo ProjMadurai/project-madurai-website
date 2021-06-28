@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 656
 authors:
   - 
-authors:
+genres:
   - பிரபந்தம்
   - வெண்பா, மாலை பிள்ளைத் தமிழ்
 ---

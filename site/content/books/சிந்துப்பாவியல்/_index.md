@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 263
 authors:
   - இரா. திருமுருகன் (அரங்க நடராசன் உரையுடன்)
-authors:
+genres:
   - இலக்கணம்
 ---
 

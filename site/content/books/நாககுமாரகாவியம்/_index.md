@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 600
 authors:
   - மூலமும் சின்னசாமி நயினார் உரையும்
-authors:
+genres:
   - காப்பியம்
 ---
 

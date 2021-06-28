@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 513
 authors:
   - ஆறுமுக நாவலர்
-authors:
+genres:
   - சமயம்
   - சைவம்
 ---

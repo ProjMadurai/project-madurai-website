@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 77
 authors:
   - கடியலூர் உருத்திரங்கண்ணனார்
-authors:
+genres:
   - சங்ககாலம்
   - பத்துப்பாட்டு
 ---

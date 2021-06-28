@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 436
 authors:
   - புராண திருமலைநாதர்
-authors:
+genres:
   - பிரபந்தம்
   - மாலை (3); நெடில் (2)
 ---

@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 688
 authors:
   - ஔவை துரைசாமி பிள்ளை
-authors:
+genres:
   - சொற்பொழிவு
 ---
 

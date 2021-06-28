@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 445
 authors:
   - சுப்பிரமணியத்தம்பிரான் சுவாமிகள்
-authors:
+genres:
   - பிரபந்தம்
   - விருத்தம்
 ---

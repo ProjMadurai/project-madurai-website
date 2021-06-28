@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 282
 authors:
   - இரங்கசாமி தாஸன்
-authors:
+genres:
   - பிரபந்தம்
   - லாவணி
 ---

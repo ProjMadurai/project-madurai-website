@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 285
 authors:
   - 
-authors:
+genres:
   - சமயம் – கிருத்துவம்
 ---
 

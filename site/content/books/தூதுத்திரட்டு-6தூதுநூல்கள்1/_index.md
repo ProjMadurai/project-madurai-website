@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 617
 authors:
   - புலவர் பசுபதி, சந்திரசேகரன் தொகுப்பு
-authors:
+genres:
   - தூது
   - பிரபந்தம்
 ---

@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 98
 authors:
   - கி.பி. அரவிந்தன்
-authors:
+genres:
   - கவிதைகள் தொகுப்பு
 ---
 

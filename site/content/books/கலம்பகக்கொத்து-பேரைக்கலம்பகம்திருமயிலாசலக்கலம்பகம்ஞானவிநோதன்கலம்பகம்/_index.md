@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 666
 authors:
   - த. சந்திரசேகரன் (தொகுப்பு)
-authors:
+genres:
   - கலம்பகம்
   - பிரபந்தம்
 ---

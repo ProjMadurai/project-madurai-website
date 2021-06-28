@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 358
 authors:
   - உறையூர் தே. பெரியசாமி பிள்ளை
-authors:
+genres:
   - பிரபந்தம்
   - மாலை
 ---

@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 207
 authors:
   - சுந்தரமூர்த்தி சுவாமிகள்
-authors:
+genres:
   - சமயம்
   - சைவம்
 ---

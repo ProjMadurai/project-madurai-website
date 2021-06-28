@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 100
 authors:
   - தொல்காப்பியர்
-authors:
+genres:
   - இலக்கணம்
 ---
 

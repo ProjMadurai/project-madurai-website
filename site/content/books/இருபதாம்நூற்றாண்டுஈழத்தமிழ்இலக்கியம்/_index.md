@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 117
 authors:
   - மௌனகுரு; சித்ரலேகா; நூமான்
-authors:
+genres:
   - இலக்கிய வரலாறு
 ---
 

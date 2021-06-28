@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 183
 authors:
   - கோவை செட்டிபாளையம் மகாவித்துவான் குட்டியப்ப கவுண்டர்
-authors:
+genres:
   - தூது
   - பிரபந்தம்
 ---

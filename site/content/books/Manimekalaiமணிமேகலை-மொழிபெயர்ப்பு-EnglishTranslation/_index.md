@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 710
 authors:
   - cIttalai cAttanAr- Kausalya Hart
-authors:
+genres:
   - காப்பியம்
   - மொழிபெயர்ப்பு
 ---

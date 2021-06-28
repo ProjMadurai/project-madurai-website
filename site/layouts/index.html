@@ -29,10 +29,10 @@
     {{ range (where .Site.Sections "Section" "books" ) }}
           {{ range first 8 .Pages  }}
           <div class="row-cols-1 col-md-3">
-            <h5 class="fw-bold">{{ .Title }}</h5>
+            <h5 class="fw-bold"><a href="{{strings.TrimRight "/" .Permalink}}">{{.Title}}</a></h5>
             {{- range $index, $element := .Params.authors }}
               {{ if gt $index 0 }} & {{ end }}
-              <a href="/authors/{{ urlize . }}">{{ . }}</a>
+              <small>{{ . }}</small>
             {{ end }}
            
           </div>

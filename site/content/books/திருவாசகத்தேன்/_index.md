@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 794
 authors:
   - குன்றக்குடி அடிகள்
-authors:
+genres:
   - சமயம்
   - சைவம், ஆராய்ச்சிக் கட்டுரைகள்
 ---

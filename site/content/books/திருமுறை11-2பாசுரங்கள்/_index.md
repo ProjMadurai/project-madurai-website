@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 127
 authors:
   - பட்டினத்துப் பிள்ளையார்
-authors:
+genres:
   - சமயம்
   - சைவம்
 ---

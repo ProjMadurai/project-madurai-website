@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 510
 authors:
   - மழவைராயனேந்தல் சுப்பிரமணிய பாரதியார்
-authors:
+genres:
   - பிரபந்தம்
   - பிள்ளைத்தமிழ்
 ---

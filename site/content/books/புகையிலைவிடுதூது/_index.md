@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 381
 authors:
   - சீனிச்சர்க்கரைப்புலவர்
-authors:
+genres:
   - தூது
   - பிரபந்தம்
 ---

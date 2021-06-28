@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 46
 authors:
   - இளங்கோ அடிகள்
-authors:
+genres:
   - காப்பியம்
 ---
 

@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 473
 authors:
   - பல ஆசிரியர்கள் (ஔவை துரைசாமி பிள்ளை உரை)
-authors:
+genres:
   - சங்ககாலம் – எட்டுத்தொகை
 ---
 

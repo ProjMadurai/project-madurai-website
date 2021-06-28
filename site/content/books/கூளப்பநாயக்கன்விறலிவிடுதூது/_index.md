@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 659
 authors:
   - சுப்ர தீபக் கவி
-authors:
+genres:
   - தூது
   - பிரபந்தம்
 ---

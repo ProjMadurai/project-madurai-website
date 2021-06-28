@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 663
 authors:
   - திருத்தக்க தேவர் சோமசுந்தரனார் உரையுடன்
-authors:
+genres:
   - காப்பியம்
 ---
 

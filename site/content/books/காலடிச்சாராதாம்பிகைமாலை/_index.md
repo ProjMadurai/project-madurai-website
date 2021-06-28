@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 379
 authors:
   - திண்டுக்கல் வெங்குசாமி அய்யர்
-authors:
+genres:
   - பிரபந்தம்
   - மாலை
 ---
