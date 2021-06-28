@@ -33,7 +33,7 @@
     <div class="row row-cols-1 row-cols-md-6 gx-4">
         {{ range .Pages }}
         <div class="col">
-          <a href="{{strings.TrimRight "/" .Permalink}}"><div class="card border-0" >
+          <a  class="text-decoration-none" href="{{strings.TrimRight "/" .Permalink}}"><div class="card border-0" >
           <img src="{{strings.TrimRight "/" .Params.thumbnail}}" class="card-img-top p-2" alt="...">
           <div class="card-body">
           <h6 class="text-truncate fw-bold text-center">{{ .Title }}</h6>
