@@ -1,5 +1,5 @@
 {{ define "main" }} {{ $section := .Site.GetPage "section" .Section }}
-
+<div class="container px-3 min-vh-100">
   <nav class="navbar border-1 border-bottom">
   <div class="row w-100">
     <div class="col-4">
@@ -18,4 +18,5 @@
 <main id="content" class="pt-3">
   {{- .Content -}}
 </main>
+</div>
 {{ end }}
