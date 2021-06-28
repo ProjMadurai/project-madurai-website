@@ -1,4 +1,4 @@
-<header>
+<header class="header">
   <!-- Fixed navbar -->
   <nav class="navbar navbar-light navbar-expand-md fixed-top border-bottom">
     <div class="container-fluid">
@@ -12,7 +12,7 @@
         aria-expanded="false"
         aria-label="Toggle navigation"
       >
-        <span class="navbar-toggler-icon"><i class="fas fa-bars"></i></span>
+        <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarCollapse">
         <ul class="navbar-nav ms-auto mb-2 mb-md-0">
@@ -20,10 +20,10 @@
             <a class="nav-link active fw-bold" aria-current="page" href="#">முகப்பு</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link fw-bold" href="#">புத்தகங்கள்</a>
+            <a class="nav-link fw-bold" href="{{ "/books" | relURL }}">புத்தகங்கள்</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link fw-bold" href="#">ஆசிரியர்கள்</a>
+            <a class="nav-link fw-bold" href="{{ "/authors" | relURL }}">ஆசிரியர்கள்</a>
           </li>
           <li class="nav-item">
             <a class="nav-link fw-bold" href="#">தொண்டர்கள்</a>
