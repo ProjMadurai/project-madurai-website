@@ -1,8 +1,8 @@
 ---
 name: கண்ணங் கூத்தனார்
-photo_url: 'https://github.com/rmhari.png'
+photo_url: 'https://github.com/thiruvalluvar.png'
 photo_credit: '[Clem Onojeghuo](https://unsplash.com/@clemono2)'
-avatar: 'https://github.com/rmhari.png?size=100'
+avatar: 'https://github.com/thiruvalluvar.png?size=100'
 ---
 
 கண்ணங் கூத்தனார் அல்லது கண்ணங்கூத்தனார் என்பவர் சங்கம் மருவிய காலத்தில் வாழ்ந்த ஒரு புலவர். இவர் பதினெண் கீழ்க்கணக்கு நூல்களில் ஒன்றான கார் நாற்பது என்னும் நூலைப் பாடியவர். 

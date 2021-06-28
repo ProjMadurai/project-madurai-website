@@ -1,8 +1,8 @@
 ---
 name: மாறன் பொறையனார்
-photo_url: 'https://github.com/rmhari.png'
+photo_url: 'https://github.com/thiruvalluvar.png'
 photo_credit: '[Clem Onojeghuo](https://unsplash.com/@clemono2)'
-avatar: 'https://github.com/rmhari.png?size=100'
+avatar: 'https://github.com/thiruvalluvar.png?size=100'
 ---
 மாறன் பொறையனார் பதினெண்கீழ்க்கணக்கு நூல்களுள் ஒன்றான ஐந்திணை ஐம்பதை எழுதியவர். மாறன் என்பதை இவருடைய தந்தையின் பெயரெனக் கருதிடில் பொறையனார் என்பதை இவர் இயற்பெயர் எனலாம். இவர் இயற்றிய வேறு நூல்கள் ஏதும் கிடைத்திலது.
 

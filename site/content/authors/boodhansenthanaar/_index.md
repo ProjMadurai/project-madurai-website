@@ -1,8 +1,8 @@
 ---
 name: பூதஞ்சேந்தனார்
-photo_url: 'https://github.com/rmhari.png'
+photo_url: 'https://github.com/thiruvalluvar.png'
 photo_credit: '[Clem Onojeghuo](https://unsplash.com/@clemono2)'
-avatar: 'https://github.com/rmhari.png?size=100'
+avatar: 'https://github.com/thiruvalluvar.png?size=100'
 ---
 பூதஞ்சேந்தனார், இயற்பெயர் சேந்தனார்; இவர் தந்தை பெயர் பூதனார்; இந்தப் பூதனார் மதுரையில் வாழ்ந்தவர். இவர் தமிழ் ஆசிரியர். ஆதலால் இவரை மதுரைத் தமிழாசிரியர் மகனார் பூதஞ்சேந்தனார் என்று அழைத்தனர்.
 

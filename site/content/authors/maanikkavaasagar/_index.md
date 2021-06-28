@@ -1,8 +1,8 @@
 ---
 name: மாணிக்கவாசகர்
-photo_url: 'https://github.com/rmhari.png'
+photo_url: 'https://github.com/thiruvalluvar.png'
 photo_credit: '[Clem Onojeghuo](https://unsplash.com/@clemono2)'
-avatar: 'https://github.com/rmhari.png?size=100'
+avatar: 'https://github.com/thiruvalluvar.png?size=100'
 ---
 மாணிக்கவாசகர் சைவ சமயக் குரவர்கள் நால்வரில் ஒருவராவர். முன்னைய மூவரும் தேவாரம் பாடியிருக்க இவர் பாடிய நூல்களாவன: திருவாசகமும், திருக்கோவையாருமாகும். இவர் 9 ஆம் நூற்றாண்டில் வரகுண பாண்டியன் காலத்தைச் சேர்ந்தவர். இவர் அரிமர்த்தன பாண்டியனிடம் தலையமைச்சராக பணியாற்றினார்.
 

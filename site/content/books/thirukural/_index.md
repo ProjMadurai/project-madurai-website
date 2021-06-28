@@ -2,9 +2,9 @@
 title: திருக்குறள்
 weight: 1
 authors:
-  - rmhari
+  - thiruvalluvar
 genres:
-  - rmhari 
+  - thiruvalluvar 
 tags:
   - cake
   - chocolate

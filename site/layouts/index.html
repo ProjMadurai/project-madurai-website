@@ -1,19 +1,65 @@
 {{ define "main" }}
 
 
-<h1>மதுரை தமிழ் இலக்கிய மின்பதிப்புத் திட்டம்</h1>
-          <p class="lead">இது ஒரு உலகளாவிய தமிழர்கள் இணையம்வழி ஒன்றுகூடி தமிழ் இலக்கியங்களின் மின்பதிப்புக்களை உருவாக்கி அவற்றை இணையம்வழி உலகெங்கிலும் உள்ள தமிழர்களும் தமிழார்வலர்களும் இலவசமாக பெற வசதிசெய்யும் திட்டம்.
-          </p>
-          <p class="lead">
-            <a href="#" class="btn btn-lg btn-secondary fw-bold border-white bg-white">Learn more</a>
-          </p>
+<div class="container h-100">
+  <div class="row">
+    <div class="col-md-12 mt-3"></div>
+       
+       <div class="text-center">
+        <img src="{{ "images/image 24.jpg" | relURL }}" alt="main img">
+      </div>
+  </div>
 
+  <div class="row">
+    <div class="col-md-8 text-center offset-md-2">
+      <h4 class="fw-bold">மதுரை தமிழ் இலக்கிய மின்பதிப்புத் திட்டம்</h4>
+      <p class="lead fs-6">இது ஒரு உலகளாவிய தமிழர்கள் இணையம்வழி ஒன்றுகூடி தமிழ் இலக்கியங்களின் மின்பதிப்புக்களை உருவாக்கி அவற்றை இணையம்வழி உலகெங்கிலும் உள்ள தமிழர்களும் தமிழார்வலர்களும் இலவசமாக பெற வசதிசெய்யும் திட்டம்.
+      </p>
+      <div class="input-group bg-light shadow rounded-start">
+        <button class="btn  dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">எல்லாம்</button>
+        <ul class="dropdown-menu">
+          <li><a class="dropdown-item" href="#">Action before</a></li>
+          <li><a class="dropdown-item" href="#">Another action before</a></li>
+          <li><a class="dropdown-item" href="#">Something else here</a></li>
+          <li><hr class="dropdown-divider"></li>
+          <li><a class="dropdown-item" href="#">Separated link</a></li>
+        </ul>
+        <input type="text" class="form-control" aria-label="Text input with 2 dropdown buttons">
+        <button class="btn bg-info text-white rounded-start" type="submit"><i class="fas fa-search"></i></button>
+        </ul>
+      </div>
+    </div>
+  </div>
 
+  <div class="row mt-5 offset-md-1">
 
-          {{ range (where .Site.Sections "Section" "books" ) }}
+    {{ range (where .Site.Sections "Section" "books" ) }}
           {{ range .Pages  }}
-          <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+
+          <div class="col-md-3">
+            <h5 class="fw-bold">{{ .Title }}</h5>
+            {{- range $index, $element := .Params.authors }}
+              {{ if gt $index 0 }} & {{ end }}
+              <a href="/authors/{{ urlize . }}">{{ . }}</a>
+            {{ end }}
+            <!-- <h6>{{ .Authors }}</h6> -->
+          </div>
+
+          
         {{ end }} 
       {{ end }} 
+
+
+  </div>
+
+  
+
+
+
+</div>
+
+
+
+          
 
 {{ end }}

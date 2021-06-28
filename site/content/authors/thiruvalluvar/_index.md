@@ -1,8 +1,8 @@
 ---
 name: திருவள்ளுவர்
-photo_url: 'https://github.com/rmhari.png'
+photo_url: 'https://github.com/thiruvalluvar.png'
 photo_credit: '[Clem Onojeghuo](https://unsplash.com/@clemono2)'
-avatar: 'https://github.com/rmhari.png?size=100'
+avatar: 'https://github.com/thiruvalluvar.png?size=100'
 ---
 
 திருவள்ளுவர் (Thiruvalluvar) (சுருக்கமாக வள்ளுவர் என்றும் அழைக்கப்படுகிறார்) பழந்தமிழ் இலக்கியமான திருக்குறளை இயற்றிய தமிழ்ப்புலவர் ஆவார். கடைச் சங்க காலமான கி.மு.400க்கும் கி.பி. 100க்கும் இடைப்பட்ட காலத்தில் வாழ்ந்த புலவரான மாமூலனார் மற்றும் மதுரையை, ஆரியப்படை கடந்த நெடுஞ்செழியன் எனும் பாண்டிய மன்னன் ஆண்ட பொழுது வள்ளுவர் பற்றிய குறிப்புகள் ஓலைச்சுவடிகளில் குறிப்பிடப்பட்டுள்ளது.

@@ -1,198 +1,38 @@
 <!DOCTYPE html>
 <html lang="en" class="h-100">
   <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="" />
-    <meta
-      name="author"
-      content="Mark Otto, Jacob Thornton, and Bootstrap contributors"
-    />
-    <meta name="generator" content="Hugo 0.84.0" />
-    <title>திட்டம் மதுரை</title>
-    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}"/>
-    <!-- Favicons -->
-    <link
-      rel="apple-touch-icon"
-      href="/docs/5.0/assets/img/favicons/apple-touch-icon.png"
-      sizes="180x180"
-    />
-    <link
-      rel="icon"
-      href="/docs/5.0/assets/img/favicons/favicon-32x32.png"
-      sizes="32x32"
-      type="image/png"
-    />
-    <link
-      rel="icon"
-      href="/docs/5.0/assets/img/favicons/favicon-16x16.png"
-      sizes="16x16"
-      type="image/png"
-    />
-    <link rel="manifest" href="/docs/5.0/assets/img/favicons/manifest.json" />
-    <link
-      rel="mask-icon"
-      href="/docs/5.0/assets/img/favicons/safari-pinned-tab.svg"
-      color="#7952b3"
-    />
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css"
-      integrity="sha256-h20CPZ0QyXlBuAw7A+KluUYx/3pK+c7lYEpqLTlxjYQ="
-      crossorigin="anonymous"
-    />
-    <link rel="icon" href="/docs/5.0/assets/img/favicons/favicon.ico" />
-    <meta name="theme-color" content="#7952b3" />
+    {{ block "head" . }}{{ partial "head" . }}{{end}}
 
-    <style>
-      .bd-placeholder-img {
-        font-size: 1.125rem;
-        text-anchor: middle;
-        -webkit-user-select: none;
-        -moz-user-select: none;
-        user-select: none;
-      }
-
-      @media (min-width: 768px) {
-        .bd-placeholder-img-lg {
-          font-size: 3.5rem;
-        }
-      }
-    </style>
+    {{ if templates.Exists ( printf "partials/head-%s.html" .Type ) }}
+    {{ $partialPath := printf "head-%s" .Type }}
+    {{ partial $partialPath . }}
+    {{ end }}
   </head>
   <body class="d-flex flex-column h-100">
-    <header>
-      <!-- Fixed navbar -->
-      <nav class="navbar navbar-light navbar-expand-md fixed-top border-bottom">
-        <div class="container-fluid">
-          <a class="navbar-brand fw-bold" href="#">திட்டம் மதுரை</a>
-          <button
-            class="navbar-toggler"
-            type="button"
-            data-bs-toggle="collapse"
-            data-bs-target="#navbarCollapse"
-            aria-controls="navbarCollapse"
-            aria-expanded="false"
-            aria-label="Toggle navigation"
-          >
-            <span class="navbar-toggler-icon"><i class="fas fa-bars"></i></span>
-          </button>
-          <div class="collapse navbar-collapse" id="navbarCollapse">
-            <ul class="navbar-nav ms-auto mb-2 mb-md-0">
-              <li class="nav-item">
-                <a class="nav-link active fw-bold" aria-current="page" href="#">முகப்பு</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link fw-bold" href="#">புத்தகங்கள்</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link fw-bold" href="#">ஆசிரியர்கள்</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link fw-bold" href="#">தொண்டர்கள்</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link fw-bold" href="#">நோக்கம்</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link fw-bold" href="#">தொடர்பு கொள்க</a>
-              </li>
-            </ul>
-            <form class="d-flex">
-              <button class="btn" type="submit"><i class="fas fa-search"></i></button>
-            </form>
-           
-          </div>
-        </div>
-      </nav>
-    </header>
+
+    {{ block "header" . }}{{ partial "header" . }}{{end}}
+
 
     <!-- Begin page content -->
     <main class="flex-shrink-0">
-      <div class="container h-100">
-        <div class="row">
-          <div class="col-md-12 mt-3"></div>
-             
-             <div class="text-center">
-              <img src="{{ "images/image 24.jpg" | relURL }}" alt="main img">
-            </div>
-        </div>
-
-        <div class="row">
-          <div class="col-md-8 text-center offset-md-2">
-            <h4 class="fw-bold">மதுரை தமிழ் இலக்கிய மின்பதிப்புத் திட்டம்</h4>
-            <p class="lead fs-6">இது ஒரு உலகளாவிய தமிழர்கள் இணையம்வழி ஒன்றுகூடி தமிழ் இலக்கியங்களின் மின்பதிப்புக்களை உருவாக்கி அவற்றை இணையம்வழி உலகெங்கிலும் உள்ள தமிழர்களும் தமிழார்வலர்களும் இலவசமாக பெற வசதிசெய்யும் திட்டம்.
-            </p>
-            <div class="input-group bg-light shadow rounded-start">
-              <button class="btn  dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">எல்லாம்</button>
-              <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="#">Action before</a></li>
-                <li><a class="dropdown-item" href="#">Another action before</a></li>
-                <li><a class="dropdown-item" href="#">Something else here</a></li>
-                <li><hr class="dropdown-divider"></li>
-                <li><a class="dropdown-item" href="#">Separated link</a></li>
-              </ul>
-              <input type="text" class="form-control" aria-label="Text input with 2 dropdown buttons">
-              <button class="btn bg-info text-white rounded-start" type="submit"><i class="fas fa-search"></i></button>
-              </ul>
-            </div>
-          </div>
-        </div>
-
-        <div class="row mt-5 offset-md-1">
-          <div class="col-md-3">
-            <h5 class="fw-bold">திருக்குறள்</h5>
-            <h6>-திருவள்ளுவர்</h6>
-          </div>
-          <div class="col-md-3">
-            <h5 class="fw-bold">ஆத்திசூடி</h5>
-            <h6>-ஒளவையார்</h6>
-          </div>
-          <div class="col-md-3">
-            <h5 class="fw-bold">திருவாசகம்</h5>
-            <h6>-மாணிக்க வாசகர்</h6>
-          </div>
-          <div class="col-md-3">
-            <h5 class="fw-bold">நாலாயிர திவ்ய....</h5>
-            <h6>-பெரியாழ்வார்</h6>
-          </div>
-        </div>
-
-        <div class="row mt-4 offset-md-1">
-          <div class="col-md-3">
-            <h5 class="fw-bold">திருமந்திரம்</h5>
-            <h6>-திருமூலர்</h6>
-          </div>
-          <div class="col-md-3">
-            <h5 class="fw-bold">தேசிய கீதங்கள்</h5>
-            <h6>-	சி. சுப்ரமணிய பாரதியார்</h6>
-          </div>
-          <div class="col-md-3">
-            <h5 class="fw-bold">நளவெண்பா</h5>
-            <h6>-புகழேந்திப் புலவர்</h6>
-          </div>
-          <div class="col-md-3">
-            <h5 class="fw-bold">களவழி நாற்பது</h5>
-            <h6>-பொய்கையார்</h6>
-          </div>
-        </div>
-        
 
 
-   
-      </div>
+
+      {{ block "main" . }}{{end}}
+
+
     </main>
     
-    <footer class="footer mt-auto py-3">
-      <div class="container text-center">
-        <span class="text-muted">&copy; 2008-2021 Project Madurai</span>
-      </div>
-    </footer>
 
-    <script
-      src="/docs/5.0/dist/js/bootstrap.bundle.min.js"
-      integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
-      crossorigin="anonymous"
-    ></script>
+    {{ block "footer" . }}{{ partial "footer" . }}{{end}}
+    
+
+      <!-- /.container -->
+  {{ block "scripts" . }}{{ partial "scripts" . }}{{end}}
+
+  {{ if templates.Exists ( printf "partials/scripts-%s.html" .Type ) }}
+  {{ $partialPath := printf "scripts-%s" .Type }}
+  {{ partial $partialPath . }}
+  {{ end }}
   </body>
 </html>

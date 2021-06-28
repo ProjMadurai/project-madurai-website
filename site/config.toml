@@ -1,7 +1,7 @@
 baseurl = "/project-madurai-website"
-languageCode = "en-us"
-languageLang = "en"
-title = "Example site with author pages"
+languageLang = "ta"
+title = "திட்டம் மதுரை"
+authors = "சதிஷ் குமார் தியாகராஜன், தாஜுல் கான்,விஜயசேகர்"
 
 # uncomment the next line to disable listing authors
 # disableKinds = ["taxonomyTerm"]
