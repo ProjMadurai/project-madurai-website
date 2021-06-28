@@ -2,7 +2,7 @@
 title: திருக்குறள்
 weight: 1
 authors:
-  - thiruvalluvar
+  - திருவள்ளுவர்
 genres:
   - thiruvalluvar 
 tags:

@@ -34,15 +34,14 @@
   <div class="row mt-5 offset-md-1">
 
     {{ range (where .Site.Sections "Section" "books" ) }}
-          {{ range .Pages  }}
-
+          {{ range first 8 .Pages  }}
           <div class="col-md-3">
             <h5 class="fw-bold">{{ .Title }}</h5>
             {{- range $index, $element := .Params.authors }}
               {{ if gt $index 0 }} & {{ end }}
               <a href="/authors/{{ urlize . }}">{{ . }}</a>
             {{ end }}
-            <!-- <h6>{{ .Authors }}</h6> -->
+           
           </div>
 
           
