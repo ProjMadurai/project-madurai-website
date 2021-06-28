@@ -1,6 +1,6 @@
 ---
 title: திருவள்ளுவர்
-thumbnail: 'https://alchetron.com/cdn/avvaiyar-c30616f1-99db-40d8-b34c-53a8ad7e053-resize-750.png'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 photo_credit: '[Clem Onojeghuo](https://unsplash.com/@clemono2)'
 avatar: 'https://github.com/thiruvalluvar.png?size=100'
 ---

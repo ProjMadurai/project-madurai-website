@@ -1,6 +1,6 @@
 ---
 title: திருமழிசையாழ்வார்
-thumbnail: 'https://alchetron.com/cdn/avvaiyar-c30616f1-99db-40d8-b34c-53a8ad7e053-resize-750.png'
+thumbnail: 'https://lh6.googleusercontent.com/proxy/9WkpvhCfrmGIIdKbEoZ1iak2YA5ahM_GUmaeQ_W_iHLAME-zW_fDEcdPR_viX1KfSoLlZpi7NOZqnoynBwT_XF8q3KSg_2yPlgLQZ2zVk-KvgA=s0-d'
 photo_credit: '[Clem Onojeghuo](https://unsplash.com/@clemono2)'
 avatar: 'https://github.com/thiruvalluvar.png?size=100'
 ---

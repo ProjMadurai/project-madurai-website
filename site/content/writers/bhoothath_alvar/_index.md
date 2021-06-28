@@ -1,7 +1,5 @@
 ---
 title: பூதத்தாழ்வார்
-thumbnail: 'https://alchetron.com/cdn/avvaiyar-c30616f1-99db-40d8-b34c-53a8ad7e053-resize-750.png'
-photo_credit: '[Clem Onojeghuo](https://unsplash.com/@clemono2)'
-avatar: 'https://github.com/thiruvalluvar.png?size=100'
+thumbnail: 'http://1.bp.blogspot.com/-SHrVS-lfrB8/UhDMuinHAsI/AAAAAAAAACw/fpTbl5PRQtI/s1600/Boodhathazvar.jpg'
 ---
 பூதத்தாழ்வார் வைணவ நெறியைப் பின்பற்றி பக்தியில் சிறந்து விளங்கிய பன்னிரு ஆழ்வார்களுள் ஒருவர். முதல் ஆழ்வார்கள் எனப் போற்றப்பட்ட மூன்று ஆழ்வார்களுள் ஒருவராக விளங்கினார். மாமல்லபுரத்தில் பிறந்த இவர் வைணவ நூல்களின் தொகுப்பான நாலாயிர திவ்வியப் பிரபந்தங்களில் உள்ள இரண்டாம் திருவந்தாதியைப் பாடியுள்ளார். இது நூறு வெண்பாக்களால் ஆனது.

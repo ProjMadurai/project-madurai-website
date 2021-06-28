@@ -1,7 +1,5 @@
 ---
 title: கண்ணதாசன்
-thumbnail: 'https://alchetron.com/cdn/avvaiyar-c30616f1-99db-40d8-b34c-53a8ad7e053-resize-750.png'
-photo_credit: '[Clem Onojeghuo](https://unsplash.com/@clemono2)'
-avatar: 'https://github.com/thiruvalluvar.png?size=100'
+thumbnail: 'https://images.dinamani.com/uploads/user/imagelibrary/2014/1/3/15/original/kannathasan.jpg'
 ---
 கண்ணதாசன் (ஜூன் 24 1927 – அக்டோபர் 17 1981) புகழ் பெற்ற தமிழ்த் திரைப்படப் பாடலாசிரியரும், கவிஞரும் ஆவார். நான்காயிரத்திற்கும் மேற்பட்ட கவிதைகள், ஐந்தாயிரத்திற்கும் மேற்பட்ட திரைப்படப் பாடல்கள், கட்டுரைகள் பல எழுதியவர். சண்டமாருதம், திருமகள், திரை ஒலி, தென்றல், தென்றல்திரை, முல்லை, கண்ணதாசன் ஆகிய இதழ்களின் ஆசிரியராக இருந்தவர். தமிழக அரசின் "அரசவைக் கவிஞராக" இருந்தவர். இவர் சாகித்ய அகாதமி விருது பெற்றவர்.

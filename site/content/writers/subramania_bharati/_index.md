@@ -1,8 +1,6 @@
 ---
 title: சுப்பிரமணிய பாரதி
-thumbnail: 'https://alchetron.com/cdn/avvaiyar-c30616f1-99db-40d8-b34c-53a8ad7e053-resize-750.png'
-photo_credit: '[Clem Onojeghuo](https://unsplash.com/@clemono2)'
-avatar: 'https://github.com/thiruvalluvar.png?size=100'
+thumbnail: 'https://i0.wp.com/keelainews.com/wp-content/uploads/2020/09/adbf4125-cb8d-45c6-a5d8-050e42f4b73f.jpg?resize=480%2C360'
 ---
 
 

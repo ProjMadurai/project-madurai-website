@@ -1,8 +1,6 @@
 ---
 title: சாந்தானந்த ஸ்வாமிகள்
-thumbnail: 'https://alchetron.com/cdn/avvaiyar-c30616f1-99db-40d8-b34c-53a8ad7e053-resize-750.png'
-photo_credit: '[Clem Onojeghuo](https://unsplash.com/@clemono2)'
-avatar: 'https://github.com/thiruvalluvar.png?size=100'
+thumbnail: 'https://santhanandaswamigal.org/app/uploads/2018/01/Santhananda-Swamigal-2.jpg'
 ---
 
 ஸ்ரீமத் ஸத்குரு சாந்தானந்த ப்ரம்மேந்திர ஸரஸ்வத் அவதூத ஸ்வாமிகள், இந்த பாரத தேசத்திற்கு இருபதாம் நூற்றாண்டில் கிடைக்கப்பெற்ற முக்கிய ஆன்மீக சிகரங்களில் ஒருவராவார்.

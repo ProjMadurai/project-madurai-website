@@ -1,8 +1,6 @@
 ---
 title: நல்லாதனார்
-thumbnail: 'https://alchetron.com/cdn/avvaiyar-c30616f1-99db-40d8-b34c-53a8ad7e053-resize-750.png'
-photo_credit: '[Clem Onojeghuo](https://unsplash.com/@clemono2)'
-avatar: 'https://github.com/thiruvalluvar.png?size=100'
+thumbnail: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkBADe8N7Z9Slq1AworCxVyQ20zJIKlO3BBQ&usqp=CAU'
 ---
 
 நல்லாதனார் என்பவர் திரிகடுகம் என்ற உயிர் மருத்துவ நூலை ஆக்கியவர். ஆதனார் என்பது இவரது இயற்பெயர். ‘நல்’ என்பது அடைமொழி. காப்புச் செய்யுளில், பூவை வண்ணன் ஆகிய திருமால் உலகம் அளந்தது, குருந்தமரம் சாய்த்தது, மாயச் சகடம் உதைத்தது ஆகியவை பற்றிக் கூறியிருப்பதால் இவர் வைணவ சமயத்தவர் என்பது பெறப்படும். இவர் காலம் கி.பி. இரண்டாம் நூற்றாண்டு.

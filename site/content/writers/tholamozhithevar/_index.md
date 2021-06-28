@@ -1,6 +1,6 @@
 ---
 title: தோலாமொழித் தேவர்
-thumbnail: 'https://alchetron.com/cdn/avvaiyar-c30616f1-99db-40d8-b34c-53a8ad7e053-resize-750.png'
+thumbnail: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fsolvanam.com%2F2011%2F07%2F09%2F%25E0%25AE%259A%25E0%25AF%2586%25E0%25AE%25A8%25E0%25AF%258D%25E0%25AE%25A4%25E0%25AE%25AE%25E0%25AE%25BF%25E0%25AE%25B4%25E0%25AF%258D%25E0%25AE%2595%25E0%25AF%258D-%25E0%25AE%2595%25E0%25AE%25BE%25E0%25AE%25AA%25E0%25AF%258D%25E0%25AE%25AA%25E0%25AE%25BF%25E0%25AE%25AF%25E0%25AE%2599%25E0%25AF%258D%25E0%25AE%2595%25E0%25AE%25B3%2F&psig=AOvVaw2hnAk04Qhyhnct4Nw32oVC&ust=1624976785508000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCJif87zEuvECFQAAAAAdAAAAABAD'
 photo_credit: '[Clem Onojeghuo](https://unsplash.com/@clemono2)'
 avatar: 'https://github.com/thiruvalluvar.png?size=100'
 ---

@@ -1,6 +1,6 @@
 ---
 title: தொண்டரடிப்பொடியாழ்வார்
-thumbnail: 'https://alchetron.com/cdn/avvaiyar-c30616f1-99db-40d8-b34c-53a8ad7e053-resize-750.png'
+thumbnail: 'https://www.google.com/url?sa=i&url=http%3A%2F%2Fsumiscorner.blogspot.com%2F2016%2F02%2F&psig=AOvVaw3TttyIl6xiou_W6-HjkpMz&ust=1624976849057000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCJDrwNzEuvECFQAAAAAdAAAAABAD'
 photo_credit: '[Clem Onojeghuo](https://unsplash.com/@clemono2)'
 avatar: 'https://github.com/thiruvalluvar.png?size=100'
 ---

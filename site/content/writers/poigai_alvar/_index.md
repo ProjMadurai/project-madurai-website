@@ -1,6 +1,6 @@
 ---
 title: பொய்கையாழ்வார்
-thumbnail: 'https://alchetron.com/cdn/avvaiyar-c30616f1-99db-40d8-b34c-53a8ad7e053-resize-750.png'
+thumbnail: 'https://i0.wp.com/dhinasari.com/wp-content/uploads/2019/11/peyazhwar-e1573018837665.jpg'
 photo_credit: '[Clem Onojeghuo](https://unsplash.com/@clemono2)'
 avatar: 'https://github.com/thiruvalluvar.png?size=100'
 ---

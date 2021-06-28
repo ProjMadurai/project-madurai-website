@@ -1,8 +1,6 @@
 ---
 title: கணிமேதாவியார்
-thumbnail: 'https://alchetron.com/cdn/avvaiyar-c30616f1-99db-40d8-b34c-53a8ad7e053-resize-750.png'
-photo_credit: '[Clem Onojeghuo](https://unsplash.com/@clemono2)'
-avatar: 'https://github.com/thiruvalluvar.png?size=100'
+thumbnail: 'https://tamilandvedas.files.wordpress.com/2014/06/chola-flag-2.jpg'
 ---
 
 கணிமேதாவியார் என்பவர் கணியர் குலத்தைச் சேர்ந்தவர் என்பதை அவர் பெயரின் அடைமொழி கொண்டு அறியலாம். இவர் ஒரு கணிதர் (சோதிடர்). ஆதலால் தொழிலையும் குறிக்கும் பெயராக இவரது பெயர் அமைந்திருக்கிறது. கணியம் என்பது நாள் கிழமை கணித்து பலன் கூறும் சோதிடம். கணியம் தெரிந்தவன் கணியன். இவர் சில சங்க மருவிய நூல்களையும், சில சங்கம் மருவிய நூற்பாடல்களையும் இயற்றியுள்ளார். இவர் சமண சமயத்தைச் சேர்ந்தவர்.

@@ -1,8 +1,6 @@
 ---
 title: கபிலர்
-thumbnail: 'https://alchetron.com/cdn/avvaiyar-c30616f1-99db-40d8-b34c-53a8ad7e053-resize-750.png'
-photo_credit: '[Clem Onojeghuo](https://unsplash.com/@clemono2)'
-avatar: 'https://github.com/thiruvalluvar.png?size=100'
+thumbnail: 'https://tamizhtharakai.files.wordpress.com/2015/09/e0ae95e0aeaae0aebfe0aeb2e0aeb0e0af8d.jpg'
 ---
 
 கபிலர் சங்க காலத்து தமிழ்ப் புலவர்களில் குறிப்பிடத்தக்கவர். சங்க இலக்கியப் பாடல்களுள் மிக அதிக எண்ணிகையில் பாடல்களை இயற்றியவர்.; திருவாதவூரில் பிறந்தவர் எனத் திருவிளையாடற் புராணம் கூறுவது கபிலதேவ நாயனார் என்னும் சைவப் புலவர்.

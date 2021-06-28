@@ -1,6 +1,6 @@
 ---
 title: வைரமுத்து
-thumbnail: 'https://alchetron.com/cdn/avvaiyar-c30616f1-99db-40d8-b34c-53a8ad7e053-resize-750.png'
+thumbnail: 'https://static.hindutamil.in/hindu/uploads/news/2020/07/12/large/563997.jpg'
 photo_credit: '[Clem Onojeghuo](https://unsplash.com/@clemono2)'
 avatar: 'https://github.com/thiruvalluvar.png?size=100'
 ---
