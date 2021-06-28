@@ -1,0 +1,19 @@
+{{ define "main" }}
+<div class="container px-3 min-vh-100">
+
+  
+
+<main class="pt-3">
+
+    <div class="row row-cols-1 row-cols-md-6 gx-4">
+        {{ range .Pages }}
+        <li>
+            <a href="{{strings.TrimRight "/" .Permalink}}">{{.Title}}</a>
+        </li>
+    {{ end }}
+    </div>
+
+
+</main>
+</div>
+{{ end }}
