@@ -1,5 +1,6 @@
 ---
 title: 'வினா வெண்பா; கொடிக்கவி; நெஞ்சு விடு தூது; சிவப்பிரகாசம்'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 200
 authors:
   - ஸ்ரீ ஈசான்ய ஞான தேசிகர் மீது
@@ -255,4 +256,5 @@ You are welcome to freely distribute this file, provided this header page is kep
 கண்ட பொருளதனைக் காமர் இடத்தெய்தி
 உண்டருளில் நெஞ்சேநீ ஓங்கு.108
 This file was last revised on 20 October 2003
-Please send your comments to the [webmasters of this website](mailto:kalyan.geo@yahoo.com,   kumar@vt.edu?subject=PM196-paNTAra mummaNikkOvai).
+Please send your comments to the [webmasters of this website](mailto:kalyan.geo@yahoo.com, 
+  kumar@vt.edu?subject=PM196-paNTAra mummaNikkOvai).

@@ -1,5 +1,6 @@
 ---
 title: 'பிரபந்தத்திரட்டு - IV - திருவேகம்பரந்தாதி; திருமுல்லைவாயிலந்தாதி'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 321
 authors:
   - சிவஞான யோகிகள்

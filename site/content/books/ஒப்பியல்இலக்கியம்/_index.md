@@ -1,5 +1,6 @@
 ---
 title: 'ஒப்பியல் இலக்கியம்'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 102
 authors:
   - கே. கைலாசபதி
@@ -1895,4 +1896,5 @@ Murry, J.M., Keats and Shakespeare, Oxford, 1925.
 சிந்துக்குத் தந்தை என்ற பாரதி, சுந்தரம் பிள்ளையுடனும் ஷெல்லி, பைரன், வால்ட் விட்மன் ஆகிய மேல்நாட்டுக் கவிஞருடனும் ஒப்பு நோக்கி ஆராயப்பட்டுள்ளான்.
 இத்தகைய ஒப்பியல் ஆய்வு பொருள் விளக்கத்திற்கும் பேருதவி புரியும்.
 This page was first put up on Feb. 6, 2001
-Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, kumar@vt.edu?subject=PM102 oppiyal)
+Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, 
+kumar@vt.edu?subject=PM102 oppiyal)

@@ -1,5 +1,6 @@
 ---
 title: 'சிதம்பரப்பாட்டியல் (மு. இராகவ ஐயங்கார் உரையுடன்)'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 410
 authors:
   - பரஞ்சோதியார்

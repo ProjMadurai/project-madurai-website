@@ -1,5 +1,6 @@
 ---
 title: 'திருமந்திர ஆராய்ச்சியும் ஒப்புமைப்பகுதியும்'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 395
 authors:
   - வ. சு. செங்கல்வராய பிள்ளை

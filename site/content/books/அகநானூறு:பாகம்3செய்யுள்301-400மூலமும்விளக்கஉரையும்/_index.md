@@ -1,5 +1,6 @@
 ---
 title: 'அகநானூறு:பாகம் 3, செய்யுள் 301- 400, மூலமும் விளக்க உரையும்'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 534
 authors:
   - ந.மு. வேங்கடசாமி நாட்டார்

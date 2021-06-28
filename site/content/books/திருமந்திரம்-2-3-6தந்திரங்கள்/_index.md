@@ -1,5 +1,6 @@
 ---
 title: 'திருமந்திரம் - 2 (3-6 தந்திரங்கள்)'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 9
 authors:
   - திருமூலர்

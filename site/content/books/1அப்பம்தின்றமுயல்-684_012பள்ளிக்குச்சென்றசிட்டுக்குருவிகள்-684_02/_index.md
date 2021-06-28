@@ -1,5 +1,6 @@
 ---
 title: '1. அப்பம் தின்ற முயல் (684_01) 2. பள்ளிக்குச் சென்ற சிட்டுக்குருவிகள் (684_02)'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 683
 authors:
   - பாவலர் நாரா. நாச்சியப்பன்

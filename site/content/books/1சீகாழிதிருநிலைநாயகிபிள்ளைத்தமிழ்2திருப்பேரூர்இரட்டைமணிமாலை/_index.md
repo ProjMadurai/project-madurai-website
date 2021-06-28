@@ -1,5 +1,6 @@
 ---
 title: '1. சீகாழி திருநிலைநாயகி பிள்ளைத்தமிழ் 2. திருப்பேரூர் இரட்டை மணி மாலை'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 766
 authors:
   - 1. கவியரசு. கு. நடேசகவுண்டர் 2. சி.கே. சுப்பிரமணிய முதலியார்

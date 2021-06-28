@@ -1,5 +1,6 @@
 ---
 title: '1. சிதம்பரக்கும்மி. 2. அனுசூயைசரித்திரக் கும்மி,கோரக்கும்பார்சரித்திரக் கும்மி'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 764
 authors:
   - 1. திருப்போரூர் டி. கோபால் நாயகர் 2. இராமநாதபுரம் பத்மாஸனி அம்மாள்

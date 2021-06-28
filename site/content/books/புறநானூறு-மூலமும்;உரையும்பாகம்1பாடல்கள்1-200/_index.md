@@ -1,5 +1,6 @@
 ---
 title: 'புற நானூறு - மூலமும்; உரையும் /பாகம் 1 /பாடல்கள் 1-200)'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 494
 authors:
   - ஔவை துரைசாமி பிள்ளை விளக்க உரை

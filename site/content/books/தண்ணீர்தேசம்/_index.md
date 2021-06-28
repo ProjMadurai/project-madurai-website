@@ -1,5 +1,6 @@
 ---
 title: 'தண்ணீர் தேசம்'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 11
 authors:
   - வைரமுத்து

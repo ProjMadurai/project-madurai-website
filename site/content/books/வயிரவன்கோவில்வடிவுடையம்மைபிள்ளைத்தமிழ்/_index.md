@@ -1,5 +1,6 @@
 ---
 title: 'வயிரவன் கோவில் வடிவுடையம்மை பிள்ளைத்தமிழ்'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 783
 authors:
   - சேந்தன்குடி வி. நடராச கவிராயரவர்கள்

@@ -1,5 +1,6 @@
 ---
 title: 'குன்றைக்குடி மயூரகிரிநாதர் பிள்ளைத்தமிழ்'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 510
 authors:
   - மழவைராயனேந்தல் சுப்பிரமணிய பாரதியார்

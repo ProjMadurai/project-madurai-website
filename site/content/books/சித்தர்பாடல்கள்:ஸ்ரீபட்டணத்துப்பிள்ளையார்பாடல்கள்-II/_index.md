@@ -1,5 +1,6 @@
 ---
 title: 'சித்தர் பாடல்கள்: ஸ்ரீ பட்டணத்துப்பிள்ளையார் பாடல்கள்-II'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 270
 authors:
   - ஸ்ரீ பட்டணத்துப்பிள்ளையார்

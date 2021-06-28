@@ -1,5 +1,6 @@
 ---
 title: 'திருமுறை 11-1 /பாசுரங்கள்'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 126
 authors:
   - திருஆலவாய் உடையார்

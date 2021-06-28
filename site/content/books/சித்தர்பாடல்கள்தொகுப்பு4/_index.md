@@ -1,5 +1,6 @@
 ---
 title: 'சித்தர் பாடல்கள் தொகுப்பு 4'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 212
 authors:
   - அகப்பேய் சித்தர்; இடைக்காட்டுச் சித்தர்;கொங்கணச் சித்தர்

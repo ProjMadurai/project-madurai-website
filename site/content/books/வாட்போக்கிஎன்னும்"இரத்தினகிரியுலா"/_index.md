@@ -1,5 +1,6 @@
 ---
 title: 'வாட்போக்கி என்னும் "இரத்தினகிரியுலா"'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 769
 authors:
   - சேறைக் கவிராசபிள்ளை ஸ்ரீநிவாசையர் குறிப்புரையுடன்

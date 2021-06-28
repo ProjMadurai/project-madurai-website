@@ -1,5 +1,6 @@
 ---
 title: 'தமிழச்சியின் கத்தி'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 177
 authors:
   - பாரதிதாசன்
@@ -1055,7 +1056,8 @@ You are welcome to freely distribute this file, provided this header page is kep
 கொண்டிது கூறி நின்றாள் - வந்த
 தொத்தல் பறந்தது! சூழ இருந்தவர்
 கூடத் தொலைந்து விட்டார்.
-]()[](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0177.html#hd20><I>உள்ளுறை அட்டவணைக்குத் திரும்ப</I></A><BR>  <hr noshade width=)[
+]()[](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0177.html#hd20><I>உள்ளுறை அட்டவணைக்குத் திரும்ப</I></A><BR>
+  <hr noshade width=)[
 ### 21. சேரிக்குள் சென்றாள்
 
 **எண்சீர் விருத்தம்**

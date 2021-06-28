@@ -1,5 +1,6 @@
 ---
 title: 'வைராக்கிய சதகம்'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 662
 authors:
   - சாந்தலிங்க சுவாமிகள் சிதம்பர சுவாமிகள் உரையுடன்

@@ -1,5 +1,6 @@
 ---
 title: 'சூடாமணி நிகண்டு'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 118
 authors:
   - மண்டல புருடர்
@@ -1941,4 +1942,5 @@ You are welcome to freely distribute this file, provided this header page is kep
 சொன்னவன் குணபத்திரன் றாள்சூடு மண்டலவன் றானே.
 
 This page was first put up on September 21, 2001
-Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, kumar@vt.edu?  subject=PM118 : cutamani nikantu)
+Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, kumar@vt.edu?
+  subject=PM118 : cutamani nikantu)

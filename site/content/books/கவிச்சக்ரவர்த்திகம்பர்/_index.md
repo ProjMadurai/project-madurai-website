@@ -1,5 +1,6 @@
 ---
 title: 'கவிச்சக்ரவர்த்தி கம்பர்'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 202
 authors:
   - இராகவ ஐயங்கார்

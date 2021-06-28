@@ -1,5 +1,6 @@
 ---
 title: 'பிரபந்தத்திரட்டு - பகுதி 31 / ஸ்ரீ சச்சிதானந்ததேசிகர் மாலை'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 348
 authors:
   - தி. மீனாட்சிசுந்தரம் பிள்ளை

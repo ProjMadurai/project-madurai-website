@@ -1,5 +1,6 @@
 ---
 title: 'கானகத்தின் குரல் (நாவல்)'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 677
 authors:
   - ஜாக் லண்டன் ம. ப. பெரியசாமித்தூரன்

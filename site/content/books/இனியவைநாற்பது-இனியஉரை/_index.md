@@ -1,5 +1,6 @@
 ---
 title: 'இனியவை நாற்பது - இனிய உரை'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 775
 authors:
   - பூதன் சேந்தனார், சுந்தர சண்முகனார்

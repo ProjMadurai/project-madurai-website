@@ -1,5 +1,6 @@
 ---
 title: 'எனது நாடக வாழ்க்கை - முதல் பாகம் (3 பாகங்களாக)'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 681
 authors:
   - அவ்வை தி.க. சண்முகம்

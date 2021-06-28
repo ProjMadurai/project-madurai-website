@@ -1,5 +1,6 @@
 ---
 title: 'திருக்குறள் /ஆங்கில மொழியாக்கம் (tirukkural - English translation)'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 17
 authors:
   - சுத்தானந்த பாரதியார்

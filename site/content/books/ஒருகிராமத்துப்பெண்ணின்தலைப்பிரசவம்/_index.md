@@ -1,5 +1,6 @@
 ---
 title: 'ஒரு கிராமத்துப் பெண்ணின் தலைப் பிரசவம்'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 185
 authors:
   - இரா. முருகன்
@@ -1514,4 +1515,5 @@ You are welcome to freely distribute this file, provided this header page is kep
 இப்போதைக்குச் சொல்கிறேன்.
 (அம்பலம்)
 This web page was first put up on 2 sept 2003
-Please send your comments and corrections to the]()[Webmaster(s) of this site](mailto:kalyan@geocities.com, kumar@vt.edu? subject=PM85:ira murugan kavitaikaL)
+Please send your comments and corrections to the]()[Webmaster(s) of this site](mailto:kalyan@geocities.com, kumar@vt.edu?
+ subject=PM85:ira murugan kavitaikaL)

@@ -1,5 +1,6 @@
 ---
 title: 'திருப்புகழ் /பாகம் 4 (பாடல்கள் 10011-1326)'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 191
 authors:
   - அருணகிரிநாதர்

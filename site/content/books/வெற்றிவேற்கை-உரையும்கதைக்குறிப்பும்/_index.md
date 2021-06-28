@@ -1,5 +1,6 @@
 ---
 title: 'வெற்றிவேற்கை (உரையும் கதைக்குறிப்பும்)'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 650
 authors:
   - அதிவீரராம பாண்டியன்

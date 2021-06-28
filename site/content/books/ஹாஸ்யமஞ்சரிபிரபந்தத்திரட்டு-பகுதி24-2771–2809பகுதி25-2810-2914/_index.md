@@ -1,5 +1,6 @@
 ---
 title: 'ஹாஸ்ய மஞ்சரி பிரபந்தத்திரட்டு - பகுதி 24 (2771 – 2809) பகுதி 25 (2810-2914)'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 283
 authors:
   - S.P.S.K.காதிறு சாகிபவர்

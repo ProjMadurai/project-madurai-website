@@ -1,5 +1,6 @@
 ---
 title: 'பிரபுலிங்க லீலை / பாகம் 1 (கதிகள் 1- 10) / பாகம் 2 (கதிகள் 10- 25)'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 403
 authors:
   - சிவப்பிரகாச சுவாமிகள்

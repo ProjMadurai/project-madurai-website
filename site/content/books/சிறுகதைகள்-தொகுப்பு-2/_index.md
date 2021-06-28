@@ -1,5 +1,6 @@
 ---
 title: 'சிறுகதைகள் - தொகுப்பு - 2'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 199
 authors:
   - ஜெயகாந்தன்
@@ -1257,4 +1258,5 @@ You are welcome to freely distribute this file, provided this header page is kep
 மீனாட்சி புத்தக நிலையம், மதுரை - 1 ஏழாம் பதிப்பு: ஜீலை 1995
 ]()
 [This file was last revised on 23 October 2003
-Please send your comments to the]()[webmasters of this website](mailto:kalyan.geo@yahoo.com,   kumar@vt.edu?subject=PM199-jeyakantan short stories-2).
+Please send your comments to the]()[webmasters of this website](mailto:kalyan.geo@yahoo.com, 
+  kumar@vt.edu?subject=PM199-jeyakantan short stories-2).

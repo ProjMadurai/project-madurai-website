@@ -1,5 +1,6 @@
 ---
 title: 'கச்சியப்பமுனிவர் பிரபந்தங்கள் - பகுதி 2 4. கச்சி ஆனந்தருத்திரேசர் வண்டு விடு தூது 5. பஞ்சாக்கரதேசிகரந்தாதி. (குறிப்புரையுடன்)'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 705
 authors:
   - கச்சியப்ப முனிவர்

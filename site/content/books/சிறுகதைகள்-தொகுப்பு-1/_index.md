@@ -1,5 +1,6 @@
 ---
 title: 'சிறுகதைகள் - தொகுப்பு - 1'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 198
 authors:
   - ஜெயகாந்தன்
@@ -1357,4 +1358,5 @@ You are welcome to freely distribute this file, provided this header page is kep
 -------
 ]()
 [This file was last revised on 23 October 2003
-Please send your comments to the]()[webmasters of this website](mailto:kalyan.geo@yahoo.com,   kumar@vt.edu?subject=PM198-jeyakantan short stories-1).
+Please send your comments to the]()[webmasters of this website](mailto:kalyan.geo@yahoo.com, 
+  kumar@vt.edu?subject=PM198-jeyakantan short stories-1).

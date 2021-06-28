@@ -1,5 +1,6 @@
 ---
 title: 'சீவகசிந்தாமணி பாகம் 1 &2 - மூலமும்'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 663
 authors:
   - திருத்தக்க தேவர் சோமசுந்தரனார் உரையுடன்

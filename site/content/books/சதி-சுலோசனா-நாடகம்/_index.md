@@ -1,5 +1,6 @@
 ---
 title: 'சதி-சுலோசனா (நாடகம்)'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 429
 authors:
   - பம்மல் சம்பந்த முதலியார்

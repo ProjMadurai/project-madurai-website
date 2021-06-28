@@ -1,5 +1,6 @@
 ---
 title: 'காஞ்சிப் புராணம் / காண்டம் 2, பகுதி 1 /1. திருக்கண்புதைத்த படலம் ( செய்யுள் 1-285)'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 486
 authors:
   - கச்சியப்ப முனிவர்

@@ -1,5 +1,6 @@
 ---
 title: 'காஞ்சிப் புராணம் / காண்டம் 2, பகுதி 4 / 5. தீர்த்தவிசேடப்படலம் (செய்யுள் 1067-1224)'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 501
 authors:
   - கச்சியப்ப முனிவர்

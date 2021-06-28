@@ -1,5 +1,6 @@
 ---
 title: 'பட்டினப்பாலை'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 77
 authors:
   - கடியலூர் உருத்திரங்கண்ணனார்

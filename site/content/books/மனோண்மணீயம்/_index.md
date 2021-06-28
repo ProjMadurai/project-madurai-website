@@ -1,5 +1,6 @@
 ---
 title: 'மனோண்மணீயம்'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 105
 authors:
   - சுந்தரம் பிள்ளை
@@ -4533,4 +4534,5 @@ You are welcome to freely distribute this file, provided this header page is kep
 ஐந்தாம் அங்கம் முற்றிற்று.
 மனோன்மணீயம் - முடிவுற்றது.
 This page was first put up on February 23, 2001
-Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, <br>kumar@vt.edu?subject=PM105:manonmaniyam)
+Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, <br>
+kumar@vt.edu?subject=PM105:manonmaniyam)

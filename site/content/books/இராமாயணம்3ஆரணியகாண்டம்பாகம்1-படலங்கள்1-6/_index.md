@@ -1,5 +1,6 @@
 ---
 title: 'இராமாயணம் /3. ஆரணிய காண்டம்/பாகம் 1(படலங்கள் 1-6)'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 430
 authors:
   - கம்பர்

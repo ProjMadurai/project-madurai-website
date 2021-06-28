@@ -1,5 +1,6 @@
 ---
 title: 'மதுரை சொக்கநாதர் உலா - ஆங்கில மொழிபெயர்ப்பு (கௌசல்யா ஹார்ட்)'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 440
 authors:
   - புராண திருமலைநாதர்

@@ -1,5 +1,6 @@
 ---
 title: 'திருக்குறள் - ஆங்கில மொழிபெயர்ப்பு'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 664
 authors:
   - இராமசந்திர தீக்‌ஷிதர்

@@ -1,5 +1,6 @@
 ---
 title: 'சொல்லின் கதை (வானொலிப்பேச்சு)'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 323
 authors:
   - மு.வரதராசன்

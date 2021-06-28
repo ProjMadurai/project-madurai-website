@@ -1,5 +1,6 @@
 ---
 title: 'கச்சியப்பமுனிவர் பிரபந்தங்கள் - பகுதி 1 1. பிரமீசர் பதிற்றுப்பத்தந்தாதி 2. கச்சி ஆனந்தருத்திரேசர் பதிற்றுப்பத்தந்தாதி 3. கச்சி ஆனந்தருத்திரேசர் கழிநெடில்'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 704
 authors:
   - கச்சியப்ப முனிவர்

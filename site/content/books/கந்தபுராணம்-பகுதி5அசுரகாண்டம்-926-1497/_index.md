@@ -1,5 +1,6 @@
 ---
 title: 'கந்த புராணம் - பகுதி 5 /அசுர காண்டம் (926 - 1497)'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 268
 authors:
   - கச்சியப்ப சிவாச்சாரியார்

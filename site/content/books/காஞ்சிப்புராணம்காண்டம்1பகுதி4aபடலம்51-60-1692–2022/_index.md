@@ -1,5 +1,6 @@
 ---
 title: 'காஞ்சிப் புராணம் / காண்டம் 1, பகுதி 4a /படலம் 51 - 60 (1692 – 2022)'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 302
 authors:
   - சிவஞான சுவாமிகள்

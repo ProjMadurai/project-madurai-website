@@ -1,5 +1,6 @@
 ---
 title: 'இந்திய இலக்கியச் சிற்பிகள் : ஒளவை சு. துரைசாமிபிள்ளை'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 724
 authors:
   - ச. சாம்பசிவனார்

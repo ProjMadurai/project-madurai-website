@@ -1,5 +1,6 @@
 ---
 title: 'சித்தர் பாடல்கள் தொகுப்பு'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 76
 authors:
   - அழுகணிச் சித்தர்; இராமதேவர்; கடுவெளிச் சித்தர்; குதம்பைச் சித்தர்; சட்டைமுனி ; திருமூல நாயனார்; திருவள்ளுவர்

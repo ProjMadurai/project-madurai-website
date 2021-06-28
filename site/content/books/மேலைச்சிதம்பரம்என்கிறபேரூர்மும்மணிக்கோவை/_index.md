@@ -1,5 +1,6 @@
 ---
 title: 'மேலைச்சிதம்பரம் என்கிற பேரூர் மும்மணிக்கோவை'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 369
 authors:
   - கோயமுத்தூர் கந்தசாமி முதலியார்

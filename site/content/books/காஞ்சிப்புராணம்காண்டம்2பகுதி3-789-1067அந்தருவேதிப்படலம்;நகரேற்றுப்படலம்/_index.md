@@ -1,5 +1,6 @@
 ---
 title: 'காஞ்சிப் புராணம் / காண்டம் 2, பகுதி 3 (789-1067)/அந்தருவேதிப்படலம்; நகரேற்றுப்படலம்'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 498
 authors:
   - கச்சியப்ப முனிவர்

@@ -1,5 +1,6 @@
 ---
 title: 'சிறந்த கதைகள் பதிமூன்று (இந்திய மொழிகளிலிருந்து)'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 571
 authors:
   - வல்லிக்கண்ணன் (மொழிபெயர்ப்பு)

@@ -1,5 +1,6 @@
 ---
 title: 'அங்கே இப்போ என்ன நேரம் (கட்டுரைகள்) - பாகம் 1; 2'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 514
 authors:
   - அ. முத்துலிங்கம்

@@ -1,5 +1,6 @@
 ---
 title: 'நேமிநாதம்'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 101
 authors:
   - குணவீர பண்டிதர்
@@ -473,4 +474,5 @@ You are welcome to freely distribute this file, provided this header page is kep
 தொழிந்தனவுஞ் சார்த்தி யுரை.
 70
 This page was first put up on Feb. 2, 2001
-Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, kumar@vt.edu?subject=PM101: neminatam)
+Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, 
+kumar@vt.edu?subject=PM101: neminatam)

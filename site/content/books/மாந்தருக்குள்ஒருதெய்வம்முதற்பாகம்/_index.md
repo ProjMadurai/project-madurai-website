@@ -1,5 +1,6 @@
 ---
 title: 'மாந்தருக்குள் ஒரு தெய்வம் முதற் பாகம்'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 673
 authors:
   - கல்கி (ரா. கிருஷ்ணமூர்த்தி)

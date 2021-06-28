@@ -1,5 +1,6 @@
 ---
 title: 'திருவானைக்கா அகிலாண்டநாயகி பிள்ளைத் தமிழ்'
+thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 184
 authors:
   - தி. மீனாட்சிசுந்தரம் பிள்ளை
@@ -1160,4 +1161,5 @@ You are welcome to freely distribute this file, provided this header page is kep
 பொன்னூசற்பருவம் முற்றிற்று.
 அகிலாண்டநாயகி பிள்ளைத்தமிழ் முற்றிற்று.
 This web page was first put up on 2 sept 2003
-Please send your comments and corrections to the]()[Webmaster(s) of this site](mailto:kalyan@geocities.com, kumar@vt.edu? subject=PM84:pirapantat tirattu-2)
+Please send your comments and corrections to the]()[Webmaster(s) of this site](mailto:kalyan@geocities.com, kumar@vt.edu?
+ subject=PM84:pirapantat tirattu-2)
