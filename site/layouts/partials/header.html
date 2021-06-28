@@ -17,19 +17,19 @@
       <div class="collapse navbar-collapse" id="navbarCollapse">
         <ul class="navbar-nav ms-auto mb-2 mb-md-0">
           <li class="nav-item">
-            <a class="nav-link active fw-bold" aria-current="page" href="#">முகப்பு</a>
+            <a class="nav-link {{if eq .Type "page"}}active{{end}} fw-bold" aria-current="page" href="#">முகப்பு</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link fw-bold" href="{{ "/books" | relURL }}">புத்தகங்கள்</a>
+            <a class="nav-link {{if eq .Type "books"}}active{{end}} fw-bold" href="{{ "/books" | relURL }}">புத்தகங்கள்</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link fw-bold" href="{{ "/writers" | relURL }}">ஆசிரியர்கள்</a>
+            <a class="nav-link {{if eq .Type "writers"}}active{{end}} fw-bold" href="{{ "/writers" | relURL }}">ஆசிரியர்கள்</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link fw-bold" href="{{ "/volunteers" | relURL }}">தொண்டர்கள்</a>
+            <a class="nav-link {{if eq .Type "volunteers"}}active{{end}} fw-bold" href="{{ "/volunteers" | relURL }}">தொண்டர்கள்</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link fw-bold" href="{{ "/mission" | relURL }}">நோக்கம்</a>
+            <a class="nav-link {{if eq .Type "mission"}}active{{end}} fw-bold" href="{{ "/mission" | relURL }}">நோக்கம்</a>
           </li>
 
         </ul>
