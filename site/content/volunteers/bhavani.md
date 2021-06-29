@@ -2,5 +2,5 @@
 title: 'Ms. Bhavani'
 weight: 75
 location: 'CA, USA ? Canada'
-thumbnail: 'https://0.academia-photos.com/3166689/18820090/18780115/s200_k.kalyanasundaram.jpg'
+thumbnail: 'https://images.livehindustan.com/uploadimage/library/16_9/16_9_1/C_A_Bhavani_Wins_Gold_1496046159.jpg'
 ---

@@ -2,5 +2,5 @@
 title: 'Mr. Siva Pillai'
 weight: 12
 location: 'London, UK'
-thumbnail: 'https://0.academia-photos.com/3166689/18820090/18780115/s200_k.kalyanasundaram.jpg'
+thumbnail: 'https://lh3.googleusercontent.com/proxy/WtH0rbKTpsD0EzWZsGNEFUDWfVFT6LHaqDBOf1NQYUPB_S1gnywW5u4oCWWcSnCyEkb3ZgrPG1wZ9IsadHtSUb0t8MnE7bJkDTiit1439kY0S-36_Inaomafyss'
 ---
