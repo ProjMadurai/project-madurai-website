@@ -22,17 +22,7 @@ by Seethalai Chathanar
 Translated by Kausalya Hart
 In unicode/utf-8 format
 
-**Acknowledgements:**
-Our Sincere thanks go to Dr. Kausalya Hart (Univ. of California, Berkeley, USA, retd) for providing a soft
-copy of this work, with permission for its inclusion as part of the Project Madurai etext collections.
-We also thank Prof. George Hart III for his assistance in the preparation of this work.
-Preparation of HTML and PDF versions: Dr. K. Kalyanasundaram, Lausanne, Switzerland.
-© Project Madurai, 1998-2020.
-Project Madurai is an open, voluntary, worldwide initiative devoted to preparation
-of electronic texts of tamil literary works and to distribute them free on the Internet.
-Details of Project Madurai are available at the website
-**[https://www.projectmadurai.org/](https://www.projectmadurai.org/)**
-You are welcome to freely distribute this file, provided this header page is kept intact.
+
 
 ### சீத்தலை சாத்தனாரின் ”மணிமேகலை”
 ஆங்கில மொழிபெயர்ப்பு - கௌசல்யா ஹார்ட்
