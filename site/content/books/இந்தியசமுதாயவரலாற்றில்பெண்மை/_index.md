@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 687
 authors:
   - ராஜம் கிருஷ்ணன்
-authors:
+genres:
   - ஆராய்ச்சிக் கட்டுரைகள்
 ---
 

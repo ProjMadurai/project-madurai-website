@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 704
 authors:
   - கச்சியப்ப முனிவர்
-authors:
+genres:
   - பதிற்றுப்பத்தந்தாதி
   - பிரபந்தம்
 ---

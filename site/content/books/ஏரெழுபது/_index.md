@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 154
 authors:
   - கம்பர்
-authors:
+genres:
   - 
 ---
 

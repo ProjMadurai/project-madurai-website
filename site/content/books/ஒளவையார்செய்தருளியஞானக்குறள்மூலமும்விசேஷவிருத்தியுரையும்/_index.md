@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 744
 authors:
   - ஒளவையார், வடிவேலு முதலியார்
-authors:
+genres:
   - நீதி நூல்கள்
 ---
 

@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 556
 authors:
   - உ.வே. சாமிநாத அய்யர்
-authors:
+genres:
   - சுய சரிதை
 ---
 

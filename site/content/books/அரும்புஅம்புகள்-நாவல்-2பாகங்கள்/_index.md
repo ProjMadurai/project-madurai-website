@@ -4,8 +4,9 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 443
 authors:
   - கல்கி கிருஷ்ணமூர்த்தி
-authors:
-  - நாவல் / புதினம்
+genres:
+  - நாவல்
+  - புதினம்
 ---
 
 # arumpu anpukaL of Kalki Krishnamurthi - part 1(in tamil script, unicode format)

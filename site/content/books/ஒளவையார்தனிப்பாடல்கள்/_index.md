@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 745
 authors:
   - ஒளவையார், புலியூர்க் கேசிகன்
-authors:
+genres:
   - நீதி நூல்கள்
 ---
 

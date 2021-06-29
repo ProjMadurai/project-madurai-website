@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 607
 authors:
   - சேலம் அநந்த நாராயண சர்மா
-authors:
+genres:
   - சதகம்
   - பிரபந்தம்
 ---

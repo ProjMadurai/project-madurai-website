@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 767
 authors:
   - 1. சிறுமணவூர் முனிசாமி முதலியார் 2. ஆவிடையார் கோவில் ஆத்மனாதய்யர்
-authors:
+genres:
   - கும்மி
   - பிரபந்தம்
 ---

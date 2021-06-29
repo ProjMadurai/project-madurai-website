@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 552
 authors:
   - நெ. து. சுந்தரவடிவேலு
-authors:
+genres:
   - பயணக் கட்டுரைகள்
 ---
 

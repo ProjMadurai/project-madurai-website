@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 396
 authors:
   - இந்திரா பார்த்தசாரதி
-authors:
+genres:
   - சிறுகதைகள்
   - தொகுப்பு
 ---

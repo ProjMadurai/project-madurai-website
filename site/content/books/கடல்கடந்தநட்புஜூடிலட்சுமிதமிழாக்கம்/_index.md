@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 715
 authors:
   - நயோமி மிச்சிஸன் -ம. பெரியசாமித்தூரன்
-authors:
+genres:
   - நாவல்
   - மொழிபெயர்ப்பு
 ---

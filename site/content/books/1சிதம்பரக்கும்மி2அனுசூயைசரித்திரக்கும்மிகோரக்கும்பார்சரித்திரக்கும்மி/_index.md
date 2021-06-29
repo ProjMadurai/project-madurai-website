@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 764
 authors:
   - 1. திருப்போரூர் டி. கோபால் நாயகர் 2. இராமநாதபுரம் பத்மாஸனி அம்மாள்
-authors:
+genres:
   - கும்மி
   - பிரபந்தம்
 ---

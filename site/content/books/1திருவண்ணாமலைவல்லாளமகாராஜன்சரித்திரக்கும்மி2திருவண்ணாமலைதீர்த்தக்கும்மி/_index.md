@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 768
 authors:
   - 1. சிறுமணவூர் முனிசாமி முதலியார் 2. சிறுமணவூர் முனிசாமி முதலியார்
-authors:
+genres:
   - கும்மி
   - பிரபந்தம்
 ---

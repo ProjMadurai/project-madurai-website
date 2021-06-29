@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 763
 authors:
   - அனுமந்தராயன்
-authors:
+genres:
   - கும்மி
   - பிரபந்தம்
 ---

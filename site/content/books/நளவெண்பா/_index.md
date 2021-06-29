@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 15
 authors:
   - புகழேந்திப் புலவர்
-authors:
+genres:
   - 
 ---
 

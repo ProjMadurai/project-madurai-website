@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 596
 authors:
   - பொ. வே. சோமசுந்தரனார் உரையுடன்
-authors:
+genres:
   - காப்பியங்கள்
 ---
 
