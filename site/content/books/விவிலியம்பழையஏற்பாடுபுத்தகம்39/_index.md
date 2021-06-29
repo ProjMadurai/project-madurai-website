@@ -2,7 +2,7 @@
 title: 'விவிலியம் /பழைய ஏற்பாடு /புத்தகம் 39 (மலாக்கி); 40 (தோபித்து); 41 (யூதித்து); 42 (எஸ்தா(கி)); 43 (சாலமோனின் ஞானம்)'
 thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 279
-genres:
+authors:
   - விவிலியம்
 genres:
   - சமயம் – கிருத்துவம்
