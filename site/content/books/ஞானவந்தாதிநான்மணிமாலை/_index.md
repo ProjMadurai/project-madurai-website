@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 522
 authors:
   - குமாரசாமி முனிவர்
-authors:
+genres:
   - அந்தாதி , பிரபந்தம்
   - பிரபந்தம்
   - மாலை

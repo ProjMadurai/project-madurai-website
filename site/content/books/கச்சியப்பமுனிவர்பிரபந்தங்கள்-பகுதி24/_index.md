@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 705
 authors:
   - கச்சியப்ப முனிவர்
-authors:
+genres:
   - அந்தாதி, தூது
   - பிரபந்தம்
 ---

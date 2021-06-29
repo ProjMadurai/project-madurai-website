@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 85
 authors:
   - நாமக்கல் இராமலிங்கம் பிள்ளை
-authors:
+genres:
   - தொகுப்பு
   - பாடல்கள்
 ---

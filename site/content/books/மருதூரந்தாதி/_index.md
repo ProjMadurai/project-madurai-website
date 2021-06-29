@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 573
 authors:
   - தலைமலைகண்டதேவர் ஆறுமுக நாவலர் உரையுடன்
-authors:
+genres:
   - அந்தாதி
   - பிரபந்தம்
 ---

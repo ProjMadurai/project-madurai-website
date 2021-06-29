@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 708
 authors:
   - வ. அழகியசொக்கநாத பிள்ளை
-authors:
+genres:
   - அந்தாதி
   - பிரபந்தம்
 ---

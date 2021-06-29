@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 475
 authors:
   - சுப்ரமணிய சுவாமிகள்
-authors:
+genres:
   - அந்தாதி
   - பிரபந்தம்
 ---

@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 288
 authors:
   - ஸ்ரீ சுப்பைய சுவாமி
-authors:
+genres:
   - அந்தாதி
   - பிரபந்தம்
 ---
