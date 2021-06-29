@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 790
 authors:
   - T. V. சதாசிவ பண்டாரத்தார்
-authors:
+genres:
   - சரித்திரம்
   - வரலாறு
 ---

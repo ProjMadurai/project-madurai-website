@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 283
 authors:
   - S.P.S.K.காதிறு சாகிபவர்
-authors:
+genres:
   - பிரபந்தத் திரட்டு
 ---
 

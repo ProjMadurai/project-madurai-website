@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 322
 authors:
   - இராசப்ப உபாத்தியாயர்
-authors:
+genres:
   - சதகம்
   - பிரபந்தம்
 ---

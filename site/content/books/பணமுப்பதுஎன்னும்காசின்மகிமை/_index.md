@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 435
 authors:
   - திருக்கணமங்கை தனவந்தரி ஸ்ரீ இராகவாசாரியார்
-authors:
+genres:
   - இலக்கியம்
 ---
 

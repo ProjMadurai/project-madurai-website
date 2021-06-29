@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 525
 authors:
   - லா. ச. ராமாமிருதம்
-authors:
+genres:
   - வரலாற்றுக் கட்டுரைகள்
 ---
 

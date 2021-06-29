@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 673
 authors:
   - கல்கி (ரா. கிருஷ்ணமூர்த்தி)
-authors:
+genres:
   - மகாத்மா காந்தி வரலாறு
 ---
 

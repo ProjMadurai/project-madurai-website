@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 281
 authors:
   - பண்டித நடேச சாஸ்திரியார் (தமிழாக்கம்)
-authors:
+genres:
   - நாவல்; மொழிபெயர்ப்பு
 ---
 

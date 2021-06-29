@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 644
 authors:
   - பலபட்டடைச் சொக்கநாத பிள்ளை
-authors:
+genres:
   - தூது
   - பிரபந்தம்
 ---

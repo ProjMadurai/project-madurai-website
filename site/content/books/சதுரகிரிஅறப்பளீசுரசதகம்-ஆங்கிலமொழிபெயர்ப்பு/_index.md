@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 604
 authors:
   - அம்பலவாணக் கவிராயரவர்கள்; கௌசல்யா ஹார்ட்
-authors:
+genres:
   - சதகம், மொழிபெயர்ப்பு
   - பிரபந்தம்
 ---

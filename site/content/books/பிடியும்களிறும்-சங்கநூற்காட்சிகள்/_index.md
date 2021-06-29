@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 613
 authors:
   - கி. வா. ஜகங்காதன்
-authors:
+genres:
   - இலக்கியக் கட்டுரைகள்
 ---
 

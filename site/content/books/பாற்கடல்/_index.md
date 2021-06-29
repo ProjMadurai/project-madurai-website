@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 559
 authors:
   - லா.ச. இராமாமிருதம்
-authors:
+genres:
   - இளமை நினைவுகள்
   - சுய சரிதை
 ---

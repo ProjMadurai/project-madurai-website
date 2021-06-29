@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 736
 authors:
   - நாரா. நாச்சியப்பன்
-authors:
+genres:
   - வரலாற்றுக் கட்டுரைகள்
 ---
 

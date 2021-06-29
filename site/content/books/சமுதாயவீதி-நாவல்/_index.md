@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 458
 authors:
   - தீபம் நா. பார்த்தசாரதி
-authors:
+genres:
   - நாவல்
   - புதினம்
 ---

@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 709
 authors:
   - குமாரசாமிப் புலவர்
-authors:
+genres:
   - குறவஞ்சி
   - பிரபந்தம்
 ---

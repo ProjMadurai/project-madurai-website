@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 472
 authors:
   - அருணாசலக் கவிராயர்
-authors:
+genres:
   - புராணம்
 ---
 

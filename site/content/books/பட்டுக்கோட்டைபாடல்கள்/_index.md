@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 161
 authors:
   - பட்டுக்கோட்டை கல்யாணசுந்தரம்
-authors:
+genres:
   - பாடல்கள்
 ---
 

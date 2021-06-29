@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 519
 authors:
   - ராஜம் கிருஷ்ணன்
-authors:
+genres:
   - நாவல்
   - புதினம்
 ---

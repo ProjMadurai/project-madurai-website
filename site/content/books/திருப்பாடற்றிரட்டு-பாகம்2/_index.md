@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 305
 authors:
   - தாயுமான சுவாமிகள்
-authors:
+genres:
   - தொகுப்பு
   - பாடல்கள்
 ---

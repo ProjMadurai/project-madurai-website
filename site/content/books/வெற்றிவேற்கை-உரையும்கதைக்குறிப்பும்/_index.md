@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 650
 authors:
   - அதிவீரராம பாண்டியன்
-authors:
+genres:
   - நீதிநெறி நூல்கள்
 ---
 

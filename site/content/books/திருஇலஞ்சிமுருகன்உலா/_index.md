@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 357
 authors:
   - பண்டாரக் கவிராயர்
-authors:
+genres:
   - உலா
   - பிரபந்தம்
 ---

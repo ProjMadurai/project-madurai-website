@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 266
 authors:
   - அம்பலவாணக் கவிராயர்
-authors:
+genres:
   - சதகம்
   - பிரபந்தம்
 ---

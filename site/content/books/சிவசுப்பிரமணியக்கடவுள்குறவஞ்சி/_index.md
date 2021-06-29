@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 380
 authors:
   - வீரபத்திரக் கவிராயர்
-authors:
+genres:
   - குறவஞ்சி
   - பிரபந்தம்
 ---

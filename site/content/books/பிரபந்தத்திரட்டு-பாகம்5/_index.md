@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 331
 authors:
   - சிவஞான யோகிகள்
-authors:
+genres:
   - திரட்டு
   - பிரபந்தம்
 ---

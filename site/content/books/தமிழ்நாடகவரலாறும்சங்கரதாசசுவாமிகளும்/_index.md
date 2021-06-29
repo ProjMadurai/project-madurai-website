@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 667
 authors:
   - அ. ச. ஞானசம்பந்தன்
-authors:
+genres:
   - நாடக வரலாறு
 ---
 

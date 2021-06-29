@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 369
 authors:
   - கோயமுத்தூர் கந்தசாமி முதலியார்
-authors:
+genres:
   - கோவை
   - பிரபந்தம்
 ---

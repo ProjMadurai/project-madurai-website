@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 560
 authors:
   - தாயுமானவர்
-authors:
+genres:
   - பாடல்கள் தொகுப்பு
 ---
 

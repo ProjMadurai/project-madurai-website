@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 524
 authors:
   - முத்தப்பச் செட்டியார்
-authors:
+genres:
   - சதகம்
   - பிரபந்தம்
 ---

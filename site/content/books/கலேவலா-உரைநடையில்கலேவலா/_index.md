@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 143
 authors:
   - உதயணன்
-authors:
+genres:
   - காவியம்; மொழிபெயர்ப்பு
 ---
 

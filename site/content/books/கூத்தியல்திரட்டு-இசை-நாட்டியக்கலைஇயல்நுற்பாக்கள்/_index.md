@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 340
 authors:
   - திரட்டியோன் - மயிலை சீனி வேங்கடசாமி
-authors:
+genres:
   - நாடகக்கலை நூல்
 ---
 

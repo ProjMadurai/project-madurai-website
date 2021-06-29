@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 571
 authors:
   - வல்லிக்கண்ணன் (மொழிபெயர்ப்பு)
-authors:
+genres:
   - சிறுகதைகள் தொகுப்பு
 ---
 

@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 770
 authors:
   - முல்லை பிஎல். முத்தையா
-authors:
+genres:
   - சிறுகதைகள்
   - மாணவர்களுக்கு
 ---

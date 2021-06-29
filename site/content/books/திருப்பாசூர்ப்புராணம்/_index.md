@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 370
 authors:
   - பூவை கலியாணசுந்தர முதலியார்
-authors:
+genres:
   - புராணம்
 ---
 

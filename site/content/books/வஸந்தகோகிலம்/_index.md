@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 543
 authors:
   - வடுவூர் கே. துரைசாமி ஐயங்கார்
-authors:
+genres:
   - நாவல்
   - புதினம்
 ---

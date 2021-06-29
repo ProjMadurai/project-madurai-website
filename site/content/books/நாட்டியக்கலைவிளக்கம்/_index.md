@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 314
 authors:
   - சுத்தானந்த பாரதியார்
-authors:
+genres:
   - நாடகக் கலை
 ---
 

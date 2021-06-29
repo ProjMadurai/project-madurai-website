@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 312
 authors:
   - ஊத்துக்காடு வெங்கடசுப்பையர்
-authors:
+genres:
   - இசை; பாட்டு
 ---
 

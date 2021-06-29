@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 74
 authors:
   - பத்ரகிரியார்
-authors:
+genres:
   - சித்தர் பாடல்கள்
 ---
 

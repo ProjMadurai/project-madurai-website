@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 568
 authors:
   - கவிஞர் அழ.வள்ளியப்பா
-authors:
+genres:
   - சிறுவர் பாடல்கள்
 ---
 

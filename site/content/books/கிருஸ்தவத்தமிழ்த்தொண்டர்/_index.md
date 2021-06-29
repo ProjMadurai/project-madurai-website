@@ -471,7 +471,7 @@ Vedanayagam Sastriyar (1774 -1864)
 1. பெயர், பொருள், தொகை, தொடை என்னும் நான்கு வகுப்புகள் அவ்வகராதியில் உள்ளன.
 2. இது கி.பி. 1779ம் ஆண்டில் சென்னை வேப்பேரியில் பதிப்பிக்கப்பட்டது.
 3. "Asterisks are used as the sign of Grandam words -- become usual in-the Malabar {Tamil) language“ -- Preface to the Dictionary
-4. This Comprehensive Tamil and English Dictionary embraces both the common and poetic dialects of the Tamil language, including its principal astronomical, astrological, mythological, botanical, scientific and official terms, as also the names of many authors: poets, heroes and gods”. -- Preface to Winslow's Dictionary,
+4. This Comprehensive Tamil and English Dictionary embraces both the common and poetic dialects of the Tamil language, including its principal astronomical, astrological, mythological, botanical, scientific and official terms, as also the names of many genres: poets, heroes and gods”. -- Preface to Winslow's Dictionary,
 5. கி. பி. 1882-ம் ஆண்டில் வெளியிடப்பட்டது.
 6. "மான் கண் காலதர் மாளிகை” என்பது சிலப்பதிகாரம் கால் - காற்று ; அதர் - வழி.
 7. இவற்றின் தன்மையை Tamil-Literary and Cal-loanial'" என்ற என் கட்டுரையிற் காண்க. (Annals of the Oriental Research Institute, University of Madras, Vo. III. part 2)

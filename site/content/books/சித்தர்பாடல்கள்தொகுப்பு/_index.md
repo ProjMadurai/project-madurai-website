@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 76
 authors:
   - அழுகணிச் சித்தர்; இராமதேவர்; கடுவெளிச் சித்தர்; குதம்பைச் சித்தர்; சட்டைமுனி ; திருமூல நாயனார்; திருவள்ளுவர்
-authors:
+genres:
   - சித்தர் பாடல்கள்
 ---
 

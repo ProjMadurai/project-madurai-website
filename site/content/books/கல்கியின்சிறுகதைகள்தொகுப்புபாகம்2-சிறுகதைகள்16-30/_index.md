@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 636
 authors:
   - கல்கி கிருஷ்ணமூர்த்தி
-authors:
+genres:
   - சிறுகதைகள் தொகுப்பு
 ---
 

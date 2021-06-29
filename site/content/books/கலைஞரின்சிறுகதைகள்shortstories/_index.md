@@ -5,7 +5,7 @@ weight: 698
 authors:
   - கலைஞர் மு. கருணாநிதி
   - ராஜா Kalaignar Karunanidhi
-authors:
+genres:
   - ஆங்கில மொழிபெயர்ப்பு English Translation
   - சிறுகதைகள்
 ---

@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 287
 authors:
   - கோபாலகிருஷ்ண பாரதியார்
-authors:
+genres:
   - இசை; பாட்டு
 ---
 

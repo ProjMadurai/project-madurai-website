@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 212
 authors:
   - அகப்பேய் சித்தர்; இடைக்காட்டுச் சித்தர்;கொங்கணச் சித்தர்
-authors:
+genres:
   - சித்தர் பாடல்கள்
 ---
 

@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 219
 authors:
   - படிக்காசுப் புலவர்
-authors:
+genres:
   - சிற்றிலக்கியம்
 ---
 

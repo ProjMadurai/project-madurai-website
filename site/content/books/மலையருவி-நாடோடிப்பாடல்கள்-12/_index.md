@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 567
 authors:
   - பர்ஸி மாக்வீன் (சேகரிப்பு) கி.வா.ஜகந்நாதன் (தொகுப்பு)
-authors:
+genres:
   - நாடோடிப் பாடல்கள்
 ---
 

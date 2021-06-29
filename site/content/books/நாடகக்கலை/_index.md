@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 394
 authors:
   - அவ்வை டி கே. சண்முகம்
-authors:
+genres:
   - நாடக இயல்
 ---
 

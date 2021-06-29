@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 540
 authors:
   - சாவி (சா.விஸ்வநாதன்)
-authors:
+genres:
   - புதினம்
 ---
 

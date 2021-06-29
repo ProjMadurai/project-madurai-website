@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 692
 authors:
   - பதிப்பாசிரியர் : வீ. சொக்கலிங்கம்
-authors:
+genres:
   - குறவஞ்சி
   - பிரபந்தம்
 ---

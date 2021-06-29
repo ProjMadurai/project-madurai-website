@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 354
 authors:
   - துறைமங்கலம் சிவப்பிரகாச சுவாமிகள்
-authors:
+genres:
   - புராணம்
 ---
 

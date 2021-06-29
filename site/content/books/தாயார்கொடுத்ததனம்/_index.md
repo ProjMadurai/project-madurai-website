@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 748
 authors:
   - நாமக்கல் வெ. இராமலிங்கம் பிள்ளை
-authors:
+genres:
   - வரலாற்றுக் கட்டுரைகள்
 ---
 

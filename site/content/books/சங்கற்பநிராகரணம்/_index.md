@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 133
 authors:
   - உமாபதி சிவம்
-authors:
+genres:
   - சைவ சித்தாந்தம்
 ---
 

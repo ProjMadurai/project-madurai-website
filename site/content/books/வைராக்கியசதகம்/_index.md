@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 662
 authors:
   - சாந்தலிங்க சுவாமிகள் சிதம்பர சுவாமிகள் உரையுடன்
-authors:
+genres:
   - சதகம்
   - பிரபந்தம்
 ---

@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 742
 authors:
   - பாவலர் நாரா. நாச்சியப்பன்
-authors:
+genres:
   - சிறுவர்களுக்கான கதைகள்
 ---
 

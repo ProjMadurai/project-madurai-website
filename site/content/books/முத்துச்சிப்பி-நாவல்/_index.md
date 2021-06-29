@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 720
 authors:
   - ஸரோஜா ராமமூர்த்தி
-authors:
+genres:
   - நாவல்
   - புதினம்
 ---

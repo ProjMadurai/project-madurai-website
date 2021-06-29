@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 581
 authors:
   - ஸ்ரீமத் சிதம்பரநாத முனிவர்
-authors:
+genres:
   - சதகம்
   - பிரபந்தம்
 ---

@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 582
 authors:
   - வேளூர் ஆத்ம நாத தேசிகர்
-authors:
+genres:
   - சதகம்
   - பிரபந்தம்
 ---

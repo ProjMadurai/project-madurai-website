@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 386
 authors:
   - கல்கி கிருஷ்ணமூர்த்தி - இந்திரா நீலமேகம் (Kalki Krishnamurthy - Indra Neelameggham)
-authors:
+genres:
   - நாவல்
   - புதினம் ; மொழிபெயர்ப்பு
 ---

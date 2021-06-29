@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 474
 authors:
   - பரஞ்சோதி முனிவர்
-authors:
+genres:
   - புராணம்
 ---
 

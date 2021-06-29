@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 676
 authors:
   - ம. ப. பெரியசாமித்தூரன்
-authors:
+genres:
   - கவிதை தொகுப்பு
 ---
 

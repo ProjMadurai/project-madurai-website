@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 586
 authors:
   - சுந்தர சண்முகனார் உரையுடன்
-authors:
+genres:
   - பதினெண் கீழ்க் கணக்கு நூல்
 ---
 

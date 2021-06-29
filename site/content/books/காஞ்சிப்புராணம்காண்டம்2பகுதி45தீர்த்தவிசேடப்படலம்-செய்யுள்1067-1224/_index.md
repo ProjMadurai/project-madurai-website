@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 501
 authors:
   - கச்சியப்ப முனிவர்
-authors:
+genres:
   - புராணம்
 ---
 

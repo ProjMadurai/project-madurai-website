@@ -5,7 +5,7 @@ weight: 406
 authors:
   - தாண்டவராய முதலியார்
   - விஷ்ணு சர்மா
-authors:
+genres:
   - கதை
 ---
 

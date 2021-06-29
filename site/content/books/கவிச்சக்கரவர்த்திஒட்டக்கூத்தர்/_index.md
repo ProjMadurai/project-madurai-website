@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 563
 authors:
   - சி. பாலசுப்பிரமணியன் (சிற்பி)
-authors:
+genres:
   - ஆராய்ச்சிக் கட்டுரைகள்
   - சொற்பொழிவுகள்
 ---

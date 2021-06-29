@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 420
 authors:
   - அ. முத்துலிங்கம்
-authors:
+genres:
   - சிறுகதைகள் தொகுப்பு
 ---
 

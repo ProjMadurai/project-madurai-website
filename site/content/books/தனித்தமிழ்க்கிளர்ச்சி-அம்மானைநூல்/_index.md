@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 781
 authors:
   - சுந்தர சண்முகனார்
-authors:
+genres:
   - அம்மானை
   - பிரபந்தம்
 ---

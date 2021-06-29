@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 398
 authors:
   - சு.கிருஷ்ணமூர்த்தி
-authors:
+genres:
   - சிறுகதை தொகுப்பு; மொழிபெயர்ப்பு
 ---
 

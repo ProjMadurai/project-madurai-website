@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 614
 authors:
   - ரா.பி. சேதுப்பிள்ளை
-authors:
+genres:
   - இலக்கியக் கட்டுரைகள்
 ---
 

@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 375
 authors:
   - வ.உ. சிதம்பரம் பிள்ளை
-authors:
+genres:
   - பாடற் திரட்டு
 ---
 

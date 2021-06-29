@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 570
 authors:
   - வல்லிக்கண்ணன்
-authors:
+genres:
   - ஆராய்ச்சிக் கட்டுரைகள்
 ---
 

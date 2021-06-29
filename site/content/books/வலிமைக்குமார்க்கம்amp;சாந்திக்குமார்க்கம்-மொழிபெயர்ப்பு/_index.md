@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 453
 authors:
   - வ.உ. சிதம்பரம் பிள்ளை
-authors:
+genres:
   - மொழி பெயர்ப்பு
 ---
 

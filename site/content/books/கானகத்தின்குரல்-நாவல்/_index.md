@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 677
 authors:
   - ஜாக் லண்டன் ம. ப. பெரியசாமித்தூரன்
-authors:
+genres:
   - தமிழில் மொழிபெயர்ப்பு
 ---
 

@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 753
 authors:
   - ஔவை. சு. துரைசாமிப் பிள்ளை
-authors:
+genres:
   - ஆராய்ச்சி
   - காப்பியம்
 ---

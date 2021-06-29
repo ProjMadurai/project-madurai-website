@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 574
 authors:
   - மதுரை ஐயம்பெருமாள்
-authors:
+genres:
   - சதகம்
   - பிரபந்தம்
 ---

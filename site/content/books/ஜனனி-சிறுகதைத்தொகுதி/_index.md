@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 537
 authors:
   - லா. ச. இராமாமிருதம்
-authors:
+genres:
   - சிறுகதைகள் தொகுப்பு
 ---
 

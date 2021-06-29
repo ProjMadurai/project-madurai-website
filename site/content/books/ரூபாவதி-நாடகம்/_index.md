@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 459
 authors:
   - வி.கோ. சூரியநாராயண சாஸ்திரியார் (பரிதிமாற் கலைஞர்)
-authors:
+genres:
   - நாடகம்
 ---
 

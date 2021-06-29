@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 280
 authors:
   - இராமச்சந்திர அய்யர் (தமிழாக்கம்)
-authors:
+genres:
   - நாவல்; மொழிபெயர்ப்பு
 ---
 

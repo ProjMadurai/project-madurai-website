@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 447
 authors:
   - உமாபதி சிவாச்சாரியார்
-authors:
+genres:
   - புராணம்
 ---
 
