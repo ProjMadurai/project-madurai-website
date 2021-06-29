@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 467
 authors:
   - குன்றக்குடி அடிகள்
-authors:
+genres:
   - கட்டுரைகள்
 ---
 

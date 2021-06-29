@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 771
 authors:
   - வி. கலியாணசுந்தரனார்
-authors:
+genres:
   - கட்டுரைகள், சொற்பொழிவு
 ---
 

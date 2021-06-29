@@ -4,7 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 566
 authors:
   - மாநிலன் (கி. ஜெகதீஸ்வரன்)
-authors:
+genres:
   - கட்டுரைகள்
 ---
 
