@@ -13,8 +13,11 @@ body {
   background-size: cover;
 }
 
-main > .container {
-  padding: 60px 15px 0;
+.navbar-brand{
+  padding-left: 20px;
+}
+.navbar-collapse{
+  padding-right: 20px;
 }
 
 .bd-placeholder-img {
