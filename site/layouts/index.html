@@ -21,22 +21,22 @@
 
   <div class="row">
     <div class="col-md-6 text-center offset-md-3">
-      <div class="input-group bg-light rounded-start">
+      <div class="input-group">
          <input type="text" class="form-control form-control-sm" placeholder="தேடுக" aria-label="Text input with 2 dropdown buttons">
-        <button class="btn  bg-info text-white" type="submit"><i class="fas fa-search"></i></button>
+        <button class="btn  bg-info text-white search-btn border border-3" type="submit"><i class="fas fa-search"></i></button>
         </ul>
       </div>
     </div>
   </div>
 
 
-  <div class="row mt-4">
+  <div class="row mt-3">
 
     {{ range (where .Site.Sections "Section" "books" ) }}
           {{ range first 8 .Pages  }}
-          <div class="row-cols-1 col-md-3 my-3">
+          <div class="row-cols-1 col-md-3 my-2">
             <h6 class="fw-bold text-truncate">
-              <a href="{{strings.TrimRight "/" .Permalink}}">{{.Title}}</a></h6>
+              <a href="{{strings.TrimRight "/" .Permalink}}" class="text-decoration-none">{{.Title}}</a></h6>
             {{- range $index, $element := .Params.authors }}
               {{ if gt $index 0 }} & {{ end }}
               <small>{{ . }}</small>
