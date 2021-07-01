@@ -32,8 +32,26 @@ body {
   .bd-placeholder-img-lg {
     font-size: 3.5rem;
   }
+
 }
 
-.navbar-collapse>ul>li>a:hover{
- border-top:2px solid red;
+.navbar-collapse>ul>:hover
+{
+background: #A3032A;
+height: 4px;
 }
+.navbar{
+  height:50px;
+}
+.form-control{
+  border-radius: 14px;
+  width: 686px;
+  height: 40px;
+}
+.search-btn{
+  border-radius:14px;
+  width:70px;
+  height: 40px;
+  background: #4EA2D1;
+}
+
