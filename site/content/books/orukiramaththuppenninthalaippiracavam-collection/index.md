@@ -2979,10 +2979,4 @@ genres:
 
 இப்போதைக்குச் சொல்கிறேன்.  
 
-(அம்பலம்)  
-
-This web page was first put up on 2 sept 2003  
-
-Please send your comments and corrections to the]()[Webmaster(s) of this site](mailto:kalyan@geocities.com, kumar@vt.edu?  
-
- subject=PM85:ira murugan kavitaikaL)
+(அம்பலம்)

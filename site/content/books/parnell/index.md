@@ -7,9 +7,6 @@ authors:
 genres:
   - நாவல்; மொழிபெயர்ப்பு
 ---
-## PARNELL'S HERMIT (IN TAMIL PROSE.)  
-
-  
 
 by C. RAMACHANDRA AIYER, B.A.,B.L.  
 

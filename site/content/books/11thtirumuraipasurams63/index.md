@@ -2545,8 +2545,4 @@ genres:
 
 **திருப்பெருமணநல்லூர்த் திருவெண்ணீற்றுமை பிள்ளைத்தமிழ் முற்றிற்று  
 
-** -------------------------  
-
-This web page was first put up on Dec 17, 2001 and last revised to TSCII 1.7 version on 14 March 2002  
-
-Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, kumar@vt.edu? subject=PM128 : pirapantat tirattu-1)
+** -------------------------

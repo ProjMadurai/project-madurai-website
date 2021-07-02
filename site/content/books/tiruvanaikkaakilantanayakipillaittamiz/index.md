@@ -2252,10 +2252,4 @@ genres:
 
 பொன்னூசற்பருவம் முற்றிற்று.  
 
-அகிலாண்டநாயகி பிள்ளைத்தமிழ் முற்றிற்று.  
-
-This web page was first put up on 2 sept 2003  
-
-Please send your comments and corrections to the]()[Webmaster(s) of this site](mailto:kalyan@geocities.com, kumar@vt.edu?  
-
- subject=PM84:pirapantat tirattu-2)
+அகிலாண்டநாயகி பிள்ளைத்தமிழ் முற்றிற்று.

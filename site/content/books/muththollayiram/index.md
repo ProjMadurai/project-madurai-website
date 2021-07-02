@@ -1117,10 +1117,4 @@ genres:
 
 றுன்னரும் போர்க்கோதை துடாசெருக்கின்  
 
-மன்னன் மதிலாய வென்று!  
-
-This web page was first put up on Dec 10, 2001 and last revised to TSCII 1.7 version on 14 March 2002  
-
-Please send your comments and corrections to the]()[Webmaster(s) of this site](mailto:kalyan@geocities.com, kumar@vt.edu?  
-
-  subject=PM121 : muttollayiram)
+மன்னன் மதிலாய வென்று!
