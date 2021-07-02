@@ -4,9 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 738
 authors:
   - முத்துவீரக் கவிராயர்
-tags:
-  - cake
-  - chocolate
+
 ---
 ்ளைத் தமிழ்'  
 

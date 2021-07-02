@@ -4,9 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 747
 authors:
   - கோவை கவியரசு கு. நடேச கவுண்டர், ந. முத்துக்குமாரசுவாமி
-tags:
-  - cake
-  - chocolate
+
 ---
 க்ஷிணாமூர்த்தி தோத்திரம்'  
 

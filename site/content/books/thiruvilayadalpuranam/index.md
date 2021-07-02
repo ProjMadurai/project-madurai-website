@@ -4,9 +4,7 @@ thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saff
 weight: 463
 authors:
   - பரஞ்சோதி முனிவர்
-tags:
-  - cake
-  - chocolate
+
 ---
 ுரைக் காண்டம்'  
 
