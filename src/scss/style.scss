@@ -27,3 +27,10 @@ body {
   -moz-user-select: none;
   user-select: none;
 }
+
+@media only screen and (max-width: 736px) {
+  .writer-img{
+    width:75%;
+    margin:auto;
+  }
+}
