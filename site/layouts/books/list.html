@@ -33,16 +33,24 @@
     <div class="row row-cols-1 row-cols-md-6 gx-4 card-deck">
         {{ range .Pages }}
         <div class="col mb-3">
-          <a  class="text-decoration-none" href="{{strings.TrimRight "/" .Permalink}}"><div class="card card-deck border-0" >
-          <img src="{{strings.TrimRight "/" .Params.thumbnail}}" class="card-img-top p-2" alt="...">
+          <a  class="text-decoration-none" href="{{strings.TrimRight "/" .Permalink}}">
+            <div class="card border-0 h-100">
           <div class="card-body">
-          <h6 class="text-truncate fw-bold text-center">{{ .Title }}</h6>
-          {{- range $index, $element := .Params.authors }}
-          {{ if gt $index 0 }} & {{ end }}
-          <span>
-              <h6 class="text-truncate text-center">{{ . }}</h6>
-          </span>
-          {{ end }}
+           <div class="card-title bg-light mt-4">
+
+            <h5 class="text-truncate fw-bold text-center">{{ .Title }}</h5>
+            {{- range $index, $element := .Params.authors }}
+            {{ if gt $index 0 }} & {{ end }}
+            <span>
+                <h6 class="text-truncate text-center "><small>{{ . }}</small></h6>
+            </span>
+            {{ end }}
+           </div>   
+           <ul class="list-group list-group-horizontal d-flex justify-content-evenly">
+               <li class="list-group-item border-0"><a href="#" class="text-dark"><i class="fas fa-share-alt"></i></a></li>
+               <li class="list-group-item border-0"><a href="#" class="text-dark"><i class="fas fa-download"></i></a></li>
+               <li class="list-group-item border-0"><a href="#" class="text-dark"><i class="fas fa-book-reader"></i></a></li>
+           </ul>
           </div>
           </div></a>
         </div>
