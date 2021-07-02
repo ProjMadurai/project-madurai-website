@@ -4,3 +4,5 @@ thumbnail: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fthresholdsofhistor
 photo_credit: '[Clem Onojeghuo](https://unsplash.com/@clemono2)'
 avatar: 'https://github.com/thiruvalluvar.png?size=100'
 ---
+
+சிறுமணவூர் முனிசாமி முதலியார்
