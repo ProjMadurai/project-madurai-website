@@ -1,6 +1,6 @@
 ---
 title: உலகநாதர்
-thumbnail: 'http://siragu.com/wp-content/uploads/2015/02/ulaganeethi4.jpg'
+thumbnail: 'https://techatpark.github.io/project-madurai-website/images/Man_icon.svg'
 ---
 
 உலக மக்களுக்குப் பொதுவான நிதிகளைக் கூறுகிறது இந்த உலகநீதி என்னும் இந்த நூல். இதில் 13 ஆசிரிய விருத்தப் பாக்கள் உள்ளன. ஒவ்வொரு விருத்தத்திலும் உள்ள ஒவ்வொரு அடியும் ஒரு நீதியைச் சொல்கின்றது. இந்த நூலை இயற்றியவர் உலகநாதர்.
