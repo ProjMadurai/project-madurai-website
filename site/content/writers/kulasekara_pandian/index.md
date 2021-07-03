@@ -1,6 +1,6 @@
 ---
 title: குலசேகர பாண்டியன்
-thumbnail: 'https://scontent.fmaa11-1.fna.fbcdn.net/v/t1.18169-9/12523906_463101433879134_7738417106002209633_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=973b4a&_nc_ohc=okPNjCAdfWYAX8nRY8e&_nc_ht=scontent.fmaa11-1.fna&oh=6d26d550c77703cea46741c9226e89fd&oe=60DF1DD8'
+thumbnail: 'https://techatpark.github.io/project-madurai-website/images/Man_icon.svg'
 ---
 
 முதலாம் மாறவர்மன் குலசேகர பாண்டியன் கி.பி 1268 முதல் கி.பி 1311 வரை அரசாண்ட பாண்டிய மன்னனாவான். முதலாம் சடையவர்மன் சுந்தர பாண்டியனை அடுத்து முடி சூடியவனான இவன் தன் இறப்பு வரை ஆட்சி புரிந்தான்.
