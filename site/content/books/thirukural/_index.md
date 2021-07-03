@@ -5,7 +5,7 @@ weight: 1
 authors:
   - திருவள்ளுவர்
 genres:
-  - thiruvalluvar 
+  - நீதிநெறி 
 
 ---
   
