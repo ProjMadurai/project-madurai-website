@@ -36,20 +36,21 @@
           <a  class="text-decoration-none" href="{{strings.TrimRight "/" .Permalink}}">
             <div class="card bg-light border-0 h-100">
           <div class="card-body m-2 bg-dark" style="height:130px">
-            <h6 class="text-truncate text-center">{{ .Title }}</h6>
+            <h6 class="text-truncate fw-bold text-center pt-4">{{ .Title }}</h6>
             {{- range $index, $element := .Params.authors }}
             {{ if gt $index 0 }} & {{ end }}
             
-                <p class="text-center">{{ . }}</p>
+                <p class="text-center"><small>{{ . }}</small></p>
             {{ end }} 
             
            
           </div>
           <div class="card-footer border-0 bg-light">
-            <ul class="list-group list-group-horizontal d-flex justify-content-evenly">
-                <li class="list-group-item bg-transparent border-0"><a href="#" ><i class="fas fa-share-alt"></i></a></li>
-                <li class="list-group-item bg-transparent border-0"><a href="https://www.projectmadurai.org/pm_etexts/pdf/pm0001.pdf" ><i class="fas fa-download"></i></a></li>
-            </ul>
+            <div class="d-flex">
+              <span class="bg-transparent border-0 ms-auto"><a href="#" ><i class="fas fa-share-alt"></i></a></span>
+              <span class="bg-transparent border-0 ms-auto"><a href="#" ><i class="fas fa-download"></i></a></span>
+            </div>
+
           </div>
           </div></a>
         </div>
