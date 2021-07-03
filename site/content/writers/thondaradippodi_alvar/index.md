@@ -1,6 +1,6 @@
 ---
 title: தொண்டரடிப்பொடியாழ்வார்
-thumbnail: 'https://www.google.com/url?sa=i&url=http%3A%2F%2Fsumiscorner.blogspot.com%2F2016%2F02%2F&psig=AOvVaw3TttyIl6xiou_W6-HjkpMz&ust=1624976849057000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCJDrwNzEuvECFQAAAAAdAAAAABAD'
+thumbnail: 'https://techatpark.github.io/project-madurai-website/images/Man_icon.svg'
 photo_credit: '[Clem Onojeghuo](https://unsplash.com/@clemono2)'
 avatar: 'https://github.com/thiruvalluvar.png?size=100'
 ---
