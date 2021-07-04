@@ -42,11 +42,11 @@ jobs:
     #     GITHUB_TOKEN: ${{ secrets.GH_PAGES_TOKEN }}
     #     PUBLISH_BRANCH: gh-pages
     #     PUBLISH_DIR: ./dist
-    - name: FTP Deploy to WP Engine (Staging)
-      uses: SamKirkland/FTP-Deploy-Action@3.1.1
+    - name: FTP Deploy 
+      uses: sebastianpopp/ftp-action@releases/v2
       with:
-        ftp-server: ftp://projectmadurai.org
-        ftp-username: sathya@projectmadurai.org
-        ftp-password: ${{ secrets.PM_FTP_PASSWORD }}
-        local-dir: ./dist
-        server-dir: /home/projectm/domains/projectmadurai.org/public_html/beta
+        host: projectmadurai.org
+        user: sathya@projectmadurai.org
+        password: ${{ secrets.PM_FTP_PASSWORD }}
+        localDir: "dist"
+        remoteDir: "/home/projectm/domains/projectmadurai.org/public_html/beta"   
