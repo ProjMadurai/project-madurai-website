@@ -1,4 +1,3 @@
-baseurl = "/project-madurai-website"
 languageLang = "ta"
 title = "திட்டம் மதுரை"
 authors = "சதிஷ் குமார் தியாகராஜன், தாஜுல் கான்,விஜயசேகர்"
@@ -6,7 +5,4 @@ authors = "சதிஷ் குமார் தியாகராஜன், �
 # uncomment the next line to disable listing authors
 # disableKinds = ["taxonomyTerm"]
 
-[taxonomies]
-  author = "authors"
-  genre = "genres"
-  tag = "tags"
+
