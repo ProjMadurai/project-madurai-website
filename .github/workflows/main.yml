@@ -36,9 +36,16 @@ jobs:
         npm test
       env:
         CI: true
-    - name: Deploy
-      uses: peaceiris/actions-gh-pages@v2.4.0
-      env:
-        GITHUB_TOKEN: ${{ secrets.GH_PAGES_TOKEN }}
-        PUBLISH_BRANCH: gh-pages
-        PUBLISH_DIR: ./dist
+    # - name: Deploy
+    #   uses: peaceiris/actions-gh-pages@v2.4.0
+    #   env:
+    #     GITHUB_TOKEN: ${{ secrets.GH_PAGES_TOKEN }}
+    #     PUBLISH_BRANCH: gh-pages
+    #     PUBLISH_DIR: ./dist
+    - name: FTP Deploy to WP Engine (Staging)
+      uses: SamKirkland/FTP-Deploy-Action@3.1.1
+      with:
+        ftp-server: ftp://projectmadurai.org
+        ftp-username: sathya@projectmadurai.org
+        ftp-password: ${{ secrets.PM_FTP_PASSWORD }}
+        local-dir: ./dist
