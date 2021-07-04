@@ -48,4 +48,4 @@ jobs:
         ftp_host: projectmadurai.org
         ftp_username: sathya@projectmadurai.org
         ftp_password: ${{ secrets.PM_FTP_PASSWORD }}
-        local_source_dir: "dist"
+        local_source_dir: "dist/"
