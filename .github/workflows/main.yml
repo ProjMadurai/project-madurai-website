@@ -42,7 +42,7 @@ jobs:
     #     GITHUB_TOKEN: ${{ secrets.GH_PAGES_TOKEN }}
     #     PUBLISH_BRANCH: gh-pages
     #     PUBLISH_DIR: ./dist
-    - name: FTP Deploy 
+    - name: Deploy 
       uses: kevinpainchaud/simple-ftp-deploy-action@v1.2.1
       with:
         ftp_host: projectmadurai.org
