@@ -49,3 +49,4 @@ jobs:
         ftp-username: sathya@projectmadurai.org
         ftp-password: ${{ secrets.PM_FTP_PASSWORD }}
         local-dir: ./dist
+        server-dir: /home/projectm/domains/projectmadurai.org/public_html/beta
