@@ -43,10 +43,11 @@ jobs:
     #     PUBLISH_BRANCH: gh-pages
     #     PUBLISH_DIR: ./dist
     - name: FTP Deploy 
-      uses: sebastianpopp/ftp-action@releases/v2
+      uses: kevinpainchaud/simple-ftp-deploy-action@v1.2.1
       with:
-        host: projectmadurai.org
-        user: sathya@projectmadurai.org
-        password: ${{ secrets.PM_FTP_PASSWORD }}
-        localDir: "dist"
-        remoteDir: "/home/projectm/domains/projectmadurai.org/public_html/beta"   
+        ftp_host: projectmadurai.org
+        ftp_username: sathya@projectmadurai.org
+        ftp_password: ${{ secrets.PM_FTP_PASSWORD }}
+        local_source_dir: "dist"
+        dist_target_dir: "/home/projectm/domains/projectmadurai.org/public_html/beta" 
+        delete: "true"  
