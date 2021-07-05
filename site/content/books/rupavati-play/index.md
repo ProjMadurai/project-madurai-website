@@ -7,6 +7,7 @@ authors:
 genres:
   - நாடகம்
 ---
+
 ### தமிழ்மொழியின் வரலாறு  
 
 (வி.கோ. சூரியநாராயண சாஸ்திரியார் அவர்கள்  
@@ -113,7 +114,9 @@ The Epilogue is spoken by Sundarananda. In it he discourses on human and human l
 
 To conclude, The plot of Rupavati, is so simple and dexterously consistent and characterization so notable and happy, that they comine to give the pleasure of the intellectual feasts given in it. I trust that the entire play wright will continue to amuse and instruct the reading public, year after year,with some fresh creations of his own, and will reclaim the dramatic love which is highly educative in its value but much neglected by the Tamil people.  
 
-Coimbatore, March 1902 M.S. PURNALINGAM PILLAI.  
+Coimbatore, March
+
+ 1902 M.S. PURNALINGAM PILLAI.  
 
 --------------------  
 
@@ -261,7 +264,7 @@ Coimbatore, March 1902 M.S. PURNALINGAM PILLAI.
 
   
 
-**அங்கம் - 1.  
+**அங்கம்-1.  
 
 முதற் களம்.**  
 
@@ -3575,7 +3578,9 @@ Coimbatore, March 1902 M.S. PURNALINGAM PILLAI.
 
 வருமனொடு சமர்புரிய வந்தவிரு பெருவேந்தர்  
 
-கருமமுற் றுகவென்றி பெறுகவெனக் கவிசெய்வான், 100  
+கருமமுற் றுகவென்றி பெறுகவெனக் கவிசெய்வான்,
+
+ 100  
 
 மனங்கொண்டு பல்விதமாம் வாழ்த்துசெய்யுண் மிகவியற்றிக்  
 
@@ -3583,7 +3588,9 @@ Coimbatore, March 1902 M.S. PURNALINGAM PILLAI.
 
 யினங்கொண்டு நன்மணியி னினங்கொண்டு களிப்புடனே  
 
-தினங்கண்டு தனங்கொண்டு சீர்மேன்மைத் தனங்கொண்டு 101  
+தினங்கண்டு தனங்கொண்டு சீர்மேன்மைத் தனங்கொண்டு
+
+ 101  
 
 முதற்கனவான்: ஓய்! ஓய்! புலவரே! போதும்! போதும்! போதும்! நிறுத்தும்! நிறுத்தும்!  
 
@@ -3601,7 +3608,9 @@ Coimbatore, March 1902 M.S. PURNALINGAM PILLAI.
 
 யெவ்வயினீ கற்றா யெவர்கொலுப தேசித்தார்  
 
-செவ்வியிலாப் புன்மையினாய் செல். 102  
+செவ்வியிலாப் புன்மையினாய் செல்.
+
+ 102  
 
 இரண்டாங் கனவான்: சரிதான்! புலவருக்குப் பித்தம் அதிகமாய் விட்டது போலும்! அதுதான் வாய்க்குவந்தபடி யெல்லாம் பிதஎற்றுகின்றார்.  
 
@@ -3645,7 +3654,9 @@ Coimbatore, March 1902 M.S. PURNALINGAM PILLAI.
 
 மாற்றினு மாற்றுவர் வன்க ணாளர்கள்  
 
-கூற்றினும் பாவலர் கொடிய ராவரே" 103  
+கூற்றினும் பாவலர் கொடிய ராவரே"
+
+ 103  
 
 என்றுசொல்லியது.  
 
@@ -3735,7 +3746,9 @@ Coimbatore, March 1902 M.S. PURNALINGAM PILLAI.
 
 சிந்தையி னிதைநன்கு தெளிகி லாரம்ம  
 
-தந்தம நலமும் போய்ச் சாத லென்கொலோ? 104  
+தந்தம நலமும் போய்ச் சாத லென்கொலோ?
+
+ 104  
 
 வீரேந்திரன்: அப்படியாயின் யாம் உடன்படிக்கையின் நிபந்தனைகள் இன்னின்னவெனத் தீர்த்துக்கொண்டு பொழுது போக்கின்றி எழுதத் தொடங்கவேண்டியது தான்.  
 
@@ -4003,7 +4016,9 @@ Coimbatore, March 1902 M.S. PURNALINGAM PILLAI.
 
 யொளிர்சச்சி தாநந்த மூர்த்தியே யெவ்வண்ண  
 
-%nbsp; முனதருளை வாழ்த்துகேனே. 107  
+%nbsp; முனதருளை வாழ்த்துகேனே.
+
+ 107  
 
 /*வானாகி மண்ணாகி வளியாகி யொளியாகி  
 
@@ -4011,7 +4026,9 @@ Coimbatore, March 1902 M.S. PURNALINGAM PILLAI.
 
 கோனாகி யானெனதென் றவரவரைக் கூத்தாட்டு  
 
-வானாகி நின்றாயை யென்சொல்லி வாழ்த்துவனே. 108  
+வானாகி நின்றாயை யென்சொல்லி வாழ்த்துவனே.
+
+ 108  
 
 -------  
 
@@ -4043,7 +4060,9 @@ Coimbatore, March 1902 M.S. PURNALINGAM PILLAI.
 
 நன்னர் மகிப ரரசாள்க ஞானந் தழைத்து விளங்கியிந்த  
 
-ஞாலத் துள்ளார் யாவருமே நன்மை யடைந்து வாழியவே 109  
+ஞாலத் துள்ளார் யாவருமே நன்மை யடைந்து வாழியவே
+
+ 109  
 
 (போகின்றான்)  
 
@@ -4079,5 +4098,7 @@ Coimbatore, March 1902 M.S. PURNALINGAM PILLAI.
 
 திருச்சிற்றம்பலம்  
 
-This file was last updated on 4 December 2013.  
+This file was last updated on 4 December
+
+ 2013.  
 

@@ -9,6 +9,7 @@ genres:
   - சைவம்
   - தமிழ் மொழிபெயர்ப்பு
 ---
+
 ### சிவதத்துவ விவேகம்  
 
 சிவஞான சுவாமிகள் மொழிபெயர்த்தருளியது  
@@ -607,6 +608,8 @@ genres:
 
 ----------------------  
 
-This file was last updated on 01 August 2020.  
+This file was last updated on 01 August
+
+ 2020.  
 
 Feel free to send the corrections to the webmaster.

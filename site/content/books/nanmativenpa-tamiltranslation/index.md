@@ -8,6 +8,7 @@ genres:
   - சதகம்; மொழிபெயர்ப்பு
   - பிரபந்தம்
 ---
+
 ### நன்மதி வெண்பா.  
 
 (சுமதி சதகம் / தமிழில் மொழி பெயர்ப்பு)  
@@ -34,7 +35,9 @@ Madras: The Vaijayanthi Press,
 
 1910  
 
-Copy Right Registered Price As 4.  
+Copy Right Registered Price As
+
+ 4.  
 
 ------------------  
 
@@ -48,7 +51,9 @@ Copy Right Registered Price As 4.
 
 ஷை சங்கத்தின் ஆங்கிலத் தமிழ் வித்வான் எம்.ஆர். ஸ்ரீநிவாசய்யங்காராலியற்றப்பட்டு  
 
-ஷை சங்த்தின் 1905-ம்௵ வருஷோற்சவத்தில் அரங்கேற்றப்பட்டது.  
+ஷை சங்த்தின்
+
+ 1905-ம்௵ வருஷோற்சவத்தில் அரங்கேற்றப்பட்டது.  
 
 சென்னை வைஜயந்தி அச்சியந்திரசாலையிற் பதிப்பிக்கப்பட்டது.  
 
@@ -758,6 +763,8 @@ With Kind Permission By the Author.
 
 காசுடையா னே பெரியன் காண்.109  
 
-This file was last updated on 28 November 2011.  
+This file was last updated on 28 November
+
+ 2011.  
 
 Feel free to send corrections to the webmaster

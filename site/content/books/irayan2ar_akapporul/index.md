@@ -7,16 +7,18 @@ authors:
 genres:
   - இலக்கணம்
 ---
+
 ்பொருள்'  
 
 thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
-weight: 301  
+weight:
+
+ 301  
 
 authors:  
 
-  -   
-
+  -  
 genres:  
 
   - இலக்கணம்  
@@ -63,11 +65,15 @@ Web Master Dr. K. Kalyanasundaram, Lausanne, Switzerland
 
   
 
-This webpage presents the Etext in Tamil script in TSCII 1.7 encoding  
+This webpage presents the Etext in Tamil script in TSCII
+
+ 1.7 encoding  
 
   
 
-© Project Madurai 1998 - 2008  
+© Project Madurai
+
+ 1998-2008  
 
   
 
@@ -281,7 +287,9 @@ kept intact
 
 அல்லகுறிப் படுதலும் அவ்வயின் உரித்தே  
 
-அவன்வர(வு) அறியும் குறிப்பினன் ஆனா 017  
+அவன்வர(வு) அறியும் குறிப்பினன் ஆனா
+
+ 017  
 
   
 

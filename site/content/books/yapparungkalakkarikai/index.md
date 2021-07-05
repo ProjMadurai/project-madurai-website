@@ -7,6 +7,7 @@ authors:
 genres:
   - இலக்கணம்
 ---
+
 nail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
 weight: 55  
@@ -55,7 +56,9 @@ i). You need to have Unicode fonts containing Tamil Block (Latha,
 
 Arial Unicode MS, TSCu_Inaimathi, Code2000, UniMylai,...) installed on your computer  
 
-and the OS capable of rendering Tamil Scripts (Windows 2000 or Windows XP).  
+and the OS capable of rendering Tamil Scripts (Windows
+
+ 2000 or Windows XP).  
 
 ii)Use a browser that is capable of handling UTF-8 based pages  
 
@@ -63,7 +66,9 @@ ii)Use a browser that is capable of handling UTF-8 based pages
 
 . In case of difficulties send an email request to [kalyan@geocities.com](mailto:kalyan@geocities.com)  
 
-© Project Madurai 2000  
+© Project Madurai
+
+ 2000  
 
 Project Madurai is an open, voluntary, worldwide initiative devoted  
 
@@ -103,7 +108,9 @@ header page is kept intact.
 
   
 
-© மதுரைத் திட்டம் 2000  
+© மதுரைத் திட்டம்
+
+ 2000  
 
   
 
@@ -129,7 +136,9 @@ header page is kept intact.
 
   
 
-[]()**யாப்பருங்கலக்காரிகை -ஒரு அறிமுகம்**  
+[]()**  
+  
+யாப்பருங்கலக்காரிகை -ஒரு அறிமுகம்**  
 
   
 
@@ -157,7 +166,9 @@ header page is kept intact.
 
   
 
-என்று குறிக்கப்பட்டுள்ளது. இக்கல்வெட்டு முதலாம் குலோத்துங்க சோழன் காலத்தது. இவன் காலம் கி.பி.1070-1120 என அறுதியிடப்பட்டுள்ளது. செயங்கொண்டான் என்பான் முதலாம் இராசராசனாவான், இவன்காலம் கி.பி. 985-1014. இராசராசன் தொண்டை மண்டலத்தை வென்றைமையின் செயங்கொண்டான் எனப்பெயர் பெற்றான். தொண்டை மண்டலத்திருந்த அமிதசாகரரின் ஊரினை சோழநாட்டொடு இணைத்ததை இக்கல்வெட்டுகூறுகின்றது. இன்னொரு கல்வெட்டில்  
+என்று குறிக்கப்பட்டுள்ளது. இக்கல்வெட்டு முதலாம் குலோத்துங்க சோழன் காலத்தது. இவன் காலம் கி.பி.1070-1120 என அறுதியிடப்பட்டுள்ளது. செயங்கொண்டான் என்பான் முதலாம் இராசராசனாவான், இவன்காலம் கி.பி.
+
+ 985-1014. இராசராசன் தொண்டை மண்டலத்தை வென்றைமையின் செயங்கொண்டான் எனப்பெயர் பெற்றான். தொண்டை மண்டலத்திருந்த அமிதசாகரரின் ஊரினை சோழநாட்டொடு இணைத்ததை இக்கல்வெட்டுகூறுகின்றது. இன்னொரு கல்வெட்டில்  
 
   
 
@@ -219,7 +230,9 @@ header page is kept intact.
 
 தோக்கியோ,  
 
-11 மார்ச்சு 2000  
+11 மார்ச்சு
+
+ 2000  
 
   
 
@@ -867,6 +880,8 @@ header page is kept intact.
 
 ஆரும் ஒழிபியற் பாட்டின் முதல்நினைப் பாகுமன்றே (47)  
 
-This file was first put up on 13 Mar. 2000.  
+This file was first put up on 13 Mar.
+
+ 2000.  
 
 Please [click hereto send in your corrections to the Webmaster of the site](mailto:kalyan@geocities.com, kumar@vt.edu)

@@ -8,6 +8,7 @@ genres:
   - உலா
   - பிரபந்தம்
 ---
+
 ### புராண திருமலைநாதர் இயற்றிய மதுரை சொக்கநாதர் உலா  
 
 கௌசல்யா ஹார்ட் அவர்களின் ஆங்கில மொழிபெயர்ப்பு  
@@ -24,7 +25,9 @@ Department of SSEAS
 
 University of California, Berkeley, CA, USA  
 
-April, 2012  
+April,
+
+ 2012  
 
   
 
@@ -52,11 +55,15 @@ The purpose of this translation is to make available to the western world one of
 
   
 
-Sept. 2011  
+Sept.
+
+ 2011  
 
 Praise of Shiva, the ancient Lord  
 
-1, 2. Vishnu, the beloved of Lakshmi  
+1,
+
+ 2. Vishnu, the beloved of Lakshmi  
 
 who stays on the beautiful lotus,  
 
@@ -252,7 +259,9 @@ who was worshipped by Indra.
 
 The Pandya king builds a temple for Azhakiya Chokkar  
 
-21, 22. The Pandya king went to the place  
+21,
+
+ 22. The Pandya king went to the place  
 
 where Azakiya Chokkar was  
 
@@ -292,7 +301,9 @@ trees were planted for groves
 
 surrounding the temple.  
 
-26 , 27. Everything that could beautify  
+26 ,
+
+ 27. Everything that could beautify  
 
 the temple was built around the city.  
 
@@ -350,7 +361,9 @@ to the religious rules of Saivism
 
 for the Lord of Madurapuri.  
 
-33, 34. The king of Madurapuri,  
+33,
+
+ 34. The king of Madurapuri,  
 
 the heroic king of southern land,  
 
@@ -630,7 +643,9 @@ of those who worship him
 
 shone like the white moon.  
 
-63, 64. The golden lustrous  
+63,
+
+ 64. The golden lustrous  
 
 light of new Thiruvachi  
 
@@ -678,7 +693,9 @@ came and worshipped him
 
 praising him and saying, “He is our father”.  
 
-68 to 72. Devotees surround the Lord and praise him, their hearts melting.  
+68 to
+
+ 72. Devotees surround the Lord and praise him, their hearts melting.  
 
 “You are the Lord of five actions.  
 
@@ -768,7 +785,9 @@ recite the Vedas perfectly
 
 praised the Lord.  
 
-78, 79. A golden radiant chariot  
+78,
+
+ 79. A golden radiant chariot  
 
 tall as a diamond-studded hill  
 
@@ -1026,7 +1045,11 @@ Pipe instrument were blown.
 
 Flutes were played.  
 
-104, 105. Numerous drums were beaten,  
+104,
+
+
+
+ 105. Numerous drums were beaten,  
 
 Various drums, the Muzavu,  
 
@@ -1228,7 +1251,11 @@ to grow loose from the pain of love
 
 to give his fragrant garland to us?  
 
-126, 127. “Indra worshipped  
+126,
+
+
+
+ 127. “Indra worshipped  
 
 the Lord of Thiruvaalavaay  
 
@@ -1354,7 +1381,11 @@ that does not yet know
 
 how to separate milk from water.  
 
-138, 139. Her breasts shone like  
+138,
+
+
+
+ 139. Her breasts shone like  
 
 lustre of many suns  
 
@@ -1368,7 +1399,11 @@ of destroying the sky
 
 and the earth.  
 
-140. 141.  
+140.
+
+
+
+ 141.  
 
 The pethai’s hair was disheveled,  
 
@@ -1454,7 +1489,7 @@ she also went with them.
 
 Eight miracle stories of Shiva  
 
-150 - 153. The pethai listened  
+150-153. The pethai listened  
 
 carefully and lovingly  
 
@@ -1512,7 +1547,11 @@ teaching the truth of the Vedas
 
 to the divine Rishis.  
 
-154, 155. She with her puvai bird  
+154,
+
+
+
+ 155. She with her puvai bird  
 
 and the parrots of the fields  
 
@@ -1528,7 +1567,11 @@ were played to announce
 
 the procession of the Lord.  
 
-156, 157. Musical instuments praise the Lord  
+156,
+
+
+
+ 157. Musical instuments praise the Lord  
 
 “He is a marvelous dancer  
 
@@ -1676,7 +1719,11 @@ and her heart weakened,
 
 like those who fall in deep love.  
 
-171, 172. The mothers said  
+171,
+
+
+
+ 172. The mothers said  
 
 “Are there any other women like her?”  
 
@@ -1760,7 +1807,11 @@ They stole
 
 everyone’s heart.  
 
-181, 182. Her hair was tied up together.  
+181,
+
+
+
+ 182. Her hair was tied up together.  
 
 Bees swarmed around  
 
@@ -1860,7 +1911,11 @@ welcomes with affection
 
 the male swan that comes to join her.  
 
-193, 194. “See how the red lotus buds open up  
+193,
+
+
+
+ 194. “See how the red lotus buds open up  
 
 as they feel the shining rays of the sun  
 
@@ -1872,7 +1927,11 @@ in devotion for the Lord who has thick Jata
 
 and comes in procession  
 
-195, 196. “See how the soft coral creepers  
+195,
+
+
+
+ 196. “See how the soft coral creepers  
 
 grow thick and embrace the beautiful naakaa trees  
 
@@ -2008,7 +2067,11 @@ in the love for
 
 the pure Lord Shiva.  
 
-208, 209. The pethumbai, the best among women,  
+208,
+
+
+
+ 209. The pethumbai, the best among women,  
 
 beautiful as Lakshmi  
 
@@ -2022,7 +2085,9 @@ the procession of the faultless God,
 
 she walked to the garden and sat.  
 
-210, 211 “Lord Shiva wears sacred ashes.  
+210,
+
+ 211 “Lord Shiva wears sacred ashes.  
 
 He carries a bull flag.  
 
@@ -2148,7 +2213,11 @@ Has she lost her chastity?
 
 What can we say?  
 
-221, 222. “Her face, shoulders, breasts  
+221,
+
+
+
+ 222. “Her face, shoulders, breasts  
 
 and shining curly hair  
 
@@ -2176,7 +2245,11 @@ on her beautiful arms
 
 fall from her wrists.  
 
-224, 225. “As if she suddenly has grown more mature  
+224,
+
+
+
+ 225. “As if she suddenly has grown more mature  
 
 her body has changed and is more  
 
@@ -2188,7 +2261,11 @@ beyond what is suitable for her age.
 
 Who knows why this happened ?”  
 
-226, 227. Before Kama sent  
+226,
+
+
+
+ 227. Before Kama sent  
 
 his flower arrows from his bow  
 
@@ -2248,7 +2325,7 @@ of the Kadamba Forest
 
 where the breeze is always blowing.  
 
-233 - 236. Her hair had grown thicker  
+233-236. Her hair had grown thicker  
 
 and thicker than the attractive groves  
 
@@ -2264,7 +2341,11 @@ as her long hair
 
 grew more and more beautiful.  
 
-235, 236. Seeing her lovely hair, the  
+235,
+
+
+
+ 236. Seeing her lovely hair, the  
 
 hearts of those who did tapas  
 
@@ -2388,7 +2469,11 @@ like a swan that sits
 
 on a lotus blossom.  
 
-251, 252. One of her friends told the mangai  
+251,
+
+
+
+ 252. One of her friends told the mangai  
 
 that if she played on the swing  
 
@@ -2804,7 +2889,11 @@ to bring the Lord’s garland
 
 and give it to her.  
 
-286, 287. Her mothers seeing  
+286,
+
+
+
+ 287. Her mothers seeing  
 
 her trouble consoled her.  
 
@@ -2886,7 +2975,11 @@ all the people on earth,
 
 making them fall in love with her.  
 
-294, 295. Her eyes were like cruel spears  
+294,
+
+
+
+ 295. Her eyes were like cruel spears  
 
 more terrible than the cruel sceptres  
 
@@ -2950,7 +3043,11 @@ of precious cool pearls
 
 blooming on a red lotus.  
 
-301, 302. She told her sweet parrot  
+301,
+
+
+
+ 302. She told her sweet parrot  
 
 adoringly,  
 
@@ -3098,7 +3195,7 @@ Numerous gods sweetly
 
 praised the Lord.  
 
-314 - 318. The parrot messenger,  
+314-318. The parrot messenger,  
 
 that the madanthai had sent  
 
@@ -3198,7 +3295,11 @@ They were round and large
 
 like two fine, soft coconuts.  
 
-324, 325. The madanthai’s heart was filled with joy.  
+324,
+
+
+
+ 325. The madanthai’s heart was filled with joy.  
 
 Her sweet words were musical  
 
@@ -3298,7 +3399,11 @@ a golden creeper?
 
 Come here today to find out.  
 
-334, 335. “You are the siddha  
+334,
+
+
+
+ 335. “You are the siddha  
 
 that no one can describe.  
 
@@ -3368,7 +3473,11 @@ of the earth could not be
 
 as wide as they were.  
 
-341, 342. Her forehead was like the bow  
+341,
+
+
+
+ 342. Her forehead was like the bow  
 
 that Kama carries and  
 
@@ -3518,7 +3627,11 @@ and the mother of all seven worlds,
 
 under this Temaa tree  
 
-357, 358. “and her breasts and her bracelets  
+357,
+
+
+
+ 358. “and her breasts and her bracelets  
 
 marked the faultless chest of the Lord.  
 
@@ -3540,7 +3653,13 @@ where the generous Lord likes to stay?”
 
 Her friend said,  
 
-360, 361, 362. “My friend, you who have have dark fragrant hair,  
+360,
+
+ 361,
+
+
+
+ 362. “My friend, you who have have dark fragrant hair,  
 
 the Lord likes to stay in many trees—  
 
@@ -3718,7 +3837,7 @@ blooming with fragrant flowers
 
 nourishing the crop of love.  
 
-379 - 382. Shiva is our father.  
+379-382. Shiva is our father.  
 
 He is all the arts.  
 
@@ -3772,7 +3891,11 @@ and began in a few words
 
 to describe what she felt.  
 
-384, 385. “People bring you  
+384,
+
+
+
+ 385. “People bring you  
 
 a garland of kuvaLai flowers,  
 
@@ -3886,7 +4009,11 @@ rise at the end of the age
 
 to destroy the world.  
 
-396, 397. The therivai’s long, thick, dark hair  
+396,
+
+
+
+ 397. The therivai’s long, thick, dark hair  
 
 was like the cruel bond Yama uses  
 
@@ -3896,7 +4023,7 @@ threaten them,
 
 and take their lives.  
 
-398 - 399. Vishnu sleeps on the snake bed.  
+398-399. Vishnu sleeps on the snake bed.  
 
 He married the beautiful Lakshmi.  
 
@@ -3962,7 +4089,11 @@ Many of her friends surrounded her
 
 and adored her.  
 
-405, 406. She sat there attracting,  
+405,
+
+
+
+ 406. She sat there attracting,  
 
 and mesmerizing the minds of the others.  
 
@@ -4238,7 +4369,11 @@ Looking at the Paanan, she said,
 
 “Please find a simile for how I look.”  
 
-431, 432. “You look like the goddess Parvathi,  
+431,
+
+
+
+ 432. “You look like the goddess Parvathi,  
 
 the mother of the worlds,  
 
@@ -4370,7 +4505,11 @@ Her dark, happy eyes lovely
 
 as kuvalai flowers reached to her ears.  
 
-445, 446. Her diamond earrings  
+445,
+
+
+
+ 446. Her diamond earrings  
 
 swayed like the shark flag of Kama.  
 
@@ -4630,7 +4769,11 @@ folded her lovely hands together,
 
 bowed to her said,  
 
-474, 475. “The Lord is compassionate.  
+474,
+
+
+
+ 475. “The Lord is compassionate.  
 
 He is the king of the kadamba forest.  
 
@@ -4746,7 +4889,11 @@ and brought travelers
 
 to the bank where there is light.  
 
-483, 484. As Lord Shiva came in procession  
+483,
+
+
+
+ 484. As Lord Shiva came in procession  
 
 the darkness of the night dispersed.  
 
@@ -4944,7 +5091,13 @@ the mark of her body
 
 on yours may disappear.  
 
-510, 511, 512. “You wear a flower garland  
+510,
+
+ 511,
+
+
+
+ 512. “You wear a flower garland  
 
 on your Jata that belongs to Ganga  
 
@@ -5022,7 +5175,9 @@ Note: The first number on each of the stories indicates Thiruvilaiyaadal Puraana
 
 3. The story of Maduraapuri. In the city of Manavur there was a merchant named Dananjeyan. Once in the Kadamba forest the merchant saw gods praying at night to a Shivalingam. He went and told what he had seen to the king. The king wanted to build a temple for the Shiva lingam in the Kadamba forest and constructed a beautiful temple. He also built temples for the goddess Kali and the Goddess Parvathi. Many buildings, ponds and other things that beautified the temple were built around the city. Shiva asked the moon on his Jata to sprinkle nectar with the water of the Ganges on the city. The city was called, ‘Maduraapuri.’ (3)  
 
-4 and 5. The story of the birth and marriage of Thadaathagai. The Pandyan king and his wife Kanchanamaalai had a baby girl and named her Thadaathagai. The girl was born with three breasts. She grew up and became the queen of Maduraapuri and ruled that country. Thadaathagai conquered many kings on the earth and went to Kailaasa to fight with the gods. There she met Shiva and fell in love with him. Shiva and Thadaathagai were married. (4. 5)  
+4 and
+
+ 5. The story of the birth and marriage of Thadaathagai. The Pandyan king and his wife Kanchanamaalai had a baby girl and named her Thadaathagai. The girl was born with three breasts. She grew up and became the queen of Maduraapuri and ruled that country. Thadaathagai conquered many kings on the earth and went to Kailaasa to fight with the gods. There she met Shiva and fell in love with him. Shiva and Thadaathagai were married. (4. 5)  
 
 6. The story of Shiva dancing and lifting his left foot: All the gods, kings and sages went to the wedding of Shiva and Parvathi. The sage Pathanjali and the sage Vyagrabaatha asked Lord Shiva to dance lifting his left foot, imitating how he danced in the golden temple of Thillai lifting his right foot. The Lord danced lifting his left foot and all the gods and sages saw the dance of the Lord and were pleased. (6)  
 
@@ -5088,7 +5243,11 @@ The sixteen miracles of Shiva in the section of the mangai
 
 9. The story of the messengers of Yama: After crowning his son Kulothunga Pandyan, Rajasekhara Pandyan died and went to Lord Shiva’s world. One day a brahmin and his wife were going through a forest. The brahmin went to get some water and his wife was killed by an arrow that fell from the tree. The brahmin saw a hunter near the tree and thought he had killed his wife. The brahmin went to the king and complained about the hunter and the king imprisoned the hunter. The hunter told the king that he did not kill the brahmin’s wife and he did not know who could have done so. The king believed the hunter but did not know what to do. He prayed to Shiva to show him a way. Shiva came to the king in a dream and told him that if he went to a wedding he would understand the truth. The king and the brahmin went to the wedding. When they were in the house where the wedding was conducted they heard two messengers of Yama talking. One of the messenger asked the other, “We have to take the bridegroom today to Yama’s world. How can we do that?.”The other messenger said, “Did you remember the other time, we made the arrow fall from the tree and kill the brahmin’s wife. In a similar way we will make a cow go mad and kill the bridegroom.” The brahmin understood that it was not the hunter who killed his wife. The king gave money to both the brahmin and the hunter so that they would live happily. Then he went to the temple and worshipped Shiva. (25)  
 
-10. The story of the great sinner: There was a brahmin in a city called Avanthi who lived with his wife and his son. His son was a bad man and was sleeping with his mother. One day when the brahmin saw the mother and son together and became angry. The son killed the father, took his mother and ran away to a forest. In the forest some thieves took the son’s money and his mother. The son felt lonely and wandered all over. Then he went to Madurai and prayed to Shiva. Shiva and Parvathi came to him disguised as a hunter and his wife. Shiva told him, “You should beg and eat only one time. Every day you should feed the cows. You should serve Shiva’s devotees. You should bathe in the water of the temple and go around the temple for 108 times every day. If you do this your sins will go away and you will be my devotee..”He did as Shiva told him and attained Moksha. (26) 11. The story of Shiva killing a student: There was old man who taught sword fighting to students. One of his students learned from him and started his own school. He attracted the students of the teacher and they all became his students. Because the teacher did not have any students he became poor. The student who had started a new school also tried to seduce his teacher’s wife. The wife prayed to Shiva to help her. The god, disguised as the teacher, went to the student and challenged him to a sword fight. The student thought Shiva was the old man and agreed to fight. Shiva fought and killed him. After that the teacher and his family praised Shiva and lived happily. (27)  
+10. The story of the great sinner: There was a brahmin in a city called Avanthi who lived with his wife and his son. His son was a bad man and was sleeping with his mother. One day when the brahmin saw the mother and son together and became angry. The son killed the father, took his mother and ran away to a forest. In the forest some thieves took the son’s money and his mother. The son felt lonely and wandered all over. Then he went to Madurai and prayed to Shiva. Shiva and Parvathi came to him disguised as a hunter and his wife. Shiva told him, “You should beg and eat only one time. Every day you should feed the cows. You should serve Shiva’s devotees. You should bathe in the water of the temple and go around the temple for
+
+ 108 times every day. If you do this your sins will go away and you will be my devotee..”He did as Shiva told him and attained Moksha. (26)
+
+ 11. The story of Shiva killing a student: There was old man who taught sword fighting to students. One of his students learned from him and started his own school. He attracted the students of the teacher and they all became his students. Because the teacher did not have any students he became poor. The student who had started a new school also tried to seduce his teacher’s wife. The wife prayed to Shiva to help her. The god, disguised as the teacher, went to the student and challenged him to a sword fight. The student thought Shiva was the old man and agreed to fight. Shiva fought and killed him. After that the teacher and his family praised Shiva and lived happily. (27)  
 
 12. The story of Shiva helping the Pandyan king to kill a bhutham: After the rule of Kulothunga Pandyan the king Ananthaguna Pandyan became king. He was devoted to Lord Shiva. The Jain did not like the Pandyan king and performed a sacrifice. A bhutham came out of that sacrifice and the Jains asked it to kill the king and destroy the Pandya country. The bhutham took a form of a snake and came to the city. The king prayed to Lord Shiva to help him. By the grace of god the king was able to fight and kill the bhutam. (28)  
 

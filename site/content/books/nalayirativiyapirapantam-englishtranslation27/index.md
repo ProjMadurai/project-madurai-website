@@ -8,9 +8,12 @@ genres:
   - சமயம்
   - வைணவம், மொழிபெயர்ப்பு
 ---
+
 ### Nālāyira Divya Prabhandam  
 
-Paśurams by Seven Azhvārs, Part 4 (pāsurams 2971 - 4000)  
+Paśurams by Seven Azhvārs, Part 4 (pāsurams
+
+ 2971-4000)  
 
 English Translation by Kausalya Hart  
 
@@ -30,13 +33,19 @@ Berkeley, California. USA
 
 Nālāyira Divya Prabhandam - third thousand pāsurams  
 
-23. Thiruvāymozhi - Nammāzhvār (2791 – 3892)  
+23. Thiruvāymozhi - Nammāzhvār (2791 –
+
+ 3892)  
 
 24. Rāmānujanutrandadi /Thiruvarangathamudanār (3893 -4000)  
 
   
 
-### 23. Thiruvāymozhi - Nammāzhvār (2791 – 3892)  
+###
+
+ 23. Thiruvāymozhi - Nammāzhvār (2791 –
+
+ 3892)  
 
   
 
@@ -15904,11 +15913,17 @@ SUBHAM - Nammāzhvare saraṇam.
 
   
 
-### 24. Rāmānujanutrandadi /Thiruvarangathamudanār (3893 -4000)  
+###
+
+ 24. Rāmānujanutrandadi /Thiruvarangathamudanār (3893 -4000)  
 
   
 
-(Important Note. All the pasurams of Divayaprabandham from 1 to 3892 by twelve (eleven?) azhvars only praise the god of Vaishnavism? But the last 108 pasurams are confusing that are composed by Thiruvarangathamudanar who was probably lived in later century than 9CE. Most of the pasurams in this text seem to praise the god and probably Ramanujar. One wonders when they say whether they say 'Ramanuja?' they really mean Rāmānujar? or the god. As much as I could understand all the commentators translate the word Rāmānuja as ‘emperumanar’ including Annagarāchariyar. The text does not say anything about Rāmānujar who lived later (1017 - 1137), the author(?) of Vishishṭadvaidam.  
+(Important Note. All the pasurams of Divayaprabandham from 1 to
+
+ 3892 by twelve (eleven?) azhvars only praise the god of Vaishnavism? But the last
+
+ 108 pasurams are confusing that are composed by Thiruvarangathamudanar who was probably lived in later century than 9CE. Most of the pasurams in this text seem to praise the god and probably Ramanujar. One wonders when they say whether they say 'Ramanuja?' they really mean Rāmānujar? or the god. As much as I could understand all the commentators translate the word Rāmānuja as ‘emperumanar’ including Annagarāchariyar. The text does not say anything about Rāmānujar who lived later (1017-1137), the author(?) of Vishishṭadvaidam.  
 
 3893. O heart!  
 
@@ -17058,6 +17073,8 @@ SUBHAM
 
 -----------  
 
-This file was last updated on 5 Sept. 2018  
+This file was last updated on 5 Sept.
+
+ 2018  
 
 Feel free to send the corrections to the Webmaster.

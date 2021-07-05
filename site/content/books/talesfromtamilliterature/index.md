@@ -7,6 +7,7 @@ authors:
 genres:
   - இலக்கியக் கதைகள்
 ---
+
 ### தமிழ் இலக்கியக் கதைகள்  
 
 தீபம் நா. பார்த்தசாரதி  
@@ -21,7 +22,9 @@ genres:
 
 G38, மாசிலாமணி தெரு, பாண்டி பஜார்  
 
-தி.நகர் சென்னை - 600 017  
+தி.நகர் சென்னை-600
+
+ 017  
 
 ------  
 
@@ -33,19 +36,29 @@ by Naa. Parthasarathy
 
 © Sundaravalli Parthasarathy  
 
-Third edition : December 2001  
+Third edition : December
 
-Cover design : K. Uma Total Page : 200  
+ 2001  
+
+Cover design : K. Uma Total Page :
+
+ 200  
 
 TAMIL PUTHAKALAYAM G3/8, Masilamani Street  
 
-Pondy bazaar, T. Nagar Chennai - 600 017  
+Pondy bazaar, T. Nagar Chennai-600
+
+ 017  
 
 E-mail: tamilputhakalayam@vsnl.com  
 
-Prize : Rs. 55.00  
+Prize : Rs.
 
-Laser Typeset at: Stanbic Laser Graphics, Ph : 8239192  
+ 55.00  
+
+Laser Typeset at: Stanbic Laser Graphics, Ph :
+
+ 8239192  
 
 Printed at : Jaiganesh Offset Printers, Chennai-4  
 
@@ -117,7 +130,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 2. சத்திரத்துச் சாப்பாடு  
+###
+
+ 2. சத்திரத்துச் சாப்பாடு  
 
   
 
@@ -149,7 +164,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 3. அங்கும் துன்பமே  
+###
+
+ 3. அங்கும் துன்பமே  
 
   
 
@@ -189,7 +206,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 4. துயரின்மேல் துயர்  
+###
+
+ 4. துயரின்மேல் துயர்  
 
   
 
@@ -227,7 +246,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 5. கட்டுச்சோறு பறிபோனது  
+###
+
+ 5. கட்டுச்சோறு பறிபோனது  
 
   
 
@@ -255,7 +276,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 6. கம்பஞ் சோற்று விருந்து  
+###
+
+ 6. கம்பஞ் சோற்று விருந்து  
 
   
 
@@ -289,7 +312,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 7. பாணனும் பாடினியும்  
+###
+
+ 7. பாணனும் பாடினியும்  
 
   
 
@@ -365,7 +390,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 8. பாக்கு வெட்டி மறைந்த மாயம்  
+###
+
+ 8. பாக்கு வெட்டி மறைந்த மாயம்  
 
   
 
@@ -401,7 +428,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 9. சந்திப்பு  
+###
+
+ 9. சந்திப்பு  
 
   
 
@@ -455,7 +484,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 11. பொய் சொன்ன வாய்  
+###
+
+ 11. பொய் சொன்ன வாய்  
 
   
 
@@ -485,7 +516,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 12. அவரவர் திறமை  
+###
+
+ 12. அவரவர் திறமை  
 
   
 
@@ -511,7 +544,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 13. உலகம் பெறும் உணவு  
+###
+
+ 13. உலகம் பெறும் உணவு  
 
   
 
@@ -541,7 +576,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 14. கறவைப் பசு ஒன்று தருக!  
+###
+
+ 14. கறவைப் பசு ஒன்று தருக!  
 
   
 
@@ -577,7 +614,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 15. பரம்பரைக் குணம்  
+###
+
+ 15. பரம்பரைக் குணம்  
 
   
 
@@ -607,7 +646,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 16. சீரகம் வேண்டும்!  
+###
+
+ 16. சீரகம் வேண்டும்!  
 
   
 
@@ -635,7 +676,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 17. கையாலாகாதவர்கள்  
+###
+
+ 17. கையாலாகாதவர்கள்  
 
   
 
@@ -661,7 +704,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 18. அழியாக் கலை  
+###
+
+ 18. அழியாக் கலை  
 
   
 
@@ -699,7 +744,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 19. ஒரு வாயும் நால் வாயும்  
+###
+
+ 19. ஒரு வாயும் நால் வாயும்  
 
   
 
@@ -733,7 +780,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 20. வடுகநாத வள்ளல்  
+###
+
+ 20. வடுகநாத வள்ளல்  
 
   
 
@@ -769,7 +818,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 21. வயிற்றுப் பசி  
+###
+
+ 21. வயிற்றுப் பசி  
 
   
 
@@ -801,7 +852,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 22. கொடுப்பவர் பெருமை  
+###
+
+ 22. கொடுப்பவர் பெருமை  
 
   
 
@@ -843,7 +896,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 23. படைத்தவன் குற்றம்!  
+###
+
+ 23. படைத்தவன் குற்றம்!  
 
   
 
@@ -883,7 +938,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 24. புலவர்கள் பாவம்  
+###
+
+ 24. புலவர்கள் பாவம்  
 
   
 
@@ -923,7 +980,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 25. தடை மோதிரம்  
+###
+
+ 25. தடை மோதிரம்  
 
   
 
@@ -961,7 +1020,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 26. ஆற்றில் நழுவிய ஆடை  
+###
+
+ 26. ஆற்றில் நழுவிய ஆடை  
 
   
 
@@ -995,7 +1056,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 27. சென்னையில் சிவகதி!  
+###
+
+ 27. சென்னையில் சிவகதி!  
 
   
 
@@ -1031,7 +1094,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 28. பூபன் போட்ட கடுக்கன்  
+###
+
+ 28. பூபன் போட்ட கடுக்கன்  
 
   
 
@@ -1067,7 +1132,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 29. மோர் பெற்ற பேர்  
+###
+
+ 29. மோர் பெற்ற பேர்  
 
   
 
@@ -1099,7 +1166,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 30. கூண்டுக்கிளி  
+###
+
+ 30. கூண்டுக்கிளி  
 
   
 
@@ -1145,7 +1214,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 31. உதவும் சாமி  
+###
+
+ 31. உதவும் சாமி  
 
   
 
@@ -1185,7 +1256,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 32. பட்டால்தான் தெரியும்  
+###
+
+ 32. பட்டால்தான் தெரியும்  
 
   
 
@@ -1229,7 +1302,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 33. சொல் சுட்டது  
+###
+
+ 33. சொல் சுட்டது  
 
   
 
@@ -1283,7 +1358,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 34. முதலும் முடிவும்  
+###
+
+ 34. முதலும் முடிவும்  
 
   
 
@@ -1337,7 +1414,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 35. புலவரின் புரட்சி  
+###
+
+ 35. புலவரின் புரட்சி  
 
   
 
@@ -1401,7 +1480,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 36. காஞ்சிபுரத்தில் காளமேகம்  
+###
+
+ 36. காஞ்சிபுரத்தில் காளமேகம்  
 
   
 
@@ -1429,7 +1510,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 37. குடத்திலே கங்கை !  
+###
+
+ 37. குடத்திலே கங்கை !  
 
   
 
@@ -1461,7 +1544,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 38. பல்லக்கு சுமந்த வள்ளல்  
+###
+
+ 38. பல்லக்கு சுமந்த வள்ளல்  
 
   
 
@@ -1527,7 +1612,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 39. உலகம் பரந்தது!  
+###
+
+ 39. உலகம் பரந்தது!  
 
   
 
@@ -1569,7 +1656,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 40. அன்னமும் ஆபரணமும்  
+###
+
+ 40. அன்னமும் ஆபரணமும்  
 
   
 
@@ -1605,7 +1694,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 41. என் பெருமை  
+###
+
+ 41. என் பெருமை  
 
   
 
@@ -1665,7 +1756,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 42. நாகதேவன் சோற்றுக்கடை  
+###
+
+ 42. நாகதேவன் சோற்றுக்கடை  
 
   
 
@@ -1701,7 +1794,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 43. சாமர்த்திய வார்த்தை  
+###
+
+ 43. சாமர்த்திய வார்த்தை  
 
   
 
@@ -1763,7 +1858,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 44. பெற்ற பாசம்  
+###
+
+ 44. பெற்ற பாசம்  
 
   
 
@@ -1807,7 +1904,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 45. தேவர்கள் கண்ணிமையாதது  
+###
+
+ 45. தேவர்கள் கண்ணிமையாதது  
 
   
 
@@ -1847,7 +1946,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 46. புலவர் போற்றிய புண்ணியன்  
+###
+
+ 46. புலவர் போற்றிய புண்ணியன்  
 
   
 
@@ -1913,7 +2014,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 47. திரை விலகியது  
+###
+
+ 47. திரை விலகியது  
 
   
 
@@ -1951,7 +2054,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 48. சொல்லில் ஒரு சித்திரம்  
+###
+
+ 48. சொல்லில் ஒரு சித்திரம்  
 
   
 
@@ -1991,7 +2096,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 49. பாழடைந்த வீடு  
+###
+
+ 49. பாழடைந்த வீடு  
 
   
 
@@ -2033,7 +2140,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
 படுக்கலாமோ சொல்லப் பா."  
 
-(பெருந்தொகை 1640)  
+(பெருந்தொகை
+
+ 1640)  
 
 உள்ளத்தில் பொங்கிய கொதிப்பின் வேதனை ஓலையில் வடிந்து உருப்பெற்றது.  
 
@@ -2045,7 +2154,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 50. திருமண விருந்து  
+###
+
+ 50. திருமண விருந்து  
 
   
 
@@ -2091,7 +2202,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
 திண்ணையும் கெண்டைபுரட்டுங் கல்யாணத்திற் சென்றவர்க்கே ."  
 
-(பெருந்தொகை 1620)  
+(பெருந்தொகை
+
+ 1620)  
 
 கெண்டை புரட்டுதலாவது = பசி மயக்கத்தில் வயிற்றில் ஏற்படும் சரக்கு வலிப்பு போன்றதோர் வேதனை.  
 
@@ -2101,7 +2214,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 51. காட்டில் ஒலித்த தமிழ்க் கவி  
+###
+
+ 51. காட்டில் ஒலித்த தமிழ்க் கவி  
 
   
 
@@ -2165,7 +2280,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 52. சம்பந்தனுக்கு ஒரு சவுக்கடி  
+###
+
+ 52. சம்பந்தனுக்கு ஒரு சவுக்கடி  
 
   
 
@@ -2217,7 +2334,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 53. பத்து ரூபாய் பணம்  
+###
+
+ 53. பத்து ரூபாய் பணம்  
 
   
 
@@ -2241,7 +2360,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
 வீழிவாய்ப் பாலுண்ட வேந்தன் பிறந்தசீ காழியரு ணாசலன்யான் காண்"  
 
-(பெருந்தொகை 1766)  
+(பெருந்தொகை
+
+ 1766)  
 
 பத்து ரூப ஆயன் = தசாவதாரம் எடுத்த திருமால், வீழிவாய் = கொவ்வைக் கனி போன்ற வாய், முத்தநகை = உமை, வேந்தன் = ஞானசம்பந்தன்.  
 
@@ -2255,7 +2376,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 54. கற்பனைக்கு ஒரு கவிதை  
+###
+
+ 54. கற்பனைக்கு ஒரு கவிதை  
 
   
 
@@ -2303,7 +2426,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 55. நலிவும் நாணமும்  
+###
+
+ 55. நலிவும் நாணமும்  
 
   
 
@@ -2339,7 +2464,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 56. என்ன கல்நெஞ்சம் இது?  
+###
+
+ 56. என்ன கல்நெஞ்சம் இது?  
 
   
 
@@ -2377,7 +2504,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 57. பண்பாடு தெரிந்தவர்  
+###
+
+ 57. பண்பாடு தெரிந்தவர்  
 
   
 
@@ -2405,7 +2534,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
 அறத்ததென்றோ பிறர்கைக் கொடாமல் எடுத்தான் அப்பாணன் பிணத்தினையே."  
 
-(பெருந்தொகை 1230)  
+(பெருந்தொகை
+
+ 1230)  
 
 மறவை = மறவனூர், நதி வம்சம் - கங்கை , மரபு = எண்ணாண்கின் முப்பத்திரண்டு அறம்.  
 
@@ -2415,7 +2546,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 58. சொல்லிக் காட்டினார்!  
+###
+
+ 58. சொல்லிக் காட்டினார்!  
 
   
 
@@ -2451,7 +2584,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 59. மனத்தைத் திருப்பி அனுப்புங்கள் :  
+###
+
+ 59. மனத்தைத் திருப்பி அனுப்புங்கள் :  
 
   
 
@@ -2479,7 +2614,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 60. பேர்தான் அப்படி!  
+###
+
+ 60. பேர்தான் அப்படி!  
 
   
 
@@ -2529,7 +2666,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 61. மறக்க முடியாத சாப்பாடு  
+###
+
+ 61. மறக்க முடியாத சாப்பாடு  
 
   
 
@@ -2563,7 +2702,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 62. புலவர் குறும்பு  
+###
+
+ 62. புலவர் குறும்பு  
 
   
 
@@ -2613,7 +2754,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 63. மருந்து மரம்  
+###
+
+ 63. மருந்து மரம்  
 
   
 
@@ -2659,7 +2802,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 64. தாவும் மான்குட்டி  
+###
+
+ 64. தாவும் மான்குட்டி  
 
   
 
@@ -2703,7 +2848,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 65. தமிழுக்குப் பரிசளித்த தெய்வம்  
+###
+
+ 65. தமிழுக்குப் பரிசளித்த தெய்வம்  
 
   
 
@@ -2739,7 +2886,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 66. தேசத் தொண்டர் சீற்றம்  
+###
+
+ 66. தேசத் தொண்டர் சீற்றம்  
 
   
 
@@ -2787,7 +2936,9 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
   
 
-### 67. எரிந்த படைப்பு  
+###
+
+ 67. எரிந்த படைப்பு  
 
   
 
@@ -2817,6 +2968,8 @@ Printed at : Jaiganesh Offset Printers, Chennai-4
 
 ---------------  
 
-This file was last updated on 15 Nov 2019.  
+This file was last updated on 15 Nov
+
+ 2019.  
 
 Feel free to send the corrections to the webmaster.

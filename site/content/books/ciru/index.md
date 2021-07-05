@@ -8,6 +8,7 @@ genres:
   - சங்ககாலம்
   - பத்துப்பாட்டு
 ---
+
 ### ciRupANARRuppaTai  
 
 (second work in pattuppATTu anthologies) (in Tamil Script, TSCII format)  
@@ -30,7 +31,9 @@ genres:
 
 பாவகை :: ஆசிரியப்பா  
 
-மொத்த அடிகள் :: 269  
+மொத்த அடிகள் ::
+
+ 269  
 
 **-----------------------  
 
@@ -578,6 +581,8 @@ genres:
 
 -----------------------  
 
-This page was first put up on April 14, 2000  
+This page was first put up on April 14,
+
+ 2000  
 
 Please send your comments and corrections to the Webmaster(s) of this site

@@ -8,6 +8,7 @@ genres:
   - சதகம், மொழிபெயர்ப்பு
   - பிரபந்தம்
 ---
+
 ### "aRappaLIsura catakam" of  
 
 ampalavANa kavirAyar  
@@ -32,7 +33,9 @@ Retired Lecurer, University of California, Berkeley, California, USA
 
 சென்னை - 1 , திருநெல்வேலி - 6 மதுரை - 1 கோவை - 1  
 
-4ம் பதிப்பு, சென்னை, ஜுலை 1980  
+4ம் பதிப்பு, சென்னை, ஜுலை
+
+ 1980  
 
 ------------  
 
@@ -1150,11 +1153,17 @@ our dear king Madaveḷ worships you in his heart every day.
 
 40. The age of the gods and heavenly things  
 
-The Caturayuga lasts for 2000 years.  
+The Caturayuga lasts for
 
-For Brahma who has four faces 2000 years is only one day.  
+ 2000 years.  
 
-In this 2000 years, fourteen Indras will appear and go away.  
+For Brahma who has four faces
+
+ 2000 years is only one day.  
+
+In this
+
+ 2000 years, fourteen Indras will appear and go away.  
 
 When Brahma lives for a hundred years and disappears,  
 

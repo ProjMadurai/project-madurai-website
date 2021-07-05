@@ -8,6 +8,7 @@ genres:
   - சங்ககாலம்
   - பத்துப்பாட்டு
 ---
+
 ### neTunalvATai of maturaik kaNakkAyanAr makanAr nakkiirar  
 
 (work in pattuppATTu anthologies) (in Tamil Script, TSCII format)  
@@ -32,7 +33,9 @@ genres:
 
 பாவகை :: ஆசிரியப்பா  
 
-மொத்த அடிகள் :: 188  
+மொத்த அடிகள் ::
+
+ 188  
 
 -------------------------------------------------------  
 
@@ -418,10 +421,11 @@ genres:
 
 ----------------------  
 
-This page was first put up on April 27, 2000  
+This page was first put up on April 27,
 
-Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com,   
+ 2000  
 
+Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com,  
   
 
 kumar@vt.edu?subject=PM70-neTunalvATai)

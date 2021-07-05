@@ -8,6 +8,7 @@ genres:
   - தூது
   - பிரபந்தம்
 ---
+
 ### தூதுத் திரட்டு ::  
 
 மணவை – திருவேங்கடமுடையான் மேகவிடுதூது  
@@ -16,7 +17,9 @@ genres:
 
 **Source:**  
 
-MADRAS GOVERNMENT ORIENTAL MANUSCRIPTS SERIES No. 58.  
+MADRAS GOVERNMENT ORIENTAL MANUSCRIPTS SERIES No.
+
+ 58.  
 
 தூதுத் திரட்டு  
 
@@ -36,17 +39,29 @@ This edition published under the name of Tututtirattu consists of six works.
 
   
 
-* 1. periyAmpikai piLLai pEril mAn2 viTu tUtu  
+*
 
-* 2. veLLaiya rAcEntiran tukil viTu tUtu  
+ 1. periyAmpikai piLLai pEril mAn2 viTu tUtu  
 
-* 3. muttaivIrappa piLLai pEril mAn2 viTu tUtu  
+*
 
-* 4. cenkuntar tukil viTu tUtu.  
+ 2. veLLaiya rAcEntiran tukil viTu tUtu  
 
-* 5. cangkaramUrti virALi viTu tUtu  
+*
 
-* 6. maNavai tiruvEngkaTamuTaiyAn mEka viTu tUtu  
+ 3. muttaivIrappa piLLai pEril mAn2 viTu tUtu  
+
+*
+
+ 4. cenkuntar tukil viTu tUtu.  
+
+*
+
+ 5. cangkaramUrti virALi viTu tUtu  
+
+*
+
+ 6. maNavai tiruvEngkaTamuTaiyAn mEka viTu tUtu  
 
   
 
@@ -936,5 +951,7 @@ This edition published under the name of Tututtirattu consists of six works.
 
 **மணவை திருவேங்கடநாதன் பேரில் மேகவிடு தூது முற்றும்**  
 
-This file was last updated on 26 Feb. 2010  
+This file was last updated on 26 Feb.
+
+ 2010  
 

@@ -8,6 +8,7 @@ genres:
   - சமயம்
   - சைவம்
 ---
+
 10ம் திருமறை -  
 
 திருமந்திரம் - 1  
@@ -5784,8 +5785,12 @@ genres:
 
 ------------------  
 
-This etext was first put up in Inaimathi, Mylai versions on July 16, 2001  
+This etext was first put up in Inaimathi, Mylai versions on July 16,
 
-This unicode version was last revised on 13 Sept. 2002.  
+ 2001  
+
+This unicode version was last revised on 13 Sept.
+
+ 2002.  
 
 Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com?subject=mp004-tirumantiram-part I)

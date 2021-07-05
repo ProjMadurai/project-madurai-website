@@ -7,6 +7,7 @@ authors:
 genres:
   - சரித்திர நாவல்
 ---
+
 ### தீபம் நா. பார்த்தசாரதியின்  
 
 மணிபல்லவம் (சரித்திர நாவல்)  
@@ -25,9 +26,15 @@ genres:
 
 தமிழ்ப் புத்தகாலயம்,  
 
-8, மாசிலாமணி தெரு, சென்னை-600 017  
+8, மாசிலாமணி தெரு, சென்னை-600
 
-ஏழாம் பதிப்பு: டிசம்பர் 2000 (மூன்றாம் பதிப்பு 1970)  
+ 017  
+
+ஏழாம் பதிப்பு: டிசம்பர்
+
+ 2000 (மூன்றாம் பதிப்பு
+
+ 1970)  
 
 -------  
 
@@ -35,11 +42,17 @@ Manipallavam (Tamil Historical Novel)
 
 by Naa. Parthasarathy  
 
-Seventh Edition, December 2000, pages 956  
+Seventh Edition, December
+
+ 2000, pages
+
+ 956  
 
 Published by: Tamil Puthakalayam  
 
-8, Masilamani Street, T. Nagar, Chennai-600 017  
+8, Masilamani Street, T. Nagar, Chennai-600
+
+ 017  
 
 Printed at Udayam Enterprises, Chennai-2  
 
@@ -1335,6 +1348,8 @@ Printed at Udayam Enterprises, Chennai-2
 
 **நான்காம் பருவம் முற்றும்**  
 
-This file was last updated on 26 Jan. 2019.  
+This file was last updated on 26 Jan.
+
+ 2019.  
 
 Feel free to send the corrections to the Webmaster.

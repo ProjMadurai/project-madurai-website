@@ -7,6 +7,7 @@ authors:
 genres:
   - குழந்தைப் பாடல்கள்
 ---
+
 ### "சிரிக்கும் பூக்கள்"  
 
 சிறுவர்களுக்கான பாடல்கள் தொகுப்பு  
@@ -21,7 +22,9 @@ genres:
 
 குழந்தைக் கவிஞர் அழ.வள்ளியப்பா  
 
-விற்பனை உரிமை: பாரி நிலையம், சென்னை-600 018  
+விற்பனை உரிமை: பாரி நிலையம், சென்னை-600
+
+ 018  
 
 --------------  
 
@@ -33,13 +36,27 @@ Language: Tamil
 
 Author: Al. Valliappa  
 
-Publisher: Kulandai Puthaka Nilayam, Chennai -600 040  
+Publisher: Kulandai Puthaka Nilayam, Chennai -600
 
-Sole Distributors: Paari Nilayam, Chennai - 600 018.  
+ 040  
 
-First Edition: June 1986; Third Edition: Nov 2007.  
+Sole Distributors: Paari Nilayam, Chennai-600
 
-Printer: Raviraja Offset Printers, Chennai- 600 014.  
+
+
+ 018.  
+
+First Edition: June
+
+ 1986; Third Edition: Nov
+
+ 2007.  
+
+Printer: Raviraja Offset Printers, Chennai-600
+
+
+
+ 014.  
 
 Price: Rs. 60  
 
@@ -65,13 +82,17 @@ Price: Rs. 60
 
 குழந்தை இலக்கியத் தோற்றம்  
 
-குழந்தைகட்கே உரிய, குழந்தைகள் பாடியும் ஆடியும் பயன்கொள்ளத் தக்க கவிதைகள் இருபதாம் நூற்றாண்டின் தொடக்கத்தில்தான் எழுந்தன. கவிமணி தேசிகவிநாயகம் பிள்ளையவர்கள் கி.பி. 1901-இல் குழந்தைகட்கெனத் தனித்த கவிதைகளை எழுதினார். அவர் ஆசிரியராயிருந்ததால், மேனாட்டில் இருந்தது போன்ற தனித்த குழந்தைக் கவிதைகள் தமிழில் இல்லையென்ற குறையை உணர்ந்து, அக்குறை நீங்கும் வண்ணம் அருமையான பாடல்களை இயற்றினார்.  
+குழந்தைகட்கே உரிய, குழந்தைகள் பாடியும் ஆடியும் பயன்கொள்ளத் தக்க கவிதைகள் இருபதாம் நூற்றாண்டின் தொடக்கத்தில்தான் எழுந்தன. கவிமணி தேசிகவிநாயகம் பிள்ளையவர்கள் கி.பி.
+
+ 1901-இல் குழந்தைகட்கெனத் தனித்த கவிதைகளை எழுதினார். அவர் ஆசிரியராயிருந்ததால், மேனாட்டில் இருந்தது போன்ற தனித்த குழந்தைக் கவிதைகள் தமிழில் இல்லையென்ற குறையை உணர்ந்து, அக்குறை நீங்கும் வண்ணம் அருமையான பாடல்களை இயற்றினார்.  
 
 மேனாடுகளில் குழந்தை இலக்கியம்  
 
 இங்கிலாந்தில் கி.பி. ஆறாம் நூற்றாண்டளவிலேயே பாதிரிமார்களும் கற்றறிந்தோரும் குழந்தைகட்கெனத் தனியே பாடநூல்கள் எழுதலாயினர். ஆல்ட்கெல்ம் (Aldhelm) (604-709) என்னும் பாதிரியாரே இங்கிலாந்தில் முதன் முதல் குழந்தைகட்குப் பாடநூல் எழுதியவர். அது வினா-விடைக் கவிதை களாக அமைந்திருந்தது. அல்குயின் (Alcuin) என்பார் எட்டாம் நூற்றாண்டில் எழுதிய பாடநூல் உரையாடல் முறையிலிருந்தது. பத்தாம் நூற்றாண்டினராய ஏயெல்பிரிக் (Aelfric) எனும் கல்வியாளர் குழந்தைகள் அன்றாடம் வாழ்வில் பயன்படுத்தும் பொருள்களைப் பாடு பொருளாகக் கொண்டு வினா-விடை முறையில் எழுதினார். பதினொன்றாம் நூற்றாண்டில் குழந்தைகட்கான கலைக் களஞ்சியம் முதன்முதல் வெளிவந்தது.  
 
-எலூசிடாரியம் (Elucidarium) எனப் பெயர் பெற்ற இக்களஞ்சியத்தைக் காண்டர்பரியின் தலைமைப் பாதிரியாரான ஆன்செல்ம் (Anselm) (1033- 1109) என்பார் எழுதியுள்ளார். ஜான் அமோஸ் முகானமிஸ் என்பவரால் எழுதப்பட்டு 1751-இல் வெளியிடப்பட்ட நூலே ஐரோப்பாவில் முதன்முதலாகப் பட விளக்கங்கள் கொண்ட பாட நூலாக அமைந்தது. குழந்தைகளின் விருப்புவெறுப்புகளை அறிந்து அவர்களின் மன உணர்வுகளை நிறைவு செய்யும் வண்ணம் பதினெட்டாம் நூற்றாண்டில் ஜான் நியூபெர் (1713-1767) என்னும் புத்தக விற்பனையாளர் குழந்தைகட்கெனத் தொடர் வெளியீடாகப் பல நூல்களை வெளியிட்டார். பத்தொன்பதாம் நூற்றாண்டில் இங்கிலாந்தில் குழந்தைகட்கெனப் படைப் பிலக்கியங்களும் தோன்றலாயின.  
+எலூசிடாரியம் (Elucidarium) எனப் பெயர் பெற்ற இக்களஞ்சியத்தைக் காண்டர்பரியின் தலைமைப் பாதிரியாரான ஆன்செல்ம் (Anselm) (1033-1109) என்பார் எழுதியுள்ளார். ஜான் அமோஸ் முகானமிஸ் என்பவரால் எழுதப்பட்டு
+
+ 1751-இல் வெளியிடப்பட்ட நூலே ஐரோப்பாவில் முதன்முதலாகப் பட விளக்கங்கள் கொண்ட பாட நூலாக அமைந்தது. குழந்தைகளின் விருப்புவெறுப்புகளை அறிந்து அவர்களின் மன உணர்வுகளை நிறைவு செய்யும் வண்ணம் பதினெட்டாம் நூற்றாண்டில் ஜான் நியூபெர் (1713-1767) என்னும் புத்தக விற்பனையாளர் குழந்தைகட்கெனத் தொடர் வெளியீடாகப் பல நூல்களை வெளியிட்டார். பத்தொன்பதாம் நூற்றாண்டில் இங்கிலாந்தில் குழந்தைகட்கெனப் படைப் பிலக்கியங்களும் தோன்றலாயின.  
 
 தமிழில் குழந்தை இலக்கிய வளர்ச்சி  
 
@@ -79,9 +100,13 @@ Price: Rs. 60
 
 ஆணிவேர் அழ. வள்ளியப்பாவே  
 
-இருபதாம் நூற்றாண்டின் இடைப்பகுதியிலிருந்துதான் பாடநூல்கள் அல்லாத குழந்தைகட்கென்றே தனியாக எழுதப்பட்ட பாடல் நூல்கள் வெளிவரலாயின. இவ்வகையில் முன்னோடியாக விளங்கியவர் அழ. வள்ளியப்பா அவர்களே! அவர் எழுதிய குழந்தைக் கவிதைகள் அடங்கிய 'மலரும் உள்ளம்’ (முதற்றொகுதி) 1954இல் வெளிவந்தது.  
+இருபதாம் நூற்றாண்டின் இடைப்பகுதியிலிருந்துதான் பாடநூல்கள் அல்லாத குழந்தைகட்கென்றே தனியாக எழுதப்பட்ட பாடல் நூல்கள் வெளிவரலாயின. இவ்வகையில் முன்னோடியாக விளங்கியவர் அழ. வள்ளியப்பா அவர்களே! அவர் எழுதிய குழந்தைக் கவிதைகள் அடங்கிய 'மலரும் உள்ளம்’ (முதற்றொகுதி)
 
-பின்னர், 1961இல் 'மலரும் உள்ளம், (இரண்டாம் தொகுதி) வெளிவந்தது. இன்று நூற்றுக்கணக்கானோர் அவர் நடையைத் தம் நடையாகவும், அவர் கருத்தைத் தம் கருத்தாகவும், அவர் உத்தியைத் தம் உத்தியாகவும் கொண்டு கவிதைகள் எழுதி வருகின்றனர். ஊரென்றாலே 'உறையூர்’, பூவென்றாலே 'தாமரை’ என்பதுபோல 'குழந்தைக் கவிஞர்’ என்றாலே அது அழ. வள்ளியப்பாவைக் குறிப்பதாகவே அமைந்துவிட்டது. கவிமணி குழந்தை இலக்கியத்திற்கு வித்திட்டார்; முளைத்து வளர்ந்துள்ள குழந்தைக் கவிதையெனும் ஆலின் அடிமரமாகவும்-ஆணிவேராகவும் இருப்பவர் அழ. வள்ளியப்பாவே ஆவர். இன்று நூற்றுக்கணக்கில் அந்த ஆலின் விழுதுகள் நிலத்திலூன்றிக் கவின் செய்கின்றன.  
+ 1954இல் வெளிவந்தது.  
+
+பின்னர்,
+
+ 1961இல் 'மலரும் உள்ளம், (இரண்டாம் தொகுதி) வெளிவந்தது. இன்று நூற்றுக்கணக்கானோர் அவர் நடையைத் தம் நடையாகவும், அவர் கருத்தைத் தம் கருத்தாகவும், அவர் உத்தியைத் தம் உத்தியாகவும் கொண்டு கவிதைகள் எழுதி வருகின்றனர். ஊரென்றாலே 'உறையூர்’, பூவென்றாலே 'தாமரை’ என்பதுபோல 'குழந்தைக் கவிஞர்’ என்றாலே அது அழ. வள்ளியப்பாவைக் குறிப்பதாகவே அமைந்துவிட்டது. கவிமணி குழந்தை இலக்கியத்திற்கு வித்திட்டார்; முளைத்து வளர்ந்துள்ள குழந்தைக் கவிதையெனும் ஆலின் அடிமரமாகவும்-ஆணிவேராகவும் இருப்பவர் அழ. வள்ளியப்பாவே ஆவர். இன்று நூற்றுக்கணக்கில் அந்த ஆலின் விழுதுகள் நிலத்திலூன்றிக் கவின் செய்கின்றன.  
 
 "குழந்தைகட்கு எழுதுபவர்கள் தம் அறிவாற்றல் புலமைகளையெல்லாம் ஒருபுறம் ஒதுக்கி விட்டு, தாமும் குழந்தையாகி, குழந்தைகளின் மன இயல்புகளை ஓர்ந்து அவர்கள் சுவைக்கும் விதத்தில் கவிதைகளைப் படைக்கவேண்டும்” என்பதை முற்றிலும் கடைப்பிடித்து எழுதியவர்-எழுதி வருபவர் திரு அழ. வள்ளியப்பா ஆவர்.  
 
@@ -371,13 +396,25 @@ Fellow, Sahitya Akademi
 
 The reason behind Tiru Al. Valliappa’s request that I should write a Foreword to his new collection of Songs for Children, SIRIKKUM POOKKAL, can only be that, since I have myself reached that stage in life called 'second childhood’, I am duly qualified for the role assigned to me. So be it, then. It is, indeed, a pleasure to wish Godspeed to this volume, 'Smiling Flowers’, by a writer who has made 'children’s literature’ his own elected field and cultivated it with love, dedication and perseverance over a period of several decades.  
 
-While opting for the Banking profession to earn his everyday bread and butter, Al. Valliappa nevertheless chose, for the health of his heart and soul, to feed on the honeydew and milk of Paradise so readily accessible in the world of children, part make-believe and part quintessential reality. Lisping in numbers at the age of thirteen, Valliappa hasn’t looked back, and his books for children (prose and verse) number almost sixty. He has also been a force, a movement, a trend-setter, and as early as 1950 he brought into being the Association of Tamil Writers for Children, and has served the cause of children’s literature in Tamil Nadu and all India in many significant ways.  
+While opting for the Banking profession to earn his everyday bread and butter, Al. Valliappa nevertheless chose, for the health of his heart and soul, to feed on the honeydew and milk of Paradise so readily accessible in the world of children, part make-believe and part quintessential reality. Lisping in numbers at the age of thirteen, Valliappa hasn’t looked back, and his books for children (prose and verse) number almost sixty. He has also been a force, a movement, a trend-setter, and as early as
 
-Valliappa’s MALARUM ULLAM-his first get-together of 23 songs-came out in 1944, and with its simplicity of diction, elevating thoughts and rhythmical ease and adequacy proved an instant success. Valliappa had no doubt had his predecessors and pathfinders in poets like Subramania Bharati and Kavimani Desiga Vinayakam Pillai, and after the first taste of success, he pursued his vocation with seasoned expertise as well as sustained diligence. A fuller collection of MALARUM ULLAM-comprising 135 songs-appeared in 1954, and an equally sumptuous Second Series in 1961. Both volumes carried numerous illustrations, encouraging the child to shift from the visual to the audible, and to fusion the double appeal in the flowering sensibility within. Then, in coming years, more and more choice reading-poetry, fiction, biography-for the expectant children, and now this latest, SIRIKKUM POOKKAL, an ensemble of longer and shorter pieces, and lively matching illustrations in black and white. It is the same tested vintage, refreshing, stimulating, and manna for the growing child.  
+ 1950 he brought into being the Association of Tamil Writers for Children, and has served the cause of children’s literature in Tamil Nadu and all India in many significant ways.  
+
+Valliappa’s MALARUM ULLAM-his first get-together of 23 songs-came out in
+
+ 1944, and with its simplicity of diction, elevating thoughts and rhythmical ease and adequacy proved an instant success. Valliappa had no doubt had his predecessors and pathfinders in poets like Subramania Bharati and Kavimani Desiga Vinayakam Pillai, and after the first taste of success, he pursued his vocation with seasoned expertise as well as sustained diligence. A fuller collection of MALARUM ULLAM-comprising
+
+ 135 songs-appeared in
+
+ 1954, and an equally sumptuous Second Series in
+
+ 1961. Both volumes carried numerous illustrations, encouraging the child to shift from the visual to the audible, and to fusion the double appeal in the flowering sensibility within. Then, in coming years, more and more choice reading-poetry, fiction, biography-for the expectant children, and now this latest, SIRIKKUM POOKKAL, an ensemble of longer and shorter pieces, and lively matching illustrations in black and white. It is the same tested vintage, refreshing, stimulating, and manna for the growing child.  
 
 MALARUM ULLAM, 'Flowering Sensibility’; SIRIKKUM POOKKAL, 'Smiling Flowers’; buds, and blossoms, and flowers, and the splendour of full efflorescence, and the dedication of this ardour and beauty and love to the Sun. Aren’t children-in very truth-Flowers in God’s Garden of New Consciousness?  
 
-It was Kavimani who greeted. Al.Valliappa’s 1954 volume with this warm benediction:  
+It was Kavimani who greeted. Al.Valliappa’s
+
+ 1954 volume with this warm benediction:  
 
   
 
@@ -389,7 +426,9 @@ children to read and enjoy his songs
 
 morn and eve everyday!  
 
-And R. P. Sethu Pillai, in his Foreword, lauded Valliappa for his uncanny evocation of the values and verities in apt and mellifluous everyday language. Introducing the Second series in 1961, Mu. Varadarajanar made particular reference to the story- poems and the humorous verse, for these too insinuate their lessons in human deportment. For example-  
+And R. P. Sethu Pillai, in his Foreword, lauded Valliappa for his uncanny evocation of the values and verities in apt and mellifluous everyday language. Introducing the Second series in
+
+ 1961, Mu. Varadarajanar made particular reference to the story- poems and the humorous verse, for these too insinuate their lessons in human deportment. For example-  
 
   
 
@@ -543,7 +582,9 @@ And then, kind: it has such a tenderness... its presence fills us with joy...
 
 each flower symbolises an aspect, an emanation, an aspiration and a progress in the evolution...”  
 
-(from SWEET MOTHER: HARMONIES OF LIGHT, Part II, words recollected by Mona Sarkar,, 1979, pp.57-8)  
+(from SWEET MOTHER: HARMONIES OF LIGHT, Part II, words recollected by Mona Sarkar,,
+
+ 1979, pp.57-8)  
 
 May I hope that each 'smiling flower’ in this latest garner from Tiru Al. Valliappa’s Garden of Poesy will help the children of Tamil Nadu and India in their adventure of aspiration, awakening and steady progress in self-growth and self-realisation. And my best wishes to the children’s laureate: More power and Grace to his elbow!  
 
@@ -553,7 +594,9 @@ K. R. SRINIVASA IYENGAR
 
 277-B, J.J.Road (off Mowbray’s Road)  
 
-Alwarpet, Madras-600 018  
+Alwarpet, Madras-600
+
+ 018  
 
 29-4-1986  
 
@@ -695,7 +738,9 @@ Alwarpet, Madras-600 018
 
 அணிந்துரை வழங்கியுள்ள இரு பேரறிஞர்களுக்கும் நான் பெரிதும் கடமைப்பட்டுள்ளேன்.  
 
-இத்தொகுப்பிலுள்ள பாடல்கள் அனைத்தையும் படித்துப் பார்த்து, அவை திருத்தமுற அமைவதற்கு அரிய பல யோசனைகளைக் கூறியவர்களில், நல்லாசிரியர் விருது பெற்றவரும், சிறந்த கவிஞரும், புலவரும், வானொலி சிறுவர் சங்கப் பேரவையின் தலைவருமாகிய திரு. தணிகை உலகநாதன் அவர்கள் குறிப்பிடத்தக்கவர். 1954க்குப் பிறகு நான் எழுதிய கவிதை நூல்கள் அனைத்தும் அவர் பார்வையிட்ட பின்னரே வெளிவந்துள்ளன.  
+இத்தொகுப்பிலுள்ள பாடல்கள் அனைத்தையும் படித்துப் பார்த்து, அவை திருத்தமுற அமைவதற்கு அரிய பல யோசனைகளைக் கூறியவர்களில், நல்லாசிரியர் விருது பெற்றவரும், சிறந்த கவிஞரும், புலவரும், வானொலி சிறுவர் சங்கப் பேரவையின் தலைவருமாகிய திரு. தணிகை உலகநாதன் அவர்கள் குறிப்பிடத்தக்கவர்.
+
+ 1954க்குப் பிறகு நான் எழுதிய கவிதை நூல்கள் அனைத்தும் அவர் பார்வையிட்ட பின்னரே வெளிவந்துள்ளன.  
 
 சிறந்த கவிஞரும் வானொலியில் பல்லாண்டுகள் திறம்படப் பணியாற்றியவரும், தற்போது அண்ணாமலைப் பல்கலைக் கழகத்தின் ஆராய்ச்சிப் பேராசிரியராக விளங்குபவருமாகிய திரு. மீ. ப. சோமு அவர்கள்,  
 
@@ -715,7 +760,9 @@ Alwarpet, Madras-600 018
 
 'உமா இல்லம்’  
 
-ஏ. எல். 183 அழ. வள்ளியப்பா  
+ஏ. எல்.
+
+ 183 அழ. வள்ளியப்பா  
 
 அண்ணாநகர், சென்னை-40  
 
@@ -2738,6 +2785,8 @@ Alwarpet, Madras-600 018
 **52. குரங்குக் குடும்பம்  
 
 (மாமல்லபுரச் சிற்பம்)**  
+  
+  
 
 அப்பாக் குரங்கு பின்புறத்தில்  
 
@@ -3159,7 +3208,9 @@ Alwarpet, Madras-600 018
 
 68. கண்ணன் மீண்டும் பிறப்பானா ?  
 
-69. தம்பி பிறந்த நாள் 115  
+69. தம்பி பிறந்த நாள்
+
+ 115  
 
 70. காந்தியைக் காணலாம்  
 
@@ -3224,6 +3275,8 @@ Alwarpet, Madras-600 018
 **61. மத்தாப்பு  
 
 (முன்னும் பின்னும்)**  
+  
+  
 
 கம்பி மத்தாப்பு-அதைக்  
 
@@ -6829,11 +6882,17 @@ Alwarpet, Madras-600 018
 
 பெற்றோர் : அழகப்பச் செட்டியார், உமையாள் ஆச்சி. கவிதை எழுதத் தொடங்கியது : 13-வது வயதில்.  
 
-‘சக்தி’யில் பணி : 1940-ல் வை. கோவிந்தன் அவர்களின் சக்தி அலுவலகத்தில்  
+‘சக்தி’யில் பணி :
+
+ 1940-ல் வை. கோவிந்தன் அவர்களின் சக்தி அலுவலகத்தில்  
 
 பொருளாளராகச் சேர்ந்தார். ‘சக்தி’ இதழின் ஆசிரியர் தி.ஜ.ர. அவர்களின் ஆதரவால் சக்தியில் எழுதத் தொடங்கினார்.  
 
-இந்தியன் பாங்கில் பணி : 1941-ல் இந்தியன் பாங்கில் சேர்ந்து, படிப்படியாக உயர்ந்து, பல கிளைகளில் மேலாளராக இருந்தபின், காரைக்குடியில் வட்டார மேலாளராகப் (Area Manager) பணியாற்றி 1982 நவம்பரில் ஓய்வுபெற்றார்.  
+இந்தியன் பாங்கில் பணி :
+
+ 1941-ல் இந்தியன் பாங்கில் சேர்ந்து, படிப்படியாக உயர்ந்து, பல கிளைகளில் மேலாளராக இருந்தபின், காரைக்குடியில் வட்டார மேலாளராகப் (Area Manager) பணியாற்றி
+
+ 1982 நவம்பரில் ஓய்வுபெற்றார்.  
 
 புத்தகங்கள் : இதுவரை குழந்தைகளுக்காக ஏறத்தாழ 60 புத்தகங்களை எழுதியுள்ளார்.  
 
@@ -6861,11 +6920,15 @@ Alwarpet, Madras-600 018
 
 6. பிள்ளைப் பருவத்திலே  
 
-குழந்தை எழுத்தாளர் சங்க நிறுவனர் : 1950-ல் குழந்தைகளுக்காக எழுதுவோரை ஒன்று சேர்த்து, குழந்தை எழுத்தாளர் சங்கத்தை நிறுவியவர். பல குழந்தை எழுத்தாளர்களை உருவாக்கியவர். தற்போது இதன் தலைவர்.  
+குழந்தை எழுத்தாளர் சங்க நிறுவனர் :
+
+ 1950-ல் குழந்தைகளுக்காக எழுதுவோரை ஒன்று சேர்த்து, குழந்தை எழுத்தாளர் சங்கத்தை நிறுவியவர். பல குழந்தை எழுத்தாளர்களை உருவாக்கியவர். தற்போது இதன் தலைவர்.  
 
 தமிழ் எழுத்தாளர் சங்கத் தலைவர் :  
 
-தமிழ் எழுத்தாளர் சங்கத்தில் பல்வேறு பதவிகளை வகித்து 1966-ல் அச்சங்கத் தலைவராக ஒரு மனதாகத் தேர்ந்தெடுக்கப் பெற்றார்.  
+தமிழ் எழுத்தாளர் சங்கத்தில் பல்வேறு பதவிகளை வகித்து
+
+ 1966-ல் அச்சங்கத் தலைவராக ஒரு மனதாகத் தேர்ந்தெடுக்கப் பெற்றார்.  
 
 தென்மொழிப் புத்தக டிரஸ்டில் பணி : ஃபோர்ட் ஃபவுண்டேஷன் நிறுவிய தென்மொழிப் புத்தக டிரஸ்டில் குழந்தைப் புத்தகத் தனி அலுவலராக (Special Officer for Children’s Books) 51/2 ஆண்டுகள் பணிபுரிந்து, தென்மொழிகள் நான்கிலும் பல நூல்கள் வெளி வரவும்,  
 
@@ -6887,7 +6950,9 @@ Alwarpet, Madras-600 018
 
 1979 சர்வதேசக் குழந்தைகள் ஆண்டு விழாவில் ‘மழலைக் கவிச் செம்மல்’ பட்டம் பொறித்த கேடயம்.  
 
-1982 மதுரை காமராசர் பல்கலைக் கழகம் நடத்திய சிறப்புப் பட்டமளிப்பு விழாவில் ‘தமிழ்ப் பேரவைச் செம்மல்’ என்ற பட்டமும், ரூ. 5000/- மதிப்புள்ள பொற்பதக்கமும்.  
+1982 மதுரை காமராசர் பல்கலைக் கழகம் நடத்திய சிறப்புப் பட்டமளிப்பு விழாவில் ‘தமிழ்ப் பேரவைச் செம்மல்’ என்ற பட்டமும், ரூ.
+
+ 5000/- மதிப்புள்ள பொற்பதக்கமும்.  
 
 1982 கல்கத்தா தமிழ் எழுத்தாளர் சங்க வெள்ளி விழாவில் குத்துவிளக்கு.  
 
@@ -6899,7 +6964,9 @@ Alwarpet, Madras-600 018
 
 கோகுலம்-கௌரவ ஆசிரியர் :  
 
-‘கல்கி’ நிறுவனம் வெளியிடும் ‘கோகுலம்’ எனும் மாத இதழின் கௌரவ ஆசிரியராக 1983 முதல் பணியாற்றி வருகிறார்.  
+‘கல்கி’ நிறுவனம் வெளியிடும் ‘கோகுலம்’ எனும் மாத இதழின் கௌரவ ஆசிரியராக
+
+ 1983 முதல் பணியாற்றி வருகிறார்.  
 
 குழந்தைக் கவிஞர் தொடர்பான நூல்கள்  
 
@@ -6939,5 +7006,7 @@ Alwarpet, Madras-600 018
 
 -----------  
 
-This file was last updated on 2 April 2016.  
+This file was last updated on 2 April
+
+ 2016.  
 

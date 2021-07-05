@@ -7,11 +7,14 @@ authors:
 genres:
   - சொற்பொழிவு
 ---
+
 அறிமுகம் சொற்பொழிவு - ஆங்கிலத்தில்'  
 
 thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
-weight: 688  
+weight:
+
+ 688  
 
 authors:  
 
@@ -87,7 +90,9 @@ Price: Rs. 1-50
 
 T. Sundaram Chettiar, B. Com.,  
 
-District Governer, Lions International Dist. 304 (South) Madurai.  
+District Governer, Lions International Dist.
+
+ 304 (South) Madurai.  
 
 It will not be an exaggeration if we say that of all the great poets, philosophers and thinkers of the ancient as well as modern times, Thiruvalluvar stands foremost. But it is a matter for regret that his immortal work, Thirukkural, perhaps the greatest and noblest literary creation the human intellect has ever produced, is not so much known to the outside world as those of Homer or Virgil, Plato or Aristotle, Dante or Goethe and Shakespeare or Milton.  
 
@@ -563,7 +568,13 @@ We know fully well that the sphere of the activities of the human intellect is l
 
 i.e. the desire called Ava in Tamil prompts man to do sin and if that dreadful desire which is responsible for all misery is rooted out, continuous flow of happiness is certain in our living present.  
 
-Thiruvalluvar is a strong believer in the working of the cause and effect of every event of human lives; this is called ஊழ்வினை by the ancient Tamils. ஊழ் is effect and வினை or action is cause. Many of our people have not understood the real purport of this phrase and have identified it with the theory of fatalism. Suppose a man undertakes to do a work, then when he commences the work or வினை, its effect or பயன் begins to grow simultaneously. By the time he finishes it, his வினை becomes ripened and bears its fruit. The word ஊழ்த்தல் means ripening; in this very sense this word is used by the learned scholars of the Sangam literature e g. ஊழ்மலர் (அகம். 199), ஊழ்முகை ( நற். 115), ஊழ் கோடு (புறம். 322). Valluvar also uses it in the same sense, vide his couplet.  
+Thiruvalluvar is a strong believer in the working of the cause and effect of every event of human lives; this is called ஊழ்வினை by the ancient Tamils. ஊழ் is effect and வினை or action is cause. Many of our people have not understood the real purport of this phrase and have identified it with the theory of fatalism. Suppose a man undertakes to do a work, then when he commences the work or வினை, its effect or பயன் begins to grow simultaneously. By the time he finishes it, his வினை becomes ripened and bears its fruit. The word ஊழ்த்தல் means ripening; in this very sense this word is used by the learned scholars of the Sangam literature e g. ஊழ்மலர் (அகம்.
+
+ 199), ஊழ்முகை ( நற்.
+
+ 115), ஊழ் கோடு (புறம்.
+
+ 322). Valluvar also uses it in the same sense, vide his couplet.  
 
   
 
@@ -1341,6 +1352,8 @@ It is a great misfortune for the Tamils to have in their midst some scholars who
 
 ------  
 
-This file was last updated on 9 dec. 2019.  
+This file was last updated on 9 dec.
+
+ 2019.  
 
 Feel free to send the corrections to the webmaster.

@@ -8,11 +8,14 @@ genres:
   - பிரபந்தம்
   - வெண்பா
 ---
+
 **About the author & Source Acknowledgements:**  
 
   
 
-Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small village in Madurai district during the early part of twentieth century. (He is different from Madurakavi Azhwar (one of the twelve Azhwars). He is well known for the innumerable poems composed by him. He had left the manuscript copy of this work with Madurai Tamil Sangam. It was printed and published by Thiru. R. Govindarajan, Chennai in 1990 with financial assistance provided by Govt. of India. We are grateful to him for having accorded permission to publish it in Project Madurai. The present release contains only the moolam of the work and does not include the notes and commentaries in the printed book. []()  
+Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small village in Madurai district during the early part of twentieth century. (He is different from Madurakavi Azhwar (one of the twelve Azhwars). He is well known for the innumerable poems composed by him. He had left the manuscript copy of this work with Madurai Tamil Sangam. It was printed and published by Thiru. R. Govindarajan, Chennai in
+
+ 1990 with financial assistance provided by Govt. of India. We are grateful to him for having accorded permission to publish it in Project Madurai. The present release contains only the moolam of the work and does not include the notes and commentaries in the printed book. []()  
 
   
 
@@ -28,95 +31,245 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
   
 
-### 1. பாலகாண்டம் (பாடல்கள் 9-472 )  
+###
+
+ 1. பாலகாண்டம் (பாடல்கள் 9-472 )  
 
   
 
-[****]()**[1.1. திரு அவதாரப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt101)**  
+[****]()**  
+  
+[1.1. திரு அவதாரப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt101)**  
+  
+  
 
-[****]()**[1.2. கையடைப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt102)**  
+[****]()**  
+  
+[1.2. கையடைப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt102)**  
+  
+  
 
-[****]()**[1.3. தாடகை வதைப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt103)**  
+[****]()**  
+  
+[1.3. தாடகை வதைப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt103)**  
+  
+  
 
-[****]()**[1.4. வேள்விப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt104)**  
+[****]()**  
+  
+[1.4. வேள்விப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt104)**  
+  
+  
 
-[****]()**[1.5. மிதிலைக் காட்சிப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt105)**  
+[****]()**  
+  
+[1.5. மிதிலைக் காட்சிப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt105)**  
+  
+  
 
-[****]()**[1.6. தனு இறுத்த படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt106)**  
+[****]()**  
+  
+[1.6. தனு இறுத்த படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt106)**  
+  
+  
 
-[****]()**[1.7. கடிமணப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt107)**  
+[****]()**  
+  
+[1.7. கடிமணப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt107)**  
+  
+  
 
   
 
-### 2. அயோத்தியா காண்டம் (பாடல்கள் 473-866 )  
+###
+
+ 2. அயோத்தியா காண்டம் (பாடல்கள்
+
+ 473-866 )  
 
   
 
-[****]()**[2.1. மந்திரப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt201)**  
+[****]()**  
+  
+[2.1. மந்திரப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt201)**  
+  
+  
 
-[****]()**[2.2. கைகேசி சூழ்வினைப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt202)**  
+[****]()**  
+  
+[2.2. கைகேசி சூழ்வினைப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt202)**  
+  
+  
 
-[****]()**[2.3. நகர் நீங்கு படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt203)**  
+[****]()**  
+  
+[2.3. நகர் நீங்கு படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt203)**  
+  
+  
 
-[****]()**[2.4. தைல மாட்டு படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt204)**  
+[****]()**  
+  
+[2.4. தைல மாட்டு படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt204)**  
+  
+  
 
-[****]()**[2.5. கங்கைப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt205)**  
+[****]()**  
+  
+[2.5. கங்கைப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt205)**  
+  
+  
 
-[****]()**[2.6. சித்திர கூடப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt206)**  
+[****]()**  
+  
+[2.6. சித்திர கூடப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt206)**  
+  
+  
 
-[****]()**[2.7. கிளைகண்டு நீங்கு படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt207)**  
+[****]()**  
+  
+[2.7. கிளைகண்டு நீங்கு படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt207)**  
+  
+  
 
   
 
-### 3. ஆரணிய காண்டம் (பாடல்கள் 877 -1408 )  
+###
+
+ 3. ஆரணிய காண்டம் (பாடல்கள்
+
+ 877 -1408 )  
 
   
 
-[****]()**[3.1. விராதன் வதைப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt301)**  
+[****]()**  
+  
+[3.1. விராதன் வதைப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt301)**  
+  
+  
 
-[****]()**[3.2. சாபங்கர் முத்தி யருள் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt302)**  
+[****]()**  
+  
+[3.2. சாபங்கர் முத்தி யருள் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt302)**  
+  
+  
 
-[****]()**[3.3. அகத்தியப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt303)**  
+[****]()**  
+  
+[3.3. அகத்தியப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt303)**  
+  
+  
 
-[****]()**[3.4. சடாயுகாண் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt304)**  
+[****]()**  
+  
+[3.4. சடாயுகாண் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt304)**  
+  
+  
 
-[****]()**[3.5. சூர்ப்பனகைப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt305)**  
+[****]()**  
+  
+[3.5. சூர்ப்பனகைப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt305)**  
+  
+  
 
-[****]()**[3.6. கரன் வதைப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt306)**  
+[****]()**  
+  
+[3.6. கரன் வதைப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt306)**  
+  
+  
 
-[****]()**[3.7. மாரீசன் வதைப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt307)**  
+[****]()**  
+  
+[3.7. மாரீசன் வதைப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt307)**  
+  
+  
 
-[****]()**[3.8. சடாயு வதைப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt308)**  
+[****]()**  
+  
+[3.8. சடாயு வதைப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt308)**  
+  
+  
 
-[****]()**[3.9. அயோமுகிப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt309)**  
+[****]()**  
+  
+[3.9. அயோமுகிப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt309)**  
+  
+  
 
-[****]()**[3.10. கவந்தன் வதைப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt310)**  
+[****]()**  
+  
+[3.10. கவந்தன் வதைப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt310)**  
+  
+  
 
   
 
-### 4. கிட்கிந்தா காண்டம் (பாடல்கள் 1409-1853 )  
+###
+
+ 4. கிட்கிந்தா காண்டம் (பாடல்கள்
+
+ 1409-1853 )  
 
   
 
-[****]()**[4.1. பம்பைப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt401)**  
+[****]()**  
+  
+[4.1. பம்பைப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt401)**  
+  
+  
 
-[****]()**[4.2. அனுமப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt402)**  
+[****]()**  
+  
+[4.2. அனுமப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt402)**  
+  
+  
 
-[****]()**[4.3. நட்புக் கொள் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt403)**  
+[****]()**  
+  
+[4.3. நட்புக் கொள் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt403)**  
+  
+  
 
-[****]()**[4.4. துந்துபிப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt404)**  
+[****]()**  
+  
+[4.4. துந்துபிப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt404)**  
+  
+  
 
-[****]()**[4.5. வாலி வதைப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt405)**  
+[****]()**  
+  
+[4.5. வாலி வதைப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt405)**  
+  
+  
 
-[****]()**[4.6. அரசியற் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt406)**  
+[****]()**  
+  
+[4.6. அரசியற் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt406)**  
+  
+  
 
-[****]()**[4.7. கார்காலப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt407)**  
+[****]()**  
+  
+[4.7. கார்காலப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt407)**  
+  
+  
 
-[****]()**[4.8. கிட்கிந்தைப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt408)**  
+[****]()**  
+  
+[4.8. கிட்கிந்தைப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt408)**  
+  
+  
 
-[****]()**[4.9. நாட விட்ட படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt409)**  
+[****]()**  
+  
+[4.9. நாட விட்ட படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt409)**  
+  
+  
 
-[****]()**[4.10. மகேந்திரப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt410)**  
+[****]()**  
+  
+[4.10. மகேந்திரப் படலம்](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0158_01.html#dt410)**  
+  
+  
 
   
 
@@ -286,13 +439,17 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
   
 
-## 1. பாலகாண்டம்  
+##
+
+ 1. பாலகாண்டம்  
 
   
 
 [  
 
-### 1.1. திரு அவதாரப் படலம்  
+###
+
+ 1.1. திரு அவதாரப் படலம்  
 
   
 
@@ -702,7 +859,9 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-### 1.2. கையடைப் படலம்  
+###
+
+ 1.2. கையடைப் படலம்  
 
   
 
@@ -794,7 +953,9 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-### 1.3. தாடகை வதைப் படலம்  
+###
+
+ 1.3. தாடகை வதைப் படலம்  
 
   
 
@@ -1092,7 +1253,9 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-### 1.4. வேள்விப் படலம்  
+###
+
+ 1.4. வேள்விப் படலம்  
 
   
 
@@ -1454,7 +1617,9 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-### 1.5. மிதிலைக் காட்சிப் படலம்  
+###
+
+ 1.5. மிதிலைக் காட்சிப் படலம்  
 
   
 
@@ -2652,7 +2817,9 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-### 1.6. தனு இறுத்த படலம்  
+###
+
+ 1.6. தனு இறுத்த படலம்  
 
   
 
@@ -3528,7 +3695,9 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-### 1.7. கடிமணப் படலம்  
+###
+
+ 1.7. கடிமணப் படலம்  
 
   
 
@@ -4098,13 +4267,17 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
   
 
-## 2. அயோத்தியா காண்டம்  
+##
+
+ 2. அயோத்தியா காண்டம்  
 
   
 
 [  
 
-### 2.1. மந்திரப் படலம்  
+###
+
+ 2.1. மந்திரப் படலம்  
 
   
 
@@ -4490,7 +4663,9 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-### 2.2. கைகேசி சூழ்வினைப் படலம்  
+###
+
+ 2.2. கைகேசி சூழ்வினைப் படலம்  
 
   
 
@@ -4972,7 +5147,9 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-### 2.3. நகர் நீங்கு படலம்  
+###
+
+ 2.3. நகர் நீங்கு படலம்  
 
   
 
@@ -5358,7 +5535,9 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-### 2.4. தைல மாட்டு படலம்  
+###
+
+ 2.4. தைல மாட்டு படலம்  
 
   
 
@@ -5584,7 +5763,9 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-### 2.5. கங்கைப் படலம்  
+###
+
+ 2.5. கங்கைப் படலம்  
 
   
 
@@ -5890,7 +6071,9 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-### 2.6. சித்திர கூடப் படலம்  
+###
+
+ 2.6. சித்திர கூடப் படலம்  
 
   
 
@@ -6132,7 +6315,9 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-### 2.7. கிளைகண்டு நீங்கு படலம்.  
+###
+
+ 2.7. கிளைகண்டு நீங்கு படலம்.  
 
   
 
@@ -7328,13 +7513,17 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
   
 
-## 3. ஆரணிய காண்டம்  
+##
+
+ 3. ஆரணிய காண்டம்  
 
   
 
 [  
 
-### 3.1. விராதன் வதைப் படலம்  
+###
+
+ 3.1. விராதன் வதைப் படலம்  
 
   
 
@@ -7616,7 +7805,9 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-### 3.2. சாபங்கர் முத்தி யருள் படலம்  
+###
+
+ 3.2. சாபங்கர் முத்தி யருள் படலம்  
 
   
 
@@ -7866,7 +8057,9 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-### 3.3. அகத்தியப் படலம்.  
+###
+
+ 3.3. அகத்தியப் படலம்.  
 
   
 
@@ -8164,7 +8357,9 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-### 3.4. சடாயுகாண் படலம்  
+###
+
+ 3.4. சடாயுகாண் படலம்  
 
   
 
@@ -8414,7 +8609,9 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-### 3.5. சூர்ப்பனகைப் படலம்  
+###
+
+ 3.5. சூர்ப்பனகைப் படலம்  
 
   
 
@@ -8904,7 +9101,9 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-### 3.6. கரன் வதைப் படலம்  
+###
+
+ 3.6. கரன் வதைப் படலம்  
 
   
 
@@ -9474,7 +9673,9 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-### 3.7. மாரீசன் வதைப் படலம்  
+###
+
+ 3.7. மாரீசன் வதைப் படலம்  
 
   
 
@@ -10332,7 +10533,9 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-### 3.8. சடாயு வதைப் படலம்  
+###
+
+ 3.8. சடாயு வதைப் படலம்  
 
   
 
@@ -11222,7 +11425,9 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-### 3.9. அயோமுகிப் படலம்  
+###
+
+ 3.9. அயோமுகிப் படலம்  
 
   
 
@@ -11488,7 +11693,9 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-### 3.10. கவந்தன் வதைப் படலம்  
+###
+
+ 3.10. கவந்தன் வதைப் படலம்  
 
   
 
@@ -11770,13 +11977,17 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
   
 
-## 4. கிட்கிந்தா காண்டம்  
+##
+
+ 4. கிட்கிந்தா காண்டம்  
 
   
 
 [  
 
-### 4.1. பம்பைப் படலம்  
+###
+
+ 4.1. பம்பைப் படலம்  
 
   
 
@@ -12018,7 +12229,9 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-### 4.2. அனுமப் படலம்  
+###
+
+ 4.2. அனுமப் படலம்  
 
   
 
@@ -12180,7 +12393,9 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-### 4.3. நட்புக் கொள் படலம்  
+###
+
+ 4.3. நட்புக் கொள் படலம்  
 
   
 
@@ -12470,7 +12685,9 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-### 4.4. துந்துபிப் படலம்  
+###
+
+ 4.4. துந்துபிப் படலம்  
 
   
 
@@ -12608,7 +12825,9 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-### 4.5. வாலி வதைப் படலம்  
+###
+
+ 4.5. வாலி வதைப் படலம்  
 
   
 
@@ -13402,7 +13621,9 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-### 4.6. அரசியற் படலம்  
+###
+
+ 4.6. அரசியற் படலம்  
 
   
 
@@ -13684,7 +13905,9 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-### 4.7. கார்காலப் படலம்  
+###
+
+ 4.7. கார்காலப் படலம்  
 
   
 
@@ -13862,7 +14085,9 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-### 4.8. கிட்கிந்தைப் படலம்  
+###
+
+ 4.8. கிட்கிந்தைப் படலம்  
 
   
 
@@ -14352,7 +14577,9 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-### 4.9. நாட விட்ட படலம்  
+###
+
+ 4.9. நாட விட்ட படலம்  
 
   
 
@@ -14770,7 +14997,9 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-### 4.10. மகேந்திரப் படலம்  
+###
+
+ 4.10. மகேந்திரப் படலம்  
 
   
 
@@ -15438,8 +15667,9 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 ]()[Click here to go to part-2 containing cantos 5 and 6](http://www.tamil.net/projectmadurai/pub/pm0158/rvenpa2.html)  
 
-This file was last revised on 12 Feb 2003  
+This file was last revised on 12 Feb
 
-Please send your comments to the [webmasters of this website](mailto:kalyan@softhome.net, kumar@vt.edu?subject=PM158  rAmAyaNa    
+ 2003  
 
+Please send your comments to the [webmasters of this website](mailto:kalyan@softhome.net, kumar@vt.edu?subject=PM158  rAmAyaNa   
 veNpA part1).

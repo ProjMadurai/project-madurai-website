@@ -7,6 +7,7 @@ authors:
 genres:
   - நீதிநெறி – பதினெண்கீழ்க்கணக்கு
 ---
+
 ### திருக்குறள் : குறட்பாக்கள் தமிழிலும் கவியோகி மகரிஷி  
 
 சுத்தானந்த பாரதியாரின் ஆங்கில மொழியாக்கமும்  
@@ -19,25 +20,91 @@ genres:
 
   
 
-1. கடவுள் வாழ்த்துThe praise of God 2. வான் சிறப்புThe blessing of Rain 3. நீத்தார் பெருமைThe merit of Ascetics 4. அறன் வலியுறுத்தல்The power of virtue  
+1. கடவுள் வாழ்த்துThe praise of God
+
+ 2. வான் சிறப்புThe blessing of Rain
+
+ 3. நீத்தார் பெருமைThe merit of Ascetics
+
+ 4. அறன் வலியுறுத்தல்The power of virtue  
 
 1.2 இல்லறவியல் - DOMESTIC VIRTUE  
 
   
 
-5. இல்வாழ்க்கைMarried Life 6. வாழ்க்கைத் துணைநலம்The worth of a wife 7. மக்கட்பேறுThe wealth of children 8. அன்புடைமைLoving-kindness 9. விருந்தோம்பல்Hospitality 10.. இனியவை கூறல்Sweet words 11. செய்ந்நன்றி அறிதல்Gratitude 12. நடுநிலைமைEquity 13. அடக்கமுடைமைSelf-control 14. ஒழுக்கமுடைமைGood decorum 15. பிறனில் விழையாமைAgainst coveting another's wife 16. பொறையுடைமைForgiveness 17. அழுக்காறாமைAvoid envy 18. வெஃகாமைAgainst covetousness 19. புறங்கூறாமைAgainst slander 20. பயனில சொல்லாமைAgainst vain speaking 21 தீவினையச்சம்Fear of sin 22. ஒப்புரவறிதல்Duty to society 23. ஈகைCharity 24. புகழ்Renown  
+5. இல்வாழ்க்கைMarried Life
+
+ 6. வாழ்க்கைத் துணைநலம்The worth of a wife
+
+ 7. மக்கட்பேறுThe wealth of children
+
+ 8. அன்புடைமைLoving-kindness
+
+ 9. விருந்தோம்பல்Hospitality
+
+ 10.. இனியவை கூறல்Sweet words
+
+ 11. செய்ந்நன்றி அறிதல்Gratitude
+
+ 12. நடுநிலைமைEquity
+
+ 13. அடக்கமுடைமைSelf-control
+
+ 14. ஒழுக்கமுடைமைGood decorum
+
+ 15. பிறனில் விழையாமைAgainst coveting another's wife
+
+ 16. பொறையுடைமைForgiveness
+
+ 17. அழுக்காறாமைAvoid envy
+
+ 18. வெஃகாமைAgainst covetousness
+
+ 19. புறங்கூறாமைAgainst slander
+
+ 20. பயனில சொல்லாமைAgainst vain speaking 21 தீவினையச்சம்Fear of sin
+
+ 22. ஒப்புரவறிதல்Duty to society
+
+ 23. ஈகைCharity
+
+ 24. புகழ்Renown  
 
 1.3 துறவறவியல் - ASCETIC VIRTUE  
 
   
 
-25. அருளுடைமைCompassion 26. புலால்மறுத்தல்Abstinence from flesh 27. தவம்Penance 28. கூடாஒழுக்கம்Imposture 29 கள்ளாமைThe absence of fraud 30. வாய்மைVeracity 31. வெகுளாமைRestraining anger 32. இன்னா செய்யாமைnon-violence 33. கொல்லாமைNon-killing 34 நிலையாமைInstability 35. துறவுRenunciation 36. மெய்யுணர்தல்Truth consciousness 37. அவா அறுத்தல்Curbing of desire 38. ஊழ்.Destiny  
+25. அருளுடைமைCompassion
+
+ 26. புலால்மறுத்தல்Abstinence from flesh
+
+ 27. தவம்Penance
+
+ 28. கூடாஒழுக்கம்Imposture 29 கள்ளாமைThe absence of fraud
+
+ 30. வாய்மைVeracity
+
+ 31. வெகுளாமைRestraining anger
+
+ 32. இன்னா செய்யாமைnon-violence
+
+ 33. கொல்லாமைNon-killing 34 நிலையாமைInstability
+
+ 35. துறவுRenunciation
+
+ 36. மெய்யுணர்தல்Truth consciousness
+
+ 37. அவா அறுத்தல்Curbing of desire
+
+ 38. ஊழ்.Destiny  
 
 -------  
 
   
 
-### 1. கடவுள் வாழ்த்து - The Praise of God  
+###
+
+ 1. கடவுள் வாழ்த்து - The Praise of God  
 
   
 
@@ -125,7 +192,9 @@ Who clench His feet and cleave to Him. 10
 
   
 
-### 2. வான் சிறப்பு. - The blessing of Rain  
+###
+
+ 2. வான் சிறப்பு. - The blessing of Rain  
 
   
 
@@ -213,7 +282,9 @@ Sans rain our duties go in vain. 20
 
   
 
-### 3. நீத்தார் பெருமை - The merit of Ascetics  
+###
+
+ 3. நீத்தார் பெருமை - The merit of Ascetics  
 
   
 
@@ -301,7 +372,9 @@ The sage fulfils the vitue's call. 30
 
   
 
-### 4. அறன்வலியுறுத்தல் - The power of virtue  
+###
+
+ 4. அறன்வலியுறுத்தல் - The power of virtue  
 
   
 
@@ -389,7 +462,9 @@ Vice is what we ought to shun. 40
 
   
 
-### 1.2 இல்லறவியல் - DOMESTIC VIRTUE  
+###
+
+ 1.2 இல்லறவியல் - DOMESTIC VIRTUE  
 
 5. இல்வாழ்க்கை - Married Life  
 
@@ -479,7 +554,9 @@ Who lives in ideal home on earth. 50
 
   
 
-### 6. வாழ்க்கைத் துணைநலம் - The worth of a wife  
+###
+
+ 6. வாழ்க்கைத் துணைநலம் - The worth of a wife  
 
   
 
@@ -567,7 +644,9 @@ And children good are jewels abright. 60
 
   
 
-### 7. மக்கட்பேறு - The wealth of children  
+###
+
+ 7. மக்கட்பேறு - The wealth of children  
 
   
 
@@ -655,7 +734,9 @@ The son to sire this word is debt
 
   
 
-### 8. அன்புடைமை - Loving-kindness  
+###
+
+ 8. அன்புடைமை - Loving-kindness  
 
   
 
@@ -743,7 +824,9 @@ Or beings are but skin and bone! 80
 
   
 
-### 9. விருந்தோம்பல் - Hospitality  
+###
+
+ 9. விருந்தோம்பல் - Hospitality  
 
   
 
@@ -831,7 +914,9 @@ A wry-faced look withers the guest. 90
 
   
 
-### 10. இனியவை கூறல் - Sweet words  
+###
+
+ 10. இனியவை கூறல் - Sweet words  
 
   
 
@@ -913,13 +998,17 @@ To use harsh words how can he dare? 99
 
 Leaving ripe fruits the raw he eats  
 
-Who speaks harsh words when sweet word suits. 100  
+Who speaks harsh words when sweet word suits.
+
+ 100  
 
 --------  
 
   
 
-### 11. செய்ந்நன்றி அறிதல் - Gratitude  
+###
+
+ 11. செய்ந்நன்றி அறிதல் - Gratitude  
 
   
 
@@ -929,7 +1018,9 @@ Who speaks harsh words when sweet word suits. 100
 
 Unhelped in turn good help given  
 
-Exceeds in worth earth and heaven. 101  
+Exceeds in worth earth and heaven.
+
+ 101  
 
 2. காலத்தி னாற்செய்த நன்றி சிறிதெனினும்  
 
@@ -937,7 +1028,9 @@ Exceeds in worth earth and heaven. 101
 
 A help rendered in hour of need  
 
-Though small is greater than the world. 102  
+Though small is greater than the world.
+
+ 102  
 
 3. பயன்தூக்கார் செய்த உதவி நயன்தூக்கின்  
 
@@ -945,7 +1038,9 @@ Though small is greater than the world. 102
 
 Help rendered without weighing fruits  
 
-Outweighs the sea in grand effects. 103  
+Outweighs the sea in grand effects.
+
+ 103  
 
 4. தினைத்துணை நன்றி செயினும் பனைத்துணையாக்  
 
@@ -953,7 +1048,9 @@ Outweighs the sea in grand effects. 103
 
 Help given though millet- small  
 
-Knowers count its good palm- tree tall. 104  
+Knowers count its good palm- tree tall.
+
+ 104  
 
 5. உதவி வரைத்தன்று உதவி: உதவி  
 
@@ -961,7 +1058,9 @@ Knowers count its good palm- tree tall. 104
 
 A help is not the help's measure  
 
-It is gainer's worth and pleasure. 105  
+It is gainer's worth and pleasure.
+
+ 105  
 
 6. மறவற்க மாசற்றார் கேண்மை: துறவற்க  
 
@@ -969,7 +1068,9 @@ It is gainer's worth and pleasure. 105
 
 Forget not friendship of the pure  
 
-Forsake not timely helpers sure. 106  
+Forsake not timely helpers sure.
+
+ 106  
 
 7. எழுமை எழுபிறப்பும் உள்ளுவர் தங்கண்  
 
@@ -977,7 +1078,9 @@ Forsake not timely helpers sure. 106
 
 Through sevenfold births, in memory fares  
 
-The willing friend who wiped one's tears. 107  
+The willing friend who wiped one's tears.
+
+ 107  
 
 8. நன்றி மறப்பது நன்றன்று: நன்றல்லது  
 
@@ -985,7 +1088,9 @@ The willing friend who wiped one's tears. 107
 
 To forget good turns is not good  
 
-Good it is over wrong not to brood. 108  
+Good it is over wrong not to brood.
+
+ 108  
 
 9. கொன்றன்ன இன்னா செயினும் அவர்செய்த  
 
@@ -993,7 +1098,9 @@ Good it is over wrong not to brood. 108
 
 Let deadly harms be forgotten  
 
-While remembering one good-turn. 109  
+While remembering one good-turn.
+
+ 109  
 
 10. எந்நன்றி கொன்றார்க்கும் உய்வுண்டாம்: உய்வில்லை  
 
@@ -1001,13 +1108,17 @@ While remembering one good-turn. 109
 
 The virtue-killer may be saved  
 
-Not benefit-killer who is damned. 110  
+Not benefit-killer who is damned.
+
+ 110  
 
 --------  
 
   
 
-### 12. நடுவுநிலைமை - Equity  
+###
+
+ 12. நடுவுநிலைமை - Equity  
 
   
 
@@ -1017,7 +1128,9 @@ Not benefit-killer who is damned. 110
 
 Equity is supreme virtue  
 
-It is to give each man his due. 111  
+It is to give each man his due.
+
+ 111  
 
 2. செப்பம் உடையவன் ஆக்கஞ் சிதைவின்றி  
 
@@ -1025,7 +1138,9 @@ It is to give each man his due. 111
 
 Wealth of the man of equity  
 
-Grows and lasts to posterity. 112  
+Grows and lasts to posterity.
+
+ 112  
 
 3. நன்றே தரினும் நடுவிகந்தாம் ஆக்கத்தை  
 
@@ -1033,7 +1148,9 @@ Grows and lasts to posterity. 112
 
 Though profitable, turn away  
 
-From unjust gains without delay. 113  
+From unjust gains without delay.
+
+ 113  
 
 4. தக்கார் தகவிலர் என்பது அவரவர்  
 
@@ -1041,7 +1158,9 @@ From unjust gains without delay. 113
 
 The worthy and the unworthy  
 
-Are seen in their posterity. 114  
+Are seen in their posterity.
+
+ 114  
 
 5. கேடும் பெருக்கமும் இல்லல்ல நெஞ்சத்துக்  
 
@@ -1049,7 +1168,9 @@ Are seen in their posterity. 114
 
 Loss and gain by cause arise;  
 
-Equal mind adorns the wise. 115  
+Equal mind adorns the wise.
+
+ 115  
 
 6. கெடுவல்யான் என்பது அறிகதன் நெஞ்சம்  
 
@@ -1057,7 +1178,9 @@ Equal mind adorns the wise. 115
 
 Of perdition let him be sure  
 
-Who leaves justice to sinful lure. 116  
+Who leaves justice to sinful lure.
+
+ 116  
 
 7. கெடுவாக வையாது உலகம் நடுவாக  
 
@@ -1065,7 +1188,9 @@ Who leaves justice to sinful lure. 116
 
 The just reduced to poverty  
 
-Is not held down by equity. 117  
+Is not held down by equity.
+
+ 117  
 
 8. சமன்செய்து சீர்தூக்குங் கோல்போல் அமைந்தொருபால்  
 
@@ -1073,7 +1198,9 @@ Is not held down by equity. 117
 
 Like balance holding equal scales  
 
-A well poised mind is jewel of the wise. 118  
+A well poised mind is jewel of the wise.
+
+ 118  
 
 9. சொற்கோட்டம் இல்லது செப்பம் ஒருதலையா  
 
@@ -1081,7 +1208,9 @@ A well poised mind is jewel of the wise. 118
 
 Justice is upright, unbending  
 
-And free from crooked word-twisting. 119  
+And free from crooked word-twisting.
+
+ 119  
 
 10. வாணிகஞ் செய்வார்க்கு வாணிகம் பேணிப்  
 
@@ -1089,13 +1218,17 @@ And free from crooked word-twisting. 119
 
 A trader's trade prospers fairly  
 
-When his dealings are neighbourly. 120  
+When his dealings are neighbourly.
+
+ 120  
 
 -------------  
 
   
 
-### 13. அடக்கமுடைமை - Self-control  
+###
+
+ 13. அடக்கமுடைமை - Self-control  
 
   
 
@@ -1105,7 +1238,9 @@ When his dealings are neighbourly. 120
 
 Self-rule leads to realms of gods  
 
-Indulgence leads to gloomy hades. 121  
+Indulgence leads to gloomy hades.
+
+ 121  
 
 2. காக்க பொருளா அடக்கத்தை ஆக்கம்  
 
@@ -1113,7 +1248,9 @@ Indulgence leads to gloomy hades. 121
 
 No gains with self-control measure  
 
-Guard with care this great treasure. 122  
+Guard with care this great treasure.
+
+ 122  
 
 3. செறிவறிந்து சீர்மை பயக்கும் அறிவறிந்து  
 
@@ -1121,7 +1258,9 @@ Guard with care this great treasure. 122
 
 Knowing wisdom who lives controlled  
 
-Name and fame seek him untold. 123  
+Name and fame seek him untold.
+
+ 123  
 
 4. நிலையில் திரியாது அடங்கியான் தோற்றம்  
 
@@ -1129,7 +1268,9 @@ Name and fame seek him untold. 123
 
 Firmly fixed in self serene  
 
-The sage looks grander than mountain. 124  
+The sage looks grander than mountain.
+
+ 124  
 
 5. எல்லார்க்கும் நன்றாம் பணிதல் அவருள்ளும்  
 
@@ -1137,7 +1278,9 @@ The sage looks grander than mountain. 124
 
 Humility is good for all  
 
-To the rich it adds a wealth special. 125  
+To the rich it adds a wealth special.
+
+ 125  
 
 6. ஒருமையுள் ஆமைபோல் ஐந்தடக்கல் ஆற்றின்  
 
@@ -1145,7 +1288,9 @@ To the rich it adds a wealth special. 125
 
 Who senses five like tortoise hold  
 
-Their joy prolongs to births sevenfold. 126  
+Their joy prolongs to births sevenfold.
+
+ 126  
 
 7. யாகாவா ராயினும் நாகாக்க காவாக்கால்  
 
@@ -1153,7 +1298,9 @@ Their joy prolongs to births sevenfold. 126
 
 Rein the tongue if nothing else  
 
-Or slips of tongue bring all the woes. 127  
+Or slips of tongue bring all the woes.
+
+ 127  
 
 8. ஒன்றானும் தீச்சொல் பொருட்பயன் உண்டாயின்  
 
@@ -1161,7 +1308,9 @@ Or slips of tongue bring all the woes. 127
 
 Even a single evil word  
 
-Will turn all good results to bad. 128  
+Will turn all good results to bad.
+
+ 128  
 
 9. தீயினாற் சுட்டபுண் உள்ளாறும் ஆறாதே  
 
@@ -1169,7 +1318,9 @@ Will turn all good results to bad. 128
 
 The fire-burnt wounds do find a cure  
 
-Tongue-burnt wound rests a running sore. 129  
+Tongue-burnt wound rests a running sore.
+
+ 129  
 
 10. கதங்காத்து கற்றடங்கல் ஆற்றுவான் செவ்வி  
 
@@ -1177,13 +1328,17 @@ Tongue-burnt wound rests a running sore. 129
 
 Virtue seeks and peeps to see  
 
-Self-controlled savant anger free. 130  
+Self-controlled savant anger free.
+
+ 130  
 
 -----------  
 
   
 
-### 14. ஒழுக்கமுடைமை - Good decorum  
+###
+
+ 14. ஒழுக்கமுடைமை - Good decorum  
 
   
 
@@ -1193,7 +1348,9 @@ Self-controlled savant anger free. 130
 
 Decorum does one dignity  
 
-More than life guard its purity. 131  
+More than life guard its purity.
+
+ 131  
 
 2. பரிந்தோம்பிக் காக்க ஒழுக்கம் தெரிந்தோம்பித்  
 
@@ -1201,7 +1358,9 @@ More than life guard its purity. 131
 
 Virtues of conduct all excel;  
 
-The soul aid should be guarded well. 132  
+The soul aid should be guarded well.
+
+ 132  
 
 3. ஒழுக்கம் உடமை குடிமை இழுக்கம்  
 
@@ -1209,7 +1368,9 @@ The soul aid should be guarded well. 132
 
 Good conduct shows good family  
 
-Low manners mark anomaly. 133  
+Low manners mark anomaly.
+
+ 133  
 
 4. மறப்பினும் ஒத்துக் கொளலாகும் பார்ப்பான்  
 
@@ -1217,7 +1378,9 @@ Low manners mark anomaly. 133
 
 Readers recall forgotten lore,  
 
-But conduct lost returns no more. 134  
+But conduct lost returns no more.
+
+ 134  
 
 5. அழுக்கா றுடையான்கண் ஆக்கம்போன்று இல்லை  
 
@@ -1225,7 +1388,9 @@ But conduct lost returns no more. 134
 
 The envious prosper but ill  
 
-The ill-behaved sinks lower still. 135  
+The ill-behaved sinks lower still.
+
+ 135  
 
 6. ஒழுக்கத்தின் ஒல்கார் உரவோர் இழுக்கத்தின்  
 
@@ -1233,7 +1398,9 @@ The ill-behaved sinks lower still. 135
 
 The firm from virtue falter not  
 
-They know the ills of evil thought. 136  
+They know the ills of evil thought.
+
+ 136  
 
 7. ஒழுக்கத்தின் எய்துவர் மேன்மை இழுக்கத்தின்  
 
@@ -1241,7 +1408,9 @@ They know the ills of evil thought. 136
 
 Conduct good ennobles man,  
 
-Bad conduct entails disgrace mean. 137  
+Bad conduct entails disgrace mean.
+
+ 137  
 
 8. நன்றிக்கு வித்தாகும் நல்லொழுக்கம் தீயொழுக்கம்  
 
@@ -1249,7 +1418,9 @@ Bad conduct entails disgrace mean. 137
 
 Good conduct sows seeds of blessings  
 
-Bad conduct endless evil brings. 138  
+Bad conduct endless evil brings.
+
+ 138  
 
 9. ஒழுக்க முடையவர்க்கு ஒல்லாவே தீய  
 
@@ -1257,7 +1428,9 @@ Bad conduct endless evil brings. 138
 
 Foul words will never fall from lips  
 
-Of righteous men even by slips. 139  
+Of righteous men even by slips.
+
+ 139  
 
 10. உலகத்தோடு ஒட்ட ஒழுகல் பலகற்றும்  
 
@@ -1265,13 +1438,17 @@ Of righteous men even by slips. 139
 
 Though read much they are ignorant  
 
-Whose life is not world-accordant. 140  
+Whose life is not world-accordant.
+
+ 140  
 
 ----------  
 
   
 
-### 15. பிறனில் விழையாமை - Against coveting another's wife  
+###
+
+ 15. பிறனில் விழையாமை - Against coveting another's wife  
 
   
 
@@ -1281,7 +1458,9 @@ Whose life is not world-accordant. 140
 
 Who know the wealth and virtue's way  
 
-After other's wife do not stray. 141  
+After other's wife do not stray.
+
+ 141  
 
 2. அறன்கடை நின்றாருள் எல்லாம் பிறன்கடை  
 
@@ -1289,7 +1468,9 @@ After other's wife do not stray. 141
 
 He is the worst law breaking boor  
 
-Who haunts around his neighbour's door. 142  
+Who haunts around his neighbour's door.
+
+ 142  
 
 3. விளிந்தாரின் வேறல்லர் மன்ற தெளிந்தாரில்  
 
@@ -1297,7 +1478,9 @@ Who haunts around his neighbour's door. 142
 
 The vile are dead who evil aim  
 
-And put faithful friends' wives to shame. 143  
+And put faithful friends' wives to shame.
+
+ 143  
 
 4. எனைத்துணையர் ஆயினும் என்னாம் தினைத்துணையும்  
 
@@ -1305,7 +1488,9 @@ And put faithful friends' wives to shame. 143
 
 Their boasted greatness means nothing  
 
-When to another's wife they cling. 144  
+When to another's wife they cling.
+
+ 144  
 
 5. எளிதுஎன இல்லிறப்பான் எய்துமெஞ் ஞான்றும்  
 
@@ -1313,7 +1498,9 @@ When to another's wife they cling. 144
 
 Who trifles with another's wife  
 
-His guilty stain will last for life. 145  
+His guilty stain will last for life.
+
+ 145  
 
 6. பகைபாவம் அச்சம் பழியென நான்கும்  
 
@@ -1321,7 +1508,9 @@ His guilty stain will last for life. 145
 
 Hatred, sin, fear, and shame-these four  
 
-Stain adulterers ever more. 146  
+Stain adulterers ever more.
+
+ 146  
 
 7. அறனியலான் இல்வாழ்வான் என்பான் பிறனியலான்  
 
@@ -1329,7 +1518,9 @@ Stain adulterers ever more. 146
 
 He is the righteous householder  
 
-His neighbour's wife who covets never. 147  
+His neighbour's wife who covets never.
+
+ 147  
 
 8. பிறன்மனை நோக்காத பேராண்மை சான்றோர்க்கு  
 
@@ -1337,7 +1528,9 @@ His neighbour's wife who covets never. 147
 
 They lead a high-souled manly life  
 
-The pure who eye not another's wife. 148  
+The pure who eye not another's wife.
+
+ 148  
 
 9. நலக்குரியார் யாரெனின் நாமநீர் வைப்பின்  
 
@@ -1345,7 +1538,9 @@ The pure who eye not another's wife. 148
 
 Good in storm bound earth is with those  
 
-Who clasp not arms of another's spouse. 149  
+Who clasp not arms of another's spouse.
+
+ 149  
 
 10. அறன்வரையான் அல்ல செயினும் பிறன்வரையாள்  
 
@@ -1353,13 +1548,17 @@ Who clasp not arms of another's spouse. 149
 
 Sinners breaking virtue's behest  
 
-Lust not for another's wife at least. 150  
+Lust not for another's wife at least.
+
+ 150  
 
 ---------  
 
   
 
-### 16. பொறையுடைமை - Forgiveness  
+###
+
+ 16. பொறையுடைமை - Forgiveness  
 
   
 
@@ -1369,7 +1568,9 @@ Lust not for another's wife at least. 150
 
 As earth bears up with diggers too  
 
-To bear revilers is prime virtue. 151  
+To bear revilers is prime virtue.
+
+ 151  
 
 2. பொறுத்தல் இறப்பினை என்றும் அதனை  
 
@@ -1377,7 +1578,9 @@ To bear revilers is prime virtue. 151
 
 Forgive insults is a good habit  
 
-Better it is to forget it. 152  
+Better it is to forget it.
+
+ 152  
 
 3. இன்மையுள் இன்மை விருந்தொரால் வன்மையுள்  
 
@@ -1385,7 +1588,9 @@ Better it is to forget it. 152
 
 Neglect the guest is dearth of dearth  
 
-To bear with fools is strength of strength. 153  
+To bear with fools is strength of strength.
+
+ 153  
 
 4. நிறையுடமை நீங்காமை வேண்டின் பொறையுடைமை  
 
@@ -1393,7 +1598,9 @@ To bear with fools is strength of strength. 153
 
 Practice of patient quality  
 
-Retains intact integrity. 154  
+Retains intact integrity.
+
+ 154  
 
 5. ஒறுத்தாரை ஒன்றாக வையாரே வைப்பர்  
 
@@ -1401,7 +1608,9 @@ Retains intact integrity. 154
 
 Vengeance is not in esteem held  
 
-Patience is praised as hidden gold. 155  
+Patience is praised as hidden gold.
+
+ 155  
 
 6. ஒறுத்தார்க்கு ஒருநாளை இன்பம் பொறுத்தார்க்குப்  
 
@@ -1409,7 +1618,9 @@ Patience is praised as hidden gold. 155
 
 Revenge accords but one day's joy  
 
-Patience carries its praise for aye. 156  
+Patience carries its praise for aye.
+
+ 156  
 
 7. திறனல்ல தற்பிறர் செய்யினும் நோநொந்து  
 
@@ -1417,7 +1628,9 @@ Patience carries its praise for aye. 156
 
 Though others cause you wanton pain  
 
-Grieve not; from unjust harm refrain. 157  
+Grieve not; from unjust harm refrain.
+
+ 157  
 
 8. மிகுதியான் மிக்கவை செய்தாரைத் தாந்தம்  
 
@@ -1425,7 +1638,9 @@ Grieve not; from unjust harm refrain. 157
 
 By noble forbearance vanquish  
 
-The proud that have caused you anguish. 158  
+The proud that have caused you anguish.
+
+ 158  
 
 9. துறந்தாரின் தூய்மை உடையர் இறந்தார்வாய்  
 
@@ -1433,7 +1648,9 @@ The proud that have caused you anguish. 158
 
 More than ascetics they are pure  
 
-Who bitter tongues meekly endure. 159  
+Who bitter tongues meekly endure.
+
+ 159  
 
 10. உண்ணாது நோற்பார் பெரியர் பிறர்சொல்லும்  
 
@@ -1441,13 +1658,17 @@ Who bitter tongues meekly endure. 159
 
 Who fast are great to do penance  
 
-Greater are they who bear offence. 160  
+Greater are they who bear offence.
+
+ 160  
 
 ----------  
 
   
 
-### 17. அழுக்காறாமை - Avoid envy  
+###
+
+ 17. அழுக்காறாமை - Avoid envy  
 
   
 
@@ -1457,7 +1678,9 @@ Greater are they who bear offence. 160
 
 Deem your heart as virtuous  
 
-When your nature is not jealous. 161  
+When your nature is not jealous.
+
+ 161  
 
 2. விழுப்பேற்றின் அஃதொப்பது இல்லையார் மாட்டும்  
 
@@ -1465,7 +1688,9 @@ When your nature is not jealous. 161
 
 No excellence excels the one  
 
-That by nature envies none. 162  
+That by nature envies none.
+
+ 162  
 
 3. அறன்ஆக்கம் வேண்டாதான் என்பான் பிறனாக்கம்  
 
@@ -1473,7 +1698,9 @@ That by nature envies none. 162
 
 Who envies others' good fortune  
 
-Can't prosper in virtue of his own. 163  
+Can't prosper in virtue of his own.
+
+ 163  
 
 4. அழுக்காற்றின் அல்லவை செய்யார் இழுக்காற்றின்  
 
@@ -1481,7 +1708,9 @@ Can't prosper in virtue of his own. 163
 
 The wise through envy don't others wrong  
 
-Knowing that woes from evils throng. 164  
+Knowing that woes from evils throng.
+
+ 164  
 
 5. அழுக்காற உடையார்க்கு அதுசாலும் ஒன்னார்  
 
@@ -1489,7 +1718,9 @@ Knowing that woes from evils throng. 164
 
 Man shall be wrecked by envy's whim  
 
-Even if enemies spare him. 165  
+Even if enemies spare him.
+
+ 165  
 
 6. கொடுப்பது அழுக்கறுப்பான் சுற்றம் உடுப்பதூஉம்  
 
@@ -1497,7 +1728,9 @@ Even if enemies spare him. 165
 
 Who envies gifts shall suffer ruin  
 
-Without food and clothes with his kin. 166  
+Without food and clothes with his kin.
+
+ 166  
 
 7. அவ்வித்து அழுக்காறு உடையானைச் செய்யவள்  
 
@@ -1505,7 +1738,9 @@ Without food and clothes with his kin. 166
 
 Fortune deserts the envious  
 
-Leaving misfortune omnious. 167  
+Leaving misfortune omnious.
+
+ 167  
 
 8. அழுக்காறு எனஒரு பாவி திருச்செற்றுத்  
 
@@ -1513,7 +1748,9 @@ Leaving misfortune omnious. 167
 
 Caitiff envy despoils wealth  
 
-And drags one into evil path. 168  
+And drags one into evil path.
+
+ 168  
 
 9. அவ்விய நெஞ்சத்தான் ஆக்கமுஞ் செவ்வியான்  
 
@@ -1521,7 +1758,9 @@ And drags one into evil path. 168
 
 Why is envy rich, goodmen poor  
 
-People with surprise think over. 169  
+People with surprise think over.
+
+ 169  
 
 10. அழுக்கற்று அகன்றாரும் இல்லைஅஃது இல்லார்  
 
@@ -1529,13 +1768,17 @@ People with surprise think over. 169
 
 The envious prosper never  
 
-The envyless prosper ever. 170  
+The envyless prosper ever.
+
+ 170  
 
 --------  
 
   
 
-### 18. வெஃகாமை - Against covetousness  
+###
+
+ 18. வெஃகாமை - Against covetousness  
 
   
 
@@ -1545,7 +1788,9 @@ The envyless prosper ever. 170
 
 Who covets others' honest wealth  
 
-That greed ruins his house forthwith. 171  
+That greed ruins his house forthwith.
+
+ 171  
 
 2. படுபயன் வெஃகிப் பழிப்படுவ செய்யார்  
 
@@ -1553,7 +1798,9 @@ That greed ruins his house forthwith. 171
 
 Who shrink with shame from sin, refrain  
 
-From coveting which brings ruin. 172  
+From coveting which brings ruin.
+
+ 172  
 
 3. சிற்றின்பம் வெஃகி அறனல்ல செய்யாரே  
 
@@ -1561,7 +1808,9 @@ From coveting which brings ruin. 172
 
 For spiritual bliss who long  
 
-For fleeting joy commit no wrong. 173  
+For fleeting joy commit no wrong.
+
+ 173  
 
 4. இலமென்று வெஃகுதல் செய்யார் புலம்வென்ற  
 
@@ -1569,7 +1818,9 @@ For fleeting joy commit no wrong. 173
 
 The truth-knowers of sense-control  
 
-Though in want covet not at all. 174  
+Though in want covet not at all.
+
+ 174  
 
 5. அஃகி அகன்ற அறிவென்னாம் யார்மாட்டும்  
 
@@ -1577,7 +1828,9 @@ Though in want covet not at all. 174
 
 What is one's subtle wisdom worth  
 
-If it deals ill with all on earth. 175  
+If it deals ill with all on earth.
+
+ 175  
 
 6. அருள்வெஃகி ஆற்றின்கண் நின்றான் பொருள்வெஃகிப்  
 
@@ -1585,7 +1838,9 @@ If it deals ill with all on earth. 175
 
 Who seeks for grace on righteous path  
 
-Suffers by evil covetous wealth. 176  
+Suffers by evil covetous wealth.
+
+ 176  
 
 7. வேண்டற்க வெஃகியாம் ஆக்கம் விளைவயின்  
 
@@ -1593,7 +1848,9 @@ Suffers by evil covetous wealth. 176
 
 Shun the fruit of covetousness  
 
-All its yield is inglorious. 177  
+All its yield is inglorious.
+
+ 177  
 
 8. அஃகாமை செல்வத்திற்கு யாதெனின் வெஃகாமை  
 
@@ -1601,7 +1858,9 @@ All its yield is inglorious. 177
 
 Against covetousness - The mark of lasting wealth is shown  
 
-By not coveting others' own. 178  
+By not coveting others' own.
+
+ 178  
 
 9. அறனறிந்து வெஃகா அறிவுடையார்ச் சேரும்  
 
@@ -1609,7 +1868,9 @@ By not coveting others' own. 178
 
 Fortune seeks the just and wise  
 
-Who are free from coveting vice. 179  
+Who are free from coveting vice.
+
+ 179  
 
 10. இறல்ஈனும் எண்ணாது வெஃகின் விறல்ஈனும்  
 
@@ -1617,13 +1878,17 @@ Who are free from coveting vice. 179
 
 Desireless, greatness conquers all;  
 
-Coveting misers ruined fall. 180  
+Coveting misers ruined fall.
+
+ 180  
 
 ---------  
 
   
 
-### 19. புறங்கூறாமை - Against slander  
+###
+
+ 19. புறங்கூறாமை - Against slander  
 
   
 
@@ -1633,7 +1898,9 @@ Coveting misers ruined fall. 180
 
 Though a man from virtue strays,  
 
-To keep from slander brings him praise. 181  
+To keep from slander brings him praise.
+
+ 181  
 
 2. அறனழீஇ அல்லவை செய்தலின் தீதே  
 
@@ -1641,7 +1908,9 @@ To keep from slander brings him praise. 181
 
 Who bite behind, and before smile  
 
-Are worse than open traitors vile. 182  
+Are worse than open traitors vile.
+
+ 182  
 
 3. புறங்கூறிப் பொய்த்துயிர் வாழ்தலின் சாதல்  
 
@@ -1649,7 +1918,9 @@ Are worse than open traitors vile. 182
 
 Virtue thinks it better to die,  
 
-Than live to backbite and to lie. 183  
+Than live to backbite and to lie.
+
+ 183  
 
 4. கண்நின்று கண்ணறச் சொல்லினும் சொல்லற்க  
 
@@ -1657,7 +1928,9 @@ Than live to backbite and to lie. 183
 
 Though harsh you speak in one's presence  
 
-Abuse is worse in his absence. 184  
+Abuse is worse in his absence.
+
+ 184  
 
 5. அறஞ்சொல்லும் நெஞ்சத்தான் அன்மை புறஞ்சொல்லும்  
 
@@ -1665,7 +1938,9 @@ Abuse is worse in his absence. 184
 
 Who turns to slander makes it plain  
 
-His praise of virtue is in vain. 185  
+His praise of virtue is in vain.
+
+ 185  
 
 6. பிறன்பழி கூறுவான் தன்பழி யுள்ளும்  
 
@@ -1673,7 +1948,9 @@ His praise of virtue is in vain. 185
 
 His failings will be found and shown,  
 
-Who makes another's failings known. 186  
+Who makes another's failings known.
+
+ 186  
 
 7. பகச்சொல்லிக் கேளிர்ப் பிரிப்பர் நகச்சொல்லி  
 
@@ -1681,7 +1958,9 @@ Who makes another's failings known. 186
 
 By pleasing words who make not friends  
 
-Sever their hearts by hostile trends. 187  
+Sever their hearts by hostile trends.
+
+ 187  
 
 8. துன்னியார் குற்றமும் தூற்றும் மரபினார்  
 
@@ -1689,7 +1968,9 @@ Sever their hearts by hostile trends. 187
 
 What will they not to strangers do  
 
-Who bring their friends' defects to view? 188  
+Who bring their friends' defects to view?
+
+ 188  
 
 9. அறன்நோக்கி ஆற்றுங்கொல் வையம் புறன்நோக்கிப்  
 
@@ -1697,7 +1978,9 @@ Who bring their friends' defects to view? 188
 
 The world in mercy bears his load  
 
-Who rants behind words untoward 189  
+Who rants behind words untoward
+
+ 189  
 
 10. ஏதிலார் குற்றம்போல் தங்குற்றங் காண்கிற்பின்  
 
@@ -1705,13 +1988,17 @@ Who rants behind words untoward 189
 
 No harm would fall to any man  
 
-If each his own defect could scan. 190  
+If each his own defect could scan.
+
+ 190  
 
 ---------  
 
   
 
-### 20. பயனில சொல்லாமை - Against vain speaking  
+###
+
+ 20. பயனில சொல்லாமை - Against vain speaking  
 
   
 
@@ -1721,7 +2008,9 @@ If each his own defect could scan. 190
 
 With silly words who insults all  
 
-Is held in contempt as banal. 191  
+Is held in contempt as banal.
+
+ 191  
 
 2. பயனில பல்லார்முன் சொல்லல் நயனில  
 
@@ -1729,7 +2018,9 @@ Is held in contempt as banal. 191
 
 Vain talk before many is worse  
 
-Than doing to friends deeds adverse. 192  
+Than doing to friends deeds adverse.
+
+ 192  
 
 3. நயனிலன் என்பது சொல்லும் பயனில  
 
@@ -1737,7 +2028,9 @@ Than doing to friends deeds adverse. 192
 
 The babbler's hasty lips proclaim  
 
-That "good-for-nothing" is his name. 193  
+That "good-for-nothing" is his name.
+
+ 193  
 
 4. நயன்சாரா நன்மையின் நீக்கும் பயன்சாராப்  
 
@@ -1745,7 +2038,9 @@ That "good-for-nothing" is his name. 193
 
 Vain words before an assembly  
 
-Will make all gains and goodness flee. 194  
+Will make all gains and goodness flee.
+
+ 194  
 
 5. சீர்மை சிறப்பொடு நீங்கும் பயனில  
 
@@ -1753,7 +2048,9 @@ Will make all gains and goodness flee. 194
 
 Glory and grace will go away  
 
-When savants silly nonsense say. 195  
+When savants silly nonsense say.
+
+ 195  
 
 6. பயனில்சொல் பாராட்டு வானை மகன்எனல்  
 
@@ -1761,7 +2058,9 @@ When savants silly nonsense say. 195
 
 Call him a human chaff who prides  
 
-Himself in weightless idle words. 196  
+Himself in weightless idle words.
+
+ 196  
 
 7. நயனில சொல்லினுஞ் சொல்லுக சான்றோர்  
 
@@ -1769,7 +2068,9 @@ Himself in weightless idle words. 196
 
 Let not men of worth vainly quack  
 
-Even if they would roughly speak. 197  
+Even if they would roughly speak.
+
+ 197  
 
 8. அரும்பயன் ஆயும் அறிவினார் சொல்லார்  
 
@@ -1777,7 +2078,9 @@ Even if they would roughly speak. 197
 
 The wise who weigh the worth refrain  
 
-From words that have no grain and brain. 198  
+From words that have no grain and brain.
+
+ 198  
 
 9. பொருள்தீர்ந்த பொச்சாந்துஞ் சொல்லார் மருள்தீர்ந்த  
 
@@ -1785,7 +2088,9 @@ From words that have no grain and brain. 198
 
 The wise of spotless self-vision  
 
-Slip not to silly words-mention. 199  
+Slip not to silly words-mention.
+
+ 199  
 
 10. சொல்லுக சொல்லிற் பயனுடைய சொல்லற்க  
 
@@ -1793,13 +2098,17 @@ Slip not to silly words-mention. 199
 
 To purpose speak the fruitful word  
 
-And never indulge in useless load. 200  
+And never indulge in useless load.
+
+ 200  
 
 --------  
 
   
 
-### 21. தீவினையச்சம் - Fear of sin  
+###
+
+ 21. தீவினையச்சம் - Fear of sin  
 
   
 
@@ -1809,7 +2118,9 @@ And never indulge in useless load. 200
 
 Sinners fear not the pride of sin.  
 
-The worthy dread the ill within. 201  
+The worthy dread the ill within.
+
+ 201  
 
 2. தீயவை தீய பயத்தலால் தீயவை  
 
@@ -1817,7 +2128,9 @@ The worthy dread the ill within. 201
 
 Since evil begets evil dire  
 
-Fear ye evil more than fire. 202  
+Fear ye evil more than fire.
+
+ 202  
 
 3. அறிவினுள் எல்லாந் தலையென்ப தீய  
 
@@ -1825,7 +2138,9 @@ Fear ye evil more than fire. 202
 
 The wisest of the wise are those  
 
-Who injure not even their foes. 203  
+Who injure not even their foes.
+
+ 203  
 
 4. மறந்தும் பிறன்கேடு சூழற்க சூழின்  
 
@@ -1833,7 +2148,9 @@ Who injure not even their foes. 203
 
 His ruin virtue plots who plans  
 
-The ruin of another man's. 204  
+The ruin of another man's.
+
+ 204  
 
 5. இலன்என்று தீயவை செய்யற்க செய்யின்  
 
@@ -1841,7 +2158,9 @@ The ruin of another man's. 204
 
 Who makes poverty plea for ill  
 
-Shall reduce himself poorer still. 205  
+Shall reduce himself poorer still.
+
+ 205  
 
 6. தீப்பால தான்பிறர்கண் செய்யற்க நோய்ப்பால  
 
@@ -1849,7 +2168,9 @@ Shall reduce himself poorer still. 205
 
 From wounding others let him refrain  
 
-Who would from harm himself remain. 206  
+Who would from harm himself remain.
+
+ 206  
 
 7. எனைப்பகை யுற்றாரும் உய்வர் வினைப்பகை  
 
@@ -1857,7 +2178,9 @@ Who would from harm himself remain. 206
 
 Men may escape other foes and live  
 
-But sin its deadly blow will give. 207  
+But sin its deadly blow will give.
+
+ 207  
 
 8. தீயவை செய்தார் கெடுதல் நிழல்தன்னை  
 
@@ -1865,7 +2188,9 @@ But sin its deadly blow will give. 207
 
 Ruin follows who evil do  
 
-As shadow follows as they go. 208  
+As shadow follows as they go.
+
+ 208  
 
 9. தன்னைத்தான் காதல னாயின் எனைத்தொன்றும்  
 
@@ -1873,7 +2198,9 @@ As shadow follows as they go. 208
 
 Let none who loves himself at all  
 
-Think of evil however small. 209  
+Think of evil however small.
+
+ 209  
 
 10. அருங்கேடன் என்பது அறிக மருங்கோடித்  
 
@@ -1881,13 +2208,17 @@ Think of evil however small. 209
 
 He is secure, know ye, from ills  
 
-Who slips not right path to do evils. 210  
+Who slips not right path to do evils.
+
+ 210  
 
 ---------  
 
   
 
-### 22. ஒப்புரவறிதல் - Duty to society  
+###
+
+ 22. ஒப்புரவறிதல் - Duty to society  
 
   
 
@@ -1897,7 +2228,9 @@ Who slips not right path to do evils. 210
 
 Duty demands nothing in turn;  
 
-How can the world recompense rain? 211  
+How can the world recompense rain?
+
+ 211  
 
 2. தாளாற்றித் தந்த பொருளெல்லாம் தக்கார்க்கு  
 
@@ -1905,7 +2238,9 @@ How can the world recompense rain? 211
 
 All the wealth that toils give  
 
-Is meant to serve those who deserve. 212  
+Is meant to serve those who deserve.
+
+ 212  
 
 3. புத்தே ளுலகத்தும் ஈண்டும் பெறலரிதே  
 
@@ -1913,7 +2248,9 @@ Is meant to serve those who deserve. 212
 
 In heav'n and earth 'tis hard to find  
 
-A greater good than being kind. 213  
+A greater good than being kind.
+
+ 213  
 
 4. ஒத்த தறிவான் உயிர்வாழ்வான் மற்றையான்  
 
@@ -1921,7 +2258,9 @@ A greater good than being kind. 213
 
 He lives who knows befitting act  
 
-Others are deemed as dead in fact. 214  
+Others are deemed as dead in fact.
+
+ 214  
 
 5. ஊருணி நீர்நிறைந் தற்றே உலகவாம்  
 
@@ -1929,7 +2268,9 @@ Others are deemed as dead in fact. 214
 
 The wealth that wise and kind do make  
 
-Is like water that fills a lake. 215  
+Is like water that fills a lake.
+
+ 215  
 
 6. பயன்மரம் உள்ளூர்ப் பழுத்தற்றால் செல்வம்  
 
@@ -1937,7 +2278,9 @@ Is like water that fills a lake. 215
 
 Who plenty gets and plenty gives  
 
-Is like town-tree teeming with fruits. 216  
+Is like town-tree teeming with fruits.
+
+ 216  
 
 7. மருந்தாகித் தப்பா மரத்தற்றால் செல்வம்  
 
@@ -1945,7 +2288,9 @@ Is like town-tree teeming with fruits. 216
 
 The wealth of a wide-hearted soul  
 
-Is a herbal tree that healeth all. 217  
+Is a herbal tree that healeth all.
+
+ 217  
 
 8. இடனில் பருவத்தும் ஒப்புரவிற்கு ஒல்கார்  
 
@@ -1953,7 +2298,9 @@ Is a herbal tree that healeth all. 217
 
 Though seers may fall on evil days  
 
-Their sense of duty never strays. 218  
+Their sense of duty never strays.
+
+ 218  
 
 9. நயனுடையான் நல்கூர்ந்தா னாதல் செயும்நீர  
 
@@ -1961,7 +2308,9 @@ Their sense of duty never strays. 218
 
 The good man's poverty and grief  
 
-Is want of means to give relief. 219  
+Is want of means to give relief.
+
+ 219  
 
 10. ஒப்புரவி னால்வரும் கேடெனின் அஃதொருவன்  
 
@@ -1969,13 +2318,17 @@ Is want of means to give relief. 219
 
 By good if ruin comes across  
 
-Sell yourself to save that loss. 220  
+Sell yourself to save that loss.
+
+ 220  
 
 ----------  
 
   
 
-### 23. ஈகை - Charity  
+###
+
+ 23. ஈகை - Charity  
 
   
 
@@ -1985,7 +2338,9 @@ Sell yourself to save that loss. 220
 
 To give the poor is charity  
 
-The rest is loan and vanity. 221  
+The rest is loan and vanity.
+
+ 221  
 
 2. நல்லாறு எனினும் கொளல்தீது மேலுலகம்  
 
@@ -1993,7 +2348,9 @@ The rest is loan and vanity. 221
 
 To beg is bad e'en from the good  
 
-To give is good, were heaven forbid. 222  
+To give is good, were heaven forbid.
+
+ 222  
 
 3. இலனென்னும் எவ்வம் உரையாமை ஈதல்  
 
@@ -2001,7 +2358,9 @@ To give is good, were heaven forbid. 222
 
 No pleading, "I am nothing worth,"  
 
-But giving marks a noble birth. 223  
+But giving marks a noble birth.
+
+ 223  
 
 4. இன்னாது இரக்கப் படுதல் இரந்தவர்  
 
@@ -2009,7 +2368,9 @@ But giving marks a noble birth. 223
 
 The cry for alms is painful sight  
 
-Until the giver sees him bright. 224  
+Until the giver sees him bright.
+
+ 224  
 
 5. ஆற்றுவார் ஆற்றல் பசிஆற்றல் அப்பசியை  
 
@@ -2017,7 +2378,9 @@ Until the giver sees him bright. 224
 
 Higher's power which hunger cures  
 
-Than that of penance which endures. 225  
+Than that of penance which endures.
+
+ 225  
 
 6. அற்றார் அழிபசி தீர்த்தல் அஃதொருவன்  
 
@@ -2025,7 +2388,9 @@ Than that of penance which endures. 225
 
 Drive from the poor their gnawing pains  
 
-If room you seek to store your gains. 226  
+If room you seek to store your gains.
+
+ 226  
 
 7. பாத்தூண் மரீஇ யவனைப் பசிஎன்னும்  
 
@@ -2033,7 +2398,9 @@ If room you seek to store your gains. 226
 
 Who shares his food with those who need  
 
-Hunger shall not harm his creed. 227  
+Hunger shall not harm his creed.
+
+ 227  
 
 8. ஈத்துவக்கும் இன்பம் அறியார்கொல் தாமுடைமை  
 
@@ -2041,7 +2408,9 @@ Hunger shall not harm his creed. 227
 
 The joy of give and take they lose  
 
-Hard-hearted rich whose hoarding fails. 228  
+Hard-hearted rich whose hoarding fails.
+
+ 228  
 
 9. இரத்தலின் இன்னாது மன்ற நிரப்பிய  
 
@@ -2049,7 +2418,9 @@ Hard-hearted rich whose hoarding fails. 228
 
 Worse than begging is that boarding  
 
-Alone what one's greed is hoarding. 229  
+Alone what one's greed is hoarding.
+
+ 229  
 
 10. சாதலின் இன்னாத தில்லை இனிததூஉம்  
 
@@ -2057,13 +2428,17 @@ Alone what one's greed is hoarding. 229
 
 Nothing is more painful than death  
 
-Yet more is pain of giftless dearth. 230  
+Yet more is pain of giftless dearth.
+
+ 230  
 
 -----------  
 
   
 
-### 24. புகழ் - Renown  
+###
+
+ 24. புகழ் - Renown  
 
   
 
@@ -2073,7 +2448,9 @@ Yet more is pain of giftless dearth. 230
 
 They gather fame who freely give  
 
-The greatest gain for all that live. 231  
+The greatest gain for all that live.
+
+ 231  
 
 2. உரைப்பார் உரைப்பவை எல்லாம் இரப்பார்க்கொன்று  
 
@@ -2081,7 +2458,9 @@ The greatest gain for all that live. 231
 
 The glory of the alms-giver  
 
-Is praised aloud as popular. 232  
+Is praised aloud as popular.
+
+ 232  
 
 3. ஒன்றா உலகத்து உயர்ந்த புகழல்லால்  
 
@@ -2089,7 +2468,9 @@ Is praised aloud as popular. 232
 
 Nothing else lasts on earth for e'er  
 
-Saving high fame of the giver! 233  
+Saving high fame of the giver!
+
+ 233  
 
 4. நிலவரை நீள்புகழ் ஆற்றின் புலவரைப்  
 
@@ -2097,7 +2478,9 @@ Saving high fame of the giver! 233
 
 From hailing gods heavens will cease  
 
-To hail the men of lasting praise 234  
+To hail the men of lasting praise
+
+ 234  
 
 5. நத்தம்போல் கேடும் உளதாகும் சாக்காடும்  
 
@@ -2105,7 +2488,9 @@ To hail the men of lasting praise 234
 
 Fame in fall and life in death  
 
-Are rare but for the soulful worth. 235  
+Are rare but for the soulful worth.
+
+ 235  
 
 6. தோன்றின் புகழோடு தோன்றுக அஃதிலார்  
 
@@ -2113,7 +2498,9 @@ Are rare but for the soulful worth. 235
 
 Be born with fame if birth you want  
 
-If not of birth you must not vaunt. 236  
+If not of birth you must not vaunt.
+
+ 236  
 
 7. புகழ்பட வாழாதார் தந்நோவார் தம்மை  
 
@@ -2121,7 +2508,9 @@ If not of birth you must not vaunt. 236
 
 Why grieve at those who blame the shame  
 
-Of those who cannot live in fame? 237  
+Of those who cannot live in fame?
+
+ 237  
 
 8. வசையென்ப வையத்தார்க் கெல்லாம் இசையென்னும்  
 
@@ -2129,7 +2518,9 @@ Of those who cannot live in fame? 237
 
 To men on earth it is a shame  
 
-Not to beget the child of fame. 238  
+Not to beget the child of fame.
+
+ 238  
 
 9. வசையிலா வண்பயன் குன்றும் இசையிலா  
 
@@ -2137,7 +2528,9 @@ Not to beget the child of fame. 238
 
 The land will shrink in yield if men  
 
-O'erburden it without renown. 239  
+O'erburden it without renown.
+
+ 239  
 
 10. வசைஒழிய வாழ்வாரே வாழ்வார் இசையொழிய  
 
@@ -2145,13 +2538,17 @@ O'erburden it without renown. 239
 
 They live who live without blemish  
 
-The blameful ones do not flourish. 240  
+The blameful ones do not flourish.
+
+ 240  
 
 ----------  
 
   
 
-### 1.3 துறவறவியல் - ASCETIC VIRTUE  
+###
+
+ 1.3 துறவறவியல் - ASCETIC VIRTUE  
 
 25. அருளுடைமை - Compassion  
 
@@ -2163,7 +2560,9 @@ The blameful ones do not flourish. 240
 
 The wealth of wealth is wealth of grace  
 
-Earthly wealth e'en the basest has. 241  
+Earthly wealth e'en the basest has.
+
+ 241  
 
 2. நல்லாற்றால் நாடி அருளாள்க பல்லாற்றால்  
 
@@ -2171,7 +2570,9 @@ Earthly wealth e'en the basest has. 241
 
 Seek by sound ways good compassion;  
 
-All faiths mark that for-salvation. 242  
+All faiths mark that for-salvation.
+
+ 242  
 
 3. அருள்சேர்ந்த நெஞ்சினார்க் கில்லை இருள்சேர்ந்த  
 
@@ -2179,7 +2580,9 @@ All faiths mark that for-salvation. 242
 
 The hearts of mercy shall not go  
 
-Into dark worlds of gruesome woe. 243  
+Into dark worlds of gruesome woe.
+
+ 243  
 
 4. மன்னுயிர் ஓம்பி அருளாள்வாற்கு இல்லென்ப  
 
@@ -2187,7 +2590,9 @@ Into dark worlds of gruesome woe. 243
 
 His soul is free from dread of sins  
 
-Whose mercy serveth all beings. 244  
+Whose mercy serveth all beings.
+
+ 244  
 
 5. அல்லல் அருளாள்வார்க்கு இல்லை வளிவழங்கும்  
 
@@ -2195,7 +2600,9 @@ Whose mercy serveth all beings. 244
 
 The wide wind-fed world witness bears:  
 
-Men of mercy meet not sorrows. 245  
+Men of mercy meet not sorrows.
+
+ 245  
 
 6. பொருள் நீங்கிப் பொச்சாந்தார் என்பர் அருள்நீங்கி  
 
@@ -2203,7 +2610,9 @@ Men of mercy meet not sorrows. 245
 
 Who grace forsake and graceless act  
 
-The former loss and woes forget. 246  
+The former loss and woes forget.
+
+ 246  
 
 7. அருளில்லார்க்கு அவ்வுலகம் இல்லை பொருளில்லார்க்கு  
 
@@ -2211,7 +2620,9 @@ The former loss and woes forget. 246
 
 This world is not for weathless ones  
 
-That world is not for graceless swines. 247  
+That world is not for graceless swines.
+
+ 247  
 
 8. பொருளற்றார் பூப்பர் ஒருகால் அருளற்றார்  
 
@@ -2219,7 +2630,9 @@ That world is not for graceless swines. 247
 
 The wealthless may prosper one day;  
 
-The graceless never bloom agay. 248  
+The graceless never bloom agay.
+
+ 248  
 
 9. தெருளாதான் மெய்ப்பொருள் கண்டற்றால் தேரின்  
 
@@ -2227,7 +2640,9 @@ The graceless never bloom agay. 248
 
 Like Truth twisted by confused mind  
 
-Wisdom is vain in hearts unkind. 249  
+Wisdom is vain in hearts unkind.
+
+ 249  
 
 10. வலியார்முன் தன்னை நினைக்கதான் தன்னின்  
 
@@ -2235,13 +2650,17 @@ Wisdom is vain in hearts unkind. 249
 
 Think how you feel before the strong  
 
-When to the feeble you do wrong. 250  
+When to the feeble you do wrong.
+
+ 250  
 
 -------------  
 
   
 
-### 26. புலால் மறுத்தல் - Abstinence from flesh  
+###
+
+ 26. புலால் மறுத்தல் - Abstinence from flesh  
 
   
 
@@ -2251,7 +2670,9 @@ When to the feeble you do wrong. 250
 
 What graciousness can one command  
 
-who feeds his flesh by flesh gourmand. 251  
+who feeds his flesh by flesh gourmand.
+
+ 251  
 
 2. பொருளாட்சி போற்றாதார்க்கு இல்லை அருளாட்சி  
 
@@ -2259,7 +2680,9 @@ who feeds his flesh by flesh gourmand. 251
 
 The thriftless have no property  
 
-And flesh-eaters have no pity. 252  
+And flesh-eaters have no pity.
+
+ 252  
 
 3. படைகொண்டார் நெஞ்சம்போல் நன்றூக்காது ஒன்றன்  
 
@@ -2267,7 +2690,9 @@ And flesh-eaters have no pity. 252
 
 Who wields a steel is steel-hearted  
 
-Who tastes body is hard-hearted. 253  
+Who tastes body is hard-hearted.
+
+ 253  
 
 4. அருளல்லது யாதெனில் கொல்லாமை கோறல்  
 
@@ -2275,7 +2700,9 @@ Who tastes body is hard-hearted. 253
 
 If merciless it is to kill,  
 
-To kill and eat is disgraceful. 254  
+To kill and eat is disgraceful.
+
+ 254  
 
 5. உண்ணாமை உள்ளது உயிர்நிலை ஊனுண்ண  
 
@@ -2283,7 +2710,9 @@ To kill and eat is disgraceful. 254
 
 Off with flesh; a life you save  
 
-The eater hell's mouth shall not waive! 255  
+The eater hell's mouth shall not waive!
+
+ 255  
 
 6. தினற்பொருட்டால் கொல்லாது உலகெனின் யாரும்  
 
@@ -2291,7 +2720,9 @@ The eater hell's mouth shall not waive! 255
 
 None would kill and sell the flesh  
 
-For eating it if they don't wish. 256  
+For eating it if they don't wish.
+
+ 256  
 
 7. உண்ணாமை வேண்டும் புலாஅல் பிறிதொன்றன்  
 
@@ -2299,7 +2730,9 @@ For eating it if they don't wish. 256
 
 From eating flesh men must abstain  
 
-If they but feel the being's pain. 257  
+If they but feel the being's pain.
+
+ 257  
 
 8. செயிரின் தலைப்பிரிந்த காட்சியார் உண்ணார்  
 
@@ -2307,7 +2740,9 @@ If they but feel the being's pain. 257
 
 Whose mind from illusion is freed  
 
-Refuse on lifeless flesh to feed. 258  
+Refuse on lifeless flesh to feed.
+
+ 258  
 
 9. அவிசொரிந் தாயிரம் வேட்டலின் ஒன்றன்  
 
@@ -2315,7 +2750,9 @@ Refuse on lifeless flesh to feed. 258
 
 Not to-kill-and-eat, truly  
 
-Excels thousand pourings of ghee! 259  
+Excels thousand pourings of ghee!
+
+ 259  
 
 10. கொல்லான் புலாலை மறுத்தானைக் கைகூப்பி  
 
@@ -2323,13 +2760,17 @@ Excels thousand pourings of ghee! 259
 
 All lives shall lift their palms to him  
 
-Who eats not flesh nor kills with whim. 260  
+Who eats not flesh nor kills with whim.
+
+ 260  
 
 -------  
 
   
 
-### 27. தவம் - Penance  
+###
+
+ 27. தவம் - Penance  
 
   
 
@@ -2339,7 +2780,9 @@ Who eats not flesh nor kills with whim. 260
 
 Pains endure; pain not beings  
 
-This is the type of true penance. 261  
+This is the type of true penance.
+
+ 261  
 
 2. தவமும் தவமுடையார்க்கு ஆகும் அவம் அதனை  
 
@@ -2347,7 +2790,9 @@ This is the type of true penance. 261
 
 Penance is fit for penitents  
 
-Not for him who in vain pretends. 262  
+Not for him who in vain pretends.
+
+ 262  
 
 3. துறந்தார்க்குத் துப்புரவு வேண்டி மறந்தார்கொல்  
 
@@ -2355,7 +2800,9 @@ Not for him who in vain pretends. 262
 
 Is it to true penitent's aid,  
 
-That others austere path avoid? 263  
+That others austere path avoid?
+
+ 263  
 
 4. ஒன்னார்த் தெறலும் உவந்தாரை ஆக்கலும்  
 
@@ -2363,7 +2810,9 @@ That others austere path avoid? 263
 
 In penance lies the power to save  
 
-The friends and foil the foe and knave. 264  
+The friends and foil the foe and knave.
+
+ 264  
 
 5. வேண்டிய வேண்டியாங் கெய்தலால் செய்தவம்  
 
@@ -2371,7 +2820,9 @@ The friends and foil the foe and knave. 264
 
 What they wish as they wish is won  
 
-Here hence by men penance is done. 265  
+Here hence by men penance is done.
+
+ 265  
 
 6. தவஞ்செய்வார் தங்கமருமஞ் செய்வார்மற் றல்லார்  
 
@@ -2379,7 +2830,9 @@ Here hence by men penance is done. 265
 
 Who do penance achieve their aim  
 
-Others desire-rid themselves harm. 266  
+Others desire-rid themselves harm.
+
+ 266  
 
 7. சுடச்சுடரும் பொன்போல் ஒளிவிடும் துன்பஞ்  
 
@@ -2387,7 +2840,9 @@ Others desire-rid themselves harm. 266
 
 Pure and bright gets the gold in fire;  
 
-and so the life by pain austere. 267  
+and so the life by pain austere.
+
+ 267  
 
 8. தன்னுயிர் தான் அறப் பெற்றானை ஏனைய  
 
@@ -2395,7 +2850,9 @@ and so the life by pain austere. 267
 
 He worship wins from every soul  
 
-Who Master is by soul control. 268  
+Who Master is by soul control.
+
+ 268  
 
 9. கூற்றம் குதித்தலும் கைகூடும் நோற்றலின்  
 
@@ -2403,7 +2860,9 @@ Who Master is by soul control. 268
 
 They can even defy death  
 
-Who get by penance godly strength. 269  
+Who get by penance godly strength.
+
+ 269  
 
 10. இலர்பல ராகிய காரணம் நோற்பார்  
 
@@ -2411,13 +2870,17 @@ Who get by penance godly strength. 269
 
 Many are poor and few are rich  
 
-For they care not for penance much. 270  
+For they care not for penance much.
+
+ 270  
 
 ---------  
 
   
 
-### 28. கூடாவொழுக்கம் - Imposture  
+###
+
+ 28. கூடாவொழுக்கம் - Imposture  
 
   
 
@@ -2427,7 +2890,9 @@ For they care not for penance much. 270
 
 Elements five of feigned life  
 
-Of a sly hypocrite within laugh. 271  
+Of a sly hypocrite within laugh.
+
+ 271  
 
 2. வானுயர் தோற்றம் எவன்செய்யும் தன்நெஞ்சம்  
 
@@ -2435,7 +2900,9 @@ Of a sly hypocrite within laugh. 271
 
 Of what avail are sky-high shows  
 
-When guild the conscience gnaws and knows. 272  
+When guild the conscience gnaws and knows.
+
+ 272  
 
 3. வலியில் நிலைமையான் வல்லுருவம் பெற்றம்  
 
@@ -2443,7 +2910,9 @@ When guild the conscience gnaws and knows. 272
 
 Vaunting sainthood while weak within  
 
-Seems a grazer with tiger skin. 273  
+Seems a grazer with tiger skin.
+
+ 273  
 
 4. தவமறைந்து அல்லவை செய்தல் புதல்மறைந்து  
 
@@ -2451,7 +2920,9 @@ Seems a grazer with tiger skin. 273
 
 Sinning in saintly show is like  
 
-Fowlers in ambush birds to strike. 274  
+Fowlers in ambush birds to strike.
+
+ 274  
 
 5. பற்றற்றேம் என்பார் படிற்றொழுக்கம் எற்றெற்றென்று  
 
@@ -2459,7 +2930,9 @@ Fowlers in ambush birds to strike. 274
 
 Who false within but freedom feign  
 
-Shall moan "What have we done" with pain. 275  
+Shall moan "What have we done" with pain.
+
+ 275  
 
 6. நெஞ்சில் துறவார் துறந்தார்போல் வஞ்சித்து  
 
@@ -2467,7 +2940,9 @@ Shall moan "What have we done" with pain. 275
 
 Vilest is he who seems a saint  
 
-Cheating the world without restraint. 276  
+Cheating the world without restraint.
+
+ 276  
 
 7. புறங்குன்றி கண்டனைய ரேனும் அகங்குன்றி  
 
@@ -2475,7 +2950,9 @@ Cheating the world without restraint. 276
 
 Berry-red is his outward view,  
 
-Black like its nose his inward hue. 277  
+Black like its nose his inward hue.
+
+ 277  
 
 8. மனத்தது மாசாக மாண்டார்நீ ராடி  
 
@@ -2483,7 +2960,9 @@ Black like its nose his inward hue. 277
 
 Filthy in mind some bathe in streams  
 
-Hiding sins in showy extremes. 278  
+Hiding sins in showy extremes.
+
+ 278  
 
 9. கணைகொடிது யாழ்கோடு செவ்விதுஆங் கன்ன  
 
@@ -2491,7 +2970,9 @@ Hiding sins in showy extremes. 278
 
 Know men by acts and not by forms  
 
-Strait arrow kills, bent lute but charms. 279  
+Strait arrow kills, bent lute but charms.
+
+ 279  
 
 10. மழித்தலும் நீட்டலும் வேண்டா உலகம்  
 
@@ -2499,13 +2980,17 @@ Strait arrow kills, bent lute but charms. 279
 
 No balding nor tangling the hair!  
 
-Abstain from condemned acts with care. 280  
+Abstain from condemned acts with care.
+
+ 280  
 
 ---------  
 
   
 
-### 29. கள்ளாமை - The absence of fraud  
+###
+
+ 29. கள்ளாமை - The absence of fraud  
 
   
 
@@ -2515,7 +3000,9 @@ Abstain from condemned acts with care. 280
 
 Let him who would reproachless be  
 
-From all frauds guard his conscience free. 281  
+From all frauds guard his conscience free.
+
+ 281  
 
 2. உள்ளத்தால் உள்ளலும் தீதே பிறன்பொருளைக்  
 
@@ -2523,7 +3010,9 @@ From all frauds guard his conscience free. 281
 
 "We will by fraud win other's wealth"  
 
-Even this thought is sin and stealth. 282  
+Even this thought is sin and stealth.
+
+ 282  
 
 3. களவினால் ஆகிய ஆக்கம் அளவிறந்து  
 
@@ -2531,7 +3020,9 @@ Even this thought is sin and stealth. 282
 
 The gain by fraud may overflow  
 
-But swift to ruin it shall go. 283  
+But swift to ruin it shall go.
+
+ 283  
 
 4. களவின்கண் கன்றிய காதல் விளைவின்கண்  
 
@@ -2539,7 +3030,9 @@ But swift to ruin it shall go. 283
 
 The fruit that fraud and greed obtain  
 
-Shall end in endless grief and pain. 284  
+Shall end in endless grief and pain.
+
+ 284  
 
 5. அருள்கருதி அன்புடைய ராதல் பொருள்கருதிப்  
 
@@ -2547,7 +3040,9 @@ Shall end in endless grief and pain. 284
 
 Love and Grace are not their worth  
 
-Who watch to waylay dozer's wealth. 285  
+Who watch to waylay dozer's wealth.
+
+ 285  
 
 6. அளவின்கண் நின்றொழுகல் ஆற்றார் களவின்கண்  
 
@@ -2555,7 +3050,9 @@ Who watch to waylay dozer's wealth. 285
 
 They cannot walk in measured bounds  
 
-who crave and have covetous ends. 286  
+who crave and have covetous ends.
+
+ 286  
 
 7. களவென்னும் காரறி வாண்மை அளவென்னும்  
 
@@ -2563,7 +3060,9 @@ who crave and have covetous ends. 286
 
 Men of measured wisdom shun  
 
-Black art of fraud and what it won. 287  
+Black art of fraud and what it won.
+
+ 287  
 
 8. அளவறிந்தார் நெஞ்சத் தறம்போல் நிற்கும்  
 
@@ -2571,7 +3070,9 @@ Black art of fraud and what it won. 287
 
 Virtue abides in righteous hearts  
 
-Into minds of frauds deceit darts. 288  
+Into minds of frauds deceit darts.
+
+ 288  
 
 9. அளவல்ல செய்தாங்கே வீவர் களவல்ல  
 
@@ -2579,7 +3080,9 @@ Into minds of frauds deceit darts. 288
 
 They perish in their perfidy  
 
-Who know nothing but pilfery. 289  
+Who know nothing but pilfery.
+
+ 289  
 
 10. கள்வார்க்குத் தள்ளும் உயிர்நிலை கள்ளார்க்குத்  
 
@@ -2587,13 +3090,17 @@ Who know nothing but pilfery. 289
 
 Even the body rejects thieves;  
 
-The honest men, heaven receives. 290  
+The honest men, heaven receives.
+
+ 290  
 
 ------  
 
   
 
-### 30. வாய்மை - Veracity  
+###
+
+ 30. வாய்மை - Veracity  
 
   
 
@@ -2603,7 +3110,9 @@ The honest men, heaven receives. 290
 
 If "What is truth"? the question be,  
 
-It is to speak out evil-free. 291  
+It is to speak out evil-free.
+
+ 291  
 
 2. பொய்ம்மையும் வாய்மை யிடத்த புரைதீர்ந்த  
 
@@ -2611,7 +3120,9 @@ It is to speak out evil-free. 291
 
 E'en falsehood may for truth suffice,  
 
-When good it brings removing vice. 292  
+When good it brings removing vice.
+
+ 292  
 
 3. தன்னெஞ் சறிவது பொய்யற்க பொய்த்தபின்  
 
@@ -2619,7 +3130,9 @@ When good it brings removing vice. 292
 
 Let not a man knowingly lie;  
 
-Conscience will scorch and make him sigh. 293  
+Conscience will scorch and make him sigh.
+
+ 293  
 
 4. உள்ளத்தால் பொய்யா தொழுகின் உலகத்தார்  
 
@@ -2627,7 +3140,9 @@ Conscience will scorch and make him sigh. 293
 
 He lives in loving hearts of all  
 
-Who serves the Truth serene in soul. 294  
+Who serves the Truth serene in soul.
+
+ 294  
 
 5. மனத்தொடு வாய்மை மொழியின் தவத்தொடு  
 
@@ -2635,7 +3150,9 @@ Who serves the Truth serene in soul. 294
 
 To speak the truth from heart sincere  
 
-Is more than giving and living austere. 295  
+Is more than giving and living austere.
+
+ 295  
 
 6. பொய்யாமை அன்ன புகழில்லை எய்யாமை  
 
@@ -2643,7 +3160,9 @@ Is more than giving and living austere. 295
 
 Not to lie brings all the praise  
 
-All virtues from Truth arise. 296  
+All virtues from Truth arise.
+
+ 296  
 
 7. பொய்யாமை பொய்யாமை ஆற்றின் அறம்பிற  
 
@@ -2651,7 +3170,9 @@ All virtues from Truth arise. 296
 
 Lie not lie not. Naught else you need  
 
-All virtues are in Truth indeed. 297  
+All virtues are in Truth indeed.
+
+ 297  
 
 8. புறந்தூய்மை நீரான் அமையும் அகந்தூய்மை  
 
@@ -2659,7 +3180,9 @@ All virtues are in Truth indeed. 297
 
 Water makes you pure outward  
 
-Truth renders you pure inward. 298  
+Truth renders you pure inward.
+
+ 298  
 
 9. எல்லா விளக்கும் விளக்கல்ல சான்றோர்க்குப்  
 
@@ -2667,7 +3190,9 @@ Truth renders you pure inward. 298
 
 All lights are not lights for the wise;  
 
-Truth light is light bright like sun-light 299  
+Truth light is light bright like sun-light
+
+ 299  
 
 10. யாமெய்யாக் கண்டவற்றுள் இல்லை எனைத்தொன்றும்  
 
@@ -2675,13 +3200,17 @@ Truth light is light bright like sun-light 299
 
 Of all the things we here have seen  
 
-Nothing surpasses Truth serene ! 300  
+Nothing surpasses Truth serene !
+
+ 300  
 
 --------  
 
   
 
-### 31. வெகுளாமை - Restraining anger  
+###
+
+ 31. வெகுளாமை - Restraining anger  
 
   
 
@@ -2691,7 +3220,9 @@ Nothing surpasses Truth serene ! 300
 
 Anger against the weak is wrong  
 
-It is futile against the strong. 301  
+It is futile against the strong.
+
+ 301  
 
 2. செல்லா இடத்துச் சினந்தீது செல்லிடத்தும்  
 
@@ -2699,7 +3230,9 @@ It is futile against the strong. 301
 
 Vain is wrath against men of force  
 
-Against the meek it is still worse. 302  
+Against the meek it is still worse.
+
+ 302  
 
 3. மறத்தல் வெகுளியை யார்மாட்டும் தீய  
 
@@ -2707,7 +3240,9 @@ Against the meek it is still worse. 302
 
 Off with wrath with any one.  
 
-It is the source of sin and pain. 303  
+It is the source of sin and pain.
+
+ 303  
 
 4. நகையும் உவகையும் கொல்லும் சினத்தின்  
 
@@ -2715,7 +3250,9 @@ It is the source of sin and pain. 303
 
 Is there a foe like harmful ire  
 
-Which kills the smile and joyful cheer? 304  
+Which kills the smile and joyful cheer?
+
+ 304  
 
 5. தன்னைத்தான் காக்கின் சினம்காக்க காவாக்கால்  
 
@@ -2723,7 +3260,9 @@ Which kills the smile and joyful cheer? 304
 
 Thyself to save, from wrath away!  
 
-If not thyself the wrath will slay. 305  
+If not thyself the wrath will slay.
+
+ 305  
 
 6. சினமென்னும் சேர்ந்தாரைக் கொல்லி இனமென்னும்  
 
@@ -2731,7 +3270,9 @@ If not thyself the wrath will slay. 305
 
 Friend-killer is the fatal rage  
 
-It burns the helpful kinship-barge. 306  
+It burns the helpful kinship-barge.
+
+ 306  
 
 7. சினத்தைப் பொருளென்று கொண்டவன் கேடு  
 
@@ -2739,7 +3280,9 @@ It burns the helpful kinship-barge. 306
 
 The wrath-lover to doom is bound  
 
-Like failless-hand that strikes the ground. 307  
+Like failless-hand that strikes the ground.
+
+ 307  
 
 8. இணர்எரி தோய்வன்ன இன்னா செயினும்  
 
@@ -2747,7 +3290,9 @@ Like failless-hand that strikes the ground. 307
 
 Save thy soul from burning ire  
 
-Though tortured like the touch of fire. 308  
+Though tortured like the touch of fire.
+
+ 308  
 
 9. உள்ளிய தெல்லாம் உடனெய்தும் உள்ளத்தால்  
 
@@ -2755,7 +3300,9 @@ Though tortured like the touch of fire. 308
 
 Wishes he gains as he wishes  
 
-If man refrains from rage vicious! 309  
+If man refrains from rage vicious!
+
+ 309  
 
 10. இறந்தார் இறந்தார் அனையர் சினத்தைத்  
 
@@ -2763,13 +3310,17 @@ If man refrains from rage vicious! 309
 
 Dead are they who are anger-fed  
 
-Saints are they from whom wrath has fled. 310  
+Saints are they from whom wrath has fled.
+
+ 310  
 
 --------  
 
   
 
-### 32. இன்னா செய்யாமை - non-violence  
+###
+
+ 32. இன்னா செய்யாமை - non-violence  
 
   
 
@@ -2779,7 +3330,9 @@ Saints are they from whom wrath has fled. 310
 
 The pure by faith mean pain to none  
 
-Though princely wealth by that is won. 311  
+Though princely wealth by that is won.
+
+ 311  
 
 2. கறுத்துஇன்னா செய்தவக் கண்ணும் மறுத்துஇன்னா  
 
@@ -2787,7 +3340,9 @@ Though princely wealth by that is won. 311
 
 The spotless hearts seek not revenge  
 
-Though Malice does the worst in rage. 312  
+Though Malice does the worst in rage.
+
+ 312  
 
 3. செய்யாமல் செற்றார்க்கும் இன்னாத செய்தபின்  
 
@@ -2795,7 +3350,9 @@ Though Malice does the worst in rage. 312
 
 Revenging even causeless hate  
 
-Bad-blood breeds and baneful heat. 313  
+Bad-blood breeds and baneful heat.
+
+ 313  
 
 4. இன்னாசெய் தாரை ஒறுத்தல் அவர் நாண  
 
@@ -2803,7 +3360,9 @@ Bad-blood breeds and baneful heat. 313
 
 Doing good-turns, put them to shame  
 
-Thus chide the evil who do harm. 314  
+Thus chide the evil who do harm.
+
+ 314  
 
 5. அறிவினான் ஆகுவ துண்டோ பிறிதின்நோய்  
 
@@ -2811,7 +3370,9 @@ Thus chide the evil who do harm. 314
 
 What does a man from wisdom gain  
 
-If he pines not at other's pain? 315  
+If he pines not at other's pain?
+
+ 315  
 
 6. இன்னா எனத்தான் உணர்ந்தவை துன்னாமை  
 
@@ -2819,7 +3380,9 @@ If he pines not at other's pain? 315
 
 What you feel as 'pain' to yourself  
 
-Do it not to the other-self 316  
+Do it not to the other-self
+
+ 316  
 
 7. எனைத்தானும் எஞ்ஞான்றும் யார்க்கும் மனத்தானாம்  
 
@@ -2827,7 +3390,9 @@ Do it not to the other-self 316
 
 Any, anywhere injure not  
 
-At any time even in thought. 317  
+At any time even in thought.
+
+ 317  
 
 8. தன்னுயிர்க்கு இன்னாமை தானறிவான் என்கொலோ  
 
@@ -2835,7 +3400,9 @@ At any time even in thought. 317
 
 How can he injure other souls  
 
-Who in his life injury feels. 318  
+Who in his life injury feels.
+
+ 318  
 
 9. பிறர்க்குஇன்னா முற்பகல் செய்யின் தமக்குஇன்னா  
 
@@ -2843,7 +3410,9 @@ Who in his life injury feels. 318
 
 Harm others in the forenoon  
 
-Harm seeks thee in afternoon. 319  
+Harm seeks thee in afternoon.
+
+ 319  
 
 10. நோய்எல்லாம் நோய்செய்தார் மேலவாம் நோய்செய்யார்  
 
@@ -2851,13 +3420,17 @@ Harm seeks thee in afternoon. 319
 
 No harm is done by peace-lovers  
 
-For pains rebound on pain-givers. 320  
+For pains rebound on pain-givers.
+
+ 320  
 
 -----------  
 
   
 
-### 33. கொல்லாமை - Non-killing  
+###
+
+ 33. கொல்லாமை - Non-killing  
 
   
 
@@ -2867,7 +3440,9 @@ For pains rebound on pain-givers. 320
 
 What is Virtue? 'Tis not to kill  
 
-For killing causes every ill. 321  
+For killing causes every ill.
+
+ 321  
 
 2. பகுத்துண்டு பல்லுயிர் ஓம்புதல் நூலோர்  
 
@@ -2875,7 +3450,9 @@ For killing causes every ill. 321
 
 Share the food and serve all lives  
 
-This is the law of all the laws. 322  
+This is the law of all the laws.
+
+ 322  
 
 3. ஒன்றாக நல்லது கொல்லாமை மற்றுஅதன்  
 
@@ -2883,7 +3460,9 @@ This is the law of all the laws. 322
 
 Not to kill is unique good  
 
-The next, not to utter falsehood. 323  
+The next, not to utter falsehood.
+
+ 323  
 
 4. நல்லாறு எனப்படுவது யாதெனின் யாதொன்றும்  
 
@@ -2891,7 +3470,9 @@ The next, not to utter falsehood. 323
 
 What way is good? That we can say  
 
-The way away from heat to slay. 324  
+The way away from heat to slay.
+
+ 324  
 
 5. நிலைஅஞ்சி நீத்தாருள் எல்லாம் கொலைஅஞ்சிக்  
 
@@ -2899,7 +3480,9 @@ The way away from heat to slay. 324
 
 Of saints who renounce birth-fearing  
 
-The head is he who dreads killing. 325  
+The head is he who dreads killing.
+
+ 325  
 
 6. கொல்லாமை மேற்கொண் டொழுகுவான் வாழ்நாள்மேல்  
 
@@ -2907,7 +3490,9 @@ The head is he who dreads killing. 325
 
 Life-eating-Death shall spare the breath  
 
-Of him who no life puts to death. 326  
+Of him who no life puts to death.
+
+ 326  
 
 7. தன்னுயிர் நீப்பினும் செய்யற்க தான்பிறிது  
 
@@ -2915,7 +3500,9 @@ Of him who no life puts to death. 326
 
 Kill not life that others cherish  
 
-Even when your life must perish. 327  
+Even when your life must perish.
+
+ 327  
 
 8. நன்றாகும் ஆக்கம் பெரிதெனினும் சான்றோர்க்குக்  
 
@@ -2923,7 +3510,9 @@ Even when your life must perish. 327
 
 The gain of slaughter is a vice  
 
-Though deemed good in sacrifice. 328  
+Though deemed good in sacrifice.
+
+ 328  
 
 9. கொலைவினைய ராகிய மாக்கள் புலைவினையர்  
 
@@ -2931,7 +3520,9 @@ Though deemed good in sacrifice. 328
 
 Those who live by slaying are  
 
-Eaters of carrion bizarre! 329  
+Eaters of carrion bizarre!
+
+ 329  
 
 10. உயிர்உடம்பின் நீக்கியார் என்ப செயிர்உடம்பின்  
 
@@ -2939,13 +3530,17 @@ Eaters of carrion bizarre! 329
 
 The loathsome poor sickly and sore  
 
-Are killers stained by blood before 330  
+Are killers stained by blood before
+
+ 330  
 
 -------  
 
   
 
-### 34. நிலையாமை - Instability  
+###
+
+ 34. நிலையாமை - Instability  
 
   
 
@@ -2955,7 +3550,9 @@ Are killers stained by blood before 330
 
 The worst of follies it is told  
 
-The fleeting as lasting to hold. 331  
+The fleeting as lasting to hold.
+
+ 331  
 
 2. கூத்தாட்டு அவைக்குழாத் தற்றே பெருஞ்செல்வம்  
 
@@ -2963,7 +3560,9 @@ The fleeting as lasting to hold. 331
 
 Like a drama-crowd wealth gathers  
 
-Like passing show its pride too goes. 332  
+Like passing show its pride too goes.
+
+ 332  
 
 3. அற்கா இயல்பிற்றுச் செல்வம் அதுபெற்றால்  
 
@@ -2971,7 +3570,9 @@ Like passing show its pride too goes. 332
 
 Wealth wanes away; but when it comes  
 
-Take care to do enduring things. 333  
+Take care to do enduring things.
+
+ 333  
 
 4. நாளென ஒன்றுபோல் காட்டி உயிர்ஈரும்  
 
@@ -2979,7 +3580,9 @@ Take care to do enduring things. 333
 
 The showy day is but a saw  
 
-Your life, know that, to file and gnaw. 334  
+Your life, know that, to file and gnaw.
+
+ 334  
 
 5. நாச்செற்று விக்குள்மேல் வாராமுன் நல்வினை  
 
@@ -2987,7 +3590,9 @@ Your life, know that, to file and gnaw. 334
 
 Ere tongue benumbs and hiccough comes  
 
-Rise up to do good deeds betimes. 335  
+Rise up to do good deeds betimes.
+
+ 335  
 
 6. நெருநல் உளனொருவன் இன்றில்லை என்னும்  
 
@@ -2995,7 +3600,9 @@ Rise up to do good deeds betimes. 335
 
 One was yesterday; not today!  
 
-The wonder of the world's way! 336  
+The wonder of the world's way!
+
+ 336  
 
 7. ஒருபொழுதும் வாழ்வது அறியார் கருதுப  
 
@@ -3003,7 +3610,9 @@ The wonder of the world's way! 336
 
 Man knows not his next moment  
 
-On crores of things he is intent. 337  
+On crores of things he is intent.
+
+ 337  
 
 8. குடம்பை தனித்துஒழியப் புள்பறந் தற்றே  
 
@@ -3011,7 +3620,9 @@ On crores of things he is intent. 337
 
 The soul from body any day  
 
-Like bird from egg-shell flies away. 338  
+Like bird from egg-shell flies away.
+
+ 338  
 
 9. உறங்கு வதுபோலும் சாக்காடு உறங்கி  
 
@@ -3019,7 +3630,9 @@ Like bird from egg-shell flies away. 338
 
 Death is like a slumber deep  
 
-And birth like waking from that sleep. 339  
+And birth like waking from that sleep.
+
+ 339  
 
 10. புக்கில் அமைந்தின்று கொல்லோ உடம்பினுள்  
 
@@ -3027,13 +3640,17 @@ And birth like waking from that sleep. 339
 
 The life berthed in this body shows  
 
-A fixed home it never knows. 340  
+A fixed home it never knows.
+
+ 340  
 
 --------  
 
   
 
-### 35. துறவு - Renunciation  
+###
+
+ 35. துறவு - Renunciation  
 
   
 
@@ -3043,7 +3660,9 @@ A fixed home it never knows. 340
 
 From what from what a man is free  
 
-From that, from that his torments flee. 341  
+From that, from that his torments flee.
+
+ 341  
 
 2. வேண்டின்உண் டாகத் துறக்க துறந்தபின்  
 
@@ -3051,7 +3670,9 @@ From that, from that his torments flee. 341
 
 Give up all to gain the True  
 
-And endless joys shall hence seek you. 342  
+And endless joys shall hence seek you.
+
+ 342  
 
 3. அடல்வேண்டும் ஐந்தன் புலத்தை விடல்வேண்டும்  
 
@@ -3059,7 +3680,9 @@ And endless joys shall hence seek you. 342
 
 Curb the senses five and renounce  
 
-The craving desires all at once. 343  
+The craving desires all at once.
+
+ 343  
 
 4. இயல்பாகும் நோன்பிற்கொன்று இன்மை உடைமை  
 
@@ -3067,7 +3690,9 @@ The craving desires all at once. 343
 
 To have nothing is law of vows  
 
-Having the least deludes and snares. 344  
+Having the least deludes and snares.
+
+ 344  
 
 5. மற்றும் தொடர்ப்பாடு எவன்கொல் பிறப்பறுக்கல்  
 
@@ -3075,7 +3700,9 @@ Having the least deludes and snares. 344
 
 Why add to bonds while this body  
 
-Is too much for saints to be birth-free. 345  
+Is too much for saints to be birth-free.
+
+ 345  
 
 6. யான்எனது என்னும் செருக்குஅறுப்பான் வானோர்க்கு  
 
@@ -3083,7 +3710,9 @@ Is too much for saints to be birth-free. 345
 
 Who curbs the pride of I and mine  
 
-Gets a world rare for gods to gain. 346  
+Gets a world rare for gods to gain.
+
+ 346  
 
 7. பற்றி விடாஅ இடும்பைகள் பற்றினைப்  
 
@@ -3091,7 +3720,9 @@ Gets a world rare for gods to gain. 346
 
 Grief clings on and on to those  
 
-Who cling to bonds without release. 347  
+Who cling to bonds without release.
+
+ 347  
 
 8. தலைப்பட்டார் தீரத் துறந்தார் மயங்கி  
 
@@ -3099,7 +3730,9 @@ Who cling to bonds without release. 347
 
 Who renounce all are free from care  
 
-Others suffer delusive snare. 348  
+Others suffer delusive snare.
+
+ 348  
 
 9. பற்றற்ற கண்ணே பிறப்பறுக்கும் மற்று  
 
@@ -3107,7 +3740,9 @@ Others suffer delusive snare. 348
 
 Bondage cut off, rebirth is off  
 
-The world then seems instable stuff. 349  
+The world then seems instable stuff.
+
+ 349  
 
 10. பற்றுக பற்றற்றான் பற்றினை அப்பற்றைப்  
 
@@ -3115,13 +3750,17 @@ The world then seems instable stuff. 349
 
 Bind Thyself to the unbound one  
 
-That binding breaks all bonds anon. 350  
+That binding breaks all bonds anon.
+
+ 350  
 
 -------  
 
   
 
-### 36. மெய்யுணர்தல் - Truth consciousness  
+###
+
+ 36. மெய்யுணர்தல் - Truth consciousness  
 
   
 
@@ -3131,7 +3770,9 @@ That binding breaks all bonds anon. 350
 
 That error entails ignoble birth  
 
-Which deems vain things as things of worth. 351  
+Which deems vain things as things of worth.
+
+ 351  
 
 2. இருள்நீங்கி இன்பம் பயக்கும் மருள் நீங்கி  
 
@@ -3139,7 +3780,9 @@ Which deems vain things as things of worth. 351
 
 Men of spotless pure insight  
 
-Enjoy delight devoid of night. 352  
+Enjoy delight devoid of night.
+
+ 352  
 
 3. ஐயத்தின் நீங்கித் தெளிந்தார்க்கு வையத்தின்  
 
@@ -3147,7 +3790,9 @@ Enjoy delight devoid of night. 352
 
 To doubtless minds whose heart is clear  
 
-More than earth heaven is near. 353  
+More than earth heaven is near.
+
+ 353  
 
 4. ஐயுணர்வு எய்தியக் கண்ணும் பயமின்றே  
 
@@ -3155,7 +3800,9 @@ More than earth heaven is near. 353
 
 Knowledge of five senses is vain  
 
-Without knowing the Truth within. 354  
+Without knowing the Truth within.
+
+ 354  
 
 5. எப்பொருள் எத்தன்மைத் தாயினும் அப்பொருள்  
 
@@ -3163,7 +3810,9 @@ Without knowing the Truth within. 354
 
 Knowledge is Truth of things to find  
 
-In every case of every kind. 355  
+In every case of every kind.
+
+ 355  
 
 6. கற்றீண்டு மெய்ப்பொருள் கண்டார் தலைப்படுவர்  
 
@@ -3171,7 +3820,9 @@ In every case of every kind. 355
 
 Who learn and here the Truth discern  
 
-Enter the path of non-return. 356  
+Enter the path of non-return.
+
+ 356  
 
 7. ஓர்த்துள்ளம் உள்ளது உணரின் ஒருதலையாப்  
 
@@ -3179,7 +3830,9 @@ Enter the path of non-return. 356
 
 One-minded sage sees inner-truth  
 
-He is free from thoughts of rebirth. 357  
+He is free from thoughts of rebirth.
+
+ 357  
 
 8. பிறப்பென்னும் பேதைமை நீங்கச் சிறப்பென்னும்  
 
@@ -3187,7 +3840,9 @@ He is free from thoughts of rebirth. 357
 
 It is knowledge to know Self-Truth  
 
-And remove the folly of birth. 358  
+And remove the folly of birth.
+
+ 358  
 
 9. சார்புணர்ந்து சார்பு கெடஒழுகின் மற்றழித்துச்  
 
@@ -3195,7 +3850,9 @@ And remove the folly of birth. 358
 
 Know the Refuge; off with bondage  
 
-Be free from ills of thraldom, O sage. 359  
+Be free from ills of thraldom, O sage.
+
+ 359  
 
 10. காமம் வெகுளி மயக்கம் இவை மூன்றன்  
 
@@ -3203,13 +3860,17 @@ Be free from ills of thraldom, O sage. 359
 
 Woes expire when lust, wrath, folly  
 
-Expire even to name, fully. 360  
+Expire even to name, fully.
+
+ 360  
 
 ---------  
 
   
 
-### 37. அவா அறுத்தல் - Curbing of desire  
+###
+
+ 37. அவா அறுத்தல் - Curbing of desire  
 
   
 
@@ -3219,7 +3880,9 @@ Expire even to name, fully. 360
 
 Desire to all, always is seed  
 
-From which ceaseless births proceed. 361  
+From which ceaseless births proceed.
+
+ 361  
 
 2. வேண்டுங்கால் வேண்டும் பிறவாமை மற்றது  
 
@@ -3227,7 +3890,9 @@ From which ceaseless births proceed. 361
 
 If long thou must, long for non-birth  
 
-It comes by longing no more for earth. 362  
+It comes by longing no more for earth.
+
+ 362  
 
 3. வேண்டாமை அன்ன விழுச்செல்வம் ஈண்டில்லை  
 
@@ -3235,7 +3900,9 @@ It comes by longing no more for earth. 362
 
 No such wealth is here and there  
 
-As peerless wealth of non-desire. 363  
+As peerless wealth of non-desire.
+
+ 363  
 
 4. தூஉய்மை என்பது அவாவின்மை மற்றது  
 
@@ -3243,7 +3910,9 @@ As peerless wealth of non-desire. 363
 
 To nothing crave is purity  
 
-That is the fruit of verity. 364  
+That is the fruit of verity.
+
+ 364  
 
 5. அற்றவர் என்பார் அவாஅற்றார் மற்றையார்  
 
@@ -3251,7 +3920,9 @@ That is the fruit of verity. 364
 
 The free are those who desire not  
 
-The rest not free in bonds are caught. 365  
+The rest not free in bonds are caught.
+
+ 365  
 
 6. அஞ்சுவ தோரும் அறனே ஒருவனை  
 
@@ -3259,7 +3930,9 @@ The rest not free in bonds are caught. 365
 
 Dread desire; Virtue is there  
 
-To every soul desire is snare! 366  
+To every soul desire is snare!
+
+ 366  
 
 7. அவாவினை ஆற்ற அறுப்பின் தவாவினை  
 
@@ -3267,7 +3940,9 @@ To every soul desire is snare! 366
 
 Destroy desire; deliverance  
 
-Comes as much as you aspire hence. 367  
+Comes as much as you aspire hence.
+
+ 367  
 
 8. அவாஇல்லார்க் கில்லாகுந் துன்பம் அஃதுண்டேல்  
 
@@ -3275,7 +3950,9 @@ Comes as much as you aspire hence. 367
 
 Desire extinct no sorrow-taints  
 
-Grief comes on grief where it pretends. 368  
+Grief comes on grief where it pretends.
+
+ 368  
 
 9. இன்பம் இடையறா தீண்டும் அவாவென்னும்  
 
@@ -3283,7 +3960,9 @@ Grief comes on grief where it pretends. 368
 
 Desire, the woe of woes destroy  
 
-Joy of joys here you enjoy. 369  
+Joy of joys here you enjoy.
+
+ 369  
 
 10. ஆரா இயற்கை அவாநீப்பின் அந்நிலையே  
 
@@ -3291,13 +3970,17 @@ Joy of joys here you enjoy. 369
 
 Off with desire insatiate  
 
-You gain the native blissful state. 370  
+You gain the native blissful state.
+
+ 370  
 
 ------  
 
   
 
-### 38. ஊழ் - Destiny  
+###
+
+ 38. ஊழ் - Destiny  
 
   
 
@@ -3307,7 +3990,9 @@ You gain the native blissful state. 370
 
 Efforts succeed by waxing star  
 
-Wealth-losing brings waning star. 371  
+Wealth-losing brings waning star.
+
+ 371  
 
 2. பேதைப் படுக்கும் இழவூழ் அறிவகற்றும்  
 
@@ -3315,7 +4000,9 @@ Wealth-losing brings waning star. 371
 
 Loss-fate makes a dull fool of us  
 
-Gain-fate makes us prosperous, wise! 372  
+Gain-fate makes us prosperous, wise!
+
+ 372  
 
 3. நுண்ணிய நூல்பல கற்பினும் மற்றுந்தன்  
 
@@ -3323,7 +4010,9 @@ Gain-fate makes us prosperous, wise! 372
 
 What matters subtle study deep?  
 
-Levels of innate wisdom-keep. 373  
+Levels of innate wisdom-keep.
+
+ 373  
 
 4. இருவேறு உலகத்து இயற்கை திருவேறு  
 
@@ -3331,7 +4020,9 @@ Levels of innate wisdom-keep. 373
 
 Two natures in the world obtain  
 
-Some wealth and others wisdom gain. 374  
+Some wealth and others wisdom gain.
+
+ 374  
 
 5. நல்லவை எல்லாஅந் தீயவாம் தீயவும்  
 
@@ -3339,7 +4030,9 @@ Some wealth and others wisdom gain. 374
 
 In making wealth fate changes mood;  
 
-The good as bad and bad as good. 375  
+The good as bad and bad as good.
+
+ 375  
 
 6. பரியினும் ஆகாவாம் பாலல்ல உய்த்துச்  
 
@@ -3347,7 +4040,9 @@ The good as bad and bad as good. 375
 
 Things not thine never remain  
 
-Things destined are surely thine. 376  
+Things destined are surely thine.
+
+ 376  
 
 7. வகுத்தான் வகுத்த வகையல்லால் கோடி  
 
@@ -3355,7 +4050,9 @@ Things destined are surely thine. 376
 
 Who crores amass enjoy but what  
 
-The Dispenser's decrees allot. 377  
+The Dispenser's decrees allot.
+
+ 377  
 
 8. துறப்பார்மன் துப்புர வில்லார் உறற்பால  
 
@@ -3363,7 +4060,9 @@ The Dispenser's decrees allot. 377
 
 The destitute desire will quit  
 
-If fate with ills visit them not. 378  
+If fate with ills visit them not.
+
+ 378  
 
 9. நன்றாங்கால் நல்லவாக் காண்பவர் அன்றாங்கால்  
 
@@ -3371,7 +4070,9 @@ If fate with ills visit them not. 378
 
 Who good in time of good perceive  
 
-In evil time why should they grieve? 379  
+In evil time why should they grieve?
+
+ 379  
 
 10. ஊழிற் பெருவலி யாவுள மற்றொன்று  
 
@@ -3379,13 +4080,17 @@ In evil time why should they grieve? 379
 
 What power surpasses fate? Its will  
 
-Persists against the human skill. 380  
+Persists against the human skill.
+
+ 380  
 
 -----------  
 
   
 
-### 2. பொருட்பால்- Part II - WEALTH  
+###
+
+ 2. பொருட்பால்- Part II - WEALTH  
 
   
 
@@ -3393,37 +4098,143 @@ Persists against the human skill. 380
 
   
 
-39. இறைமாட்சிThe grandeur of monarchy 40. கல்விEducation 41. கல்லாமைNon- learning 42. கேள்விListening 43. அறிவுடைமைThe possession of knowledge 44. குற்றங்கடிதல்Avoiding faults 45. பெரியாரைத் துணைக்கோடல்Gaining great men's help 46. சிற்றினஞ் சேராமைAvoiding mean company 47 தெரிந்து செயல்வகைDeliberation before action 48. வலியறிதல்Judging strength 49. காலம் அறிதல்Knowing proper time 50. இடன் அறிதல்Judging the place 51 தெரிந்து தெளிதல்Testing of men for confidence 52 தெரிந்து வினையாடல்Testing and entrusting 53. சுற்றந்தழால்Cherishing kinsmen 54. பொச்சாவாமைUnforgetfulness 55. செங்கோன்மைJust government 56. கொடுங்கோன்மைThe cruel tyranny 57 வெருவந்த செய்யாமைAvoiding terrorism 58 கண்ணோட்டம்Benign looks 59. ஒற்றாடல்Espionage 60. ஊக்கம் உடைமைEnergy 61 மடியின்மைFreedom from sloth 62 ; ஆள்வினை உடைமைManly effort 63. இடுக்கண் அழியாமைHope in mishap  
+39. இறைமாட்சிThe grandeur of monarchy
+
+ 40. கல்விEducation
+
+ 41. கல்லாமைNon- learning
+
+ 42. கேள்விListening
+
+ 43. அறிவுடைமைThe possession of knowledge
+
+ 44. குற்றங்கடிதல்Avoiding faults
+
+ 45. பெரியாரைத் துணைக்கோடல்Gaining great men's help
+
+ 46. சிற்றினஞ் சேராமைAvoiding mean company 47 தெரிந்து செயல்வகைDeliberation before action
+
+ 48. வலியறிதல்Judging strength
+
+ 49. காலம் அறிதல்Knowing proper time
+
+ 50. இடன் அறிதல்Judging the place 51 தெரிந்து தெளிதல்Testing of men for confidence 52 தெரிந்து வினையாடல்Testing and entrusting
+
+ 53. சுற்றந்தழால்Cherishing kinsmen
+
+ 54. பொச்சாவாமைUnforgetfulness
+
+ 55. செங்கோன்மைJust government
+
+ 56. கொடுங்கோன்மைThe cruel tyranny 57 வெருவந்த செய்யாமைAvoiding terrorism 58 கண்ணோட்டம்Benign looks
+
+ 59. ஒற்றாடல்Espionage
+
+ 60. ஊக்கம் உடைமைEnergy 61 மடியின்மைFreedom from sloth 62 ; ஆள்வினை உடைமைManly effort
+
+ 63. இடுக்கண் அழியாமைHope in mishap  
 
 **2.2 அமைச்சியல் - STATE CABINET**  
 
   
 
-64. அமைச்சுMinisters 65. சொல்வன்மைPower of speech 66. வினைத்தூய்மைPurity of action 67 வினைத்திடபம்Powerful acts 68. வினைசெயல்வகைModes of action 69 தூதுThe embassy 70. மன்னரைச் சேர்ந்தொழுகல்Walk with kings 71. குறிப்பறிதல்Divining the mind 72. அவை அறிதல்Judging the audience 73 அவை அஞ்சாமைCourage before councils  
+64. அமைச்சுMinisters
+
+ 65. சொல்வன்மைPower of speech
+
+ 66. வினைத்தூய்மைPurity of action 67 வினைத்திடபம்Powerful acts
+
+ 68. வினைசெயல்வகைModes of action 69 தூதுThe embassy
+
+ 70. மன்னரைச் சேர்ந்தொழுகல்Walk with kings
+
+ 71. குறிப்பறிதல்Divining the mind
+
+ 72. அவை அறிதல்Judging the audience 73 அவை அஞ்சாமைCourage before councils  
 
 **2.3 அரணியல், கூழியல், படையியல் - POLITICS**  
 
   
 
-74. நாடுThe country 75 அரண்Fortress 76. பொருள் செயல்வகைWay of making wealth 77. படையாட்சிThe glory of army 78. படைச்செருக்குMilitary pride  
+74. நாடுThe country 75 அரண்Fortress
+
+ 76. பொருள் செயல்வகைWay of making wealth
+
+ 77. படையாட்சிThe glory of army
+
+ 78. படைச்செருக்குMilitary pride  
 
 **2.4 நட்பியல் - ALLIANCE**  
 
   
 
-79. நட்புFriendship 80. நட்பாராய்தல்Testing friendship 81. பழைமைIntimacy 82. தீநட்புBad friendship 83 கூடாநட்புFalse friendship 84. பேதமைFolly 85 புலலறிவான்மைPetty conceit 86. இகல்Hatred 87. பகைமாட்சிNoble hostility 88. பகைத்திறம் தெரிதல்Apparising enemies 89 உட்பகைSecret foe 90 பெரியாரைப்பிழையாமைOffend not the great 91 பெண்வழிச்சேறல்Being led by women 92. வரைவின் மகளிர்Wanton women 93 கள்ளுண்ணாமைNot drinking liquor 94. சூதுGambling 95. மருந்துMedicine  
+79. நட்புFriendship
+
+ 80. நட்பாராய்தல்Testing friendship
+
+ 81. பழைமைIntimacy
+
+ 82. தீநட்புBad friendship 83 கூடாநட்புFalse friendship
+
+ 84. பேதமைFolly 85 புலலறிவான்மைPetty conceit
+
+ 86. இகல்Hatred
+
+ 87. பகைமாட்சிNoble hostility
+
+ 88. பகைத்திறம் தெரிதல்Apparising enemies 89 உட்பகைSecret foe 90 பெரியாரைப்பிழையாமைOffend not the great 91 பெண்வழிச்சேறல்Being led by women
+
+ 92. வரைவின் மகளிர்Wanton women 93 கள்ளுண்ணாமைNot drinking liquor
+
+ 94. சூதுGambling
+
+ 95. மருந்துMedicine  
 
 **2.5 ஒழிபியல் - MISCELLANEOUS**  
 
   
 
-97. மானம்Honour 98 பெருமைGreatness 99. சான்றாண்மைSublimity 100. பண்புடைமைCourtesy 101. நன்றியில் செல்வம்Futile wealth 102. நாணுடைமைSensitiveness to shame 103 குடிசெயல் வகைPromoting family welfare 104. உழவுFarming 105. நல்குரவுPoverty 106. இரவுAsking 107 இரவச்சம்Dread of beggary 108 கயமைMeanness  
+97. மானம்Honour 98 பெருமைGreatness
+
+ 99. சான்றாண்மைSublimity
+
+
+
+ 100. பண்புடைமைCourtesy
+
+
+
+ 101. நன்றியில் செல்வம்Futile wealth
+
+
+
+ 102. நாணுடைமைSensitiveness to shame
+
+ 103 குடிசெயல் வகைPromoting family welfare
+
+
+
+ 104. உழவுFarming
+
+
+
+ 105. நல்குரவுPoverty
+
+
+
+ 106. இரவுAsking
+
+ 107 இரவச்சம்Dread of beggary
+
+ 108 கயமைMeanness  
 
 ----------  
 
   
 
-### 39. இறைமாட்சி - The grandeur of monarchy  
+###
+
+ 39. இறைமாட்சி - The grandeur of monarchy  
 
   
 
@@ -3433,7 +4244,9 @@ Persists against the human skill. 380
 
 People, troops, wealth, forts, council, friends  
 
-Who owns these six is lion of kings. 381  
+Who owns these six is lion of kings.
+
+ 381  
 
 2. அஞ்சாமை ஈகை அறிவூக்கம் இந்நான்கும்  
 
@@ -3441,7 +4254,9 @@ Who owns these six is lion of kings. 381
 
 Courage, giving, knowledge and zeal  
 
-Are four failless features royal. 382  
+Are four failless features royal.
+
+ 382  
 
 3. தூங்காமை கல்வி துணிவுடைமை இம்மூன்றும்  
 
@@ -3449,7 +4264,9 @@ Are four failless features royal. 382
 
 Alertness, learning, bravery  
 
-Are adjuncts three of monarchy. 383  
+Are adjuncts three of monarchy.
+
+ 383  
 
 4. அறனிழுக்கா தல்லவை நீக்கி மறனிழுக்கா  
 
@@ -3457,7 +4274,9 @@ Are adjuncts three of monarchy. 383
 
 A brave noble king refrains from vice  
 
-Full of virtue and enterprise. 384  
+Full of virtue and enterprise.
+
+ 384  
 
 5. இயற்றலும் ஈட்டலும் காத்தலும் காத்த  
 
@@ -3465,7 +4284,9 @@ Full of virtue and enterprise. 384
 
 The able king gets, stores and guards  
 
-And spends them for people's safeguards. 385  
+And spends them for people's safeguards.
+
+ 385  
 
 6. காட்சிக் கெளியன் கடுஞ்சொல்லன் அல்லனேல்  
 
@@ -3473,7 +4294,9 @@ And spends them for people's safeguards. 385
 
 That land prospers where the king is  
 
-Easy to see, not harsh of words. 386  
+Easy to see, not harsh of words.
+
+ 386  
 
 7. இன்சொலால் ஈத்தளிக்க வல்லார்க்குத் தன்சொலால்  
 
@@ -3481,7 +4304,9 @@ Easy to see, not harsh of words. 386
 
 The world commends and acts his phrase  
 
-Who sweetly speaks and gives with grace. 387  
+Who sweetly speaks and gives with grace.
+
+ 387  
 
 8. முறைசெய்து காப்பாற்றும் மன்னவன் மக்கட்கு  
 
@@ -3489,7 +4314,9 @@ Who sweetly speaks and gives with grace. 387
 
 He is the Lord of men who does  
 
-Sound justice and saves his race. 388  
+Sound justice and saves his race.
+
+ 388  
 
 9. செவிகைப்பச் சொற்பொறுக்கும் பண்புடை வேந்தன்  
 
@@ -3497,7 +4324,9 @@ Sound justice and saves his race. 388
 
 Under his shelter thrives the world  
 
-Who bears remarks bitter and bold. 389  
+Who bears remarks bitter and bold.
+
+ 389  
 
 10. கொடையளி செங்கோல் குடியோம்பல் நான்கும்  
 
@@ -3505,13 +4334,17 @@ Who bears remarks bitter and bold. 389
 
 He is the Light of Kings who has  
 
-Bounty, justice, care and grace. 390  
+Bounty, justice, care and grace.
+
+ 390  
 
 ------  
 
   
 
-### 40. கல்வி - Education  
+###
+
+ 40. கல்வி - Education  
 
   
 
@@ -3521,7 +4354,9 @@ Bounty, justice, care and grace. 390
 
 Lore worth learning, learn flawlessly  
 
-Live by that learning thoroughly. 391  
+Live by that learning thoroughly.
+
+ 391  
 
 2. எண்ணென்ப ஏனை எழுத்தென்ப இவ்விரண்டும்  
 
@@ -3529,7 +4364,9 @@ Live by that learning thoroughly. 391
 
 Letter, number, art and science  
 
-Of living kind both are the eyes. 392  
+Of living kind both are the eyes.
+
+ 392  
 
 3. கண்ணுடையர் என்பவர் கற்றோர் முகத்திரண்டு  
 
@@ -3537,7 +4374,9 @@ Of living kind both are the eyes. 392
 
 The learned alone have eyes on face  
 
-The ignorant two sores of disgrace. 393  
+The ignorant two sores of disgrace.
+
+ 393  
 
 4. உவப்பத் தலைக்கூடி உள்ளப் பிரிதல்  
 
@@ -3545,7 +4384,9 @@ The ignorant two sores of disgrace. 393
 
 To meet with joy and part with thought  
 
-Of learned men this is the art. 394  
+Of learned men this is the art.
+
+ 394  
 
 5. உடையார்முன் இல்லார்போல் ஏக்கற்றுங் கற்றார்  
 
@@ -3553,7 +4394,9 @@ Of learned men this is the art. 394
 
 Like poor before rich they yearn:  
 
-For knowledge: the low never learn. 395  
+For knowledge: the low never learn.
+
+ 395  
 
 6. தொட்டனைத் தூறும் மணற்கேணி மாந்தர்க்குக்  
 
@@ -3561,7 +4404,9 @@ For knowledge: the low never learn. 395
 
 As deep you dig the sand spring flows  
 
-As deep you learn the knowledge grows. 396  
+As deep you learn the knowledge grows.
+
+ 396  
 
 7. யாதானும் நாடாமால் ஊராமால் என்னொருவன்  
 
@@ -3569,7 +4414,9 @@ As deep you learn the knowledge grows. 396
 
 All lands and towns are learner's own  
 
-Why not till death learning go on! 397  
+Why not till death learning go on!
+
+ 397  
 
 8. ஒருமைக்கண் தான்கற்ற கல்வி ஒருவற்கு  
 
@@ -3577,7 +4424,9 @@ Why not till death learning go on! 397
 
 The joy of learning in one birth  
 
-Exalts man upto his seventh. 398  
+Exalts man upto his seventh.
+
+ 398  
 
 9. தாமின் புறுவது உலகின் புறக்கண்டு  
 
@@ -3585,7 +4434,9 @@ Exalts man upto his seventh. 398
 
 The learned foster learning more  
 
-On seeing the world enjoy their lore. 399  
+On seeing the world enjoy their lore.
+
+ 399  
 
 10. கேடில் விழுச்செல்வம் கல்வி ஒருவற்கு  
 
@@ -3593,13 +4444,17 @@ On seeing the world enjoy their lore. 399
 
 Learning is wealth none could destroy  
 
-Nothing else gives genuine joy. 400  
+Nothing else gives genuine joy.
+
+ 400  
 
 --------  
 
   
 
-### 41. கல்லாமை - Non-learning  
+###
+
+ 41. கல்லாமை - Non-learning  
 
   
 
@@ -3609,7 +4464,9 @@ Nothing else gives genuine joy. 400
 
 Like play of chess on squareless board  
 
-Vain is imperfect loreless word. 401  
+Vain is imperfect loreless word.
+
+ 401  
 
 2. கல்லாதான் சொற்கா முறுதல் முலையிரண்டும்  
 
@@ -3617,7 +4474,9 @@ Vain is imperfect loreless word. 401
 
 Unlearned man aspiring speech  
 
-Is breastless lady's love-approach. 402  
+Is breastless lady's love-approach.
+
+ 402  
 
 3. கல்லா தவரும் நனிநல்லர் கற்றார்முன்  
 
@@ -3625,7 +4484,9 @@ Is breastless lady's love-approach. 402
 
 Ev'n unread men are good and wise  
 
-If before the wise, they hold their peace. 403  
+If before the wise, they hold their peace.
+
+ 403  
 
 4. கல்லாதான் ஓட்பம் கழியநன் றாயினும்  
 
@@ -3633,7 +4494,9 @@ If before the wise, they hold their peace. 403
 
 The unread's wit though excellent  
 
-Is not valued by the savant. 404  
+Is not valued by the savant.
+
+ 404  
 
 5. கல்லா ஒருவன் தகைமை தலைப்பெய்து  
 
@@ -3641,7 +4504,9 @@ Is not valued by the savant. 404
 
 A man untaught when speech he vaunts  
 
-Sadly fails before savants. 405  
+Sadly fails before savants.
+
+ 405  
 
 6. உளரென்னும் மாத்திரையர் அல்லால் பயவாக்  
 
@@ -3649,7 +4514,9 @@ Sadly fails before savants. 405
 
 People speak of untaught minds  
 
-"They just exist like barren lands". 406  
+"They just exist like barren lands".
+
+ 406  
 
 7. நுண்மாண் நுழைபுலம் இல்லான் எழில்நலம்  
 
@@ -3657,7 +4524,9 @@ People speak of untaught minds
 
 Like painted clay-doll is his show  
 
-Grand subtle lore who fails to know. 407  
+Grand subtle lore who fails to know.
+
+ 407  
 
 8. நல்லார்கண் பட்ட வறுமையின் இன்னாதே  
 
@@ -3665,7 +4534,9 @@ Grand subtle lore who fails to know. 407
 
 Wealth in the hand of fools is worse  
 
-Than a learned man's empty purse. 408  
+Than a learned man's empty purse.
+
+ 408  
 
 9. மேற்பிறந்தா ராயினும் கல்லாதார் கீழ்ப்பிறந்தும்  
 
@@ -3673,7 +4544,9 @@ Than a learned man's empty purse. 408
 
 Lower are fools of higher birth  
 
-Than low-born men of learning's worth. 409  
+Than low-born men of learning's worth.
+
+ 409  
 
 10. விலங்கொடு மக்கள் அனையர் இலங்குநூல்  
 
@@ -3681,13 +4554,17 @@ Than low-born men of learning's worth. 409
 
 Like beasts before men, dunces are  
 
-Before scholars of shining lore. 410  
+Before scholars of shining lore.
+
+ 410  
 
 ----------  
 
   
 
-### 42. கேள்வி - Listening  
+###
+
+ 42. கேள்வி - Listening  
 
   
 
@@ -3697,7 +4574,9 @@ Before scholars of shining lore. 410
 
 Wealth of wealths is listening's wealth  
 
-It is the best of wealths on earth. 411  
+It is the best of wealths on earth.
+
+ 411  
 
 2. செவிக்குண வில்லாத போழ்து சிறிது  
 
@@ -3705,7 +4584,9 @@ It is the best of wealths on earth. 411
 
 Some food for the stomach is brought  
 
-When the ear gets no food for thought. 412  
+When the ear gets no food for thought.
+
+ 412  
 
 3. செவியுணவிற் கேள்வி யுடையார் அவியுணவின்  
 
@@ -3713,7 +4594,9 @@ When the ear gets no food for thought. 412
 
 Whose ears get lots of wisdom-food  
 
-Equal gods on oblations fed. 413  
+Equal gods on oblations fed.
+
+ 413  
 
 4. கற்றில னாயினும் கேட்க அஃதொருவற்கு  
 
@@ -3721,7 +4604,9 @@ Equal gods on oblations fed. 413
 
 Though not learned, hear and heed  
 
-That serves a staff and stay in need. 414  
+That serves a staff and stay in need.
+
+ 414  
 
 5. இழுக்கல் உடையுழி ஊற்றுக்கோல் அற்றே  
 
@@ -3729,7 +4614,9 @@ That serves a staff and stay in need. 414
 
 Virtuous men's wisdom is found  
 
-A strong staff on slippery ground. 415  
+A strong staff on slippery ground.
+
+ 415  
 
 6. எனைத்தானும் நல்லவை கேட்க அனைத்தானும்  
 
@@ -3737,7 +4624,9 @@ A strong staff on slippery ground. 415
 
 Lend ear to good words however few  
 
-That much will highly exalt you. 416  
+That much will highly exalt you.
+
+ 416  
 
 7. பிழைத்துணர்ந்தும் பேதைமை சொல்லார் இழைத்துணர்ந்  
 
@@ -3745,7 +4634,9 @@ That much will highly exalt you. 416
 
 Who listen well and learn sharply  
 
-Not ev'n by slip speak foolishly. 417  
+Not ev'n by slip speak foolishly.
+
+ 417  
 
 8. கேட்பினுங் கேளாத் தகையவே கேள்வியால்  
 
@@ -3753,7 +4644,9 @@ Not ev'n by slip speak foolishly. 417
 
 That ear though hearing is dulled  
 
-Which is not by wisdom drilled. 418  
+Which is not by wisdom drilled.
+
+ 418  
 
 9. நுணங்கிய கேள்வியர் ரல்லார் வணங்கிய  
 
@@ -3761,7 +4654,9 @@ Which is not by wisdom drilled. 418
 
 A modest mouth is hard for those  
 
-Who care little to counsels wise. 419  
+Who care little to counsels wise.
+
+ 419  
 
 10. செவியிற் சுவையுணரா வாயுணர்வின் மாக்கள்  
 
@@ -3769,13 +4664,17 @@ Who care little to counsels wise. 419
 
 Who taste by mouth and not by ear  
 
-What if they fare ill or well here? 420  
+What if they fare ill or well here?
+
+ 420  
 
 ----------  
 
   
 
-### 43. அறிவுடைமை - The possession of knowledge  
+###
+
+ 43. அறிவுடைமை - The possession of knowledge  
 
   
 
@@ -3785,7 +4684,9 @@ What if they fare ill or well here? 420
 
 Wisdom's weapon wards off all woes  
 
-It is a fort defying foes. 421  
+It is a fort defying foes.
+
+ 421  
 
 2. சென்ற இடத்தால் செலவிடா தீதொரீஇ  
 
@@ -3793,7 +4694,9 @@ It is a fort defying foes. 421
 
 Wisdom checks the straying senses  
 
-Expels evils, impels goodness. 422  
+Expels evils, impels goodness.
+
+ 422  
 
 3. எப்பொருள் யார்யார்வாய்க் கேட்பினும் அப்பொருள்  
 
@@ -3801,7 +4704,9 @@ Expels evils, impels goodness. 422
 
 To grasp the Truth from everywhere  
 
-From everyone is wisdom fair. 423  
+From everyone is wisdom fair.
+
+ 423  
 
 4. எண்பொருள வாகச் செலச்சொல்லித் தான் பிறர்வாய்  
 
@@ -3809,7 +4714,9 @@ From everyone is wisdom fair. 423
 
 Speaking out thoughts in clear trends  
 
-Wisdom subtle sense comprehends. 424  
+Wisdom subtle sense comprehends.
+
+ 424  
 
 5. உலகம் தழீஇய தொட்பம் மலர்தலும்  
 
@@ -3817,7 +4724,9 @@ Wisdom subtle sense comprehends. 424
 
 The wise-world the wise befriend  
 
-They bloom nor gloom, equal in mind. 425  
+They bloom nor gloom, equal in mind.
+
+ 425  
 
 6. எவ்வ துறைவது உலகம் உலகத்தோடு  
 
@@ -3825,7 +4734,9 @@ They bloom nor gloom, equal in mind. 425
 
 As moves the world so move the wise  
 
-In tune with changing times and ways. 426  
+In tune with changing times and ways.
+
+ 426  
 
 7. அறிவுடையார் ஆவ தறிவார் அறிவிலார்  
 
@@ -3833,7 +4744,9 @@ In tune with changing times and ways. 426
 
 The wise foresee what is to come  
 
-The unwise lack in that wisdom. 427  
+The unwise lack in that wisdom.
+
+ 427  
 
 8. அஞ்சுவது அஞ்சாமை பேதைமை அஞ்சுவது  
 
@@ -3841,7 +4754,9 @@ The unwise lack in that wisdom. 427
 
 Fear the frightful and act wisely  
 
-Not to fear the frightful's folly. 428  
+Not to fear the frightful's folly.
+
+ 428  
 
 9. எதிரதாக் காக்கும் அறிவினார்க் கில்லை  
 
@@ -3849,7 +4764,9 @@ Not to fear the frightful's folly. 428
 
 No frightful evil shocks the wise  
 
-Who guard themselves against surprise. 429  
+Who guard themselves against surprise.
+
+ 429  
 
 10. அறிவுடையார் எல்லாம் உடையார் அறிவிலார்  
 
@@ -3857,13 +4774,17 @@ Who guard themselves against surprise. 429
 
 Who have wisdom they are all full  
 
-Whatev'r they own, misfits are nil. 430  
+Whatev'r they own, misfits are nil.
+
+ 430  
 
 -----------  
 
   
 
-### 44. குற்றங்கடிதல் - Avoiding faults  
+###
+
+ 44. குற்றங்கடிதல் - Avoiding faults  
 
   
 
@@ -3873,7 +4794,9 @@ Whatev'r they own, misfits are nil. 430
 
 Plenty is their prosperity  
 
-Who're free from wrath pride lust petty. 431  
+Who're free from wrath pride lust petty.
+
+ 431  
 
 2. இவறலும் மாண்பிறந்த மானமும் மாணா  
 
@@ -3881,7 +4804,9 @@ Who're free from wrath pride lust petty. 431
 
 Mean pride, low pleasure, avarice  
 
-These add blemishes to a prince. 432  
+These add blemishes to a prince.
+
+ 432  
 
 3. தினைத்துணையாங் குற்றம் வரினும் பனைத்துணையாக்  
 
@@ -3889,7 +4814,9 @@ These add blemishes to a prince. 432
 
 Though millet-small their faults might seem  
 
-Men fearing disgrace, Palm-tall deem. 433  
+Men fearing disgrace, Palm-tall deem.
+
+ 433  
 
 4. குற்றமே காக்க பொருளாகக் குற்றமே  
 
@@ -3897,7 +4824,9 @@ Men fearing disgrace, Palm-tall deem. 433
 
 Watch like treasure freedom from fault  
 
-Our fatal foe is that default. 434  
+Our fatal foe is that default.
+
+ 434  
 
 5. வருமுன்னர்க் காவாதான் வாழ்க்கை எரிமுன்னர்  
 
@@ -3905,7 +4834,9 @@ Our fatal foe is that default. 434
 
 Who fails to guard himself from flaw  
 
-Loses his life like flame-lit straw. 435  
+Loses his life like flame-lit straw.
+
+ 435  
 
 6. தன்குற்றம் நீக்கிப் பிறர்குற்றம் காண்பிற்பின்  
 
@@ -3913,7 +4844,9 @@ Loses his life like flame-lit straw. 435
 
 What fault can be the king's who cures  
 
-First his faults, then scans others. 436  
+First his faults, then scans others.
+
+ 436  
 
 7. செயற்பால செய்யா திவறியான் செல்வம்  
 
@@ -3921,7 +4854,9 @@ First his faults, then scans others. 436
 
 That miser's wealth shall waste and end  
 
-Who would not for a good cause spend. 437  
+Who would not for a good cause spend.
+
+ 437  
 
 8. பற்றுள்ளம் என்னும் இவறன்மை எற்றுள்ளும்  
 
@@ -3929,7 +4864,9 @@ Who would not for a good cause spend. 437
 
 The gripping greed of miser's heart  
 
-Is more than fault the worst apart. 438  
+Is more than fault the worst apart.
+
+ 438  
 
 9. வியவற்க எஞ்ஞான்றும் தன்னை நயவற்க  
 
@@ -3937,7 +4874,9 @@ Is more than fault the worst apart. 438
 
 Never boast yourself in any mood  
 
-Nor do a deed that does no good. 439  
+Nor do a deed that does no good.
+
+ 439  
 
 10. காதல காதல் அறியாமை உய்க்கிற்பின்  
 
@@ -3945,13 +4884,17 @@ Nor do a deed that does no good. 439
 
 All designs of the foes shall fail  
 
-If one his wishes guards in veil. 440  
+If one his wishes guards in veil.
+
+ 440  
 
 --------  
 
   
 
-### 45. பெரியாரைத் துணைக்கோடல் - Gaining great men's help  
+###
+
+ 45. பெரியாரைத் துணைக்கோடல் - Gaining great men's help  
 
   
 
@@ -3961,7 +4904,9 @@ If one his wishes guards in veil. 440
 
 Weigh their worth and friendship gain  
 
-Of men of virtue and mature brain. 441  
+Of men of virtue and mature brain.
+
+ 441  
 
 2. உற்றநோய் நீக்கி உறாஅமை முற்காக்கும்  
 
@@ -3969,7 +4914,9 @@ Of men of virtue and mature brain. 441
 
 Cherish the help of men of skill  
 
-Who ward and safe-guard you from ill. 442  
+Who ward and safe-guard you from ill.
+
+ 442  
 
 3. அரியவற்று ளெல்லாம் அரிதே பெரியாரைப்  
 
@@ -3977,7 +4924,9 @@ Who ward and safe-guard you from ill. 442
 
 Honour and have the great your own  
 
-Is rarest of the rare things known. 443  
+Is rarest of the rare things known.
+
+ 443  
 
 4. தம்மிற் பெரியார் தமரா ஒழுகுதல்  
 
@@ -3985,7 +4934,9 @@ Is rarest of the rare things known. 443
 
 To have betters as intimates  
 
-Power of all powers promotes. 444  
+Power of all powers promotes.
+
+ 444  
 
 5. சூழ்வார்கண் ணாக ஒழுகலான் மன்னவன்  
 
@@ -3993,7 +4944,9 @@ Power of all powers promotes. 444
 
 Ministers are the monarch's eyes  
 
-Round him should be the right and wise. 445  
+Round him should be the right and wise.
+
+ 445  
 
 6. தக்கா ரினத்தனாய்த் தானொழுக வல்லானைச்  
 
@@ -4001,7 +4954,9 @@ Round him should be the right and wise. 445
 
 To move with worthy friends who knows  
 
-Has none to fear from frightful foes. 446  
+Has none to fear from frightful foes.
+
+ 446  
 
 7. இடிக்குந் துணையாரை ஆள்வாரை யாரே  
 
@@ -4009,7 +4964,9 @@ Has none to fear from frightful foes. 446
 
 No foe can foil his powers  
 
-whose friends reprove him when he errs. 447  
+whose friends reprove him when he errs.
+
+ 447  
 
 8. இடிப்பாரை இல்லாத ஏமரா மன்னன்  
 
@@ -4017,7 +4974,9 @@ whose friends reprove him when he errs. 447
 
 The careless king whom none reproves  
 
-Ruins himself sans harmful foes. 448  
+Ruins himself sans harmful foes.
+
+ 448  
 
 9. முதலிலார்க்கு ஊதியம் இல்லை மதலையாஞ்  
 
@@ -4025,7 +4984,9 @@ Ruins himself sans harmful foes. 448
 
 No capital, no gain in trade  
 
-No prop secure sans good comrade. 449  
+No prop secure sans good comrade.
+
+ 449  
 
 10. பல்லார் பகைகொளலிற் பத்தடுத்த தீமைத்தே  
 
@@ -4033,13 +4994,17 @@ No prop secure sans good comrade. 449
 
 To give up good friends is ten times worse  
 
-Than being hated by countless foes. 450  
+Than being hated by countless foes.
+
+ 450  
 
 ------------  
 
   
 
-### 46. சிற்றினஞ் சேராமை - Avoiding mean company  
+###
+
+ 46. சிற்றினஞ் சேராமை - Avoiding mean company  
 
   
 
@@ -4049,7 +5014,9 @@ Than being hated by countless foes. 450
 
 The ignoble the noble fear  
 
-The mean hold them as kinsmen dear. 451  
+The mean hold them as kinsmen dear.
+
+ 451  
 
 2. நிலத்தியல்பால் நீர்திரிந் தற்றாகும் மாந்தர்க்கு  
 
@@ -4057,7 +5024,9 @@ The mean hold them as kinsmen dear. 451
 
 With soil changes water's taste  
 
-With mates changes the mental state. 452  
+With mates changes the mental state.
+
+ 452  
 
 3. மனத்தானாம் மாந்தர்க் குணர்ச்சி இனத்தானாம்  
 
@@ -4065,7 +5034,9 @@ With mates changes the mental state. 452
 
 Wisdom depends upon the mind  
 
-The worth of man upon his friend. 453  
+The worth of man upon his friend.
+
+ 453  
 
 4. மனத்து ளதுபோலக் காட்டி ஒருவற்கு  
 
@@ -4073,7 +5044,9 @@ The worth of man upon his friend. 453
 
 Wisdom seems to come from mind  
 
-But it truly flows from the kind. 454  
+But it truly flows from the kind.
+
+ 454  
 
 5. மனந்தூய்மை செய்வினை தூய்மை இரண்டும்  
 
@@ -4081,7 +5054,9 @@ But it truly flows from the kind. 454
 
 Purity of the thought and deed  
 
-Comes from good company indeed. 455  
+Comes from good company indeed.
+
+ 455  
 
 6. மனம்தூயார்க் கெச்சம்நன் றாகும் இனம்தூயார்க்கு  
 
@@ -4089,7 +5064,9 @@ Comes from good company indeed. 455
 
 Pure-hearted get good progeny  
 
-Pure friendship acts with victory. 456  
+Pure friendship acts with victory.
+
+ 456  
 
 7. மனநலம் மன்னுயிர்க் காக்கம் இனநலம்  
 
@@ -4097,7 +5074,9 @@ Pure friendship acts with victory. 456
 
 Goodness of mind increases gain  
 
-Good friendship fosters fame again. 457  
+Good friendship fosters fame again.
+
+ 457  
 
 8. மனநலம் நன்குடைய ராயினும் சான்றோர்க்கு  
 
@@ -4105,7 +5084,9 @@ Good friendship fosters fame again. 457
 
 Men of wisdom, though good in mind  
 
-In friends of worth a new strength find. 458  
+In friends of worth a new strength find.
+
+ 458  
 
 9. மனநலத்தின் ஆகும் மறுமைமற் றஃதும்  
 
@@ -4113,7 +5094,9 @@ In friends of worth a new strength find. 458
 
 Good mind decides the future bliss  
 
-Good company gains strength to this. 459  
+Good company gains strength to this.
+
+ 459  
 
 10. நல்லினத்தி னூங்குந் துணையில்லை தீயினத்தின்  
 
@@ -4121,13 +5104,17 @@ Good company gains strength to this. 459
 
 No help good company exeeds;  
 
-The bad to untold anguish leads. 460  
+The bad to untold anguish leads.
+
+ 460  
 
 ---------  
 
   
 
-### 47. தெரிந்து செயல்வகை - Deliberation before action  
+###
+
+ 47. தெரிந்து செயல்வகை - Deliberation before action  
 
   
 
@@ -4137,7 +5124,9 @@ The bad to untold anguish leads. 460
 
 Weigh well output the loss and gain  
 
-And proper action ascertain. 461  
+And proper action ascertain.
+
+ 461  
 
 2. தெரிந்த இனத்தொடு தேர்ந்தெண்ணிச் செய்வார்க்கு  
 
@@ -4145,7 +5134,9 @@ And proper action ascertain. 461
 
 Nothing is hard for him who acts  
 
-With worthy counsels weighing facts. 462  
+With worthy counsels weighing facts.
+
+ 462  
 
 3. ஆக்கம் கருதி முதலிழக்கும் செய்வினை  
 
@@ -4153,7 +5144,9 @@ With worthy counsels weighing facts. 462
 
 The wise risk not their capital  
 
-In doubtful gains and lose their all. 463  
+In doubtful gains and lose their all.
+
+ 463  
 
 4. தெளிவி லதனைத் தொடங்கார் இளிவென்னும்  
 
@@ -4161,7 +5154,9 @@ In doubtful gains and lose their all. 463
 
 They who scornful reproach fear  
 
-Commence no work not made clear. 464  
+Commence no work not made clear.
+
+ 464  
 
 5. வகையறச் சூழா தெழுதல் பகைவரைப்  
 
@@ -4169,7 +5164,9 @@ Commence no work not made clear. 464
 
 Who marches without plans and ways  
 
-His field is sure to foster foes. 465  
+His field is sure to foster foes.
+
+ 465  
 
 6. செய்தக்க அல்ல செயக்கெடும் செய்தக்க  
 
@@ -4177,7 +5174,9 @@ His field is sure to foster foes. 465
 
 Doing unfit action ruins  
 
-Failing fit-act also ruins. 466  
+Failing fit-act also ruins.
+
+ 466  
 
 7. எண்ணித் துணிக கருமம் துணிந்தபின்  
 
@@ -4185,7 +5184,9 @@ Failing fit-act also ruins. 466
 
 Think and dare a proper deed  
 
-Dare and think is bad in need. 467  
+Dare and think is bad in need.
+
+ 467  
 
 8. ஆற்றின் வருந்தா வருத்தம் பலர்நின்று  
 
@@ -4193,7 +5194,9 @@ Dare and think is bad in need. 467
 
 Toil without a plan ahead  
 
-Is doomed to fall though supported. 468  
+Is doomed to fall though supported.
+
+ 468  
 
 9. நன்றாற்ற லுள்ளும் தவறுண்டு அவரவர்  
 
@@ -4201,7 +5204,9 @@ Is doomed to fall though supported. 468
 
 Attune the deeds to habitude  
 
-Or ev'n good leads to evil feud. 469  
+Or ev'n good leads to evil feud.
+
+ 469  
 
 10. எள்ளாத எண்ணிச் செயல்வேண்டும் தம்மொடு  
 
@@ -4209,13 +5214,17 @@ Or ev'n good leads to evil feud. 469
 
 Do deeds above reproachfulness  
 
-The world refutes uncomely mess. 470  
+The world refutes uncomely mess.
+
+ 470  
 
 ---------  
 
   
 
-### 48. வலியறிதல் - Judging strength  
+###
+
+ 48. வலியறிதல் - Judging strength  
 
   
 
@@ -4225,7 +5234,9 @@ The world refutes uncomely mess. 470
 
 Judge act and might and foeman's strength  
 
-The allies' strength and go at length. 471  
+The allies' strength and go at length.
+
+ 471  
 
 2. ஒல்வ தறிவது அறிந்ததன் கண்தங்கிச்  
 
@@ -4233,7 +5244,9 @@ The allies' strength and go at length. 471
 
 Nothing hampers the firm who know  
 
-What they can and how to go. 472  
+What they can and how to go.
+
+ 472  
 
 3. உடைத்தம் வலியறியார் ஊக்கத்தின் ஊக்கி  
 
@@ -4241,7 +5254,9 @@ What they can and how to go. 472
 
 Many know not their meagre might  
 
-Their pride breaks up in boastful fight. 473  
+Their pride breaks up in boastful fight.
+
+ 473  
 
 4. அமைந்தாங் கொழுகான் அளவறியான் தன்னை  
 
@@ -4249,7 +5264,9 @@ Their pride breaks up in boastful fight. 473
 
 Who adapts not, outsteps measure  
 
-And brags himself-his fall is sure. 474  
+And brags himself-his fall is sure.
+
+ 474  
 
 5. பீலிபெய் சாகாடும் அச்சிறும் அப்பண்டஞ்  
 
@@ -4257,7 +5274,9 @@ And brags himself-his fall is sure. 474
 
 Even the gentle peacock's plume  
 
-Cart's axle breaks by gross volume. 475  
+Cart's axle breaks by gross volume.
+
+ 475  
 
 6. நுனிக்கொம்பர் ஏறினார் அஃதிறந் தூக்கின்  
 
@@ -4265,7 +5284,9 @@ Cart's axle breaks by gross volume. 475
 
 Beyond the branches' tip who skips  
 
-Ends the life as his body rips. 476  
+Ends the life as his body rips.
+
+ 476  
 
 7. ஆற்றின் அளவறிந்து ஈக அதுபொருள்  
 
@@ -4273,7 +5294,9 @@ Ends the life as his body rips. 476
 
 Know the limit; grant with measure  
 
-This way give and guard your treasure. 477  
+This way give and guard your treasure.
+
+ 477  
 
 8. ஆகாறு அளவிட்டி தாயினும் கேடில்லை  
 
@@ -4281,7 +5304,9 @@ This way give and guard your treasure. 477
 
 The outflow must not be excess  
 
-No matter how small income is. 478  
+No matter how small income is.
+
+ 478  
 
 9. அளவறிந்து வாழாதான் வாழ்க்கை உளபோல  
 
@@ -4289,7 +5314,9 @@ No matter how small income is. 478
 
 Who does not know to live in bounds  
 
-His life seems rich but thins and ends. 479  
+His life seems rich but thins and ends.
+
+ 479  
 
 10. உளவரை தூக்காத ஒப்புர வாண்மை  
 
@@ -4297,13 +5324,17 @@ His life seems rich but thins and ends. 479
 
 Wealth amassed quickly vanishes  
 
-Sans level if one lavishes. 480  
+Sans level if one lavishes.
+
+ 480  
 
 ----------  
 
   
 
-### 49. காலமறிதல் - Knowing proper time  
+###
+
+ 49. காலமறிதல் - Knowing proper time  
 
   
 
@@ -4313,7 +5344,9 @@ Sans level if one lavishes. 480
 
 By day the crow defeats the owl  
 
-Kings need right time their foes to quell. 481  
+Kings need right time their foes to quell.
+
+ 481  
 
 2. பருவத்தோடு ஒட்ட ஒழுகல் திருவினைத்  
 
@@ -4321,7 +5354,9 @@ Kings need right time their foes to quell. 481
 
 Well-ordered seasoned act is cord  
 
-That fortune binds in bon accord. 482  
+That fortune binds in bon accord.
+
+ 482  
 
 3. அருவினை என்ப உளவோ கருவியான்  
 
@@ -4329,7 +5364,9 @@ That fortune binds in bon accord. 482
 
 What is hard for him who acts  
 
-With proper means and time and tacts? 483  
+With proper means and time and tacts?
+
+ 483  
 
 4. ஞாலம் கருதினுங் கைகூடும் காலம்  
 
@@ -4337,7 +5374,9 @@ With proper means and time and tacts? 483
 
 Choose proper time and act and place  
 
-Even the world you win with ease. 484  
+Even the world you win with ease.
+
+ 484  
 
 5. காலம் கருதி இருப்பர் கலங்காது  
 
@@ -4345,7 +5384,9 @@ Even the world you win with ease. 484
 
 Who want to win the world sublime  
 
-Wait unruffled biding their time. 485  
+Wait unruffled biding their time.
+
+ 485  
 
 6. ஊக்க முடையான் ஒடுக்கம் பொருதகர்  
 
@@ -4353,7 +5394,9 @@ Wait unruffled biding their time. 485
 
 By self-restraint stalwarts keep fit  
 
-Like rams retreating but to butt. 486  
+Like rams retreating but to butt.
+
+ 486  
 
 7. பொள்ளென ஆங்கே புறம்வேரார் காலம்பார்த்து  
 
@@ -4361,7 +5404,9 @@ Like rams retreating but to butt. 486
 
 The wise jut not their vital fire  
 
-They watch their time with hidden ire. 487  
+They watch their time with hidden ire.
+
+ 487  
 
 8. செறுநரைக் காணின் சுமக்க இறுவரை  
 
@@ -4369,7 +5414,9 @@ They watch their time with hidden ire. 487
 
 Bear with hostiles when you meet them  
 
-Fell down their head in fateful time. 488  
+Fell down their head in fateful time.
+
+ 488  
 
 9. எய்தற் கரியது இயைந்தக்கால் அந்நிலையே  
 
@@ -4377,7 +5424,9 @@ Fell down their head in fateful time. 488
 
 When comes the season ripe and rare  
 
-Dare and do hard things then and there. 489  
+Dare and do hard things then and there.
+
+ 489  
 
 10. கொக்கொக்க கூம்பும் பருவத்து மற்றதன்  
 
@@ -4385,13 +5434,17 @@ Dare and do hard things then and there. 489
 
 In waiting time feign peace like stork  
 
-In fighting time strike like its peck. 490  
+In fighting time strike like its peck.
+
+ 490  
 
 --------  
 
   
 
-### 50. இடனறிதல் - Judging the place  
+###
+
+ 50. இடனறிதல் - Judging the place  
 
   
 
@@ -4401,7 +5454,9 @@ In fighting time strike like its peck. 490
 
 No action take, no foe despise  
 
-Until you have surveyed the place. 491  
+Until you have surveyed the place.
+
+ 491  
 
 2. முரண்சேர்ந்த மொய்ம்பி னவர்க்கும் அரண்சேர்ந்தாம்  
 
@@ -4409,7 +5464,9 @@ Until you have surveyed the place. 491
 
 Many are gains of fortresses  
 
-Ev'n to kings of power and prowess. 492  
+Ev'n to kings of power and prowess.
+
+ 492  
 
 3. ஆற்றாரும் ஆற்றி அடுப இடனறிந்து  
 
@@ -4417,7 +5474,9 @@ Ev'n to kings of power and prowess. 492
 
 Weaklings too withstand foe's offence  
 
-In proper fields of strong defence. 493  
+In proper fields of strong defence.
+
+ 493  
 
 4. எண்ணியார் எண்ணம் இழப்பர் இடனறிந்து  
 
@@ -4425,7 +5484,9 @@ In proper fields of strong defence. 493
 
 If fighters fight in vantage field  
 
-The plans of foes shall be baffled. 494  
+The plans of foes shall be baffled.
+
+ 494  
 
 5. நெடும்புனலுள் வெல்லும் முதலை அடும்புனலின்  
 
@@ -4433,7 +5494,9 @@ The plans of foes shall be baffled. 494
 
 In water crocodile prevails  
 
-In land before others it fails. 495  
+In land before others it fails.
+
+ 495  
 
 6. கடலோடா கால்வல் நெடுந்தேர் கடலோடும்  
 
@@ -4441,7 +5504,9 @@ In land before others it fails. 495
 
 Sea-going ship goes not on shore  
 
-Nor on sea the strong-wheeled car. 496  
+Nor on sea the strong-wheeled car.
+
+ 496  
 
 7. அஞ்சாமை அல்லால் துணைவேண்டா எஞ்சாமை  
 
@@ -4449,7 +5514,9 @@ Nor on sea the strong-wheeled car. 496
 
 No aid but daring dash they need  
 
-When field is chosen right for deed. 497  
+When field is chosen right for deed.
+
+ 497  
 
 8. சிறுபடையான் செல்லிடம் சேரின் உறுபடையான்  
 
@@ -4457,7 +5524,9 @@ When field is chosen right for deed. 497
 
 Though force is small, if place is right  
 
-One quells a foe of well-armed might. 498  
+One quells a foe of well-armed might.
+
+ 498  
 
 9. சிறைநலனும் சீரும் இலரெனினும் மாந்தர்  
 
@@ -4465,7 +5534,9 @@ One quells a foe of well-armed might. 498
 
 To face a foe at home is vain  
 
-Though fort and status are not fine. 499  
+Though fort and status are not fine.
+
+ 499  
 
 10. காலாழ் களரில் நரியடும் கண்ணஞ்சா  
 
@@ -4473,13 +5544,17 @@ Though fort and status are not fine. 499
 
 A fox can kill a war tusker  
 
-Fearless with feet in deep quagmire. 500  
+Fearless with feet in deep quagmire.
+
+ 500  
 
 ------  
 
   
 
-### 51. தெரிந்து தெளிதல் - Testing of men for confidence  
+###
+
+ 51. தெரிந்து தெளிதல் - Testing of men for confidence  
 
   
 
@@ -4489,7 +5564,9 @@ Fearless with feet in deep quagmire. 500
 
 Pleasure, gold, fear of life Virtue-  
 
-Test by these four and trust the true. 501  
+Test by these four and trust the true.
+
+ 501  
 
 2. குடிப்பிறந்து குற்றத்தின் நீங்கி வடுப்பரியும்  
 
@@ -4497,7 +5574,9 @@ Test by these four and trust the true. 501
 
 Spotless name of noble birth  
 
-Shamed of stain-that choice is worth. 502  
+Shamed of stain-that choice is worth.
+
+ 502  
 
 3. அரியகற்று ஆசற்றார் கண்ணும் தெரியுங்கால்  
 
@@ -4505,7 +5584,9 @@ Shamed of stain-that choice is worth. 502
 
 Though deep scholars of stainless sense  
 
-Rare is freedom from ignorance. 503  
+Rare is freedom from ignorance.
+
+ 503  
 
 4. குணம்நாடிக் குற்றமும் நாடி அவற்றுள்  
 
@@ -4513,7 +5594,9 @@ Rare is freedom from ignorance. 503
 
 Good and evil in man weigh well  
 
-Judge him by virtues which prevail. 504  
+Judge him by virtues which prevail.
+
+ 504  
 
 5. பெருமைக்கும் ஏனைச் சிறுமைக்கும் தத்தம்  
 
@@ -4521,7 +5604,9 @@ Judge him by virtues which prevail. 504
 
 By the touchstone of deeds is seen  
 
-If any one is great or mean. 505  
+If any one is great or mean.
+
+ 505  
 
 6. அற்றாரைத் தேறுதல் ஓம்புக மற்றவர்  
 
@@ -4529,7 +5614,9 @@ If any one is great or mean. 505
 
 Choose not those men without kinsmen  
 
-Without affine or shame of sin. 506  
+Without affine or shame of sin.
+
+ 506  
 
 7. காதன்மை கந்தா அறிவறியார்த் தேறுதல்  
 
@@ -4537,7 +5624,9 @@ Without affine or shame of sin. 506
 
 On favour leaning fools you choose;  
 
-Folly in all its forms ensues. 507  
+Folly in all its forms ensues.
+
+ 507  
 
 8. தேரான் பிறனைத் தெளிந்தான் வழிமுறை  
 
@@ -4545,7 +5634,9 @@ Folly in all its forms ensues. 507
 
 To trust an untried stranger brings  
 
-Endless troubles on all our kins. 508  
+Endless troubles on all our kins.
+
+ 508  
 
 9. தேறற்க யாரையும் தேராது தேர்ந்தபின்  
 
@@ -4553,7 +5644,9 @@ Endless troubles on all our kins. 508
 
 Trust not without testing and then  
 
-Find proper work for trusted men. 509  
+Find proper work for trusted men.
+
+ 509  
 
 10. தேரான் தெளிவும் தெளிந்தான்கண் ஐயுறவும்  
 
@@ -4561,13 +5654,17 @@ Find proper work for trusted men. 509
 
 Trust without test; The trusted doubt;  
 
-Both entail troubles in and out. 510  
+Both entail troubles in and out.
+
+ 510  
 
 -----------  
 
   
 
-### 52. தெரிந்து வினையாடல் - Testing and entrusting  
+###
+
+ 52. தெரிந்து வினையாடல் - Testing and entrusting  
 
   
 
@@ -4577,7 +5674,9 @@ Both entail troubles in and out. 510
 
 Employ the wise who will discern  
 
-The good and bad and do good turn. 511  
+The good and bad and do good turn.
+
+ 511  
 
 2. வாரி பெருக்கி வளம்படுத்து உற்றவை  
 
@@ -4585,7 +5684,9 @@ The good and bad and do good turn. 511
 
 Let him act who resource swells;  
 
-Fosters wealth and prevents ills. 512  
+Fosters wealth and prevents ills.
+
+ 512  
 
 3. அன்பறிவு தேற்றம் அவாவின்மை இந்நான்கும்  
 
@@ -4593,7 +5694,9 @@ Fosters wealth and prevents ills. 512
 
 Trust him in whom these four you see:  
 
-Love, wit, non-craving, clarity. 513  
+Love, wit, non-craving, clarity.
+
+ 513  
 
 4. எனைவகையான் தேறியக் கண்ணும் வினைவகையான்  
 
@@ -4601,7 +5704,9 @@ Love, wit, non-craving, clarity. 513
 
 Though tried and found fit, yet we see  
 
-Many differ before duty. 514  
+Many differ before duty.
+
+ 514  
 
 5. அறிந்தாற்றிச் செய்கிற்பாற்கு அல்லால் வினைதான்  
 
@@ -4609,7 +5714,9 @@ Many differ before duty. 514
 
 Wise able men with power invest  
 
-Not by fondness but by hard test. 515  
+Not by fondness but by hard test.
+
+ 515  
 
 6. செய்வானை நாடி வினைநாடிக் காலத்தோடு  
 
@@ -4617,7 +5724,9 @@ Not by fondness but by hard test. 515
 
 Discern the agent and the deed  
 
-And just in proper time proceed. 516  
+And just in proper time proceed.
+
+ 516  
 
 7. இதனை இதனால் இவன்முடிக்கும் என்றாய்ந்து  
 
@@ -4625,7 +5734,9 @@ And just in proper time proceed. 516
 
 This work, by this, this man can do  
 
-Like this entrust the duty due. 517  
+Like this entrust the duty due.
+
+ 517  
 
 8. வினைக்குரிமை நாடிய பின்றை அவனை  
 
@@ -4633,7 +5744,9 @@ Like this entrust the duty due. 517
 
 His fitness for the duty scan  
 
-Leave him to do the best he can. 518  
+Leave him to do the best he can.
+
+ 518  
 
 9. வினைக்கண் வினையுடையான் கேண்மைவே றாக  
 
@@ -4641,7 +5754,9 @@ Leave him to do the best he can. 518
 
 Who do duty for duty's sake  
 
-Doubt them; and fortune departs quick. 519  
+Doubt them; and fortune departs quick.
+
+ 519  
 
 10. நாடோறும் நாடுக மன்னன் வினைசெய்வான்  
 
@@ -4649,13 +5764,17 @@ Doubt them; and fortune departs quick. 519
 
 Worker straight the world is straight  
 
-The king must look to this aright. 520  
+The king must look to this aright.
+
+ 520  
 
 --------  
 
   
 
-### 53. சுற்றந்தழால் - Cherishing kinsmen  
+###
+
+ 53. சுற்றந்தழால் - Cherishing kinsmen  
 
   
 
@@ -4665,7 +5784,9 @@ The king must look to this aright. 520
 
 Let fortunes go; yet kinsmen know  
 
-The old accustomed love to show. 521  
+The old accustomed love to show.
+
+ 521  
 
 2. விருப்பறாச் சுற்றம் இயையின் அருப்பறா  
 
@@ -4673,7 +5794,9 @@ The old accustomed love to show. 521
 
 The gift of loving Kins bestows  
 
-Fadeless fortune's fresh flowers. 522  
+Fadeless fortune's fresh flowers.
+
+ 522  
 
 3. அளவளா வில்லாதான் வாழ்க்கை குளவளாக்  
 
@@ -4681,7 +5804,9 @@ Fadeless fortune's fresh flowers. 522
 
 A kinless wealth is like a tank  
 
-Which overflows without a bank. 523  
+Which overflows without a bank.
+
+ 523  
 
 4. சுற்றத்தால் சுற்றப் படஒழுகல் செல்வந்தான்  
 
@@ -4689,7 +5814,9 @@ Which overflows without a bank. 523
 
 The fruit of growing wealth is gained  
 
-When kith and kin are happy found. 524  
+When kith and kin are happy found.
+
+ 524  
 
 5. கொடுத்தலும் இன்சொலும் ஆற்றின் அடுக்கிய  
 
@@ -4697,7 +5824,9 @@ When kith and kin are happy found. 524
 
 Loving words and liberal hand  
 
-Encircle kith and kin around. 525  
+Encircle kith and kin around.
+
+ 525  
 
 6. பெரும்கொடையான் பேணான் வெகுளி அவனின்  
 
@@ -4705,7 +5834,9 @@ Encircle kith and kin around. 525
 
 Large giver and wrathless man  
 
-Commands on earth countless kinsmen. 526  
+Commands on earth countless kinsmen.
+
+ 526  
 
 7. காக்கை கரவா கரைந்துண்ணும் ஆக்கமும்  
 
@@ -4713,7 +5844,9 @@ Commands on earth countless kinsmen. 526
 
 The crows hide not; thy call and eat  
 
-Welfare abides a man of heart. 527  
+Welfare abides a man of heart.
+
+ 527  
 
 8. பொதுநோக்கான் வேந்தன் வரிசையா நோக்கின்  
 
@@ -4721,7 +5854,9 @@ Welfare abides a man of heart. 527
 
 From public gaze when kings perceive  
 
-Each one's merits so many thrive. 528  
+Each one's merits so many thrive.
+
+ 528  
 
 9. தமராகித் தற்றுறந்தார் சுற்றம் அமராமைக்  
 
@@ -4729,7 +5864,9 @@ Each one's merits so many thrive. 528
 
 Forsaken friends will come and stay  
 
-When cause for discord goes away. 529  
+When cause for discord goes away.
+
+ 529  
 
 10. உழைப்பிரிந்து காரணத்தின் வந்தானை வேந்தன்  
 
@@ -4737,13 +5874,17 @@ When cause for discord goes away. 529
 
 Who leaves and returns with motive  
 
-The king should test him and receive. 530  
+The king should test him and receive.
+
+ 530  
 
 -------  
 
   
 
-### 54. பொச்சாவாமை - Unforgetfulness  
+###
+
+ 54. பொச்சாவாமை - Unforgetfulness  
 
   
 
@@ -4753,7 +5894,9 @@ The king should test him and receive. 530
 
 Worse than wrath in excess is  
 
-Forgetfulness in joy-excess. 531  
+Forgetfulness in joy-excess.
+
+ 531  
 
 2. பொச்சாப்புக் கொல்லும் புகழை அறிவினை  
 
@@ -4761,7 +5904,9 @@ Forgetfulness in joy-excess. 531
 
 Negligence kills renown just as  
 
-Ceaseless want wisdom destroys. 532  
+Ceaseless want wisdom destroys.
+
+ 532  
 
 3. பொச்சாப்பார்க்கு இல்லை புகழ்மை அதுவுலகத்து  
 
@@ -4769,7 +5914,9 @@ Ceaseless want wisdom destroys. 532
 
 Forgetful nature fails of fame  
 
-All schools of thinkers say the same. 533  
+All schools of thinkers say the same.
+
+ 533  
 
 4. அச்ச முடையார்க்கு அரணில்லை ஆங்கில்லை  
 
@@ -4777,7 +5924,9 @@ All schools of thinkers say the same. 533
 
 The fearful find no fortress here  
 
-The forgetful find good never. 534  
+The forgetful find good never.
+
+ 534  
 
 5. முன்னுறக் காவாது இழுக்கியான் தன்பிழை  
 
@@ -4785,7 +5934,9 @@ The forgetful find good never. 534
 
 Failing foresight the guardless man  
 
-Shall rue his folly later on. 535  
+Shall rue his folly later on.
+
+ 535  
 
 6. இழுக்காமை யார்மாட்டும் என்றும் வழுக்காமை  
 
@@ -4793,7 +5944,9 @@ Shall rue his folly later on. 535
 
 Forget none; watch with wakeful care  
 
-Miss none; the gain is sans compare. 536  
+Miss none; the gain is sans compare.
+
+ 536  
 
 7. அரியஎன்று ஆகாத இல்லைபொச் சாவாக்  
 
@@ -4801,7 +5954,9 @@ Miss none; the gain is sans compare. 536
 
 With cautious care pursue a thing  
 
-Impossible there is nothing. 537  
+Impossible there is nothing.
+
+ 537  
 
 8. புகழ்ந்தவை போற்றிச் செயல்வேண்டும் செய்யாது  
 
@@ -4809,7 +5964,9 @@ Impossible there is nothing. 537
 
 Do what the wise commend as worth  
 
-If not, for seven births no mirth. 538  
+If not, for seven births no mirth.
+
+ 538  
 
 9. இகழ்ச்சியின் கெட்டாரை உள்ளுக தாந்தம்  
 
@@ -4817,7 +5974,9 @@ If not, for seven births no mirth. 538
 
 When joy deludes, their fate recall  
 
-Whom negligence has made to fall. 539  
+Whom negligence has made to fall.
+
+ 539  
 
 10. உள்ளியது எய்தல் எளிதுமன் மற்றுந்தான்  
 
@@ -4825,13 +5984,17 @@ Whom negligence has made to fall. 539
 
 Easy it is a thing to get  
 
-When the mind on it is set. 540  
+When the mind on it is set.
+
+ 540  
 
 ------  
 
   
 
-### 55. செங்கோன்மை - Just government  
+###
+
+ 55. செங்கோன்மை - Just government  
 
   
 
@@ -4841,7 +6004,9 @@ When the mind on it is set. 540
 
 Test and attest impartially  
 
-Consult and act the laws justly. 541  
+Consult and act the laws justly.
+
+ 541  
 
 2. வானோக்கி வாழும் உலகெல்லாம் மன்னவன்  
 
@@ -4849,7 +6014,9 @@ Consult and act the laws justly. 541
 
 The earth looks up to sky and thrives  
 
-And mankind to king's rod of justice. 542  
+And mankind to king's rod of justice.
+
+ 542  
 
 3. அந்தணர் நூற்கும் அறத்திற்கும் ஆதியாய்  
 
@@ -4857,7 +6024,9 @@ And mankind to king's rod of justice. 542
 
 The Sage's scripture and virtue spring  
 
-From the sceptre of a stately king. 543  
+From the sceptre of a stately king.
+
+ 543  
 
 4. குடிதழீஇக் கோலோச்சும் மாநில மன்னன்  
 
@@ -4865,7 +6034,9 @@ From the sceptre of a stately king. 543
 
 The world clings to the ruler's feet  
 
-Whose sceptre clasps the people's heart. 544  
+Whose sceptre clasps the people's heart.
+
+ 544  
 
 5. இயல்புளிக் கோலோச்சும் மன்னவன் நாட்ட  
 
@@ -4873,7 +6044,9 @@ Whose sceptre clasps the people's heart. 544
 
 Full rains and yields enrich the land  
 
-Which is ruled by a righteous hand. 545  
+Which is ruled by a righteous hand.
+
+ 545  
 
 6. வேலன்று வென்றி தருவது மன்னவன்  
 
@@ -4881,7 +6054,9 @@ Which is ruled by a righteous hand. 545
 
 Not the spear but the sceptre straight  
 
-That brings success to monarch's might. 546  
+That brings success to monarch's might.
+
+ 546  
 
 7. இறைகாக்கும் வையக மெல்லாம் அவனை  
 
@@ -4889,7 +6064,9 @@ That brings success to monarch's might. 546
 
 The king protects the entire earth  
 
-And justice protects his royal worth. 547  
+And justice protects his royal worth.
+
+ 547  
 
 8. எண்பதத்தான் ஓரா முறைசெய்யா மன்னவன்  
 
@@ -4897,7 +6074,9 @@ And justice protects his royal worth. 547
 
 Hard of access, the unjust king  
 
-He shall himself his ruin bring. 548  
+He shall himself his ruin bring.
+
+ 548  
 
 9. குடிபுறங் காத்தோம்பிக் குற்றம் கடிதல்  
 
@@ -4905,7 +6084,9 @@ He shall himself his ruin bring. 548
 
 Save his subjects and chide the wrong  
 
-Is flawless duty of a king. 549  
+Is flawless duty of a king.
+
+ 549  
 
 10. கொலையிற் கொடியாரை வேந்தொறுத்தல் பைங்கூழ்  
 
@@ -4913,13 +6094,17 @@ Is flawless duty of a king. 549
 
 Killing killers, the king, behold  
 
-Weeds removes from cropful field. 550  
+Weeds removes from cropful field.
+
+ 550  
 
 --------  
 
   
 
-### 56. கொடுங்கோன்மை - The cruel tyranny  
+###
+
+ 56. கொடுங்கோன்மை - The cruel tyranny  
 
   
 
@@ -4929,7 +6114,9 @@ Weeds removes from cropful field. 550
 
 The unjust tyrant oppressor  
 
-Is worse than cruel murderer. 551  
+Is worse than cruel murderer.
+
+ 551  
 
 2. வேலொடு நின்றான் இடுஎன் றதுபோலும்  
 
@@ -4937,7 +6124,9 @@ Is worse than cruel murderer. 551
 
 Sceptered tyrant exacting gold  
 
-Is "give" of lanced robber bold. 552  
+Is "give" of lanced robber bold.
+
+ 552  
 
 3. நாடொறும் நாடி முறைசெய்யா மன்னவன்  
 
@@ -4945,7 +6134,9 @@ Is "give" of lanced robber bold. 552
 
 Spy wrongs daily and do justice  
 
-Or day by day the realm decays. 553  
+Or day by day the realm decays.
+
+ 553  
 
 4. கூழும் குடியும் ஒருங்கிழக்கும் கோல்கோடிச்  
 
@@ -4953,7 +6144,9 @@ Or day by day the realm decays. 553
 
 The king shall wealth and subjects lose  
 
-If his sceptre he dares abuse. 554  
+If his sceptre he dares abuse.
+
+ 554  
 
 5. அல்லற்பட்டு ஆற்றாது அழுதகண் ணீரன்றே  
 
@@ -4961,7 +6154,9 @@ If his sceptre he dares abuse. 554
 
 Groaning tears caused by tyrant's sway  
 
-File the royal wealth away. 555  
+File the royal wealth away.
+
+ 555  
 
 6. மன்னர்க்கு மன்னுதல் செங்கோன்மை அஃதின்றேல்  
 
@@ -4969,7 +6164,9 @@ File the royal wealth away. 555
 
 Glory endures by sceptre right  
 
-Without it wanes the royal light. 556  
+Without it wanes the royal light.
+
+ 556  
 
 7. துளியின்மை ஞாலத்திற்கு எற்றற்றே வேந்தன்  
 
@@ -4977,7 +6174,9 @@ Without it wanes the royal light. 556
 
 Dry like the earth without rainfall  
 
-Is graceless king to creatures all. 557  
+Is graceless king to creatures all.
+
+ 557  
 
 8. இன்மையின் இன்னாது உடைமை முறைசெய்யா  
 
@@ -4985,7 +6184,9 @@ Is graceless king to creatures all. 557
 
 To have is worse than having not  
 
-If ruler is unjust despot. 558  
+If ruler is unjust despot.
+
+ 558  
 
 9. முறைகோடி மன்னவன் செய்யின் உறைகோடி  
 
@@ -4993,7 +6194,9 @@ If ruler is unjust despot. 558
 
 The sky withdraws season's shower  
 
-If the king misuses his power. 559  
+If the king misuses his power.
+
+ 559  
 
 10. ஆபயன் குன்றும் அறுதொழிலோர் நூல்மறப்பர்  
 
@@ -5001,7 +6204,9 @@ If the king misuses his power. 559
 
 The /*six-functioned forget their lore  
 
-Cows give less if kings guard no more. 560  
+Cows give less if kings guard no more.
+
+ 560  
 
 ---  
 
@@ -5013,7 +6218,9 @@ getting, sacrificing, kindling sacrifice - These are duties of Vedic savants.
 
   
 
-### 57. வெருவந்த செய்யாமை - Avoiding terrorism  
+###
+
+ 57. வெருவந்த செய்யாமை - Avoiding terrorism  
 
   
 
@@ -5023,7 +6230,9 @@ getting, sacrificing, kindling sacrifice - These are duties of Vedic savants.
 
 A king enquires and gives sentence  
 
-Just to prevent future offence. 561  
+Just to prevent future offence.
+
+ 561  
 
 2. கடிதோச்சி மெல்ல எறிக நெடிதாக்கம்  
 
@@ -5031,7 +6240,9 @@ Just to prevent future offence. 561
 
 Wield fast the rod but gently lay  
 
-This strict mildness prolongs the sway. 562  
+This strict mildness prolongs the sway.
+
+ 562  
 
 3. வெருவந்த செய்துஒழுகும் வெங்கோல னாயின்  
 
@@ -5039,7 +6250,9 @@ This strict mildness prolongs the sway. 562
 
 His cruel rod of dreadful deed  
 
-Brings king's ruin quick indeed. 563  
+Brings king's ruin quick indeed.
+
+ 563  
 
 4. இறைகடியன் என்றுரைக்கும் இன்னாச்சொல் வேந்தன்  
 
@@ -5047,7 +6260,9 @@ Brings king's ruin quick indeed. 563
 
 As men the king a tyrant call  
 
-His days dwindled, hasten his fall. 564  
+His days dwindled, hasten his fall.
+
+ 564  
 
 5. அருஞ்செவ்வி இன்னா முகத்தான் பெருஞ்செல்வம்  
 
@@ -5055,7 +6270,9 @@ His days dwindled, hasten his fall. 564
 
 Whose sight is scarce, whose face is foul  
 
-His wealth seems watched by a ghoul. 565  
+His wealth seems watched by a ghoul.
+
+ 565  
 
 6. கடுஞ்சொல்லன் கண்ணில னாயின் நெடுஞ்செல்வம்  
 
@@ -5063,7 +6280,9 @@ His wealth seems watched by a ghoul. 565
 
 Whose word is harsh, whose sight is rude  
 
-His wealth and power quickly fade. 566  
+His wealth and power quickly fade.
+
+ 566  
 
 7. கடுமொழியும் கையிகந்த தண்டமும் வேந்தன்  
 
@@ -5071,7 +6290,9 @@ His wealth and power quickly fade. 566
 
 Reproofs rough and punishments rude  
 
-Like files conquering power corrode. 567  
+Like files conquering power corrode.
+
+ 567  
 
 8. இனத்தாற்றி எண்ணாத வேந்தன் சினத்தாற்றிச்  
 
@@ -5079,7 +6300,9 @@ Like files conquering power corrode. 567
 
 The king who would not take counsels  
 
-Rages with wrath-his fortune fails. 568  
+Rages with wrath-his fortune fails.
+
+ 568  
 
 9. செருவந்த போழ்திற் சிறைசெய்யா வேந்தன்  
 
@@ -5087,7 +6310,9 @@ Rages with wrath-his fortune fails. 568
 
 The king who builds not fort betimes  
 
-Fears his foes in wars and dies. 569  
+Fears his foes in wars and dies.
+
+ 569  
 
 10. கல்லார்ப் பிணிக்கும் கடுங்கோல் அதுவல்லது  
 
@@ -5095,13 +6320,17 @@ Fears his foes in wars and dies. 569
 
 The crushing burden borne by earth  
 
-Is tyrants bound to fools uncouth. 570  
+Is tyrants bound to fools uncouth.
+
+ 570  
 
 -------  
 
   
 
-### 58. கண்ணோட்டம் - Benign looks  
+###
+
+ 58. கண்ணோட்டம் - Benign looks  
 
   
 
@@ -5111,7 +6340,9 @@ Is tyrants bound to fools uncouth. 570
 
 Living in the world implies  
 
-The bounteous dame of benign eyes. 571  
+The bounteous dame of benign eyes.
+
+ 571  
 
 2. கண்ணோட்டத் துள்ளது உலகியல் அஃதிலார்  
 
@@ -5119,7 +6350,9 @@ The bounteous dame of benign eyes. 571
 
 World lives by looks of lovely worth  
 
-Who lack them are burdens of earth. 572  
+Who lack them are burdens of earth.
+
+ 572  
 
 3. பண்என்னாம் பாடற்கு இயைபின்றேல் கண்என்னாம்  
 
@@ -5127,7 +6360,9 @@ Who lack them are burdens of earth. 572
 
 Of tuneless song what is the use?  
 
-Without gracious looks what are eyes? 573  
+Without gracious looks what are eyes?
+
+ 573  
 
 4. உளபோல் முகத்தெவன் செய்யும் அளவினால்  
 
@@ -5135,7 +6370,9 @@ Without gracious looks what are eyes? 573
 
 Except that they are on the face  
 
-What for are eyes sans measured grace. 574  
+What for are eyes sans measured grace.
+
+ 574  
 
 5. கண்ணிற்கு அணிகலம் கண்ணோட்டம் அஃதின்றேல்  
 
@@ -5143,7 +6380,9 @@ What for are eyes sans measured grace. 574
 
 Kind looks are jewels for eyes to wear  
 
-Without them they are felt as sore. 575  
+Without them they are felt as sore.
+
+ 575  
 
 6. மண்ணோ டியைந்த மரத்தனையர் கண்ணோ  
 
@@ -5151,7 +6390,9 @@ Without them they are felt as sore. 575
 
 Like trees on inert earth they grow  
 
-Who don't eye to eye kindness show. 576  
+Who don't eye to eye kindness show.
+
+ 576  
 
 7. கண்ணோட்டம் இல்லவர் கண்ணிலர் கண்ணுடையார்  
 
@@ -5159,7 +6400,9 @@ Who don't eye to eye kindness show. 576
 
 Ungracious men lack real eyes  
 
-Men of real eyes show benign grace. 577  
+Men of real eyes show benign grace.
+
+ 577  
 
 8. கருமஞ் சிதையாமல் கண்ணோட வல்லார்க்கு  
 
@@ -5167,7 +6410,9 @@ Men of real eyes show benign grace. 577
 
 Who gracious are but dutiful  
 
-Have right for this earth beautiful. 578  
+Have right for this earth beautiful.
+
+ 578  
 
 9. ஒறுத்தாற்றும் பண்பினார் கண்ணும்கண் ணோடிப்  
 
@@ -5175,7 +6420,9 @@ Have right for this earth beautiful. 578
 
 To be benign and bear with foes  
 
-Who vex us is true virtue's phase. 579  
+Who vex us is true virtue's phase.
+
+ 579  
 
 10. பெயக்கண்டும் நஞ்சுண் டமைவர் நயத்தக்க  
 
@@ -5183,13 +6430,17 @@ Who vex us is true virtue's phase. 579
 
 Men of graceful courtesy  
 
-Take hemlock and look cheerfully. 580  
+Take hemlock and look cheerfully.
+
+ 580  
 
 ------------  
 
   
 
-### 59. ஒற்றாடல் - Espionage  
+###
+
+ 59. ஒற்றாடல் - Espionage  
 
   
 
@@ -5199,7 +6450,9 @@ Take hemlock and look cheerfully. 580
 
 A king should treat these two as eyes  
 
-The code of laws and careful spies. 581  
+The code of laws and careful spies.
+
+ 581  
 
 2. எல்லார்க்கும் எல்லாம் நிகழ்பவை எஞ்ஞான்றும்  
 
@@ -5207,7 +6460,9 @@ The code of laws and careful spies. 581
 
 All that happens, always, to all  
 
-The king should know in full detail. 582  
+The king should know in full detail.
+
+ 582  
 
 3. ஒற்றினான் ஒற்றி பொருள்தெரியா மன்னவன்  
 
@@ -5215,7 +6470,9 @@ The king should know in full detail. 582
 
 Conquests are not for the monarch  
 
-Who cares not for the Spy's remark. 583  
+Who cares not for the Spy's remark.
+
+ 583  
 
 4. வினைசெய்வார் தம்சுற்றம் வேண்டாதார் என்றாங்கு  
 
@@ -5223,7 +6480,9 @@ Who cares not for the Spy's remark. 583
 
 His officers, kinsmen and foes  
 
-Who watch keenly are worthy spies. 584  
+Who watch keenly are worthy spies.
+
+ 584  
 
 5. கடாஅ உருவொடு கண்ணஞ்சாது யாண்டும்  
 
@@ -5231,7 +6490,9 @@ Who watch keenly are worthy spies. 584
 
 Fearless gaze, suspectless guise  
 
-Guarding secrets mark the spies. 585  
+Guarding secrets mark the spies.
+
+ 585  
 
 6. துறந்தார் படிவத்த ராகி இறந்தாராய்ந்து  
 
@@ -5239,7 +6500,9 @@ Guarding secrets mark the spies. 585
 
 Guised as monks they gather secrets  
 
-They betray them not under threats. 586  
+They betray them not under threats.
+
+ 586  
 
 7. மறைந்தவை கேட்கவற் றாகி அறிந்தவை  
 
@@ -5247,7 +6510,9 @@ They betray them not under threats. 586
 
 A spy draws out other's secrets  
 
-Beyond a doubt he clears his facts. 587  
+Beyond a doubt he clears his facts.
+
+ 587  
 
 8. ஒற்றொற்றித் தந்த பொருளையும் மற்றுமோர்  
 
@@ -5255,7 +6520,9 @@ Beyond a doubt he clears his facts. 587
 
 The reports given by one spy  
 
-By another spy verify. 588  
+By another spy verify.
+
+ 588  
 
 9. ஒற்றொற் றுணராமை ஆள்க உடன்மூவர்  
 
@@ -5263,7 +6530,9 @@ By another spy verify. 588
 
 Engage the spies alone, apart  
 
-When three agree confirm report. 589  
+When three agree confirm report.
+
+ 589  
 
 10. சிறப்பறிய ஒற்றின்கண் செய்யற்க செய்யின்  
 
@@ -5271,13 +6540,17 @@ When three agree confirm report. 589
 
 Give not the spy open reward  
 
-It would divulge the secret heard! 590  
+It would divulge the secret heard!
+
+ 590  
 
 ------  
 
   
 
-### 60. ஊக்கமுடைமை - Energy  
+###
+
+ 60. ஊக்கமுடைமை - Energy  
 
   
 
@@ -5287,7 +6560,9 @@ It would divulge the secret heard! 590
 
 To own is to own energy  
 
-All others own but lethargy. 591  
+All others own but lethargy.
+
+ 591  
 
 2. உள்ளம் உடைமை உடைமை பொருளுடைமை  
 
@@ -5295,7 +6570,9 @@ All others own but lethargy. 591
 
 Psychic heart is wealth indeed  
 
-Worldly wealth departs in speed. 592  
+Worldly wealth departs in speed.
+
+ 592  
 
 3. ஆக்கம் இழந்தேமென்று அல்லாவார் ஊக்கம்  
 
@@ -5303,7 +6580,9 @@ Worldly wealth departs in speed. 592
 
 he strong in will do not complain  
 
-The loss of worldly wealth and gain. 593  
+The loss of worldly wealth and gain.
+
+ 593  
 
 4. ஆக்கம் அதர்வினாய்ச் செல்லும் அசைவிலா  
 
@@ -5311,7 +6590,9 @@ The loss of worldly wealth and gain. 593
 
 Fortune enquires, enters with boom  
 
-Where tireless strivers have their home. 594  
+Where tireless strivers have their home.
+
+ 594  
 
 5. வெள்ளத் தனைய மலர்நீட்டம் மாந்தர்தம்  
 
@@ -5319,7 +6600,9 @@ Where tireless strivers have their home. 594
 
 Water depth is lotus height  
 
-Mental strength is men's merit. 595  
+Mental strength is men's merit.
+
+ 595  
 
 6. உள்ளுவ தெல்லாம் உயர்வுள்ளல் மற்றது  
 
@@ -5327,7 +6610,9 @@ Mental strength is men's merit. 595
 
 Let thoughts be always great and grand  
 
-Though they fail their virtues stand. 596  
+Though they fail their virtues stand.
+
+ 596  
 
 7. சிதைவிடத்து ஒல்கார் உரவோர் புதையம்பிற்  
 
@@ -5335,7 +6620,9 @@ Though they fail their virtues stand. 596
 
 Elephants are firm when arrows hit  
 
-Great minds keep fit ev'n in defeat. 597  
+Great minds keep fit ev'n in defeat.
+
+ 597  
 
 8. உள்ளம் இலாதவர் எய்தார் உலகத்து  
 
@@ -5343,7 +6630,9 @@ Great minds keep fit ev'n in defeat. 597
 
 Heartless persons cannot boast  
 
-"We are liberal to our best". 598  
+"We are liberal to our best".
+
+ 598  
 
 9. பரியது கூர்ங்கோட்டது ஆயினும் யானை  
 
@@ -5351,7 +6640,9 @@ Heartless persons cannot boast
 
 Huge elephant sharp in tusk quails  
 
-When tiger, less in form, assails. 599  
+When tiger, less in form, assails.
+
+ 599  
 
 10. உரமொருவற்கு உள்ள வெறுக்கை அஃதில்லார்  
 
@@ -5359,13 +6650,17 @@ When tiger, less in form, assails. 599
 
 Mental courage is true manhood  
 
-Lacking that man is like a wood 600  
+Lacking that man is like a wood
+
+ 600  
 
 --------  
 
   
 
-### 61. மடியின்மை - Freedom from sloth  
+###
+
+ 61. மடியின்மை - Freedom from sloth  
 
   
 
@@ -5375,7 +6670,9 @@ Lacking that man is like a wood 600
 
 Quenchless lamp of ancestry goes  
 
-When foul idleness encloses. 601  
+When foul idleness encloses.
+
+ 601  
 
 2. மடியை மடியா ஒழுகல் குடியைக்  
 
@@ -5383,7 +6680,9 @@ When foul idleness encloses. 601
 
 To make your home an ideal home  
 
-Loath sloth as sloth; refuse it room. 602  
+Loath sloth as sloth; refuse it room.
+
+ 602  
 
 3. மடிமடிக் கொண்டொழுகும் பேதை பிறந்த  
 
@@ -5391,7 +6690,9 @@ Loath sloth as sloth; refuse it room. 602
 
 The fool who fosters sluggishness  
 
-Before he dies ruins his house. 603  
+Before he dies ruins his house.
+
+ 603  
 
 4. குடிமடிந்து குற்றம் பெருகும் மடிமடிந்து  
 
@@ -5399,7 +6700,9 @@ Before he dies ruins his house. 603
 
 Who strive not high, sunk deep in sloth  
 
-Ruin their house by evil growth. 604  
+Ruin their house by evil growth.
+
+ 604  
 
 5. நெடுநீர் மறவி மடிதுயில் நான்கும்  
 
@@ -5407,7 +6710,9 @@ Ruin their house by evil growth. 604
 
 To lag, forget, idle and doze  
 
-These four are pleasure boats of loss. 605  
+These four are pleasure boats of loss.
+
+ 605  
 
 6. படியுடையார் பற்றமைந்தக் கண்ணும் மடியுடையார்  
 
@@ -5415,7 +6720,9 @@ These four are pleasure boats of loss. 605
 
 With all the wealth of lords of earth  
 
-The slothful gain nothing of worth. 606  
+The slothful gain nothing of worth.
+
+ 606  
 
 7. இடிபுரிந்து எள்ளுஞ்சொல் கேட்பர் மடிபுரிந்து  
 
@@ -5423,7 +6730,9 @@ The slothful gain nothing of worth. 606
 
 The slothful lacking noble deeds  
 
-Subject themselves to scornful words. 607  
+Subject themselves to scornful words.
+
+ 607  
 
 8. மடிமை குடிமைக்கண் தங்கின்தன் ஒன்னார்க்கு  
 
@@ -5431,7 +6740,9 @@ Subject themselves to scornful words. 607
 
 If sloth invades a noble house  
 
-It will become a slave of foes. 608  
+It will become a slave of foes.
+
+ 608  
 
 9. குடியாண்மை யுள்வந்த குற்றம் ஒருவன்  
 
@@ -5439,7 +6750,9 @@ It will become a slave of foes. 608
 
 The blots on race and rule shall cease  
 
-When one from sloth gets his release. 609  
+When one from sloth gets his release.
+
+ 609  
 
 10. மடியிலா மன்னவன் எய்தும் அடியளந்தான்  
 
@@ -5447,7 +6760,9 @@ When one from sloth gets his release. 609
 
 The slothless king shall gain en masse  
 
-/*All regions trod by Lord apace. 610  
+/*All regions trod by Lord apace.
+
+ 610  
 
 /*Hindu mythology holds that Lord Vishnu  
 
@@ -5457,7 +6772,9 @@ measured with his feet the three worlds.
 
   
 
-### 62. ஆள்வினையுடைமை - Manly effort  
+###
+
+ 62. ஆள்வினையுடைமை - Manly effort  
 
   
 
@@ -5467,7 +6784,9 @@ measured with his feet the three worlds.
 
 Feel not frustrate saying "Tis hard".  
 
-Who tries attains striving's reward. 611  
+Who tries attains striving's reward.
+
+ 611  
 
 2. வினைக்கண் வினைகெடல் ஓம்பல் வினைக்குறை  
 
@@ -5475,7 +6794,9 @@ Who tries attains striving's reward. 611
 
 In doing work don't break and shirk  
 
-The world will quit who quits his work. 612  
+The world will quit who quits his work.
+
+ 612  
 
 3. தாளாண்மை என்னும் தகைமைக்கண் தங்கிற்றே  
 
@@ -5483,7 +6804,9 @@ The world will quit who quits his work. 612
 
 On excellence of industry  
 
-Depends magnanimous bounty. 613  
+Depends magnanimous bounty.
+
+ 613  
 
 4. தாளாண்மை இல்லாதான் வேளாண்மை பேடிகை  
 
@@ -5491,7 +6814,9 @@ Depends magnanimous bounty. 613
 
 Bounty of man who never strives  
 
-Like sword in eunuch's hand it fails. 614  
+Like sword in eunuch's hand it fails.
+
+ 614  
 
 5. இன்பம் விழையான் வினைவிழைவான் தன்கேளிர்  
 
@@ -5499,7 +6824,9 @@ Like sword in eunuch's hand it fails. 614
 
 Work who likes and not pleasure  
 
-Wipes grief of friends, pillar secure. 615  
+Wipes grief of friends, pillar secure.
+
+ 615  
 
 6. முயற்சி திருவினை யாக்கும் முயற்றின்மை  
 
@@ -5507,7 +6834,9 @@ Wipes grief of friends, pillar secure. 615
 
 Industry adds prosperity  
 
-Indolence brings but poverty. 616  
+Indolence brings but poverty.
+
+ 616  
 
 7. மடியுளாள் மாமுகடி என்ப மடியிலான்  
 
@@ -5515,7 +6844,9 @@ Indolence brings but poverty. 616
 
 Illuck abides with sloth they say  
 
-/*Laxmi's gifts with labourers stay. 617  
+/*Laxmi's gifts with labourers stay.
+
+ 617  
 
 8. பொறியின்மை யார்க்கும் பழியன்று அறிவறிந்து  
 
@@ -5523,7 +6854,9 @@ Illuck abides with sloth they say
 
 Misfortune is disgrace to none  
 
-The shame is nothing learnt or done. 618  
+The shame is nothing learnt or done.
+
+ 618  
 
 9. தெய்வத்தான் ஆகாது எனினும் முயற்சிதன்  
 
@@ -5531,7 +6864,9 @@ The shame is nothing learnt or done. 618
 
 Though fate is against fulfilment  
 
-Hard labour has ready payment. 619  
+Hard labour has ready payment.
+
+ 619  
 
 10. ஊழையும் உப்பக்கம் காண்பர் உலைவின்றித்  
 
@@ -5539,7 +6874,9 @@ Hard labour has ready payment. 619
 
 Tireless Toiler's striving hand  
 
-Shall leave even the fate behind. 620  
+Shall leave even the fate behind.
+
+ 620  
 
 /*Laxmi the Goddes of wealth and prosperity.  
 
@@ -5547,7 +6884,9 @@ Shall leave even the fate behind. 620
 
   
 
-### 63. இடுக்கணழியாமை - Hope in mishap  
+###
+
+ 63. இடுக்கணழியாமை - Hope in mishap  
 
   
 
@@ -5557,7 +6896,9 @@ Shall leave even the fate behind. 620
 
 Laugh away troubles; there is  
 
-No other way to conquer woes. 621  
+No other way to conquer woes.
+
+ 621  
 
 2. வெள்ளத் தனைய இடும்பை அறிவுடையான்  
 
@@ -5565,7 +6906,9 @@ No other way to conquer woes. 621
 
 Deluging sorrows come to nought  
 
-When wise men face them with firm thought. 622  
+When wise men face them with firm thought.
+
+ 622  
 
 3. இடும்பைக்கு இடும்பை படுப்பர் இடும்பைக்கு  
 
@@ -5573,7 +6916,9 @@ When wise men face them with firm thought. 622
 
 Grief they face and put to grief  
 
-Who grieve not grief by mind's relief. 623  
+Who grieve not grief by mind's relief.
+
+ 623  
 
 4. மடுத்தவா யெல்லாம் பகடன்னான் உற்ற  
 
@@ -5581,7 +6926,9 @@ Who grieve not grief by mind's relief. 623
 
 Who pulls like bulls patiently on  
 
-Causes grief to grieve anon. 624  
+Causes grief to grieve anon.
+
+ 624  
 
 5. அடுக்கி வரினும் அழிவிலான் உற்ற  
 
@@ -5589,7 +6936,9 @@ Causes grief to grieve anon. 624
 
 Before the brave grief grieves and goes  
 
-Who dare a host of pressing woes. 625  
+Who dare a host of pressing woes.
+
+ 625  
 
 6. அற்றேமென்று அல்லற்படுபவோ பெற்றேமென்று  
 
@@ -5597,7 +6946,9 @@ Who dare a host of pressing woes. 625
 
 The wise that never gloat in gain  
 
-Do not fret in fateful ruin. 626  
+Do not fret in fateful ruin.
+
+ 626  
 
 7. இலக்கம் உடம்பிடும்பைக் கென்று கலக்கத்தைக்  
 
@@ -5605,7 +6956,9 @@ Do not fret in fateful ruin. 626
 
 The wise worry no more of woes  
 
-Knowing body's butt of sorrows. 627  
+Knowing body's butt of sorrows.
+
+ 627  
 
 8. இன்பம் விழையான் இடும்பை இயல்பென்பான்  
 
@@ -5613,7 +6966,9 @@ Knowing body's butt of sorrows. 627
 
 Who seek not joy, deem grief norm  
 
-By sorrows do not come to harm. 628  
+By sorrows do not come to harm.
+
+ 628  
 
 9. இன்பத்துள் இன்பம் விழையாதான் துன்பத்துள்  
 
@@ -5621,7 +6976,9 @@ By sorrows do not come to harm. 628
 
 In joy to joy who is not bound  
 
-In grief he grieves not dual round! 629  
+In grief he grieves not dual round!
+
+ 629  
 
 10. இன்னாமை இன்பம் எனக்கொளின் ஆகுந்தன்  
 
@@ -5629,13 +6986,17 @@ In grief he grieves not dual round! 629
 
 His glory is esteemed by foes  
 
-Who sees weal in wanton woes! 630  
+Who sees weal in wanton woes!
+
+ 630  
 
 ------------  
 
   
 
-### 2.2 அமைச்சியல் - STATE CABINET  
+###
+
+ 2.2 அமைச்சியல் - STATE CABINET  
 
 64. அமைச்சு - Ministers  
 
@@ -5647,7 +7008,9 @@ Who sees weal in wanton woes! 630
 
 He is minister who chooses  
 
-Right means, time, mode and rare ventures. 631  
+Right means, time, mode and rare ventures.
+
+ 631  
 
 2. வன்கண் குடிகாத்தல் கற்றறிதல் ஆள்வினையோடு  
 
@@ -5655,7 +7018,9 @@ Right means, time, mode and rare ventures. 631
 
 With these he guards people, - by his  
 
-Knowledge, firmness and manliness. 632  
+Knowledge, firmness and manliness.
+
+ 632  
 
 3. பிரித்தலும் பேணிக் கொளலும் பிரிந்தார்ப்  
 
@@ -5663,7 +7028,9 @@ Knowledge, firmness and manliness. 632
 
 A minister cherishes friends  
 
-Divides foes and the parted blends. 633  
+Divides foes and the parted blends.
+
+ 633  
 
 4. தெரிதலும் தேர்ந்து செயலும் ஒருதலையாச்  
 
@@ -5671,7 +7038,9 @@ Divides foes and the parted blends. 633
 
 A minister must sift reflect  
 
-Select and say surely one fact. 634  
+Select and say surely one fact.
+
+ 634  
 
 5. அறனறிந்து ஆன்றமைந்த சொல்லான்எஞ் ஞான்றும்  
 
@@ -5679,7 +7048,9 @@ Select and say surely one fact. 634
 
 Have him for help who virtue knows  
 
-Right wisdom speaks, ever apt in acts. 635  
+Right wisdom speaks, ever apt in acts.
+
+ 635  
 
 6. மதிநுட்பம் நூலோடு உடையார்க்கு அதிநுட்பம்  
 
@@ -5687,7 +7058,9 @@ Right wisdom speaks, ever apt in acts. 635
 
 Which subtler brain can stand before  
 
-The keen in brain with learned love? 636  
+The keen in brain with learned love?
+
+ 636  
 
 7. செயற்கை அறிந்தக் கடைத்தும் உலகத்து  
 
@@ -5695,7 +7068,9 @@ The keen in brain with learned love? 636
 
 Albeit you know to act from books  
 
-Act after knowing world's outlooks. 637  
+Act after knowing world's outlooks.
+
+ 637  
 
 8. அறிகொன்று அறியான் எனினும் உறுதி  
 
@@ -5703,7 +7078,9 @@ Act after knowing world's outlooks. 637
 
 The man in place must tell the facts  
 
-Though the ignorant king refutes. 638  
+Though the ignorant king refutes.
+
+ 638  
 
 9. பழுதெண்ணும் மந்திரியின் பக்கத்துள் தெவ்வோர்  
 
@@ -5711,7 +7088,9 @@ Though the ignorant king refutes. 638
 
 Seventy crores of foes are better  
 
-Than a minister with mind bitter. 639  
+Than a minister with mind bitter.
+
+ 639  
 
 10. முறைப்படச் சூழ்ந்தும் முடிவிலவே செய்வர்  
 
@@ -5719,13 +7098,17 @@ Than a minister with mind bitter. 639
 
 The unresolved, though well designed  
 
-To fulfil an act they have no mind. 640  
+To fulfil an act they have no mind.
+
+ 640  
 
 ----------  
 
   
 
-### 65. சொல்வன்மை - Power of speech  
+###
+
+ 65. சொல்வன்மை - Power of speech  
 
   
 
@@ -5735,7 +7118,9 @@ To fulfil an act they have no mind. 640
 
 The goodness called goodness of speech  
 
-Is goodness which nothing can reach. 641  
+Is goodness which nothing can reach.
+
+ 641  
 
 2. ஆக்கமுங் கேடும் அதனால் வருதலால்  
 
@@ -5743,7 +7128,9 @@ Is goodness which nothing can reach. 641
 
 Since gain or ruin speeches bring  
 
-Guard against the slips of tongue. 642  
+Guard against the slips of tongue.
+
+ 642  
 
 3. கேட்டார்ப் பிணிக்குந் தகையவாய்க் கோளாரும்  
 
@@ -5751,7 +7138,9 @@ Guard against the slips of tongue. 642
 
 A speech is speech that holds ears  
 
-And attracts ev'n those that are averse. 643  
+And attracts ev'n those that are averse.
+
+ 643  
 
 4. திறனறிந்து சொல்லுக சொல்லை அறனும்  
 
@@ -5759,7 +7148,9 @@ And attracts ev'n those that are averse. 643
 
 Weigh thy words and speak; because  
 
-No wealth or virtue words surpass. 644  
+No wealth or virtue words surpass.
+
+ 644  
 
 5. சொல்லுக சொல்லைப் பிறிதோர்சொல் அச்சொல்லை  
 
@@ -5767,7 +7158,9 @@ No wealth or virtue words surpass. 644
 
 Speak out thy world so that no word  
 
-Can win it and say untoward. 645  
+Can win it and say untoward.
+
+ 645  
 
 6. வேட்பத்தாஞ் சொல்லிப் பிறர்சொல் பயன்கோடல்  
 
@@ -5775,7 +7168,9 @@ Can win it and say untoward. 645
 
 Spotless men speak what is sweet  
 
-And grasp in others what is meet. 646  
+And grasp in others what is meet.
+
+ 646  
 
 7. சொலல்வல்லன் சோர்விலன் அஞ்சான் அவனை  
 
@@ -5783,7 +7178,9 @@ And grasp in others what is meet. 646
 
 No foe defies the speaker clear  
 
-Flawless, puissant, and free from fear. 647  
+Flawless, puissant, and free from fear.
+
+ 647  
 
 8. விரைந்து தொழில்கேட்கும் ஞாலம் நிரந்தினிது  
 
@@ -5791,7 +7188,9 @@ Flawless, puissant, and free from fear. 647
 
 The world will quickly carry out  
 
-The words of counsellors astute. 648  
+The words of counsellors astute.
+
+ 648  
 
 9. பலசொல்லக் காமுறுவர் மன்றமா சற்ற  
 
@@ -5799,7 +7198,9 @@ The words of counsellors astute. 648
 
 They overspeak who do not seek  
 
-A few and flawless words to speak. 649  
+A few and flawless words to speak.
+
+ 649  
 
 10. இணரூழ்த்தும் நாறா மலரனையர் கற்றது  
 
@@ -5807,13 +7208,17 @@ A few and flawless words to speak. 649
 
 Who can't express what they have learnt  
 
-Are bunch of flowers not fragrant. 650  
+Are bunch of flowers not fragrant.
+
+ 650  
 
 --------  
 
   
 
-### 66. வினைத்துய்மை - Purity of action  
+###
+
+ 66. வினைத்துய்மை - Purity of action  
 
   
 
@@ -5823,7 +7228,9 @@ Are bunch of flowers not fragrant. 650
 
 Friendship brings gain; but action pure  
 
-Does every good thing we desire. 651  
+Does every good thing we desire.
+
+ 651  
 
 2. என்றும் ஒருவுதல் வேண்டும் புகழொடு  
 
@@ -5831,7 +7238,9 @@ Does every good thing we desire. 651
 
 Eschew always acts that do not  
 
-Bring good nor glory on their part. 652  
+Bring good nor glory on their part.
+
+ 652  
 
 3. ஓஒதல் வேண்டும் ஒளிமாழ்கும் செய்வினை  
 
@@ -5839,7 +7248,9 @@ Bring good nor glory on their part. 652
 
 Those in the world desire for fame  
 
-Should shun the deed that dims their name. 653  
+Should shun the deed that dims their name.
+
+ 653  
 
 4. இடுக்கண் படினும் இளிவந்த செய்யார்  
 
@@ -5847,7 +7258,9 @@ Should shun the deed that dims their name. 653
 
 Though perils press the faultless wise  
 
-Shun deeds of mean, shameful device. 654  
+Shun deeds of mean, shameful device.
+
+ 654  
 
 5. எற்றென்று இரங்குவ செய்யற்க செய்வானேல்  
 
@@ -5855,7 +7268,9 @@ Shun deeds of mean, shameful device. 654
 
 Do not wrong act and grieve, "Alas"  
 
-If done, do not repeat it twice. 655  
+If done, do not repeat it twice.
+
+ 655  
 
 6. ஈன்றான் பசிகாண்பான் ஆயினுஞ் செய்யற்க  
 
@@ -5863,7 +7278,9 @@ If done, do not repeat it twice. 655
 
 Though she who begot thee hungers  
 
-Shun acts denounced by ancient seers. 656  
+Shun acts denounced by ancient seers.
+
+ 656  
 
 7. பழிமலைந்து எய்திய ஆக்கத்தின் சான்றோர்  
 
@@ -5871,7 +7288,9 @@ Shun acts denounced by ancient seers. 656
 
 Pinching poverty of the wise  
 
-Is more than wealth hoarded by Vice. 657  
+Is more than wealth hoarded by Vice.
+
+ 657  
 
 8. கடிந்த கடிந்தொரார் செய்தார்க்கு அவைதாம்  
 
@@ -5879,7 +7298,9 @@ Is more than wealth hoarded by Vice. 657
 
 Those who dare a forbidden deed  
 
-Suffer troubles though they succeed. 658  
+Suffer troubles though they succeed.
+
+ 658  
 
 9. அழக்கொண்ட எல்லாம் அழப்போம் இழப்பினும்  
 
@@ -5887,7 +7308,9 @@ Suffer troubles though they succeed. 658
 
 Gains from weeping, weeping go  
 
-Though lost, from good deeds blessings flow. 659  
+Though lost, from good deeds blessings flow.
+
+ 659  
 
 10. சலத்தால் பொருள்செய்தே மார்த்தல் பசுமட்  
 
@@ -5895,13 +7318,17 @@ Though lost, from good deeds blessings flow. 659
 
 The wealth gathered in guilty ways  
 
-Is water poured in wet clay vase. 660  
+Is water poured in wet clay vase.
+
+ 660  
 
 --------  
 
   
 
-### 67. வினைத்திட்பம் - Powerful acts  
+###
+
+ 67. வினைத்திட்பம் - Powerful acts  
 
   
 
@@ -5911,7 +7338,9 @@ Is water poured in wet clay vase. 660
 
 A powerful mind does powerful act  
 
-And all the rest are imperfect. 661  
+And all the rest are imperfect.
+
+ 661  
 
 2. ஊறொராவ் உற்றபின் ஒல்காமை இவ்விரண்டின்  
 
@@ -5919,7 +7348,9 @@ And all the rest are imperfect. 661
 
 Shun failing fuss; fail not purpose  
 
-These two are maxims of the wise. 662  
+These two are maxims of the wise.
+
+ 662  
 
 3. கடைகொட்கச் செய்தக்க தாண்மை இடைக்கொட்கின்  
 
@@ -5927,7 +7358,9 @@ These two are maxims of the wise. 662
 
 The strong achieve and then display  
 
-Woe unto work displayed midway. 663  
+Woe unto work displayed midway.
+
+ 663  
 
 4. சொல்லுதல் யார்க்கும் எளிய அரியவாம்  
 
@@ -5935,7 +7368,9 @@ Woe unto work displayed midway. 663
 
 Easy it is to tell a fact  
 
-But hard it is to know and act. 664  
+But hard it is to know and act.
+
+ 664  
 
 5. வீறெய்தி மாண்டார் வினைதிட்பம் வேந்தன்கண்  
 
@@ -5943,7 +7378,9 @@ But hard it is to know and act. 664
 
 Dynamic deeds of a doughty soul  
 
-Shall win the praise of king and all. 665  
+Shall win the praise of king and all.
+
+ 665  
 
 6. எண்ணிய எண்ணியாங்கு எய்துப எண்ணியார்  
 
@@ -5951,7 +7388,9 @@ Shall win the praise of king and all. 665
 
 The will-to-do achieves the deed  
 
-When mind that wills is strong indeed. 666  
+When mind that wills is strong indeed.
+
+ 666  
 
 7. உருவுகண்டு எள்ளாமை வேண்டும் உருள்பெருந்தேர்க்கு  
 
@@ -5959,7 +7398,9 @@ When mind that wills is strong indeed. 666
 
 Scorn not the form: for men there are  
 
-Like linchpin of big rolling car. 667  
+Like linchpin of big rolling car.
+
+ 667  
 
 8. கலங்காது கண்ட வினைக்கண் துளங்காது  
 
@@ -5967,7 +7408,9 @@ Like linchpin of big rolling car. 667
 
 Waver not; do wakefully  
 
-The deed resolved purposefully. 668  
+The deed resolved purposefully.
+
+ 668  
 
 9. துன்பம் உறவரினும் செய்க துணிவாற்றி  
 
@@ -5975,7 +7418,9 @@ The deed resolved purposefully. 668
 
 Do with firm will though pains beset  
 
-The deed that brings delight at last. 669  
+The deed that brings delight at last.
+
+ 669  
 
 10. எனைத்திட்பம் எய்தியக் கண்ணும் வினைத்திட்பம்  
 
@@ -5983,13 +7428,17 @@ The deed that brings delight at last. 669
 
 The world merits no other strength  
 
-But strength of will-to-do at length. 670  
+But strength of will-to-do at length.
+
+ 670  
 
 -------  
 
   
 
-### 68. வினைசெயல்வகை - Modes of action  
+###
+
+ 68. வினைசெயல்வகை - Modes of action  
 
   
 
@@ -5999,7 +7448,9 @@ But strength of will-to-do at length. 670
 
 When counsel takes a resolve strong  
 
-Weak delay of action is wrong. 671  
+Weak delay of action is wrong.
+
+ 671  
 
 2. தூங்குக தூங்கிச் செயற்பால தூங்கற்க  
 
@@ -6007,7 +7458,9 @@ Weak delay of action is wrong. 671
 
 Delay such acts as need delay  
 
-Delay not acts that need display. 672  
+Delay not acts that need display.
+
+ 672  
 
 3. ஒல்லும்வா யெல்லாம் வினைநன்றே ஒல்லாக்கால்  
 
@@ -6015,7 +7468,9 @@ Delay not acts that need display. 672
 
 It's best to act when feasible  
 
-If not see what is possible. 673  
+If not see what is possible.
+
+ 673  
 
 4. வினைபகை என்றிரண்டின் எச்சம் நினையுங்கால்  
 
@@ -6023,7 +7478,9 @@ If not see what is possible. 673
 
 Work or foe left unfinished  
 
-Flare up like fire unextinguished. 674  
+Flare up like fire unextinguished.
+
+ 674  
 
 5. பொருள்கருவி காலம் வினையிடனொடு ஐந்தும்  
 
@@ -6031,7 +7488,9 @@ Flare up like fire unextinguished. 674
 
 Money and means, time, place and deed  
 
-Decide these five and then proceed. 675  
+Decide these five and then proceed.
+
+ 675  
 
 6. முடிவும் இடையூறும் முற்றியாங்கு எய்தும்  
 
@@ -6039,7 +7498,9 @@ Decide these five and then proceed. 675
 
 Weigh well the end, hindrance, profit  
 
-And then pursue a fitting act. 676  
+And then pursue a fitting act.
+
+ 676  
 
 7. செய்வினை செய்வான் செயல்முறை அவ்வினை  
 
@@ -6047,7 +7508,9 @@ And then pursue a fitting act. 676
 
 Know first the secret from experts  
 
-That is the way of fruitful acts. 677  
+That is the way of fruitful acts.
+
+ 677  
 
 8. வினையால் வினையாக்கிக் கோடல் நனைகவுள்  
 
@@ -6055,7 +7518,9 @@ That is the way of fruitful acts. 677
 
 Lure a tusker by a tusker  
 
-Achieve a deed by deed better. 678  
+Achieve a deed by deed better.
+
+ 678  
 
 9. நட்டார்க்கு நல்ல செயலின் விரைந்ததே  
 
@@ -6063,7 +7528,9 @@ Achieve a deed by deed better. 678
 
 Than doing good to friends it is  
 
-More urgent to befriend the foes. 679  
+More urgent to befriend the foes.
+
+ 679  
 
 10. உறைசிறியார் உள்நடுங்கல் அஞ்சிக் குறைபெறின்  
 
@@ -6071,13 +7538,17 @@ More urgent to befriend the foes. 679
 
 Small statesmen fearing people's fear  
 
-Submit to foes superior. 680  
+Submit to foes superior.
+
+ 680  
 
 --------  
 
   
 
-### 69. தூது - The embassy  
+###
+
+ 69. தூது - The embassy  
 
   
 
@@ -6087,7 +7558,9 @@ Submit to foes superior. 680
 
 Love, noble birth, good courtesy  
 
-Pleasing kings mark true embassy. 681  
+Pleasing kings mark true embassy.
+
+ 681  
 
 2. அன்பறிவு ஆராய்ந்த சொல்வன்மை தூதுரைப்பார்க்கு  
 
@@ -6095,7 +7568,9 @@ Pleasing kings mark true embassy. 681
 
 Envoys must bear love for their prince  
 
-Knowledge and learned eloquence. 682  
+Knowledge and learned eloquence.
+
+ 682  
 
 3. நூலாருள் நூல்வல்லன் ஆகுதல் வேலாருள்  
 
@@ -6103,7 +7578,9 @@ Knowledge and learned eloquence. 682
 
 Savant among savants, he pleads  
 
-Before lanced king, triumphant words. 683  
+Before lanced king, triumphant words.
+
+ 683  
 
 4. அறிவுரு ஆராய்ந்த கல்விஇம் மூன்றன்  
 
@@ -6111,7 +7588,9 @@ Before lanced king, triumphant words. 683
 
 Who has these three: good form, sense, lore  
 
-Can act as bold ambassador. 684  
+Can act as bold ambassador.
+
+ 684  
 
 5. தொகச்சொல்லித் தூவாத நீக்கி நகச்சொல்லி  
 
@@ -6119,7 +7598,9 @@ Can act as bold ambassador. 684
 
 Not harsh, the envoy's winsome ways  
 
-Does good by pleasant words concise. 685  
+Does good by pleasant words concise.
+
+ 685  
 
 6. கற்றுக்கண் அஞ்சான் செலச்சொல்லிக் காலத்தால்  
 
@@ -6127,7 +7608,9 @@ Does good by pleasant words concise. 685
 
 Learned; fearless, the envoy tends  
 
-Convincing words which time demands. 686  
+Convincing words which time demands.
+
+ 686  
 
 7. கடனறிந்து காலம் கருதி இடனறிந்து  
 
@@ -6135,7 +7618,9 @@ Convincing words which time demands. 686
 
 Knowing duty time and place  
 
-The envoy employs mature phrase. 687  
+The envoy employs mature phrase.
+
+ 687  
 
 8. தூய்மை துணைமை துணிவுடைமை இம்மூன்றின்  
 
@@ -6143,7 +7628,9 @@ The envoy employs mature phrase. 687
 
 The true envoy of three virtues  
 
-Is pure helpful and bold in views. 688  
+Is pure helpful and bold in views.
+
+ 688  
 
 9. விடுமாற்றம் வேந்தர்க்கு உரைப்பான் வடுமாற்றம் -  
 
@@ -6151,7 +7638,9 @@ Is pure helpful and bold in views. 688
 
 The envoy who ports the king's message  
 
-Has flawless words and heart's courage. 689  
+Has flawless words and heart's courage.
+
+ 689  
 
 10. இறுதி பயப்பினும் எஞ்சாது இறைவர்க்கு  
 
@@ -6159,13 +7648,17 @@ Has flawless words and heart's courage. 689
 
 Braving death the bold envoy  
 
-Assures his king's safety and joy. 690  
+Assures his king's safety and joy.
+
+ 690  
 
 ---------  
 
   
 
-### 70. மன்னரைச் சேர்ந்தொழுகல் - Walk with kings  
+###
+
+ 70. மன்னரைச் சேர்ந்தொழுகல் - Walk with kings  
 
   
 
@@ -6175,7 +7668,9 @@ Assures his king's safety and joy. 690
 
 Move with hostile kings as with fire  
 
-Not coming close nor going far. 691  
+Not coming close nor going far.
+
+ 691  
 
 2. மன்னர் விழைப விழையாமை மன்னரால்  
 
@@ -6183,7 +7678,9 @@ Not coming close nor going far. 691
 
 Crave not for things which kings desire  
 
-This brings thee their fruitful favour. 692  
+This brings thee their fruitful favour.
+
+ 692  
 
 3. போற்றின் அரியவை போற்றல் கடுத்தபின்  
 
@@ -6191,7 +7688,9 @@ This brings thee their fruitful favour. 692
 
 Guard thyself from petty excess  
 
-Suspected least, there's no redress. 693  
+Suspected least, there's no redress.
+
+ 693  
 
 4. செவிச்சொல்லும் சேர்ந்த நகையும் அவித்தொழுகல்  
 
@@ -6199,7 +7698,9 @@ Suspected least, there's no redress. 693
 
 Whisper not; nor smile exchange  
 
-Amidst august men's assemblage. 694  
+Amidst august men's assemblage.
+
+ 694  
 
 5. எப்பொருளும் ஓரார் தொடரார்மற் றப்பொருளை  
 
@@ -6207,7 +7708,9 @@ Amidst august men's assemblage. 694
 
 Hear not, ask not the king's secret  
 
-Hear only when he lets it out. 695  
+Hear only when he lets it out.
+
+ 695  
 
 6. குறிப்பறிந்து காலம் கருதி வெறுப்பில்  
 
@@ -6215,7 +7718,9 @@ Hear only when he lets it out. 695
 
 Discern his mood and time and tell  
 
-No dislikes but what king likes well. 696  
+No dislikes but what king likes well.
+
+ 696  
 
 7. வேட்பன சொல்லி வினையில எஞ்ஞான்றும்  
 
@@ -6223,7 +7728,9 @@ No dislikes but what king likes well. 696
 
 Tell pleasing things; and never tell  
 
-Even if pressed what is futile. 697  
+Even if pressed what is futile.
+
+ 697  
 
 8. இளையர் இனமுறையர் என்றிகழார் நின்ற  
 
@@ -6231,7 +7738,9 @@ Even if pressed what is futile. 697
 
 As young and kinsman do not slight;  
 
-Look with awe king's light and might. 698  
+Look with awe king's light and might.
+
+ 698  
 
 9. கொளப்பட்டேம் என்றெண்ணிக் கொள்ளாத செய்யார்  
 
@@ -6239,7 +7748,9 @@ Look with awe king's light and might. 698
 
 The clear-visioned do nothing base  
 
-Deeming they have the monarch's grace. 699  
+Deeming they have the monarch's grace.
+
+ 699  
 
 10. பழையம் எனக்கருதிப் பண்பல்ல செய்யும்  
 
@@ -6247,13 +7758,17 @@ Deeming they have the monarch's grace. 699
 
 Worthless acts based on friendship old  
 
-Shall spell ruin and woe untold. 700  
+Shall spell ruin and woe untold.
+
+ 700  
 
 ------------  
 
   
 
-### 71. குறிப்பறிதல் - Divining the mind  
+###
+
+ 71. குறிப்பறிதல் - Divining the mind  
 
   
 
@@ -6263,7 +7778,9 @@ Shall spell ruin and woe untold. 700
 
 Who reads the mind by look, untold  
 
-Adorns the changeless sea-girt world. 701  
+Adorns the changeless sea-girt world.
+
+ 701  
 
 2. ஐயப் படாஅது அகத்தது உணர்வானைத்  
 
@@ -6271,7 +7788,9 @@ Adorns the changeless sea-girt world. 701
 
 Take him as God who reads the thought  
 
-Of another man without a doubt. 702  
+Of another man without a doubt.
+
+ 702  
 
 3. குறிப்பிற் குறிப்புணர் வாரை உறுப்பினுள்  
 
@@ -6279,7 +7798,9 @@ Of another man without a doubt. 702
 
 By sign who scans the sign admit  
 
-At any cost in cabinet. 703  
+At any cost in cabinet.
+
+ 703  
 
 4. குறித்தது கூறாமைக் கொள்வாரோ டேனை  
 
@@ -6287,7 +7808,9 @@ At any cost in cabinet. 703
 
 Untold, he who divines the thought  
 
-Though same in form is quite apart. 704  
+Though same in form is quite apart.
+
+ 704  
 
 5. குறிப்பிற் குறிப்புணரா வாயின் உறுப்பினுள்  
 
@@ -6295,7 +7818,9 @@ Though same in form is quite apart. 704
 
 Among senses what for is eye  
 
-If thought by thought one can't descry? 705  
+If thought by thought one can't descry?
+
+ 705  
 
 6. அடுத்தது காட்டும் பளிங்குபோல் நெஞ்சம்  
 
@@ -6303,7 +7828,9 @@ If thought by thought one can't descry? 705
 
 What throbs in mind the face reflects  
 
-Just as mirror nearby objects. 706  
+Just as mirror nearby objects.
+
+ 706  
 
 7. முகத்தின் முதுக்குறைந்தது உண்டோ உவப்பினும்  
 
@@ -6311,7 +7838,9 @@ Just as mirror nearby objects. 706
 
 Than face what is subtler to tell  
 
-First if the mind feels well or ill. 707  
+First if the mind feels well or ill.
+
+ 707  
 
 8. முகம்நோக்கி நிற்க அமையும் அகம்நோக்கி  
 
@@ -6319,7 +7848,9 @@ First if the mind feels well or ill. 707
 
 Just standing in front would suffice  
 
-For those who read the mind on face. 708  
+For those who read the mind on face.
+
+ 708  
 
 9. பகைமையும் கேண்மையும் கண்ணுரைக்கும் கண்ணின்  
 
@@ -6327,7 +7858,9 @@ For those who read the mind on face. 708
 
 Friend or foe the eyes will show  
 
-To those who changing outlooks know. 709  
+To those who changing outlooks know.
+
+ 709  
 
 10. நுண்ணியம் என்பார் அளக்கும்கோல் காணும்கால்  
 
@@ -6335,13 +7868,17 @@ To those who changing outlooks know. 709
 
 The scale of keen discerning minds  
 
-Is eye and eye that secrets finds. 710  
+Is eye and eye that secrets finds.
+
+ 710  
 
 ----------  
 
   
 
-### 72. அவையறிதல் - Judging the audience  
+###
+
+ 72. அவையறிதல் - Judging the audience  
 
   
 
@@ -6351,7 +7888,9 @@ Is eye and eye that secrets finds. 710
 
 The pure in thought and eloquence  
 
-Adapt their words to audience. 711  
+Adapt their words to audience.
+
+ 711  
 
 2. இடைதெரிந்து நன்குணர்ந்து சொல்லுக சொல்லின்  
 
@@ -6359,7 +7898,9 @@ Adapt their words to audience. 711
 
 Who know the art of speech shall suit  
 
-Their chosen words to time in fact. 712  
+Their chosen words to time in fact.
+
+ 712  
 
 3. அவையறியார் சொல்லல்மேற் கொள்பவர் சொல்லின்  
 
@@ -6367,7 +7908,9 @@ Their chosen words to time in fact. 712
 
 They speak in vain at length who talk  
 
-Words unversed which ears don't take. 713  
+Words unversed which ears don't take.
+
+ 713  
 
 4. ஓளியார்முன் ஒள்ளிய ராதல் வெளியார்முன்  
 
@@ -6375,7 +7918,9 @@ Words unversed which ears don't take. 713
 
 Before the bright be brilliant light  
 
-Before the muff be mortar white. 714  
+Before the muff be mortar white.
+
+ 714  
 
 5. நன்றென்ற வற்றுள்ளும் நன்றே முதுவருள்  
 
@@ -6383,7 +7928,9 @@ Before the muff be mortar white. 714
 
 Modest restraint all good excels  
 
-Which argues not before elders. 715  
+Which argues not before elders.
+
+ 715  
 
 6. ஆற்றின் நிலைதளர்ந் தற்றே வியன்புலம்  
 
@@ -6391,7 +7938,9 @@ Which argues not before elders. 715
 
 Tongue-slip before the talented wise  
 
-Is like slipping from righteous ways. 716  
+Is like slipping from righteous ways.
+
+ 716  
 
 7. கற்றறிந்தார் கல்வி விளங்கும் கசடறச்  
 
@@ -6399,7 +7948,9 @@ Is like slipping from righteous ways. 716
 
 The learning of the learned shines  
 
-Valued by flawless scholar-minds. 717  
+Valued by flawless scholar-minds.
+
+ 717  
 
 8. உணர்வ துடையார்முன் சொல்லல் வளர்வதன்  
 
@@ -6407,7 +7958,9 @@ Valued by flawless scholar-minds. 717
 
 To address understanding ones  
 
-Is to water beds of growing grains. 718  
+Is to water beds of growing grains.
+
+ 718  
 
 9. புல்லவையுள் பொச்சாந்தும் சொல்லற்க நல்லவையுள்  
 
@@ -6415,7 +7968,9 @@ Is to water beds of growing grains. 718
 
 O ye who speak before the keen  
 
-Forgetful, address not the mean. 719  
+Forgetful, address not the mean.
+
+ 719  
 
 10. அங்கணத்துள் உக்க அமிழ்தற்றால் தம்கணத்தார்  
 
@@ -6423,13 +7978,17 @@ Forgetful, address not the mean. 719
 
 To hostiles who wise words utters  
 
-Pours ambrosia into gutters. 720  
+Pours ambrosia into gutters.
+
+ 720  
 
 --------  
 
   
 
-### 73. அவையஞ்சாமை - Courage before councils  
+###
+
+ 73. அவையஞ்சாமை - Courage before councils  
 
   
 
@@ -6439,7 +7998,9 @@ Pours ambrosia into gutters. 720
 
 The pure fail not in power of words  
 
-Knowing grand council's moods and modes. 721  
+Knowing grand council's moods and modes.
+
+ 721  
 
 2. கற்றாருள் கற்றார் எனப்படுவர் கற்றார்முன்  
 
@@ -6447,7 +8008,9 @@ Knowing grand council's moods and modes. 721
 
 Among scholars he is scholar  
 
-Who holds scholars with learned lore. 722  
+Who holds scholars with learned lore.
+
+ 722  
 
 3. பகையகத்துச் சாவார் எளியர் அரியர்  
 
@@ -6455,7 +8018,9 @@ Who holds scholars with learned lore. 722
 
 Many brave foes and die in fields  
 
-The fearless few face wise councils. 723  
+The fearless few face wise councils.
+
+ 723  
 
 4. கற்றார்முன் கற்ற செலச்சொல்லித் தாம்கற்ற  
 
@@ -6463,7 +8028,9 @@ The fearless few face wise councils. 723
 
 Impress the learned with your lore  
 
-From greater savants learn still more. 724  
+From greater savants learn still more.
+
+ 724  
 
 5. ஆற்றின் அளவறிந்து கற்க அவையஞ்சா  
 
@@ -6471,7 +8038,9 @@ From greater savants learn still more. 724
 
 Grammar and logic learn so that  
 
-Foes you can boldly retort. 725  
+Foes you can boldly retort.
+
+ 725  
 
 6. வாளொடென் வன்கண்ணர் அல்லார்க்கு நூலொடென்  
 
@@ -6479,7 +8048,9 @@ Foes you can boldly retort. 725
 
 To cowards what can sword avail  
 
-And books to those who councils fail? 726  
+And books to those who councils fail?
+
+ 726  
 
 7. பகையகத்துப் பேடிகை ஒள்வாள் அவையகத்து  
 
@@ -6487,7 +8058,9 @@ And books to those who councils fail? 726
 
 Like eunuch's sword in field, is vain  
 
-His lore who fears men of brain. 727  
+His lore who fears men of brain.
+
+ 727  
 
 8. பல்லவை கற்றும் பயமிலரே நல்லவையுள்  
 
@@ -6495,7 +8068,9 @@ His lore who fears men of brain. 727
 
 Though learned much his lore is dead  
 
-Who says no good before the good. 728  
+Who says no good before the good.
+
+ 728  
 
 9. கல்லா தவரின் கடையென்ப கற்றறிந்தும்  
 
@@ -6503,7 +8078,9 @@ Who says no good before the good. 728
 
 Who fear to face good assembly  
 
-Are learned idiots, certainly. 729  
+Are learned idiots, certainly.
+
+ 729  
 
 10. உளரெனினும் இல்லாரொடு ஒப்பர் களன்அஞ்சிக்  
 
@@ -6511,13 +8088,17 @@ Are learned idiots, certainly. 729
 
 They are breathing dead who dare not  
 
-Empress before the wise their art. 730  
+Empress before the wise their art.
+
+ 730  
 
 -----------  
 
   
 
-### 2.3 அரணியல், கூழியல், படையியல் – POLITICS  
+###
+
+ 2.3 அரணியல், கூழியல், படையியல் – POLITICS  
 
 74. நாடு - The country  
 
@@ -6529,7 +8110,9 @@ Empress before the wise their art. 730
 
 It's country which has souls of worth  
 
-Unfailing yields and ample wealth. 731  
+Unfailing yields and ample wealth.
+
+ 731  
 
 2. பெரும்பொருளால் பெட்டக்க தாகி அருங்கேட்டால்  
 
@@ -6537,7 +8120,9 @@ Unfailing yields and ample wealth. 731
 
 The Land has large luring treasure  
 
-Where pests are nil and yields are sure. 732  
+Where pests are nil and yields are sure.
+
+ 732  
 
 3. பொறையொருங்கு மேல்வருங்கால் தாங்கி இறைவற்கு  
 
@@ -6545,7 +8130,9 @@ Where pests are nil and yields are sure. 732
 
 It's land that bears pressing burdens  
 
-And pays its tax which king demands. 733  
+And pays its tax which king demands.
+
+ 733  
 
 4. உறுபசியும் ஓவாப் பிணியும் செறுபகையும்  
 
@@ -6553,7 +8140,9 @@ And pays its tax which king demands. 733
 
 It is country which is free from  
 
-Fierce famine, plague and foemen's harm. 734  
+Fierce famine, plague and foemen's harm.
+
+ 734  
 
 5. பல்குழுவும் பாழ்செய்யும் உட்பகையும் வேந்தலைக்கும்  
 
@@ -6561,7 +8150,9 @@ Fierce famine, plague and foemen's harm. 734
 
 Sects and ruinous foes are nil  
 
-No traitors in a land tranquil. 735  
+No traitors in a land tranquil.
+
+ 735  
 
 6. கேடறியாக் கெட்ட விடத்தும் வளங்குன்றா  
 
@@ -6569,7 +8160,9 @@ No traitors in a land tranquil. 735
 
 The land of lands no ruin knows  
 
-Even in grief its wealth yet grows. 736  
+Even in grief its wealth yet grows.
+
+ 736  
 
 7. இருபுனலும் வாய்ந்த மலையும் வருபுனலும்  
 
@@ -6577,7 +8170,9 @@ Even in grief its wealth yet grows. 736
 
 Waters up and down, hills and streams  
 
-With strong forts as limbs country beams. 737  
+With strong forts as limbs country beams.
+
+ 737  
 
 8. பிணியின்மை செல்வம் விளைவுஇன்பம் ஏமம்  
 
@@ -6585,7 +8180,9 @@ With strong forts as limbs country beams. 737
 
 Rich yield, delight, defence and wealth  
 
-Are jewels of lands with blooming health. 738  
+Are jewels of lands with blooming health.
+
+ 738  
 
 9. நாடென்ப நாடா வளத்தன நாடல்ல  
 
@@ -6593,7 +8190,9 @@ Are jewels of lands with blooming health. 738
 
 A land is land which yields unsought  
 
-Needing hard work the land is nought. 739  
+Needing hard work the land is nought.
+
+ 739  
 
 10. ஆங்கமை வெய்தியக் கண்ணும் பயமின்றே  
 
@@ -6601,13 +8200,17 @@ Needing hard work the land is nought. 739
 
 Though a land has thus every thing  
 
-It is worthless without a king. 740  
+It is worthless without a king.
+
+ 740  
 
 -----------  
 
   
 
-### 75. அரண் - Fortress  
+###
+
+ 75. அரண் - Fortress  
 
   
 
@@ -6617,7 +8220,9 @@ It is worthless without a king. 740
 
 The fort is vital for offence  
 
-Who fear the foes has its defence. 741  
+Who fear the foes has its defence.
+
+ 741  
 
 2. மணிநீரும் மண்ணும் மலையும் அணிநிழற்  
 
@@ -6625,7 +8230,9 @@ Who fear the foes has its defence. 741
 
 A crystal fount, a space a mount  
 
-Thick woods form a fort paramount. 742  
+Thick woods form a fort paramount.
+
+ 742  
 
 3. உயர்வகலம் திண்மை அருமைஇந் நான்கின்  
 
@@ -6633,7 +8240,9 @@ Thick woods form a fort paramount. 742
 
 An ideal fort's so says science:  
 
-High, broad, strong and hard for access. 743  
+High, broad, strong and hard for access.
+
+ 743  
 
 4. சிறுகாப்பிற் பேரிடத்த தாகி உறுபகை  
 
@@ -6641,7 +8250,9 @@ High, broad, strong and hard for access. 743
 
 Ample in space, easy to hold  
 
-The fort foils enemies bold. 744  
+The fort foils enemies bold.
+
+ 744  
 
 5. கொளற்கரிதாய்க் கொண்டகூழ்த் தாகி அகத்தார்  
 
@@ -6649,7 +8260,9 @@ The fort foils enemies bold. 744
 
 Impregnable with stores of food  
 
-Cosy to live-That fort is good. 745  
+Cosy to live-That fort is good.
+
+ 745  
 
 6. எல்லாப் பொருளும் உடைத்தாய் இடத்துதவும்  
 
@@ -6657,7 +8270,9 @@ Cosy to live-That fort is good. 745
 
 A fort is full of stores and arms  
 
-And brave heroes to meet alarms. 746  
+And brave heroes to meet alarms.
+
+ 746  
 
 7. முற்றியும் முற்றா தெறிந்தும் அறைப்படுத்தும்  
 
@@ -6665,7 +8280,9 @@ And brave heroes to meet alarms. 746
 
 Besieging foes a fort withstands  
 
-Darts and mines of treacherous hands. 747  
+Darts and mines of treacherous hands.
+
+ 747  
 
 8. முற்றாற்றி முற்றி யவரையும் பற்றாற்றிப்  
 
@@ -6673,7 +8290,9 @@ Darts and mines of treacherous hands. 747
 
 A fort holds itself and defies  
 
-The attacks of encircling foes. 748  
+The attacks of encircling foes.
+
+ 748  
 
 9. முனைமுகத்து மாற்றலர் சாய வினைமுகத்து  
 
@@ -6681,7 +8300,9 @@ The attacks of encircling foes. 748
 
 A fort it is that fells the foes  
 
-And gains by deeds a name glorious. 749  
+And gains by deeds a name glorious.
+
+ 749  
 
 10. எனைமாட்சித் தாகியக் கண்ணும் வினைமாட்சி  
 
@@ -6689,13 +8310,17 @@ And gains by deeds a name glorious. 749
 
 But a fort however grand  
 
-Is nil if heroes do not stand. 750  
+Is nil if heroes do not stand.
+
+ 750  
 
 -----------  
 
   
 
-### 76. பொருள் செயல்வகை - Way of making wealth  
+###
+
+ 76. பொருள் செயல்வகை - Way of making wealth  
 
   
 
@@ -6705,7 +8330,9 @@ Is nil if heroes do not stand. 750
 
 Naught exists that can, save wealth  
 
-Make the worthless as men of worth. 751  
+Make the worthless as men of worth.
+
+ 751  
 
 2. இல்லாரை எல்லோரும் எள்ளுவர் செல்வரை  
 
@@ -6713,7 +8340,9 @@ Make the worthless as men of worth. 751
 
 The have-nothing poor all despise  
 
-The men of wealth all raise and praise. 752  
+The men of wealth all raise and praise.
+
+ 752  
 
 3. பொருளென்னும் பொய்யா விளக்கம் இருளறுக்கும்  
 
@@ -6721,7 +8350,9 @@ The men of wealth all raise and praise. 752
 
 Waneless wealth is light that goes  
 
-To every land and gloom removes. 753  
+To every land and gloom removes.
+
+ 753  
 
 4. அறன்ஈனும் இன்பமும் ஈனும் திறனறிந்து  
 
@@ -6729,7 +8360,9 @@ To every land and gloom removes. 753
 
 The blameless wealth from fairest means  
 
-Brings good virtue and also bliss. 754  
+Brings good virtue and also bliss.
+
+ 754  
 
 5. அருளொடும் அன்பொடும் வாராப் பொருளாக்கம்  
 
@@ -6737,7 +8370,9 @@ Brings good virtue and also bliss. 754
 
 Riches devoid of love and grace  
 
-Off with it; it is disgrace! 755  
+Off with it; it is disgrace!
+
+ 755  
 
 6. உறுபொருளும் உல்கு பொருளும்தன் ஒன்னார்த்  
 
@@ -6745,7 +8380,9 @@ Off with it; it is disgrace! 755
 
 Escheats, derelicts; spoils of war  
 
-Taxes duties are king's treasure. 756  
+Taxes duties are king's treasure.
+
+ 756  
 
 7. அருளென்னும் அன்பீன் குழவி பொருளென்னும்  
 
@@ -6753,7 +8390,9 @@ Taxes duties are king's treasure. 756
 
 Grace the child of love is nourished  
 
-By the wet-nurse of wealth cherished. 757  
+By the wet-nurse of wealth cherished.
+
+ 757  
 
 8. குன்றேறி யானைப்போர் கண்டற்றால் தன்கைத்தொன்று  
 
@@ -6761,7 +8400,9 @@ By the wet-nurse of wealth cherished. 757
 
 Treasures in hand fulfil all things  
 
-Like hill-tuskers the wars of kings. 758  
+Like hill-tuskers the wars of kings.
+
+ 758  
 
 9. செய்க பொருளை செறுநர் செருக்கறுக்கும்  
 
@@ -6769,7 +8410,9 @@ Like hill-tuskers the wars of kings. 758
 
 Make wealth; there is no sharper steel  
 
-The insolence of foes to quell. 759  
+The insolence of foes to quell.
+
+ 759  
 
 10. ஒண்பொருள் காழ்ப்ப இயற்றியார்க்கு எண்பொருள்  
 
@@ -6777,13 +8420,17 @@ The insolence of foes to quell. 759
 
 They have joy and virtue at hand  
 
-Who acquire treasures abundant. 760  
+Who acquire treasures abundant.
+
+ 760  
 
 -----------  
 
   
 
-### 77. படைமாட்சி - The glory of army  
+###
+
+ 77. படைமாட்சி - The glory of army  
 
   
 
@@ -6793,7 +8440,9 @@ Who acquire treasures abundant. 760
 
 The daring well-armed winning force  
 
-Is king's treasure and main resource. 761  
+Is king's treasure and main resource.
+
+ 761  
 
 2. உலைவிடத்து ஊறஞ்சா வன்கண் தொலைவிடத்துத்  
 
@@ -6801,7 +8450,9 @@ Is king's treasure and main resource. 761
 
 Through shots and wounds brave heroes hold  
 
-Quailing not in fall, the field. 762  
+Quailing not in fall, the field.
+
+ 762  
 
 3. ஒலித்தக்கால் என்னாம் உவரி எலிப்பகை  
 
@@ -6809,7 +8460,9 @@ Quailing not in fall, the field. 762
 
 Sea-like ratfoes roar ... What if?  
 
-They perish at a cobra's whiff. 763  
+They perish at a cobra's whiff.
+
+ 763  
 
 4. அழிவின்று அறைபோகா தாகி வழிவந்த  
 
@@ -6817,7 +8470,9 @@ They perish at a cobra's whiff. 763
 
 The army guards its genial flame  
 
-Not crushed, routed nor marred in name. 764  
+Not crushed, routed nor marred in name.
+
+ 764  
 
 5. கூற்றுடன்று மேல்வரினும் கூடி எதிர்நிற்கும்  
 
@@ -6825,7 +8480,9 @@ Not crushed, routed nor marred in name. 764
 
 The real army with rallied force  
 
-Resists even Death-God fierce. 765  
+Resists even Death-God fierce.
+
+ 765  
 
 6. மறமானம் மாண்ட வழிச்செலவு தேற்றம்  
 
@@ -6833,7 +8490,9 @@ Resists even Death-God fierce. 765
 
 Manly army has merits four:-  
 
-Stately-march, faith, honour, valour. 766  
+Stately-march, faith, honour, valour.
+
+ 766  
 
 7. தார்தாங்கிச் செல்வது தானை தலைவந்த  
 
@@ -6841,7 +8500,9 @@ Stately-march, faith, honour, valour. 766
 
 Army sets on to face the foes  
 
-Knowing how the trend of war goes. 767  
+Knowing how the trend of war goes.
+
+ 767  
 
 8. அடற்றகையும் ஆற்றலும் இல்லெனினும் தானை  
 
@@ -6849,7 +8510,9 @@ Knowing how the trend of war goes. 767
 
 Army gains force by grand array  
 
-Lacking in stay or dash in fray. 768  
+Lacking in stay or dash in fray.
+
+ 768  
 
 9. சிறுமையும் செல்லாத் துனியும் வறுமையும்  
 
@@ -6857,7 +8520,9 @@ Lacking in stay or dash in fray. 768
 
 Army shall win if it is free  
 
-From weakness, aversion, poverty. 769  
+From weakness, aversion, poverty.
+
+ 769  
 
 10. நிலைமக்கள் சால உடைத்தெனினும் தானை  
 
@@ -6865,13 +8530,17 @@ From weakness, aversion, poverty. 769
 
 With troops in large numbers on rolls  
 
-Army can't march missing gen'rals. 770  
+Army can't march missing gen'rals.
+
+ 770  
 
 ---------  
 
   
 
-### 78. படைச்செருக்கு - Military pride  
+###
+
+ 78. படைச்செருக்கு - Military pride  
 
   
 
@@ -6881,7 +8550,9 @@ Army can't march missing gen'rals. 770
 
 Stand not before my chief, O foes!  
 
-Many who stood, in stones repose. 771  
+Many who stood, in stones repose.
+
+ 771  
 
 2. கான முயலெய்த அம்பினில் யானை  
 
@@ -6889,7 +8560,9 @@ Many who stood, in stones repose. 771
 
 To lift a lance that missed a tusker  
 
-Is prouder than shaft that hit a hare. 772  
+Is prouder than shaft that hit a hare.
+
+ 772  
 
 3. பேராண்மை என்ப தறுகண்ஒன் றுற்றக்கால்  
 
@@ -6897,7 +8570,9 @@ Is prouder than shaft that hit a hare. 772
 
 Valour is fight with fierce courage  
 
-Mercy to the fallen is its edge. 773  
+Mercy to the fallen is its edge.
+
+ 773  
 
 4. கைவேல் களிற்றொடு போக்கி வருபவன்  
 
@@ -6905,7 +8580,9 @@ Mercy to the fallen is its edge. 773
 
 At the tusker he flings his lance  
 
-One in body smiles another chance. 774  
+One in body smiles another chance.
+
+ 774  
 
 5. விழித்தகண் வேல்கொண் டெறிய அழித்திமைப்பின்  
 
@@ -6913,7 +8590,9 @@ One in body smiles another chance. 774
 
 When lances dart if heroes wink  
 
-"It is a rout" the world will think. 775  
+"It is a rout" the world will think.
+
+ 775  
 
 6. விழுப்புண் படாதநாள் எல்லாம் வழுக்கினுள்  
 
@@ -6921,7 +8600,9 @@ When lances dart if heroes wink
 
 The brave shall deem the days as vain  
 
-Which did not battle-wounds sustain. 776  
+Which did not battle-wounds sustain.
+
+ 776  
 
 7. சுழலும் இசைவேண்டி வேண்டா உயிரார்  
 
@@ -6929,7 +8610,9 @@ Which did not battle-wounds sustain. 776
 
 Their anklets aloud jingle their name  
 
-Who sacrifice their life for fame. 777  
+Who sacrifice their life for fame.
+
+ 777  
 
 8. உறின்உயிர் அஞ்சா மறவர் இறைவன்  
 
@@ -6937,7 +8620,9 @@ Who sacrifice their life for fame. 777
 
 The king may chide, they pursue strife;  
 
-They fear loss of glory; not life. 778  
+They fear loss of glory; not life.
+
+ 778  
 
 9. இழைத்தது இகவாமைச் சாவாரை யாரே  
 
@@ -6945,7 +8630,9 @@ They fear loss of glory; not life. 778
 
 Who will blame the heroes that lose  
 
-Their lives in war to keep their vows? 779  
+Their lives in war to keep their vows?
+
+ 779  
 
 10. புரந்தார்கண் நீர்மல்கச் சாகிற்பின் சாக்காடு  
 
@@ -6953,13 +8640,17 @@ Their lives in war to keep their vows? 779
 
 Such a death shall be prayed for  
 
-Which draws the tears of the ruler. 780  
+Which draws the tears of the ruler.
+
+ 780  
 
 ----------  
 
   
 
-### 2.4 நட்பியல் – ALLIANCE  
+###
+
+ 2.4 நட்பியல் – ALLIANCE  
 
 79. நட்பு - Friendship  
 
@@ -6971,7 +8662,9 @@ Which draws the tears of the ruler. 780
 
 Like friendship what's so hard to gain?  
 
-That guards one against acts villain? 781  
+That guards one against acts villain?
+
+ 781  
 
 2. நிறைநீர நீரவர் கேண்மை பிறைமதிப்  
 
@@ -6979,7 +8672,9 @@ That guards one against acts villain? 781
 
 Good friendship shines like waxing moon,  
 
-The bad withers like waning moon. 782  
+The bad withers like waning moon.
+
+ 782  
 
 3. நவில்தொறும் நூல்நயம் போலும் பயில்தொறும்  
 
@@ -6987,7 +8682,9 @@ The bad withers like waning moon. 782
 
 Like taste in books good friendship grows  
 
-The more one moves the more he knows. 783  
+The more one moves the more he knows.
+
+ 783  
 
 4. நகுதற் பொருட்டன்று நட்டல் மிகுதிக்கண்  
 
@@ -6995,7 +8692,9 @@ The more one moves the more he knows. 783
 
 Not to laugh is friendship made  
 
-But to hit when faults exceed. 784  
+But to hit when faults exceed.
+
+ 784  
 
 5. புணர்ச்சி பழகுதல் வேண்டா உணர்ச்சிதான்  
 
@@ -7003,7 +8702,9 @@ But to hit when faults exceed. 784
 
 No close living nor clasping grip  
 
-Friendship's feeling heart's fellowship. 785  
+Friendship's feeling heart's fellowship.
+
+ 785  
 
 6. முகநக நட்பது நட்பன்று நெஞ்சத்து  
 
@@ -7011,7 +8712,9 @@ Friendship's feeling heart's fellowship. 785
 
 Friendship is not more smile on face  
 
-It is the smiling heart's embrace. 786  
+It is the smiling heart's embrace.
+
+ 786  
 
 7. அழிவி னவைநீக்கி ஆறுய்த்து அழிவின்கண்  
 
@@ -7019,7 +8722,9 @@ It is the smiling heart's embrace. 786
 
 From ruin friendship saves and shares  
 
-The load of pain and right path shows. 787  
+The load of pain and right path shows.
+
+ 787  
 
 8. உடுக்கை இழந்தவன் கைபோல ஆங்கே  
 
@@ -7027,7 +8732,9 @@ The load of pain and right path shows. 787
 
 Friendship hastens help in mishaps  
 
-Like hands picking up dress that slips. 788  
+Like hands picking up dress that slips.
+
+ 788  
 
 9. நட்பிற்கு வீற்றிருக்கை யாதெனில் கொட்பின்றி  
 
@@ -7035,7 +8742,9 @@ Like hands picking up dress that slips. 788
 
 Friendship is enthroned on the strength  
 
-That always helps with utmost warmth. 789  
+That always helps with utmost warmth.
+
+ 789  
 
 10. இனையர் இவரெமக்கு இன்னம்யாம் என்று  
 
@@ -7043,13 +8752,17 @@ That always helps with utmost warmth. 789
 
 "Such we are and such they are"  
 
-Ev'n this boast will friendship mar. 790  
+Ev'n this boast will friendship mar.
+
+ 790  
 
 -------  
 
   
 
-### 80. நட்பாராய்தல் - Testing friendship  
+###
+
+ 80. நட்பாராய்தல் - Testing friendship  
 
   
 
@@ -7059,7 +8772,9 @@ Ev'n this boast will friendship mar. 790
 
 Than testless friendship nought is worse  
 
-For contacts formed will scarcely cease. 791  
+For contacts formed will scarcely cease.
+
+ 791  
 
 2. ஆய்ந்தாய்ந்து கொள்ளாதான் கேண்மை கடைமுறை  
 
@@ -7067,7 +8782,9 @@ For contacts formed will scarcely cease. 791
 
 Friendship made without frequent test  
 
-Shall end in grief and death at last. 792  
+Shall end in grief and death at last.
+
+ 792  
 
 3. குணனுங் குடிமையும் குற்றமுங் குன்றா  
 
@@ -7075,7 +8792,9 @@ Shall end in grief and death at last. 792
 
 Temper, descent, defects and kins  
 
-Trace well and take companions. 793  
+Trace well and take companions.
+
+ 793  
 
 4. குடிப்பிறந்து தன்கட் பழிநாணு வானைக்  
 
@@ -7083,7 +8802,9 @@ Trace well and take companions. 793
 
 Take as good friend at any price  
 
-The nobly born who shun disgrace. 794  
+The nobly born who shun disgrace.
+
+ 794  
 
 5. அழச்சொல்லி யல்ல திடித்து வழக்கறிய  
 
@@ -7091,7 +8812,9 @@ The nobly born who shun disgrace. 794
 
 Who make you weep and chide wrong trends  
 
-And lead you right are worthy friends. 795  
+And lead you right are worthy friends.
+
+ 795  
 
 6. கேட்டினு முண்டோ ருறுதி கிளைஞரை  
 
@@ -7099,7 +8822,9 @@ And lead you right are worthy friends. 795
 
 Is there a test like misfortune  
 
-A rod to measure out kinsmen? 796  
+A rod to measure out kinsmen?
+
+ 796  
 
 7. ஊதிய மென்ப தொருவற்குப் பேதையார்  
 
@@ -7107,7 +8832,9 @@ A rod to measure out kinsmen? 796
 
 Keep off contacts with fools; that is  
 
-The greatest gain so say the wise. 797  
+The greatest gain so say the wise.
+
+ 797  
 
 8. உள்ளற்க வுள்ளஞ் சிறுகுவ கொள்ளற்க  
 
@@ -7115,7 +8842,9 @@ The greatest gain so say the wise. 797
 
 Off with thoughts that depress the heart  
 
-Off with friends that in woe depart. 798  
+Off with friends that in woe depart.
+
+ 798  
 
 9. கெடுங்காலைக் கைவிடுவார் கேண்மை யடுங்காலை  
 
@@ -7123,7 +8852,9 @@ Off with friends that in woe depart. 798
 
 Friends who betray at ruin's brink  
 
-Burn our mind ev'n at death to think. 799  
+Burn our mind ev'n at death to think.
+
+ 799  
 
 10. மருவுக மாசற்றார் கேண்மையொன் றீந்தும்  
 
@@ -7131,13 +8862,17 @@ Burn our mind ev'n at death to think. 799
 
 The blameless ones as friends embarace;  
 
-Give something and give up the base. 800  
+Give something and give up the base.
+
+ 800  
 
 -----------  
 
   
 
-### 81. பழைமை - Intimacy  
+###
+
+ 81. பழைமை - Intimacy  
 
   
 
@@ -7147,7 +8882,9 @@ Give something and give up the base. 800
 
 That friendship is good amity  
 
-Which restrains not one's liberty. 801  
+Which restrains not one's liberty.
+
+ 801  
 
 2. நட்பிற் குறுப்புக் கெழுதகைமை மற்றதற்கு  
 
@@ -7155,7 +8892,9 @@ Which restrains not one's liberty. 801
 
 Friendship's heart is freedom close;  
 
-Wise men's duty is such to please. 802  
+Wise men's duty is such to please.
+
+ 802  
 
 3. பழகிய நட்பெவன் செய்யும் கெழுதகைமை  
 
@@ -7163,7 +8902,9 @@ Wise men's duty is such to please. 802
 
 Of long friendship what is the use  
 
-Righteous freedom if men refuse? 803  
+Righteous freedom if men refuse?
+
+ 803  
 
 4. விழைதகையான் வேண்டி யிருப்பர் கெழுதகையாற்  
 
@@ -7171,7 +8912,9 @@ Righteous freedom if men refuse? 803
 
 Things done unasked by loving friends  
 
-Please the wise as familiar trends! 804  
+Please the wise as familiar trends!
+
+ 804  
 
 5. பேதைமை ஒன்றோ பெருங்கிழமை என்றுணர்க  
 
@@ -7179,7 +8922,9 @@ Please the wise as familiar trends! 804
 
 Offence of friends feel it easy  
 
-As folloy or close intimacy. 805  
+As folloy or close intimacy.
+
+ 805  
 
 6. எல்லைக்கண் நின்றார் துறவார் தொலைவிடத்தும்  
 
@@ -7187,7 +8932,9 @@ As folloy or close intimacy. 805
 
 They forsake not but continue  
 
-In friendship's bounds though loss ensue. 806  
+In friendship's bounds though loss ensue.
+
+ 806  
 
 7. அழிவந்த செய்யினும் அன்பறார் அன்பின்  
 
@@ -7195,7 +8942,9 @@ In friendship's bounds though loss ensue. 806
 
 Comrades established in firm love  
 
-Though ruin comes waive not their vow. 807  
+Though ruin comes waive not their vow.
+
+ 807  
 
 8. கேளிழுக்கம் கேளாக் கெழுதகைமை வல்லார்க்கு  
 
@@ -7203,7 +8952,9 @@ Though ruin comes waive not their vow. 807
 
 Fast friends who list not tales of ill  
 
-Though wronged they say "that day is well". 808  
+Though wronged they say "that day is well".
+
+ 808  
 
 9. கெடாஅ வழிவந்த கேண்மையார் கேண்மை  
 
@@ -7211,7 +8962,9 @@ Though wronged they say "that day is well". 808
 
 To love such friends the world desires  
 
-Whose friendship has unbroken ties. 809  
+Whose friendship has unbroken ties.
+
+ 809  
 
 10. விழையார் விழையப் படுப பழையார்கண்  
 
@@ -7219,13 +8972,17 @@ Whose friendship has unbroken ties. 809
 
 Even foes love for better ends  
 
-Those who leave not long-standing friends. 810  
+Those who leave not long-standing friends.
+
+ 810  
 
 ---------  
 
   
 
-### 82. தீநட்பு - Bad friendship  
+###
+
+ 82. தீநட்பு - Bad friendship  
 
   
 
@@ -7235,7 +8992,9 @@ Those who leave not long-standing friends. 810
 
 Swallowing love of soulless men  
 
-Had better wane than wax anon. 811  
+Had better wane than wax anon.
+
+ 811  
 
 2. உறின்நட்டு அறின்ஒரூஉம் ஒப்பிலார் கேண்மை  
 
@@ -7243,7 +9002,9 @@ Had better wane than wax anon. 811
 
 Who fawn in wealth and fail in dearth  
 
-Gain or lose; such friends have no worth. 812  
+Gain or lose; such friends have no worth.
+
+ 812  
 
 3. உறுவது சீர்தூக்கும் நட்பும் பெறுவது  
 
@@ -7251,7 +9012,9 @@ Gain or lose; such friends have no worth. 812
 
 Cunning friends who calculate  
 
-Are like thieves and whores wicked. 813  
+Are like thieves and whores wicked.
+
+ 813  
 
 4. அமரகத்து ஆற் றறுக்கும் கல்லாமா அன்னார்  
 
@@ -7259,7 +9022,9 @@ Are like thieves and whores wicked. 813
 
 Better be alone than trust in those  
 
-That throw in field like faithless horse. 814  
+That throw in field like faithless horse.
+
+ 814  
 
 5. செய்தேமஞ் சாராச் சிறியவர் புன்கேண்மை  
 
@@ -7267,7 +9032,9 @@ That throw in field like faithless horse. 814
 
 Friends low and mean that give no help-  
 
-Leave them is better than to keep. 815  
+Leave them is better than to keep.
+
+ 815  
 
 6. பேதை பெருங்கெழீஇ நட்பின் அறிவுடையார்  
 
@@ -7275,7 +9042,9 @@ Leave them is better than to keep. 815
 
 Million times the wise man's hate  
 
-Is better than a fool intimate. 816  
+Is better than a fool intimate.
+
+ 816  
 
 7. நகைவகைய ராகிய நட்பின் பகைவரால்  
 
@@ -7283,7 +9052,9 @@ Is better than a fool intimate. 816
 
 Ten-fold crore you gain from foes  
 
-Than from friends who are vain laughers. 817  
+Than from friends who are vain laughers.
+
+ 817  
 
 8. ஒல்லும் கருமம் உடற்று பவர்கேண்மை  
 
@@ -7291,7 +9062,9 @@ Than from friends who are vain laughers. 817
 
 Without a word those friends eschew  
 
-Who spoil deeds which they can do. 818  
+Who spoil deeds which they can do.
+
+ 818  
 
 9. கனவினும் இன்னாது மன்னோ வினைவேறு  
 
@@ -7299,7 +9072,9 @@ Who spoil deeds which they can do. 818
 
 Even in dreams the tie is bad  
 
-With those whose deed is far from word. 819  
+With those whose deed is far from word.
+
+ 819  
 
 10. எனைத்தும் குறுகுதல் ஓம்பல் மனைக்கெழீஇ  
 
@@ -7307,13 +9082,17 @@ With those whose deed is far from word. 819
 
 Keep aloof from those that smile  
 
-At home and in public revile. 820  
+At home and in public revile.
+
+ 820  
 
 ------------  
 
   
 
-### 83. கூடாநட்பு - False friendship  
+###
+
+ 83. கூடாநட்பு - False friendship  
 
   
 
@@ -7323,7 +9102,9 @@ At home and in public revile. 820
 
 The friendship by an enemy shown  
 
-Is anvil in time, to strike you down. 821  
+Is anvil in time, to strike you down.
+
+ 821  
 
 2. இனம்போன்று இனமல்லார் கேண்மை மகளிர்  
 
@@ -7331,7 +9112,9 @@ Is anvil in time, to strike you down. 821
 
 Who pretend kinship but are not  
 
-Their friendship's fickle like woman's heart. 822  
+Their friendship's fickle like woman's heart.
+
+ 822  
 
 3. பலநல்ல கற்றக் கடைத்தும் மனம்நல்லர்  
 
@@ -7339,7 +9122,9 @@ Their friendship's fickle like woman's heart. 822
 
 They may be vast in good studies  
 
-But heartfelt-love is hard for foes. 823  
+But heartfelt-love is hard for foes.
+
+ 823  
 
 4. முகத்தின் இனிய நகாஅ அகத்தின்னா  
 
@@ -7347,7 +9132,9 @@ But heartfelt-love is hard for foes. 823
 
 Fear foes whose face has winning smiles  
 
-Whose heart is full of cunning guiles. 824  
+Whose heart is full of cunning guiles.
+
+ 824  
 
 5. மனத்தின் அமையா தவரை எனைத்தொன்றும்  
 
@@ -7355,7 +9142,9 @@ Whose heart is full of cunning guiles. 824
 
 Do not trust in what they tell  
 
-Whose mind with your mind goes ill. 825  
+Whose mind with your mind goes ill.
+
+ 825  
 
 6. நட்டார்போல் நல்லவை சொல்லினும் ஒட்டார்சொல்  
 
@@ -7363,7 +9152,9 @@ Whose mind with your mind goes ill. 825
 
 The words of foes is quickly seen  
 
-Though they speak like friends in fine. 826  
+Though they speak like friends in fine.
+
+ 826  
 
 7. சொல்வணக்கம் ஒன்னார்கண் கொள்ளற்க வில்வணக்கம்  
 
@@ -7371,7 +9162,9 @@ Though they speak like friends in fine. 826
 
 Trust not the humble words of foes  
 
-Danger darts from bending bows. 827  
+Danger darts from bending bows.
+
+ 827  
 
 8. தொழுதகை யுள்ளும் படையொடுங்கும் ஒன்னார்  
 
@@ -7379,7 +9172,9 @@ Danger darts from bending bows. 827
 
 Adoring hands of foes hide arms  
 
-Their sobbing tears have lurking harms. 828  
+Their sobbing tears have lurking harms.
+
+ 828  
 
 9. மிகச்செய்து தம்எள்ளு வாரை நகச்செய்து  
 
@@ -7387,7 +9182,9 @@ Their sobbing tears have lurking harms. 828
 
 In open who praise, at heart despise  
 
-Cajole and crush them in friendly guise. 829  
+Cajole and crush them in friendly guise.
+
+ 829  
 
 10. பகைநட்பாம் காலம் வருங்கால் முகநட்டு  
 
@@ -7395,13 +9192,17 @@ Cajole and crush them in friendly guise. 829
 
 When foes, in time, play friendship's part  
 
-Feign love on face but not in heart. 830  
+Feign love on face but not in heart.
+
+ 830  
 
 ----------  
 
   
 
-### 84. பேதைமை - Folly  
+###
+
+ 84. பேதைமை - Folly  
 
   
 
@@ -7411,7 +9212,9 @@ Feign love on face but not in heart. 830
 
 This is folly's prominent vein  
 
-To favour loss and forego gain. 831  
+To favour loss and forego gain.
+
+ 831  
 
 2. பேதைமையு ளெல்லாம் பேதைமை காதன்மை  
 
@@ -7419,7 +9222,9 @@ To favour loss and forego gain. 831
 
 Folly of follies is to lead  
 
-A lewd and lawless life so bad. 832  
+A lewd and lawless life so bad.
+
+ 832  
 
 3. நாணாமை நாடாமை நாரின்மை யாதொன்றும்  
 
@@ -7427,7 +9232,9 @@ A lewd and lawless life so bad. 832
 
 Shameless, aimless, callous, listless  
 
-Such are the marks of foolishness. 833  
+Such are the marks of foolishness.
+
+ 833  
 
 4. ஓதி உணர்ந்தும் பிறர்க்குரைத்தும் தானடங்காப்  
 
@@ -7435,7 +9242,9 @@ Such are the marks of foolishness. 833
 
 No fool equals the fool who learns  
 
-Knows, teaches, but self-control spurns. 834  
+Knows, teaches, but self-control spurns.
+
+ 834  
 
 5. ஒருமைச் செயலாற்றும் பேதை எழுமையும்  
 
@@ -7443,7 +9252,9 @@ Knows, teaches, but self-control spurns. 834
 
 The fool suffers seven fold hells  
 
-In single birth of hellish ills. 835  
+In single birth of hellish ills.
+
+ 835  
 
 6. பொய்படும் ஒன்றொ புனைபூணும் கையறியாப்  
 
@@ -7451,7 +9262,9 @@ In single birth of hellish ills. 835
 
 A know-nothing fool daring a deed  
 
-Not only fails but feels fettered. 836  
+Not only fails but feels fettered.
+
+ 836  
 
 7. ஏதிலார் ஆரத் தமர்பசிப்பர் பேதை  
 
@@ -7459,7 +9272,9 @@ Not only fails but feels fettered. 836
 
 Strangers feast and kinsmen fast  
 
-When fools mishandle fortunes vast. 837  
+When fools mishandle fortunes vast.
+
+ 837  
 
 8. மையல் ஒருவன் களித்தற்றால் பேதைதன்  
 
@@ -7467,7 +9282,9 @@ When fools mishandle fortunes vast. 837
 
 Fools possessing something on hand  
 
-Like dazed and drunken stupids stand. 838  
+Like dazed and drunken stupids stand.
+
+ 838  
 
 9. பெரிதினிது பேதையார் கேண்மை பிரிவின்கண்  
 
@@ -7475,7 +9292,9 @@ Like dazed and drunken stupids stand. 838
 
 Friendship with fools is highly sweet  
 
-For without a groan we part. 839  
+For without a groan we part.
+
+ 839  
 
 10. கழாஅக்கால் பள்ளியுள் வைத்தற்றால் சான்றோர்  
 
@@ -7483,13 +9302,17 @@ For without a groan we part. 839
 
 Entrance of fools where Savants meet  
 
-Looks like couch trod by unclean feet. 840  
+Looks like couch trod by unclean feet.
+
+ 840  
 
 ---------  
 
   
 
-### 85. புல்லறிவாண்மை - Petty conceit  
+###
+
+ 85. புல்லறிவாண்மை - Petty conceit  
 
   
 
@@ -7499,7 +9322,9 @@ Looks like couch trod by unclean feet. 840
 
 Want of wisdom is want of wants  
 
-Want of aught else the world nev'r counts. 841  
+Want of aught else the world nev'r counts.
+
+ 841  
 
 2. அறிவிலான் நெஞ்சுவந்து ஈதல் பிறிதுயாதும்  
 
@@ -7507,7 +9332,9 @@ Want of aught else the world nev'r counts. 841
 
 When fool bestows with glee a gift  
 
-It comes but by getter's merit. 842  
+It comes but by getter's merit.
+
+ 842  
 
 3. அறிவிலார் தாம்தம்மைப் பீழிக்கும் பீழை  
 
@@ -7515,7 +9342,9 @@ It comes but by getter's merit. 842
 
 The self-torments of fools exceed  
 
-Ev'n tortures of their foes indeed. 843  
+Ev'n tortures of their foes indeed.
+
+ 843  
 
 4. வெண்மை எனப்படுவது யாதெனின் ஒண்மை  
 
@@ -7523,7 +9352,9 @@ Ev'n tortures of their foes indeed. 843
 
 Stupidity is vanity  
 
-That cries "We have sagacity" 844  
+That cries "We have sagacity"
+
+ 844  
 
 5. கல்லாத மேற்கொண்டு ஒழுகல் கசடற  
 
@@ -7531,7 +9362,9 @@ That cries "We have sagacity" 844
 
 Feigning knowledge that one has not  
 
-Leads to doubt ev'n that he has got. 845  
+Leads to doubt ev'n that he has got.
+
+ 845  
 
 6. அற்றம் மறைத்தலோ புல்லறிவு தம்வயின்  
 
@@ -7539,7 +9372,9 @@ Leads to doubt ev'n that he has got. 845
 
 Fools their nakedness conceal  
 
-And yet their glaring faults reveal. 846  
+And yet their glaring faults reveal.
+
+ 846  
 
 7. அருமறை சோரும் அறிவிலான் செய்யும்  
 
@@ -7547,7 +9382,9 @@ And yet their glaring faults reveal. 846
 
 The fool that slights sacred counsels  
 
-Upon himself great harm entails. 847  
+Upon himself great harm entails.
+
+ 847  
 
 8. ஏவவும் செய்கலான் தான்தேறான் அவ்வுயிர்  
 
@@ -7555,7 +9392,9 @@ Upon himself great harm entails. 847
 
 He listens not nor himself knows  
 
-Plague is his life until it goes. 848  
+Plague is his life until it goes.
+
+ 848  
 
 9. காணாதான் காட்டுவான் தான்காணான் காணாதான்  
 
@@ -7563,7 +9402,9 @@ Plague is his life until it goes. 848
 
 Sans Self-sight in vain one opens Sight  
 
-To the blind who bet their sight as right. 849  
+To the blind who bet their sight as right.
+
+ 849  
 
 10. உலகத்தார் உண்டென்பது இல்லென்பான் வையத்து  
 
@@ -7571,13 +9412,17 @@ To the blind who bet their sight as right. 849
 
 To people's "Yes" who proffer "No"  
 
-Deemed as ghouls on earth they go. 850  
+Deemed as ghouls on earth they go.
+
+ 850  
 
 -----------  
 
   
 
-### 86. இகல் - Hatred  
+###
+
+ 86. இகல் - Hatred  
 
   
 
@@ -7587,7 +9432,9 @@ Deemed as ghouls on earth they go. 850
 
 Hatred is a plague that divides  
 
-And rouses illwill on all sides. 851  
+And rouses illwill on all sides.
+
+ 851  
 
 2. பகல்கருதிப் பற்றா செயினும் இகல்கருதி  
 
@@ -7595,7 +9442,9 @@ And rouses illwill on all sides. 851
 
 Rouse not hatred and confusion  
 
-Though foes provoke disunion 852  
+Though foes provoke disunion
+
+ 852  
 
 3. இகலென்னும் எவ்வநோய் நீக்கின் தவவில்லாத்  
 
@@ -7603,7 +9452,9 @@ Though foes provoke disunion 852
 
 Shun the plague of enmity  
 
-And win everlasting glory. 853  
+And win everlasting glory.
+
+ 853  
 
 4. இன்பத்துள் இன்பம் பயக்கும் இகலென்னும்  
 
@@ -7611,7 +9462,9 @@ And win everlasting glory. 853
 
 Hate-the woe of woes destroy;  
 
-Then joy of joys you can enjoy. 854  
+Then joy of joys you can enjoy.
+
+ 854  
 
 5. இகலெதிர் சாய்ந்தொழுக வல்லாரை யாரே  
 
@@ -7619,7 +9472,9 @@ Then joy of joys you can enjoy. 854
 
 Who can overcome them in glory  
 
-That are free from enmity? 855  
+That are free from enmity?
+
+ 855  
 
 6. இகலின் மிகலினிது என்பவன் வாழ்க்கை  
 
@@ -7627,7 +9482,9 @@ That are free from enmity? 855
 
 His fall and ruin are quite near  
 
-Who holds enmity sweet and dear. 856  
+Who holds enmity sweet and dear.
+
+ 856  
 
 7. மிகல்மேவல் மெய்ப்பொருள் காணார் இகல்மேவல்  
 
@@ -7635,7 +9492,9 @@ Who holds enmity sweet and dear. 856
 
 They cannot see the supreme Truth  
 
-Who hate and injure without ruth. 857  
+Who hate and injure without ruth.
+
+ 857  
 
 8. இகலிற்கு எதிர்சாய்தல் ஆக்கம் அதனை  
 
@@ -7643,7 +9502,9 @@ Who hate and injure without ruth. 857
 
 To turn from enmity is gain  
 
-Fomenting it brings fast ruin. 858  
+Fomenting it brings fast ruin.
+
+ 858  
 
 9. இகல்காணான் ஆக்கம் வருங்கால் அதனை  
 
@@ -7651,7 +9512,9 @@ Fomenting it brings fast ruin. 858
 
 Fortune favours when hate recedes  
 
-Hatred exceeding ruin breeds. 859  
+Hatred exceeding ruin breeds.
+
+ 859  
 
 10. இகலானாம் இன்னாத எல்லாம் நகலானாம்  
 
@@ -7659,13 +9522,17 @@ Hatred exceeding ruin breeds. 859
 
 All evils come from enmity  
 
-All goodness flow from amity. 860  
+All goodness flow from amity.
+
+ 860  
 
 -------------  
 
   
 
-### 87. பகைமாட்சி - Noble hostility  
+###
+
+ 87. பகைமாட்சி - Noble hostility  
 
   
 
@@ -7675,7 +9542,9 @@ All goodness flow from amity. 860
 
 Turn from strife with foes too strong  
 
-With the feeble for battle long. 861  
+With the feeble for battle long.
+
+ 861  
 
 2. அன்பிலன் ஆன்ற துணையிலன் தான்துவ்வான்  
 
@@ -7683,7 +9552,9 @@ With the feeble for battle long. 861
 
 Loveless, aidless, powerless king  
 
-Can he withstand an enemy strong? 862  
+Can he withstand an enemy strong?
+
+ 862  
 
 3. அஞ்சும் அறியான் அமைவிலன் ஈகலான்  
 
@@ -7691,7 +9562,9 @@ Can he withstand an enemy strong? 862
 
 Unskilled, timid, miser, misfit  
 
-He is easy for foes to hit. 863  
+He is easy for foes to hit.
+
+ 863  
 
 4. நீங்கான் வெகுளி நிறையிலன் எஞ்ஞான்றும்  
 
@@ -7699,7 +9572,9 @@ He is easy for foes to hit. 863
 
 The wrathful restive man is prey  
 
-To any, anywhere any day. 864  
+To any, anywhere any day.
+
+ 864  
 
 5. வழிநோக்கான் வாய்ப்பன செய்யான் பழிநோக்கான்  
 
@@ -7707,7 +9582,9 @@ To any, anywhere any day. 864
 
 Crooked, cruel, tactless and base  
 
-Any foe can fell him with ease. 865  
+Any foe can fell him with ease.
+
+ 865  
 
 6. காணாச் சினத்தான் கழிபெருங் காமத்தான்  
 
@@ -7715,7 +9592,9 @@ Any foe can fell him with ease. 865
 
 Blind in rage and mad in lust  
 
-To have his hatred is but just. 866  
+To have his hatred is but just.
+
+ 866  
 
 7. கொடுத்தும் கொளல்வேண்டும் மன்ற அடுத்திருந்து  
 
@@ -7723,7 +9602,9 @@ To have his hatred is but just. 866
 
 Pay and buy his enmity  
 
-Who muddles chance with oddity. 867  
+Who muddles chance with oddity.
+
+ 867  
 
 8. குணனிலனாய்க் குற்றம் பலவாயின் மாற்றார்க்கு  
 
@@ -7731,7 +9612,9 @@ Who muddles chance with oddity. 867
 
 With no virtue but full of vice  
 
-He loses friends and delights foes. 868  
+He loses friends and delights foes.
+
+ 868  
 
 9. செறுவார்க்குச் சேணிகவா இன்பம் அறிவிலா  
 
@@ -7739,7 +9622,9 @@ He loses friends and delights foes. 868
 
 The joy of heroes knows no bounds  
 
-When timid fools are opponents. 869  
+When timid fools are opponents.
+
+ 869  
 
 10. கல்லான் வெகுளும் சிறுபொருள் எஞ்ஞான்றும்  
 
@@ -7747,13 +9632,17 @@ When timid fools are opponents. 869
 
 Glory's light he will not gain  
 
-Who fails to fight a fool and win. 870  
+Who fails to fight a fool and win.
+
+ 870  
 
 -----------  
 
   
 
-### 88. பகைத்திறந் தெரிதல் - Apparising enemies  
+###
+
+ 88. பகைத்திறந் தெரிதல் - Apparising enemies  
 
   
 
@@ -7763,7 +9652,9 @@ Who fails to fight a fool and win. 870
 
 Let not one even as a sport  
 
-The ill-natured enmity court. 871  
+The ill-natured enmity court.
+
+ 871  
 
 2. வில்லே ருழவர் பகைகொளினும் கொள்ளற்க  
 
@@ -7771,7 +9662,9 @@ The ill-natured enmity court. 871
 
 Incur the hate of bow-ploughers  
 
-But not the hate of word-ploughers. 872  
+But not the hate of word-ploughers.
+
+ 872  
 
 3. ஏமுற் றவரினும் ஏழை தமியனாய்ப்  
 
@@ -7779,7 +9672,9 @@ But not the hate of word-ploughers. 872
 
 Forlorn, who rouses many foes  
 
-The worst insanity betrays. 873  
+The worst insanity betrays.
+
+ 873  
 
 4. பகைநட்பாக் கொண்டொழுகும் பண்புடை யாளன்  
 
@@ -7787,7 +9682,9 @@ The worst insanity betrays. 873
 
 This world goes safely in his grace  
 
-Whose heart makes friends even of foes. 874  
+Whose heart makes friends even of foes.
+
+ 874  
 
 5. தன்துணை இன்றால் பகைஇரண்டால் தான்ஒருவன்  
 
@@ -7795,7 +9692,9 @@ Whose heart makes friends even of foes. 874
 
 Alone, if two foes you oppose  
 
-Make one of them your ally close. 875  
+Make one of them your ally close.
+
+ 875  
 
 6. தேறினும் தேறா விடினும் அழிவின்கண்  
 
@@ -7803,7 +9702,9 @@ Make one of them your ally close. 875
 
 Trust or distrust; during distress  
 
-Keep aloof; don't mix with foes. 876  
+Keep aloof; don't mix with foes.
+
+ 876  
 
 7. நோவற்க நொந்தது அறியார்க்கு மேவற்க  
 
@@ -7811,7 +9712,9 @@ Keep aloof; don't mix with foes. 876
 
 To those who know not, tell not your pain  
 
-Nor your weakness to foes explain. 877  
+Nor your weakness to foes explain.
+
+ 877  
 
 8. வகையறிந்து தற்செய்து தற்காப்ப மாயும்  
 
@@ -7819,7 +9722,9 @@ Nor your weakness to foes explain. 877
 
 Know how and act and defend well  
 
-The pride of enemies shall fall. 878  
+The pride of enemies shall fall.
+
+ 878  
 
 9. இளைதாக முள்மரம் கொல்க களையுநர்  
 
@@ -7827,7 +9732,9 @@ The pride of enemies shall fall. 878
 
 Cut off thorn-trees when young they are;  
 
-Grown hard, they cut your hands beware. 879  
+Grown hard, they cut your hands beware.
+
+ 879  
 
 10. உயிர்ப்ப உளரல்லர் மன்ற செயிர்ப்பவர்  
 
@@ -7835,13 +9742,17 @@ Grown hard, they cut your hands beware. 879
 
 To breathe on earth they are not fit  
 
-Defying foes who don't defeat. 880  
+Defying foes who don't defeat.
+
+ 880  
 
 ----------  
 
   
 
-### 89. உட்பகை - Secret foe  
+###
+
+ 89. உட்பகை - Secret foe  
 
   
 
@@ -7851,7 +9762,9 @@ Defying foes who don't defeat. 880
 
 Traitorous kinsmen will make you sad  
 
-As water and shade do harm when bad. 881  
+As water and shade do harm when bad.
+
+ 881  
 
 2. வாள்போல் பகைவரை அஞ்சற்க அஞ்சுக  
 
@@ -7859,7 +9772,9 @@ As water and shade do harm when bad. 881
 
 You need not sword-like kinsmen fear  
 
-Fear foes who feign as kinsmen dear. 882  
+Fear foes who feign as kinsmen dear.
+
+ 882  
 
 3. உட்பகை அஞ்சித்தற் காக்க உலைவுஇடத்து  
 
@@ -7867,7 +9782,9 @@ Fear foes who feign as kinsmen dear. 882
 
 The secret foe in days evil  
 
-Will cut you, beware, like potters' steel. 883  
+Will cut you, beware, like potters' steel.
+
+ 883  
 
 4. மனமாணா உட்பகை தோன்றின் இனமாணா  
 
@@ -7875,7 +9792,9 @@ Will cut you, beware, like potters' steel. 883
 
 The evil-minded foe within  
 
-Foments trouble, spoils kinsmen! 884  
+Foments trouble, spoils kinsmen!
+
+ 884  
 
 5. உறல்முறையான் உட்பகை தோன்றின் இறல்முறையான்  
 
@@ -7883,7 +9802,9 @@ Foments trouble, spoils kinsmen! 884
 
 A traitor among kinsmen will  
 
-Bring life-endangering evil. 885  
+Bring life-endangering evil.
+
+ 885  
 
 6. ஒன்றாமை ஒன்றியார் கட்படின் எஞ்ஞான்றும்  
 
@@ -7891,7 +9812,9 @@ Bring life-endangering evil. 885
 
 Discord in kings' circle entails  
 
-Life-destroying deadly evils. 886  
+Life-destroying deadly evils.
+
+ 886  
 
 7. செப்பின் புணர்ச்சிபோல் கூடினும் கூடாதே  
 
@@ -7899,7 +9822,9 @@ Life-destroying deadly evils. 886
 
 A house hiding hostiles in core  
 
-Just seems on like the lid in jar. 887  
+Just seems on like the lid in jar.
+
+ 887  
 
 8. அரம்பொருத பொன்போலத் தேயும் உரம்பொருது  
 
@@ -7907,7 +9832,9 @@ Just seems on like the lid in jar. 887
 
 By secret spite the house wears out  
 
-Like gold crumbling by file's contact. 888  
+Like gold crumbling by file's contact.
+
+ 888  
 
 9. எட்பக வன்ன சிறுமைத்தே ஆயினும்  
 
@@ -7915,7 +9842,9 @@ Like gold crumbling by file's contact. 888
 
 Ruin lurks in enmity  
 
-As slit in sesame though it be. 889  
+As slit in sesame though it be.
+
+ 889  
 
 10. உடம்பாடு இலாதவர் வாழ்க்கை குடங்கருள்  
 
@@ -7923,13 +9852,17 @@ As slit in sesame though it be. 889
 
 Dwell with traitors that hate in heart  
 
-Is dwelling with snake in selfsame hut. 890  
+Is dwelling with snake in selfsame hut.
+
+ 890  
 
 -----------  
 
   
 
-### 90. பெரியாரைப் பிழையாமை - Offend not the great  
+###
+
+ 90. பெரியாரைப் பிழையாமை - Offend not the great  
 
   
 
@@ -7939,7 +9872,9 @@ Is dwelling with snake in selfsame hut. 890
 
 Not to spite the mighty ones  
 
-Safest safeguard to living brings. 891  
+Safest safeguard to living brings.
+
+ 891  
 
 2. பெரியாரைப் பேணாது ஒழுகின் பெரியாரால்  
 
@@ -7947,7 +9882,9 @@ Safest safeguard to living brings. 891
 
 To walk unmindful of the great  
 
-Shall great troubles ceaseless create. 892  
+Shall great troubles ceaseless create.
+
+ 892  
 
 3. கெடல்வேண்டின் கேளாது செய்க அடல்வேண்டின்  
 
@@ -7955,7 +9892,9 @@ Shall great troubles ceaseless create. 892
 
 Heed not and do, if ruin you want  
 
-Offence against the mighty great. 893  
+Offence against the mighty great.
+
+ 893  
 
 4. கூற்றத்தைக் கையால் விளித்தற்றால் ஆற்றுவார்க்கு  
 
@@ -7963,7 +9902,9 @@ Offence against the mighty great. 893
 
 The weak who insult men of might  
 
-Death with their own hands invite. 894  
+Death with their own hands invite.
+
+ 894  
 
 5. யாண்டுச்சென்று யாண்டும் உளராகார் வெந்துப்பின்  
 
@@ -7971,7 +9912,9 @@ Death with their own hands invite. 894
 
 Where can they go and thrive where  
 
-Pursued by powerful monarch's ire? 895  
+Pursued by powerful monarch's ire?
+
+ 895  
 
 6. எரியால் சுடப்படினும் உய்வுண்டாம் உய்யார்  
 
@@ -7979,7 +9922,9 @@ Pursued by powerful monarch's ire? 895
 
 One can escape in fire caught  
 
-The great who offends escapes not. 896  
+The great who offends escapes not.
+
+ 896  
 
 7. வகைமாண்ட வாழ்க்கையும் வான்பொருளும் என்னாம்  
 
@@ -7987,7 +9932,9 @@ The great who offends escapes not. 896
 
 If holy mighty sages frown  
 
-Stately gifts and stores who can own? 897  
+Stately gifts and stores who can own?
+
+ 897  
 
 8. குன்றன்னார் குன்ற மதிப்பின் குடியொடு  
 
@@ -7995,7 +9942,9 @@ Stately gifts and stores who can own? 897
 
 When hill-like sages are held small  
 
-The firm on earth lose home and all. 898  
+The firm on earth lose home and all.
+
+ 898  
 
 9. ஏந்திய கொள்கையார் சீறின் இடைமுரிந்து  
 
@@ -8003,7 +9952,9 @@ The firm on earth lose home and all. 898
 
 Before the holy sage's rage  
 
-Ev'n Indra's empire meets damage. 899  
+Ev'n Indra's empire meets damage.
+
+ 899  
 
 10. இறந்தமைந்த சார்புடைய ரா யினும் உய்யார்  
 
@@ -8011,13 +9962,17 @@ Ev'n Indra's empire meets damage. 899
 
 Even mighty aided men shall quail  
 
-If the enraged holy seers will. 900  
+If the enraged holy seers will.
+
+ 900  
 
 ----------  
 
   
 
-### 91. பெண்வழிச்சேறல் - Being led by women  
+###
+
+ 91. பெண்வழிச்சேறல் - Being led by women  
 
   
 
@@ -8027,7 +9982,9 @@ If the enraged holy seers will. 900
 
 Who dote on wives lose mighty gain  
 
-That lust, dynamic men disdain. 901  
+That lust, dynamic men disdain.
+
+ 901  
 
 2. பேணாது பெண்விழைவான் ஆக்கம் பெரியதோர்  
 
@@ -8035,7 +9992,9 @@ That lust, dynamic men disdain. 901
 
 Who dotes, unmanly, on his dame  
 
-His wealth to him and all is shame. 902  
+His wealth to him and all is shame.
+
+ 902  
 
 3. இல்லாள்கண் தாழ்ந்த இயல்பின்மை எஞ்ஞான்றும்  
 
@@ -8043,7 +10002,9 @@ His wealth to him and all is shame. 902
 
 Who's servile to his wife always  
 
-Shy he feels before the wise. 903  
+Shy he feels before the wise.
+
+ 903  
 
 4. மனையாளை அஞ்சும் மறுமையி லாளன்  
 
@@ -8051,7 +10012,9 @@ Shy he feels before the wise. 903
 
 Fearing his wife salvationless  
 
-The weaklings' action has no grace. 904  
+The weaklings' action has no grace.
+
+ 904  
 
 5. இல்லாளை அஞ்சுவான் அஞ்சுமற் றெஞ்ஞான்றும்  
 
@@ -8059,7 +10022,9 @@ The weaklings' action has no grace. 904
 
 Who fears his wife fears always  
 
-Good to do to the good and wise. 905  
+Good to do to the good and wise.
+
+ 905  
 
 6. இமையாரின் வாழினும் பாடிலரே இல்லாள்  
 
@@ -8067,7 +10032,9 @@ Good to do to the good and wise. 905
 
 Who fear douce arms of their wives  
 
-Look petty even with god-like lives. 906  
+Look petty even with god-like lives.
+
+ 906  
 
 7. பெண்ணேவல் செய்தொழுகும் ஆண்மையின் நாணுடைப்  
 
@@ -8075,7 +10042,9 @@ Look petty even with god-like lives. 906
 
 Esteemed more is women bashful  
 
-Than man servile unto her will. 907  
+Than man servile unto her will.
+
+ 907  
 
 8. நட்டார் குறைமுடியார் நன்றாற்றார் நன்னுதலாள்  
 
@@ -8083,7 +10052,9 @@ Than man servile unto her will. 907
 
 By fair-browed wives who are governed  
 
-Help no friends nor goodness tend. 908  
+Help no friends nor goodness tend.
+
+ 908  
 
 9. அறவினையும் ஆன்ற பொருளும் பிறவினையும்  
 
@@ -8091,7 +10062,9 @@ Help no friends nor goodness tend. 908
 
 No virtue riches nor joy is seen  
 
-In those who submit to women 909  
+In those who submit to women
+
+ 909  
 
 10. எண்சேர்ந்த நெஞ்சத் திடனுடையார்க்கு எஞ்ஞான்றும்  
 
@@ -8099,13 +10072,17 @@ In those who submit to women 909
 
 Thinkers strong and broad of heart  
 
-By folly on fair sex do not dote. 910  
+By folly on fair sex do not dote.
+
+ 910  
 
 -------  
 
   
 
-### 92. வரைவின் மகளிர் - Wanton women  
+###
+
+ 92. வரைவின் மகளிர் - Wanton women  
 
   
 
@@ -8117,7 +10094,9 @@ By folly on fair sex do not dote. 910
 
 For gold, not love their tongue cajoles  
 
-Men are ruined by bangled belles. 911  
+Men are ruined by bangled belles.
+
+ 911  
 
 2. பயன்தூக்கிப் பண்புரைக்கும் பண்பின் மகளிர்  
 
@@ -8125,7 +10104,9 @@ Men are ruined by bangled belles. 911
 
 Avoid ill-natured whores who feign  
 
-Love only for their selfish gain. 912  
+Love only for their selfish gain.
+
+ 912  
 
 3. பொருட்பெண்டிர் பொய்ம்மை முயக்கம் இருட்டறையில்  
 
@@ -8133,7 +10114,9 @@ Love only for their selfish gain. 912
 
 The false embrace of whores is like  
 
-That of a damned corpse in the dark. 913  
+That of a damned corpse in the dark.
+
+ 913  
 
 4. பொருட்பொருளார் புன்னலம் தோயார் அருட்பொருள்  
 
@@ -8141,7 +10124,9 @@ That of a damned corpse in the dark. 913
 
 The wise who seek the wealth of grace  
 
-Look not for harlots' low embrace. 914  
+Look not for harlots' low embrace.
+
+ 914  
 
 5. பொதுநலத்தார் புன்னலம் தோயார் மதிநலத்தின்  
 
@@ -8149,7 +10134,9 @@ Look not for harlots' low embrace. 914
 
 The lofty wise will never covet  
 
-The open charms of a vile harlot. 915  
+The open charms of a vile harlot.
+
+ 915  
 
 6. தந்நலம் பாரிப்பார் தோயார் தகைசெருக்கிப்  
 
@@ -8157,7 +10144,9 @@ The open charms of a vile harlot. 915
 
 Those who guard their worthy fame  
 
-Shun the wanton's vaunting charm. 916  
+Shun the wanton's vaunting charm.
+
+ 916  
 
 7. நிறைநெஞ்சம் இல்லவர் தோய்வர் பிறநெஞ்சிற்  
 
@@ -8165,7 +10154,9 @@ Shun the wanton's vaunting charm. 916
 
 Hollow hearts alone desire  
 
-The arms of whores with hearts elsewere. 917  
+The arms of whores with hearts elsewere.
+
+ 917  
 
 8. ஆயும் அறிவினர் அல்லார்க்கு அணங்கென்ப  
 
@@ -8173,7 +10164,9 @@ The arms of whores with hearts elsewere. 917
 
 Senseless fools are lured away  
 
-By arms of sirens who lead astray. 918  
+By arms of sirens who lead astray.
+
+ 918  
 
 9. வரைவிலா மாணிழையார் மென்றோள் புரையிலாப்  
 
@@ -8181,7 +10174,9 @@ By arms of sirens who lead astray. 918
 
 The soft jewelled arms of whores are hell  
 
-Into which the degraded fall. 919  
+Into which the degraded fall.
+
+ 919  
 
 10. இருமனப் பெண்டிரும் கள்ளும் கவறும்  
 
@@ -8189,13 +10184,17 @@ Into which the degraded fall. 919
 
 Double-minded whores, wine and dice  
 
-Are lures of those whom fortune flies. 920  
+Are lures of those whom fortune flies.
+
+ 920  
 
 ----------  
 
   
 
-### 93. கள்ளுண்ணாமை - Not drinking liquor  
+###
+
+ 93. கள்ளுண்ணாமை - Not drinking liquor  
 
   
 
@@ -8205,7 +10204,9 @@ Are lures of those whom fortune flies. 920
 
 Foes fear not who for toddy craze  
 
-The addicts daily their glory lose. 921  
+The addicts daily their glory lose.
+
+ 921  
 
 2. உண்ணற்க கள்ளை உணில்உண்க சான்றோரான்  
 
@@ -8213,7 +10214,9 @@ The addicts daily their glory lose. 921
 
 Drink not liquor; but let them drink  
 
-Whom with esteem the wise won't think. 922  
+Whom with esteem the wise won't think.
+
+ 922  
 
 3. ஈன்றாள் முகத்தேயும் இன்னாதால் என்மற்றுச்  
 
@@ -8221,7 +10224,9 @@ Whom with esteem the wise won't think. 922
 
 The drunkard's joy pains ev'n mother's face  
 
-How vile must it look for the wise? 923  
+How vile must it look for the wise?
+
+ 923  
 
 4. நாண்என்னும் நல்லாள் புறம்கொடுக்கும் கள்ளென்னும்  
 
@@ -8229,7 +10234,9 @@ How vile must it look for the wise? 923
 
 Good shame turns back from him ashamed  
 
-Who is guilty of wine condemned. 924  
+Who is guilty of wine condemned.
+
+ 924  
 
 5. கையறியாமை யுடைத்தே பொருள் கொடுத்து  
 
@@ -8237,7 +10244,9 @@ Who is guilty of wine condemned. 924
 
 To pay and drink and lose the sense  
 
-Is nothing but rank ignorance. 925  
+Is nothing but rank ignorance.
+
+ 925  
 
 6. துஞ்சினார் செத்தாரின் வேறல்லர் எஞ்ஞான்றும்  
 
@@ -8245,7 +10254,9 @@ Is nothing but rank ignorance. 925
 
 They take poison who take toddy  
 
-And doze ev'n like a dead body. 926  
+And doze ev'n like a dead body.
+
+ 926  
 
 7. உள்ளொற்றி உள்ளூர் நகப்படுவர் எஞ்ஞான்றும்  
 
@@ -8253,7 +10264,9 @@ And doze ev'n like a dead body. 926
 
 The secret drunkards' senses off  
 
-Make the prying public laugh. 927  
+Make the prying public laugh.
+
+ 927  
 
 8. களித்தறியேன் என்பது கைவிடுக நெஞ்சத்து  
 
@@ -8261,7 +10274,9 @@ Make the prying public laugh. 927
 
 Don't say "I'm not a drunkard hard"  
 
-The hidden fraud is known abroad. 928  
+The hidden fraud is known abroad.
+
+ 928  
 
 9. களித்தானைக் காரணம் காட்டுதல் கீழ்நீர்க்  
 
@@ -8269,7 +10284,9 @@ The hidden fraud is known abroad. 928
 
 Can torch search one in water sunk?  
 
-Can reason reach the raving drunk? 929  
+Can reason reach the raving drunk?
+
+ 929  
 
 10. கள்ளுண்ணாப் போழ்தில் களித்தானைக் காணுங்கால்  
 
@@ -8277,13 +10294,17 @@ Can reason reach the raving drunk? 929
 
 The sober seeing the drunkard's plight  
 
-On selves can't they feel same effect? 930  
+On selves can't they feel same effect?
+
+ 930  
 
 ---------  
 
   
 
-### 94. சூது - Gambling  
+###
+
+ 94. சூது - Gambling  
 
   
 
@@ -8293,7 +10314,9 @@ On selves can't they feel same effect? 930
 
 Avoid gambling, albeit you win  
 
-Gulping bait-hook what does fish gain? 931  
+Gulping bait-hook what does fish gain?
+
+ 931  
 
 2. ஒன்றெய்தி நூறிழக்கும் சூதர்க்கும் உண்டாங்கொல்  
 
@@ -8301,7 +10324,9 @@ Gulping bait-hook what does fish gain? 931
 
 Can gamblers in life good obtain  
 
-Who lose a hundred one to gain? 932  
+Who lose a hundred one to gain?
+
+ 932  
 
 3. உருளாயம் ஓவாது கூறின் பொருளாயம்  
 
@@ -8309,7 +10334,9 @@ Who lose a hundred one to gain? 932
 
 If kings indulge in casting dice  
 
-All their fortune will flow to foes. 933  
+All their fortune will flow to foes.
+
+ 933  
 
 4. சிறுமை பலசெய்து சீரழிக்கும் சூதின்  
 
@@ -8317,7 +10344,9 @@ All their fortune will flow to foes. 933
 
 Nothing will make you poor like game  
 
-Which adds to woes and ruins fame. 934  
+Which adds to woes and ruins fame.
+
+ 934  
 
 5. கவறும் கழகமும் கையும் தருக்கி  
 
@@ -8325,7 +10354,9 @@ Which adds to woes and ruins fame. 934
 
 The game, game-hall and gambler's art  
 
-Who sought with glee have come to nought. 935  
+Who sought with glee have come to nought.
+
+ 935  
 
 6. அகடாரார் அல்லல் உழப்பர் சூதென்னும்  
 
@@ -8333,7 +10364,9 @@ Who sought with glee have come to nought. 935
 
 Men swallowed by the ogress, dice  
 
-Suffer grief and want by that vice. 936  
+Suffer grief and want by that vice.
+
+ 936  
 
 7. பழகிய செல்வமும் பண்பும் கெடுக்கும்  
 
@@ -8341,7 +10374,9 @@ Suffer grief and want by that vice. 936
 
 If men their time in game-den spend  
 
-Ancestral wealth and virtues end. 937  
+Ancestral wealth and virtues end.
+
+ 937  
 
 8. பொருள்கெடுத்துப் பொய்மேற் கொளீஇ அருள்கெடுத்து  
 
@@ -8349,7 +10384,9 @@ Ancestral wealth and virtues end. 937
 
 Game ruins wealth and spoils grace  
 
-Leads to lies and wretched woes. 938  
+Leads to lies and wretched woes.
+
+ 938  
 
 9. உடைசெல்வம் ஊண்ஒளி கல்விஎன்று ஐந்தும்  
 
@@ -8357,7 +10394,9 @@ Leads to lies and wretched woes. 938
 
 Dress, wealth, food, fame, learning-these five  
 
-In gambler's hand will never thrive. 939  
+In gambler's hand will never thrive.
+
+ 939  
 
 10. இழத்தொறூஉம் காதலிக்கும் சூதேபோல் துன்பம்  
 
@@ -8365,13 +10404,17 @@ In gambler's hand will never thrive. 939
 
 Love for game grows with every loss  
 
-As love for life with sorrows grows. 940  
+As love for life with sorrows grows.
+
+ 940  
 
 ----------  
 
   
 
-### 95. மருந்து - Medicine  
+###
+
+ 95. மருந்து - Medicine  
 
   
 
@@ -8381,7 +10424,9 @@ As love for life with sorrows grows. 940
 
 Wind, bile and phlegm three cause disease  
 
-So doctors deem it more or less. 941  
+So doctors deem it more or less.
+
+ 941  
 
 2. மருந்தென வேண்டாவாம் யாக்கைக்கு அருந்தியது  
 
@@ -8389,7 +10434,9 @@ So doctors deem it more or less. 941
 
 After digestion one who feeds  
 
-His body no medicine needs. 942  
+His body no medicine needs.
+
+ 942  
 
 3. அற்றால் அளவறிந்து உண்க அஃதுடம்பு  
 
@@ -8397,7 +10444,9 @@ His body no medicine needs. 942
 
 Eat food to digestive measure  
 
-Life in body lasts with pleasure. 943  
+Life in body lasts with pleasure.
+
+ 943  
 
 4. அற்றது அறிந்து கடைப்பிடித்து மாறல்ல  
 
@@ -8405,7 +10454,9 @@ Life in body lasts with pleasure. 943
 
 Know digestion; with keen appetite  
 
-Eat what is suitable and right. 944  
+Eat what is suitable and right.
+
+ 944  
 
 5. மாறுபாடு இல்லாத உண்டி மறுத்துண்ணின்  
 
@@ -8413,7 +10464,9 @@ Eat what is suitable and right. 944
 
 With fasting adjusted food right  
 
-Cures ills of life and makes you bright 945  
+Cures ills of life and makes you bright
+
+ 945  
 
 6. இழிவறிந்து உண்பான்கண் இன்பம்போல் நிற்கும்  
 
@@ -8421,7 +10474,9 @@ Cures ills of life and makes you bright 945
 
 Who eats with clean stomach gets health  
 
-With greedy glutton abides ill-health. 946  
+With greedy glutton abides ill-health.
+
+ 946  
 
 7. தீயள வன்றித் தெரியான் பெரிதுண்ணின்  
 
@@ -8429,7 +10484,9 @@ With greedy glutton abides ill-health. 946
 
 who glut beyond the hunger's fire  
 
-Suffer from untold diseases here. 947  
+Suffer from untold diseases here.
+
+ 947  
 
 8. நோய்நாடி நோய்முதல் நாடி அதுதணிக்கும்  
 
@@ -8437,7 +10494,9 @@ Suffer from untold diseases here. 947
 
 Test disease, its cause and cure  
 
-And apply remedy that is sure. 948  
+And apply remedy that is sure.
+
+ 948  
 
 9. உற்றான் அளவும் பிணியளவும் காலமும்  
 
@@ -8445,7 +10504,9 @@ And apply remedy that is sure. 948
 
 Let the skilful doctor note  
 
-The sickmen, sickness, season and treat. 949  
+The sickmen, sickness, season and treat.
+
+ 949  
 
 10. உற்றவன் தீர்ப்பான் மருந்து - Medicine உழைச் செல்வானென்று  
 
@@ -8453,13 +10514,17 @@ The sickmen, sickness, season and treat. 949
 
 Patient, doctor, medicine and nurse  
 
-Are four-fold codes of treating course. 950  
+Are four-fold codes of treating course.
+
+ 950  
 
 ---------  
 
   
 
-### 96. குடி - Nobility  
+###
+
+ 96. குடி - Nobility  
 
   
 
@@ -8469,7 +10534,9 @@ Are four-fold codes of treating course. 950
 
 Right-sense and bashfulness adorn  
 
-By nature only the noble-born. 951  
+By nature only the noble-born.
+
+ 951  
 
 2. ஒழுக்கமும் வாய்மையும் நாணும்இம் மூன்றும்  
 
@@ -8477,7 +10544,9 @@ By nature only the noble-born. 951
 
 The noble-born lack not these three:  
 
-Good conduct, truth and modesty. 952  
+Good conduct, truth and modesty.
+
+ 952  
 
 3. நகைஈகை இன்சொல் இகழாமை நான்கும்  
 
@@ -8485,7 +10554,9 @@ Good conduct, truth and modesty. 952
 
 Smile, gift, sweet words and courtesy  
 
-These four mark true nobility. 953  
+These four mark true nobility.
+
+ 953  
 
 4. அடுக்கிய கோடி பெறினும் குடிப்பிறந்தார்  
 
@@ -8493,7 +10564,9 @@ These four mark true nobility. 953
 
 Even for crores, the noble mood  
 
-Cannot bend to degrading deed. 954  
+Cannot bend to degrading deed.
+
+ 954  
 
 5. வழங்குவ துள்வீழ்ந்தக் கண்ணும் பழங்குடி  
 
@@ -8501,7 +10574,9 @@ Cannot bend to degrading deed. 954
 
 The means of gift may dwindle; yet  
 
-Ancient homes guard their noble trait. 955  
+Ancient homes guard their noble trait.
+
+ 955  
 
 6. சலம்பற்றிச் சால்பில செய்யார்மா சற்ற  
 
@@ -8509,7 +10584,9 @@ Ancient homes guard their noble trait. 955
 
 Who guard their family prestige pure  
 
-Stoop not to acts of cunning lure. 956  
+Stoop not to acts of cunning lure.
+
+ 956  
 
 7. குடிப்பிறந்தார் கண்விளங்கும் குற்றம் விசும்பின்  
 
@@ -8517,7 +10594,9 @@ Stoop not to acts of cunning lure. 956
 
 The faults of nobly-born are seen  
 
-Like on the sky the spots of moon. 957  
+Like on the sky the spots of moon.
+
+ 957  
 
 8. நலத்தின்கண் நாரின்மை தோன்றின் அவனைக்  
 
@@ -8525,7 +10604,9 @@ Like on the sky the spots of moon. 957
 
 If manners of the good are rude  
 
-People deem their pedigree crude. 958  
+People deem their pedigree crude.
+
+ 958  
 
 9. நிலத்தில் கிடந்தமை கால்காட்டும் காட்டும்  
 
@@ -8533,7 +10614,9 @@ People deem their pedigree crude. 958
 
 Soil's nature is seen in sprout  
 
-The worth of birth from words flow out. 959  
+The worth of birth from words flow out.
+
+ 959  
 
 10. நலம்வேண்டின் நாணுடைமை வேண்டும் குலம்வேண்டின்  
 
@@ -8541,13 +10624,17 @@ The worth of birth from words flow out. 959
 
 All gain good name by modesty  
 
-Nobility by humility. 960  
+Nobility by humility.
+
+ 960  
 
 ----------  
 
   
 
-### 2.5 ஒழிபியல் – MISCELLANEOUS  
+###
+
+ 2.5 ஒழிபியல் – MISCELLANEOUS  
 
 97. மானம் - Honour  
 
@@ -8559,7 +10646,9 @@ Nobility by humility. 960
 
 Though needed for your life in main,  
 
-From mean degrading acts refrain. 961  
+From mean degrading acts refrain.
+
+ 961  
 
 2. சீரினும் சீரல்ல செய்யாரே சீரொடு  
 
@@ -8567,7 +10656,9 @@ From mean degrading acts refrain. 961
 
 Who seek honour and manly fame  
 
-Don't do mean deeds even for name. 962  
+Don't do mean deeds even for name.
+
+ 962  
 
 3. பெருக்கத்து வேண்டும் பணிதல் சிறிய  
 
@@ -8575,7 +10666,9 @@ Don't do mean deeds even for name. 962
 
 Be humble in prosperity  
 
-In decline uphold dignity. 963  
+In decline uphold dignity.
+
+ 963  
 
 4. தலையின் இழிந்த மயிரனையர் மாந்தர்  
 
@@ -8583,7 +10676,9 @@ In decline uphold dignity. 963
 
 Like hair fallen from head are those  
 
-Who fall down from their high status. 964  
+Who fall down from their high status.
+
+ 964  
 
 5. குன்றின் அனையாரும் குன்றுவர் குன்றுவ  
 
@@ -8591,7 +10686,9 @@ Who fall down from their high status. 964
 
 Even hill-like men will sink to nought  
 
-With abrus-grain-like small default. 965  
+With abrus-grain-like small default.
+
+ 965  
 
 6. புகழ்இன்றால் புத்தேள்நாட்டு உய்யாதால் என்மற்று  
 
@@ -8599,7 +10696,9 @@ With abrus-grain-like small default. 965
 
 Why fawn on men that scorn you here  
 
-It yields no fame, heaven's bliss neither. 966  
+It yields no fame, heaven's bliss neither.
+
+ 966  
 
 7. ஒட்டார்பின் சென்றொருவன் வாழ்தலின் அந்நிலையே  
 
@@ -8607,7 +10706,9 @@ It yields no fame, heaven's bliss neither. 966
 
 Better it is to die forlorn  
 
-Than live as slaves of those who scorn. 967  
+Than live as slaves of those who scorn.
+
+ 967  
 
 8. மருந்தோமற்று ஊன்ஓம்பும் வாழ்க்கை பெருந்தகைமை  
 
@@ -8615,7 +10716,9 @@ Than live as slaves of those who scorn. 967
 
 Is nursing body nectar sweet  
 
-Even when one's honour is lost? 968  
+Even when one's honour is lost?
+
+ 968  
 
 9. மயிர்நீப்பின் வாழாக் கவரிமா அன்னார்  
 
@@ -8623,7 +10726,9 @@ Even when one's honour is lost? 968
 
 Honour lost, the noble expire  
 
-Like a yak that loses its hair. 969  
+Like a yak that loses its hair.
+
+ 969  
 
 10. இளிவரின் வாழாத மானம் உடையார்  
 
@@ -8631,13 +10736,17 @@ Like a yak that loses its hair. 969
 
 Their light the world adores and hails  
 
-Who will not live when honour fails. 970  
+Who will not live when honour fails.
+
+ 970  
 
 ----------  
 
   
 
-### 98. பெருமை - Greatness  
+###
+
+ 98. பெருமை - Greatness  
 
   
 
@@ -8647,7 +10756,9 @@ Who will not live when honour fails. 970
 
 A heart of courage lives in light  
 
-Devoid of that one's life is night. 971  
+Devoid of that one's life is night.
+
+ 971  
 
 2. பிறப்பொக்கும் எல்லா உயிர்க்கும் சிறப்பொவ்வா  
 
@@ -8655,7 +10766,9 @@ Devoid of that one's life is night. 971
 
 All beings are the same in birth  
 
-But work decides their varied worth. 972  
+But work decides their varied worth.
+
+ 972  
 
 3. மேலிருந்தும் மேலல்லார் மேலல்லர் கீழிருந்தும்  
 
@@ -8663,7 +10776,9 @@ But work decides their varied worth. 972
 
 Ignoble high not high they are  
 
-The noble low not low they fare. 973  
+The noble low not low they fare.
+
+ 973  
 
 4. ஒருமை மகளிரே போலப் பெருமையும்  
 
@@ -8671,7 +10786,9 @@ The noble low not low they fare. 973
 
 Greatness like woman's chastity  
 
-Is guarded by self-varacity. 974  
+Is guarded by self-varacity.
+
+ 974  
 
 5. பெருமை உடையவர் ஆற்றுவார் ஆற்றின்  
 
@@ -8679,7 +10796,9 @@ Is guarded by self-varacity. 974
 
 Great souls when their will is active  
 
-Do mighty deeds rare to achieve. 975  
+Do mighty deeds rare to achieve.
+
+ 975  
 
 6. சிறியார் உணர்ச்சியுள் இல்லை பெரியாரைப்  
 
@@ -8687,7 +10806,9 @@ Do mighty deeds rare to achieve. 975
 
 The petty-natured ones have not  
 
-The mind to seek and befriend the great. 976  
+The mind to seek and befriend the great.
+
+ 976  
 
 7. இறப்பே புரிந்த தொழிற்றாம் சிறப்புந்தான்  
 
@@ -8695,7 +10816,9 @@ The mind to seek and befriend the great. 976
 
 The base with power and opulence  
 
-Wax with deeds of insolence. 977  
+Wax with deeds of insolence.
+
+ 977  
 
 8. பணியுமாம் என்றும் பெருமை சிறுமை  
 
@@ -8703,7 +10826,9 @@ Wax with deeds of insolence. 977
 
 Greatness bends with modesty  
 
-Meanness vaunts with vanity 978  
+Meanness vaunts with vanity
+
+ 978  
 
 9. பெருமை பெருமிதம் இன்மை சிறுமை  
 
@@ -8711,7 +10836,9 @@ Meanness vaunts with vanity 978
 
 Greatness is free from insolence  
 
-Littleness swells with that offence. 979  
+Littleness swells with that offence.
+
+ 979  
 
 10. அற்றம் மறைக்கும் பெருமை சிறுமைதான்  
 
@@ -8719,13 +10846,17 @@ Littleness swells with that offence. 979
 
 Weakness of others greatness screens  
 
-Smallness defects alone proclaims. 980  
+Smallness defects alone proclaims.
+
+ 980  
 
 ----------  
 
   
 
-### 99. சான்றாண்மை - Sublimity  
+###
+
+ 99. சான்றாண்மை - Sublimity  
 
   
 
@@ -8735,7 +10866,9 @@ Smallness defects alone proclaims. 980
 
 All goodness is duty to them  
 
-Who are dutiful and sublime. 981  
+Who are dutiful and sublime.
+
+ 981  
 
 2. குணநலம் சான்றோர் நலனே பிறநலம்  
 
@@ -8743,7 +10876,9 @@ Who are dutiful and sublime. 981
 
 Good in the great is character  
 
-Than that there is nothing better. 982  
+Than that there is nothing better.
+
+ 982  
 
 3. அன்புநாண் ஓப்புரவு கண்ணோட்டம் வாய்மையொடு  
 
@@ -8751,7 +10886,9 @@ Than that there is nothing better. 982
 
 Love, truth, regard, modesty, grace  
 
-These five are virtue's resting place. 983  
+These five are virtue's resting place.
+
+ 983  
 
 4. கொல்லா நலத்தது நோன்மை பிறர்தீமை  
 
@@ -8759,7 +10896,9 @@ These five are virtue's resting place. 983
 
 Not to kill is penance pure  
 
-Not to slander virtue sure. 984  
+Not to slander virtue sure.
+
+ 984  
 
 5. ஆற்றுவார் ஆற்றல் பணிதல் அதுசான்றோர்  
 
@@ -8767,7 +10906,9 @@ Not to slander virtue sure. 984
 
 Humility is valour's strength  
 
-A force that averts foes at length. 985  
+A force that averts foes at length.
+
+ 985  
 
 6. சால்பிற்குக் கட்டளை யாதெனில் தோல்வி  
 
@@ -8775,7 +10916,9 @@ A force that averts foes at length. 985
 
 To bear repulse e'en from the mean  
 
-Is the touch-stone of worthy men. 986  
+Is the touch-stone of worthy men.
+
+ 986  
 
 7. இன்னாசெய் தார்க்கும் இனியவே செய்யாக்கால்  
 
@@ -8783,7 +10926,9 @@ Is the touch-stone of worthy men. 986
 
 Of perfection what is the gain  
 
-If it returns not joy for pain? 987  
+If it returns not joy for pain?
+
+ 987  
 
 8. இன்மை ஒருவற்கு இளிவன்று சால்புஎன்னும்  
 
@@ -8791,7 +10936,9 @@ If it returns not joy for pain? 987
 
 No shame there is in poverty  
 
-To one strong in good quality. 988  
+To one strong in good quality.
+
+ 988  
 
 9. ஊழி பெயரினும் தாம்பெயரார் சான்றாண்மைக்கு  
 
@@ -8799,7 +10946,9 @@ To one strong in good quality. 988
 
 Aeons may change but not the seer  
 
-Who is a sea of virtue pure. 989  
+Who is a sea of virtue pure.
+
+ 989  
 
 10. சான்றவர் சான்றாண்மை குன்றின் இருநிலம்தான்  
 
@@ -8807,13 +10956,19 @@ Who is a sea of virtue pure. 989
 
 The world will not more bear its weight  
 
-If from high virtue fall the great. 990  
+If from high virtue fall the great.
+
+ 990  
 
 ----------  
 
   
 
-### 100. பண்புடைமை - Courtesy  
+###
+
+
+
+ 100. பண்புடைமை - Courtesy  
 
   
 
@@ -8823,7 +10978,9 @@ If from high virtue fall the great. 990
 
 To the polite free of access  
 
-Easily comes courteousness. 991  
+Easily comes courteousness.
+
+ 991  
 
 2. அன்புடைமை ஆன்ற குடிப்பிறத்தல் இவ்விரண்டும்  
 
@@ -8831,7 +10988,9 @@ Easily comes courteousness. 991
 
 Humanity and noble birth  
 
-Develop courtesy and moral worth. 992  
+Develop courtesy and moral worth.
+
+ 992  
 
 3. உறுப்பொத்தல் மக்களொப்பு அன்றால் வெறுத்தக்க  
 
@@ -8839,7 +10998,9 @@ Develop courtesy and moral worth. 992
 
 Likeness in limbs is not likeness  
 
-It's likeness in kind courteousness. 993  
+It's likeness in kind courteousness.
+
+ 993  
 
 4. நயனொடு நன்றி புரிந்த பயனுடையார்  
 
@@ -8847,7 +11008,9 @@ It's likeness in kind courteousness. 993
 
 The world applauds those helpful men  
 
-Whose actions are just and benign. 994  
+Whose actions are just and benign.
+
+ 994  
 
 5. நகையுள்ளும் இன்னாது இகழ்ச்சி பகையுள்ளும்  
 
@@ -8855,7 +11018,9 @@ Whose actions are just and benign. 994
 
 The courteous don't even foes detest  
 
-For contempt offends even in jest. 995  
+For contempt offends even in jest.
+
+ 995  
 
 6. பண்புடையார்ப் பட்டுண்டு உலகம் அதுஇன்றேல்  
 
@@ -8863,7 +11028,9 @@ For contempt offends even in jest. 995
 
 The world rests with the mannered best  
 
-Or it crumbles and falls to dust. 996  
+Or it crumbles and falls to dust.
+
+ 996  
 
 7. அரம்போலும் கூர்மைய ரேனும் மரம்போல்வர்  
 
@@ -8871,7 +11038,9 @@ Or it crumbles and falls to dust. 996
 
 The mannerless though sharp like file  
 
-Are like wooden blocks indocile. 997  
+Are like wooden blocks indocile.
+
+ 997  
 
 8. நண்பாற்றா ராகி நயமில செய்வார்க்கும்  
 
@@ -8879,7 +11048,9 @@ Are like wooden blocks indocile. 997
 
 Discourtesy is mean indeed  
 
-E'en to a base unfriendly breed. 998  
+E'en to a base unfriendly breed.
+
+ 998  
 
 9. நகல்வல்லர் அல்லார்க்கு மாயிரு ஞாலம்  
 
@@ -8887,7 +11058,9 @@ E'en to a base unfriendly breed. 998
 
 To those bereft of smiling light  
 
-Even in day the earth is night. 999  
+Even in day the earth is night.
+
+ 999  
 
 10. பண்பிலான் பெற்ற பெருஞ் செல்வம் நன்பால்  
 
@@ -8895,13 +11068,19 @@ Even in day the earth is night. 999
 
 The wealth heaped by the churlish base  
 
-Is pure milk soured by impure vase. 1000  
+Is pure milk soured by impure vase.
+
+ 1000  
 
 ------------  
 
   
 
-### 101. நன்றியில் செல்வம் - Futile wealth  
+###
+
+
+
+ 101. நன்றியில் செல்வம் - Futile wealth  
 
   
 
@@ -8911,7 +11090,9 @@ Is pure milk soured by impure vase. 1000
 
 Dead is he with wealth in pile  
 
-Unenjoyed, it is futile. 1001  
+Unenjoyed, it is futile.
+
+ 1001  
 
 2. பொருளானாம் எல்லாமென்று ஈயாது இவறும்  
 
@@ -8919,7 +11100,9 @@ Unenjoyed, it is futile. 1001
 
 The niggard miser thinks wealth is all  
 
-He hoards, gives not is born devil. 1002  
+He hoards, gives not is born devil.
+
+ 1002  
 
 3. ஈட்டம் இவறி இசைவேண்டா ஆடவர்  
 
@@ -8927,7 +11110,9 @@ He hoards, gives not is born devil. 1002
 
 A burden he is to earth indeed  
 
-Who hoards without a worthy deed. 1003  
+Who hoards without a worthy deed.
+
+ 1003  
 
 4. எச்சமென்று என்எண்ணுங் கொல்லோ ஒருவரால்  
 
@@ -8935,7 +11120,9 @@ Who hoards without a worthy deed. 1003
 
 What legacy can he leave behind  
 
-Who is for approach too unkind. 1004  
+Who is for approach too unkind.
+
+ 1004  
 
 5. கொடுப்பதூஉம் துய்ப்பதூஉம் இல்லார்க்கு அடுக்கிய  
 
@@ -8943,7 +11130,9 @@ Who is for approach too unkind. 1004
 
 What is the good of crores they hoard  
 
-To give and enjoy whose heart is hard. 1005  
+To give and enjoy whose heart is hard.
+
+ 1005  
 
 6. ஏதம் பெருஞ்செல்வம் தான்றுவ்வான் தக்கார்க்கொன்று  
 
@@ -8951,7 +11140,9 @@ To give and enjoy whose heart is hard. 1005
 
 Great wealth unused for oneself nor  
 
-To worthy men is but a slur. 1006  
+To worthy men is but a slur.
+
+ 1006  
 
 7. அற்றார்க்கொன்று ஆற்றாதான் செல்வம் மிகநலம்  
 
@@ -8959,7 +11150,9 @@ To worthy men is but a slur. 1006
 
 Who loaths to help have-nots, his gold  
 
-Is like a spinster-belle grown old. 1007  
+Is like a spinster-belle grown old.
+
+ 1007  
 
 8. நச்சப் படாதவன் செல்வம் நடுவூருள்  
 
@@ -8967,7 +11160,9 @@ Is like a spinster-belle grown old. 1007
 
 The idle wealth of unsought men  
 
-Is poison-fruit-tree amidst a town. 1008  
+Is poison-fruit-tree amidst a town.
+
+ 1008  
 
 9. அன்பொரீஇத் தற்செற்று அறநோக்காது ஈட்டிய  
 
@@ -8975,7 +11170,9 @@ Is poison-fruit-tree amidst a town. 1008
 
 Others usurp the shining gold  
 
-In loveless, stingy, vicious hold. 1009  
+In loveless, stingy, vicious hold.
+
+ 1009  
 
 10. சீருடைச் செல்வர் சிறுதுனி மாரி  
 
@@ -8983,13 +11180,19 @@ In loveless, stingy, vicious hold. 1009
 
 The brief want of the rich benign  
 
-Is like rainclouds growing thin. 1010  
+Is like rainclouds growing thin.
+
+ 1010  
 
 -----------  
 
   
 
-### 102. நாணுடைமை - Sensitiveness to shame  
+###
+
+
+
+ 102. நாணுடைமை - Sensitiveness to shame  
 
   
 
@@ -8999,7 +11202,9 @@ Is like rainclouds growing thin. 1010
 
 To shrink from evil deed is shame  
 
-The rest is blush of fair-faced dame. 1011  
+The rest is blush of fair-faced dame.
+
+ 1011  
 
 2. ஊணுடை எச்சம் உயிர்க்கெல்லாம் வேறல்ல  
 
@@ -9007,7 +11212,9 @@ The rest is blush of fair-faced dame. 1011
 
 Food, dress and such are one for all  
 
-Modesty marks the higher soul. 1012  
+Modesty marks the higher soul.
+
+ 1012  
 
 3. ஊனைக் குறித்த உயிரெல்லாம் நாண்என்னும்  
 
@@ -9015,7 +11222,9 @@ Modesty marks the higher soul. 1012
 
 All lives have their lodge in flesh  
 
-Perfection has its home in blush. 1013  
+Perfection has its home in blush.
+
+ 1013  
 
 4. அணிஅன்றோ நாணுடைமை சான்றோர்க்கு அஃதின்றேல்  
 
@@ -9023,7 +11232,9 @@ Perfection has its home in blush. 1013
 
 Shame is the jewel of dignity  
 
-Shameless swagger is vanity. 1014  
+Shameless swagger is vanity.
+
+ 1014  
 
 5. பிறர்பழியும் தம்பழியும் நாணுவார் நாணுக்கு  
 
@@ -9031,7 +11242,9 @@ Shameless swagger is vanity. 1014
 
 In them resides the sense of shame  
 
-Who blush for their and other's blame. 1015  
+Who blush for their and other's blame.
+
+ 1015  
 
 6. நாண்வேலி கொள்ளாது மன்னோ வியன்ஞாலம்  
 
@@ -9039,7 +11252,9 @@ Who blush for their and other's blame. 1015
 
 The great refuse the wonder-world  
 
-Without modesty's hedge and shield. 1016  
+Without modesty's hedge and shield.
+
+ 1016  
 
 7. நாணால் உயிரைத் துறப்பர் உயிர்ப்பொருட்டால்  
 
@@ -9047,7 +11262,9 @@ Without modesty's hedge and shield. 1016
 
 For shame their life the shame-sensed give  
 
-Loss of shame they won't outlive. 1017  
+Loss of shame they won't outlive.
+
+ 1017  
 
 8. பிறர்நாணத் தக்கது தான்நாணா னாயின்  
 
@@ -9055,7 +11272,9 @@ Loss of shame they won't outlive. 1017
 
 Virtue is much ashamed of him  
 
-Who shameless does what others shame. 1018  
+Who shameless does what others shame.
+
+ 1018  
 
 9. குலஞ்சுடும் கொள்கை பிழைப்பின் நலஞ்சுடும்  
 
@@ -9063,7 +11282,9 @@ Who shameless does what others shame. 1018
 
 Lapse in manners injures the race  
 
-Want of shame harms every good grace. 1019  
+Want of shame harms every good grace.
+
+ 1019  
 
 10. நாண்அகத் தில்லார் இயக்கம் மரப்பாவை  
 
@@ -9071,13 +11292,19 @@ Want of shame harms every good grace. 1019
 
 Movements of the shameless in heart  
 
-Are string-led puppet show in fact. 1020  
+Are string-led puppet show in fact.
+
+ 1020  
 
 ------------  
 
   
 
-### 103. குடிசெயல்வகை - Promoting family welfare  
+###
+
+
+
+ 103. குடிசெயல்வகை - Promoting family welfare  
 
   
 
@@ -9087,7 +11314,9 @@ Are string-led puppet show in fact. 1020
 
 No greatness is grander like  
 
-Saying "I shall work without slack". 1021  
+Saying "I shall work without slack".
+
+ 1021  
 
 2. ஆள்வினையும் ஆன்ற அறிவும் எனஇரண்டின்  
 
@@ -9095,7 +11324,9 @@ Saying "I shall work without slack". 1021
 
 These two exalt a noble home  
 
-Ardent effort and ripe wisdom. 1022  
+Ardent effort and ripe wisdom.
+
+ 1022  
 
 3. குடிசெய்வல் என்னும் ஒருவற்குத் தெய்வம்  
 
@@ -9103,7 +11334,9 @@ Ardent effort and ripe wisdom. 1022
 
 When one resolves to raise his race  
 
-Loin girt up God leads his ways. 1023  
+Loin girt up God leads his ways.
+
+ 1023  
 
 4. சூழாமல் தானே முடிவெய்தும் தம்குடியைத்  
 
@@ -9111,7 +11344,9 @@ Loin girt up God leads his ways. 1023
 
 Who raise their races with ceaseless pain  
 
-No need for plan; their ends will gain. 1024  
+No need for plan; their ends will gain.
+
+ 1024  
 
 5. குற்றம் இலனாய்க் குடிசெய்து வாழ்வானைச்  
 
@@ -9119,7 +11354,9 @@ No need for plan; their ends will gain. 1024
 
 Who keeps his house without a blame  
 
-People around, his kinship claim. 1025  
+People around, his kinship claim.
+
+ 1025  
 
 6. நல்லாண்மை என்பது ஒருவற்குத் தான்பிறந்த  
 
@@ -9127,7 +11364,9 @@ People around, his kinship claim. 1025
 
 Who raise their race which gave them birth  
 
-Are deemed as men of manly worth. 1026  
+Are deemed as men of manly worth.
+
+ 1026  
 
 7. அமரகத்து வன்கண்ணார் போலத் தமரகத்தும்  
 
@@ -9135,7 +11374,9 @@ Are deemed as men of manly worth. 1026
 
 Like dauntless heroes in battle field  
 
-The home-burden rests on the bold. 1027  
+The home-burden rests on the bold.
+
+ 1027  
 
 8. குடிசெய்வார்க்கு இல்லை பருவம் மடிசெய்து  
 
@@ -9143,7 +11384,9 @@ The home-burden rests on the bold. 1027
 
 No season have they who raise their race  
 
-Sloth and pride will honour efface. 1028  
+Sloth and pride will honour efface.
+
+ 1028  
 
 9. இடும்பைக்கே கொள்கலங் கொல்லோ குடும்பத்தைக்  
 
@@ -9151,7 +11394,9 @@ Sloth and pride will honour efface. 1028
 
 Is not his frame a vase for woes  
 
-Who from mishaps shields his house? 1029  
+Who from mishaps shields his house?
+
+ 1029  
 
 10. இடுக்கண்கால் கொன்றிட வீழும் அடுத்தூன்றும்  
 
@@ -9159,13 +11404,19 @@ Who from mishaps shields his house? 1029
 
 A house will fall by a mishap  
 
-With no good man to prop it up. 1030  
+With no good man to prop it up.
+
+ 1030  
 
 ------------  
 
   
 
-### 104. உழவு - Farming  
+###
+
+
+
+ 104. உழவு - Farming  
 
   
 
@@ -9175,7 +11426,9 @@ With no good man to prop it up. 1030
 
 Farming though hard is foremost trade  
 
-Men ply at will but ploughmen lead. 1031  
+Men ply at will but ploughmen lead.
+
+ 1031  
 
 2. உழுவார் உலகத்தார்க்கு ஆணிஅஃதாற்றாது  
 
@@ -9183,7 +11436,9 @@ Men ply at will but ploughmen lead. 1031
 
 Tillers are linch-pin of mankind  
 
-Bearing the rest who cannot tend. 1032  
+Bearing the rest who cannot tend.
+
+ 1032  
 
 3. உழுதுண்டு வாழ்வாரே வாழ்வார்மற் றெல்லாம்  
 
@@ -9191,7 +11446,9 @@ Bearing the rest who cannot tend. 1032
 
 They live who live to plough and eat  
 
-The rest behind them bow and eat. 1033  
+The rest behind them bow and eat.
+
+ 1033  
 
 4. பலகுடை நீழலும் தங்குடைக்கீழ்க் காண்பர்  
 
@@ -9199,7 +11456,9 @@ The rest behind them bow and eat. 1033
 
 Who have the shade of cornful crest  
 
-Under their umbra umbrellas rest. 1034  
+Under their umbra umbrellas rest.
+
+ 1034  
 
 5. இரவார் இரப்பார்க்கொன்று ஈவர் கரவாது  
 
@@ -9207,7 +11466,9 @@ Under their umbra umbrellas rest. 1034
 
 Who till and eat, beg not; nought hide  
 
-But give to those who are in need. 1035  
+But give to those who are in need.
+
+ 1035  
 
 6. உழவினார் கைம்மடங்கின் இல்லை விழைவதூஉம்  
 
@@ -9215,7 +11476,9 @@ But give to those who are in need. 1035
 
 Should ploughmen sit folding their hands  
 
-Desire-free monks too suffer wants. 1036  
+Desire-free monks too suffer wants.
+
+ 1036  
 
 7. தொடிப்புழுதி கஃசா உணக்கின் பிடித்தெருவும்  
 
@@ -9223,7 +11486,9 @@ Desire-free monks too suffer wants. 1036
 
 Moulds dried to quarter-dust ensure  
 
-Rich crops without handful manure. 1037  
+Rich crops without handful manure.
+
+ 1037  
 
 8. ஏரினும் நன்றால் எருஇடுதல் கட்டபின்  
 
@@ -9231,7 +11496,9 @@ Rich crops without handful manure. 1037
 
 Better manure than plough; then weed;  
 
-Than irrigating, better guard. 1038  
+Than irrigating, better guard.
+
+ 1038  
 
 9. செல்லான் கிழவன் இருப்பின் நிலம்புலந்து  
 
@@ -9239,7 +11506,9 @@ Than irrigating, better guard. 1038
 
 If landsmen sit sans moving about  
 
-The field like wife will sulk and pout. 1039  
+The field like wife will sulk and pout.
+
+ 1039  
 
 10. இலமென்று அசைஇ இருப்பாரைக் காணின்  
 
@@ -9247,13 +11516,19 @@ The field like wife will sulk and pout. 1039
 
 Fair good earth will laugh to see  
 
-Idlers pleading poverty. 1040  
+Idlers pleading poverty.
+
+ 1040  
 
 ----------  
 
   
 
-### 105. நல்குரவு - Poverty  
+###
+
+
+
+ 105. நல்குரவு - Poverty  
 
   
 
@@ -9263,7 +11538,9 @@ Idlers pleading poverty. 1040
 
 What gives more pain than scarcity?  
 
-No pain pinches like poverty. 1041  
+No pain pinches like poverty.
+
+ 1041  
 
 2. இன்மை எனஒரு பாவி மறுமையும்  
 
@@ -9271,7 +11548,9 @@ No pain pinches like poverty. 1041
 
 The sinner Want is enemy dire  
 
-Of joys of earth and heaven there. 1042  
+Of joys of earth and heaven there.
+
+ 1042  
 
 3. தொல்வரவும் தோலும் கெடுக்கும் தொகையாக  
 
@@ -9279,7 +11558,9 @@ Of joys of earth and heaven there. 1042
 
 The craving itch of poverty  
 
-Kills graceful words and ancestry. 1043  
+Kills graceful words and ancestry.
+
+ 1043  
 
 4. இற்பிறந்தார் கண்ணேயும் இன்மை இளிவந்த  
 
@@ -9287,7 +11568,9 @@ Kills graceful words and ancestry. 1043
 
 Want makes even good familymen  
 
-Utter words that are low and mean. 1044  
+Utter words that are low and mean.
+
+ 1044  
 
 5. நல்குரவு என்னும் இடும்பையுள் பல்குரைத்  
 
@@ -9295,7 +11578,9 @@ Utter words that are low and mean. 1044
 
 The pest of wanton poverty  
 
-Brings a train of misery. 1045  
+Brings a train of misery.
+
+ 1045  
 
 6. நற்பொருள் நன்குணர்ந்து சொல்லினும் நல்கூர்ந்தார்  
 
@@ -9303,7 +11588,9 @@ Brings a train of misery. 1045
 
 The poor men's words are thrown away  
 
-Though from heart good things they say. 1046  
+Though from heart good things they say.
+
+ 1046  
 
 7. அறஞ்சாரா நல்குரவு ஈன்றதா யானும்  
 
@@ -9311,7 +11598,9 @@ Though from heart good things they say. 1046
 
 Even the mother looks as stranger  
 
-The poor devoid of character. 1047  
+The poor devoid of character.
+
+ 1047  
 
 8. இன்றும் வருவது கொல்லோ நெருநலும்  
 
@@ -9319,7 +11608,9 @@ The poor devoid of character. 1047
 
 The killing Want of yesterday  
 
-Will it pester me even to-day? 1048  
+Will it pester me even to-day?
+
+ 1048  
 
 9. நெருப்பினுள் துஞ்சலும் ஆகும் நிரப்பினுள்  
 
@@ -9327,7 +11618,9 @@ Will it pester me even to-day? 1048
 
 One may sleep in the midst of fire  
 
-In want a wink of sleep is rare. 1049  
+In want a wink of sleep is rare.
+
+ 1049  
 
 10. துப்புரவு இல்லார் துவரத் துறவாமை  
 
@@ -9335,13 +11628,19 @@ In want a wink of sleep is rare. 1049
 
 Renounce their lives the poor must  
 
-Or salt and gruel go to waste. 1050  
+Or salt and gruel go to waste.
+
+ 1050  
 
 ------------  
 
   
 
-### 106. இரவு - Asking  
+###
+
+
+
+ 106. இரவு - Asking  
 
   
 
@@ -9351,7 +11650,9 @@ Or salt and gruel go to waste. 1050
 
 Demand from those who can supply  
 
-Default is theirs when they deny. 1051  
+Default is theirs when they deny.
+
+ 1051  
 
 2. இன்பம் ஒருவற்கு இரத்தல் இரந்தவை  
 
@@ -9359,7 +11660,9 @@ Default is theirs when they deny. 1051
 
 Even demand becomes a joy  
 
-When the things comes without annoy. 1052  
+When the things comes without annoy.
+
+ 1052  
 
 3. கரப்பிலா நெஞ்சின் கடனறிவார் முன்நின்று  
 
@@ -9367,7 +11670,9 @@ When the things comes without annoy. 1052
 
 Request has charm form open hearts  
 
-Who know the duty on their part. 1053  
+Who know the duty on their part.
+
+ 1053  
 
 4. இரத்தலும் ஈதலே போலும் கரத்தல்  
 
@@ -9375,7 +11680,9 @@ Who know the duty on their part. 1053
 
 Like giving even asking seems  
 
-From those who hide not even in dreams. 1054  
+From those who hide not even in dreams.
+
+ 1054  
 
 5. கரப்பிலார் வையகத்து உண்மையால் கண்ணின்று  
 
@@ -9383,7 +11690,9 @@ From those who hide not even in dreams. 1054
 
 The needy demand for help because  
 
-The world has men who don't refuse. 1055  
+The world has men who don't refuse.
+
+ 1055  
 
 6. கரப்பிடும்பை இல்லாரைக் காணின் நிரப்பிடும்பை  
 
@@ -9391,7 +11700,9 @@ The world has men who don't refuse. 1055
 
 The pain of poverty shall die  
 
-Before the free who don't deny. 1056  
+Before the free who don't deny.
+
+ 1056  
 
 7. இகழ்ந்தெள்ளாது ஈவாரைக் காணின் மகிழ்ந்துள்ளம்  
 
@@ -9399,7 +11710,9 @@ Before the free who don't deny. 1056
 
 When givers without scorn impart  
 
-A thrill of delight fills the heart. 1057  
+A thrill of delight fills the heart.
+
+ 1057  
 
 8. இரப்பாரை இல்லாயின் ஈர்ங்கண்மா ஞாலம்  
 
@@ -9407,7 +11720,9 @@ A thrill of delight fills the heart. 1057
 
 This grand cool world shall move to and fro  
 
-Sans Askers like a puppet show. 1058  
+Sans Askers like a puppet show.
+
+ 1058  
 
 9. ஈவார்கண் என்னுண்டாம் தோற்றம் இரந்துகோள்  
 
@@ -9415,7 +11730,9 @@ Sans Askers like a puppet show. 1058
 
 Where stands the glory of givers  
 
-Without obligation seekers? 1059  
+Without obligation seekers?
+
+ 1059  
 
 10. இரப்பான் வெகுளாமை வேண்டும் நிரப்புஇடும்பை  
 
@@ -9423,7 +11740,9 @@ Without obligation seekers? 1059
 
 The needy should not scowl at "No"  
 
-His need anothers' need must show. 1060  
+His need anothers' need must show.
+
+ 1060  
 
 /* Saint valluvar talks of two kinds of Asking:-  
 
@@ -9435,7 +11754,11 @@ His need anothers' need must show. 1060
 
   
 
-### 107. இரவச்சம் - Dread of beggary  
+###
+
+
+
+ 107. இரவச்சம் - Dread of beggary  
 
   
 
@@ -9445,7 +11768,9 @@ His need anothers' need must show. 1060
 
 Not to beg is billions worth  
 
-E'en from eye-like friends who give with mirth. 1061  
+E'en from eye-like friends who give with mirth.
+
+ 1061  
 
 2. இரந்தும் உயிர்வாழ்தல் வேண்டின் பரந்து  
 
@@ -9453,7 +11778,9 @@ E'en from eye-like friends who give with mirth. 1061
 
 Let World-Maker loiter and rot  
 
-If "beg and live" be human fate. 1062  
+If "beg and live" be human fate.
+
+ 1062  
 
 3. இன்மை இடும்பை இரந்துதீர் வாமென்னும்  
 
@@ -9461,7 +11788,9 @@ If "beg and live" be human fate. 1062
 
 Nothing is hard like hard saying  
 
-"We end poverty by begging". 1063  
+"We end poverty by begging".
+
+ 1063  
 
 4. இடமெல்லாம் கொள்ளாத் தகைத்தே இடமில்லாக்  
 
@@ -9469,7 +11798,9 @@ Nothing is hard like hard saying
 
 All space is small before the great  
 
-Who beg not e'en in want acute. 1064  
+Who beg not e'en in want acute.
+
+ 1064  
 
 5. தெண்ணீர் அடுபுற்கை யாயினும் தாள்தந்தது  
 
@@ -9477,7 +11808,9 @@ Who beg not e'en in want acute. 1064
 
 Though gruel thin, nothing is sweet  
 
-Like the food earned by labour's sweat. 1065  
+Like the food earned by labour's sweat.
+
+ 1065  
 
 6. ஆவிற்கு நீரென்று இரப்பினும் நாவிற்கு  
 
@@ -9485,7 +11818,9 @@ Like the food earned by labour's sweat. 1065
 
 It may be water for the cow  
 
-Begging tongue is mean anyhow. 1066  
+Begging tongue is mean anyhow.
+
+ 1066  
 
 7. இரப்பன் இரப்பாரை எல்லாம் இரப்பின்  
 
@@ -9493,7 +11828,9 @@ Begging tongue is mean anyhow. 1066
 
 If beg they must I beg beggers  
 
-Not to beg from shrinking misers. 1067  
+Not to beg from shrinking misers.
+
+ 1067  
 
 8. இரவென்னும் ஏமாப்பில் தோணி கரவென்னும்  
 
@@ -9501,7 +11838,9 @@ Not to beg from shrinking misers. 1067
 
 The hapless bark of beggary splits  
 
-On the rock of refusing hits. 1068  
+On the rock of refusing hits.
+
+ 1068  
 
 9. இரவுள்ள உள்ளம் உருகும் கரவுள்ள  
 
@@ -9509,7 +11848,9 @@ On the rock of refusing hits. 1068
 
 The heart at thought of beggars melts;  
 
-It dies at repulsing insults. 1069  
+It dies at repulsing insults.
+
+ 1069  
 
 10. கரப்பவர்க்கு யாஙகொளிக்குங் கொல்லோ இரப்பவர்  
 
@@ -9517,13 +11858,19 @@ It dies at repulsing insults. 1069
 
 The word "No" kills the begger's life  
 
-Where can the niggard's life be safe? 1070  
+Where can the niggard's life be safe?
+
+ 1070  
 
 ----------  
 
   
 
-### 108. கயமை - Meanness  
+###
+
+
+
+ 108. கயமை - Meanness  
 
   
 
@@ -9533,7 +11880,9 @@ Where can the niggard's life be safe? 1070
 
 The mean seem men only in form  
 
-We have never seen such a sham. 1071  
+We have never seen such a sham.
+
+ 1071  
 
 2. நன்றறி வாரிற் கயவர் திருவுடையர்  
 
@@ -9541,7 +11890,9 @@ We have never seen such a sham. 1071
 
 The base seem richer than the good  
 
-For no care enters their heart or head. 1072  
+For no care enters their heart or head.
+
+ 1072  
 
 3. தேவர் அனையர் கயவர் அவருந்தாம்  
 
@@ -9549,7 +11900,9 @@ For no care enters their heart or head. 1072
 
 The base are like gods; for they too  
 
-As prompted by their desire do. 1073  
+As prompted by their desire do.
+
+ 1073  
 
 4. அகப்பட்டி ஆவாரைக் காணின் அவரின்  
 
@@ -9557,7 +11910,9 @@ As prompted by their desire do. 1073
 
 When the base meets a rake so vile  
 
-Him he will exceed, exult and smile. 1074  
+Him he will exceed, exult and smile.
+
+ 1074  
 
 5. அச்சமே கீழ்களது ஆசாரம் எச்சம்  
 
@@ -9565,7 +11920,9 @@ Him he will exceed, exult and smile. 1074
 
 Fear forms the conduct of the low  
 
-Craving avails a bit below. 1075  
+Craving avails a bit below.
+
+ 1075  
 
 6. அறைபறை அன்னர் கயவர்தாம் கேட்ட  
 
@@ -9573,7 +11930,9 @@ Craving avails a bit below. 1075
 
 The base are like the beaten drum  
 
-Since other's secrets they proclaim. 1076  
+Since other's secrets they proclaim.
+
+ 1076  
 
 7. ஈர்ங்கை விதிரார் கயவர் கொடிறுடைக்கும்  
 
@@ -9581,7 +11940,9 @@ Since other's secrets they proclaim. 1076
 
 The base their damp hand will not shake  
 
-But for fists clenched their jaws to break. 1077  
+But for fists clenched their jaws to break.
+
+ 1077  
 
 8. சொல்லப் பயன்படுவர் சான்றோர் கரும்புபோல்  
 
@@ -9589,7 +11950,9 @@ But for fists clenched their jaws to break. 1077
 
 The good by soft words profits yield  
 
-The cane-like base when crushed and killed. 1078  
+The cane-like base when crushed and killed.
+
+ 1078  
 
 9. உடுப்பதூஉம் உண்பதூஉம் காணின் பிறர்மேல்  
 
@@ -9597,7 +11960,9 @@ The cane-like base when crushed and killed. 1078
 
 Faults in others the mean will guess  
 
-On seeing how they eat and dress. 1079  
+On seeing how they eat and dress.
+
+ 1079  
 
 10. எற்றிற் குரியர் கயவரொன்று உற்றக்கால்  
 
@@ -9605,13 +11970,17 @@ On seeing how they eat and dress. 1079
 
 The base hasten to sell themselves  
 
-From doom to flit and nothing else. 1080  
+From doom to flit and nothing else.
+
+ 1080  
 
 -----------  
 
   
 
-### 3. இன்பத்துப்பால்- Part III - NATURE OF LOVE  
+###
+
+ 3. இன்பத்துப்பால்- Part III - NATURE OF LOVE  
 
   
 
@@ -9619,19 +11988,111 @@ From doom to flit and nothing else. 1080
 
   
 
-109. தகையணங்குறுத்தல்Beauty's dart 110. குறிப்பறிதல்Signs speak the heart 111. புணர்ச்சி மகிழ்தல்Embrace bliss 112. நலம் புனைந்துரைத்தல்Beauty extolled 113. காதற் சிறப்புரைத்தல்Love's excellence 114. நாணுத் துறவுரைத்தல்Decorum defied 115. அலர் அறிவுறுத்தல்Public clamour  
+109. தகையணங்குறுத்தல்Beauty's dart
+
+
+
+ 110. குறிப்பறிதல்Signs speak the heart
+
+
+
+ 111. புணர்ச்சி மகிழ்தல்Embrace bliss
+
+
+
+ 112. நலம் புனைந்துரைத்தல்Beauty extolled
+
+
+
+ 113. காதற் சிறப்புரைத்தல்Love's excellence
+
+
+
+ 114. நாணுத் துறவுரைத்தல்Decorum defied
+
+
+
+ 115. அலர் அறிவுறுத்தல்Public clamour  
 
 **3.2. கற்பியல் - CHASTE WEDDED LOVE**  
 
   
 
-116. பிரிவாற்றாமைPangs of separation 117. படர்மெலிந்திரங்கல்Wailing of pining love 118. கண்விதுப்பழிதல்Wasteful look for wistful love 119. பசப்புறு பருவரல்Wailing over pallor 120. தனிப்படர் மிகுதிPining alone 121 நினைந்தவர் புலம்பல்Sad memories 122. கனவுநிலை உரைத்தல்Dream visions 123. பொழுதுகண்டிரங்கல்Eventide sigh 124. உறுப்புநலன் அழிதல்Limbs languish 125 நெஞ்சொடு கிளத்தல்Soliloquy 126. நிறையழிதல்Reserve lost 127. அவர்வயின் விதும்பல்Mutual yearning 128. குறிப்பறிவுறுத்தல்Feeling surmised 129. புணர்ச்சி விதும்பல்Longing for reunion 130. நெஞ்சொடு புலத்தல்Chiding the heart 131. புலவிBouderic 132. புலவி நுணுக்கம்Feigned anger 133. ஊடலுவகைSulking charm  
+116. பிரிவாற்றாமைPangs of separation
+
+
+
+ 117. படர்மெலிந்திரங்கல்Wailing of pining love
+
+
+
+ 118. கண்விதுப்பழிதல்Wasteful look for wistful love
+
+
+
+ 119. பசப்புறு பருவரல்Wailing over pallor
+
+
+
+ 120. தனிப்படர் மிகுதிPining alone
+
+ 121 நினைந்தவர் புலம்பல்Sad memories
+
+
+
+ 122. கனவுநிலை உரைத்தல்Dream visions
+
+
+
+ 123. பொழுதுகண்டிரங்கல்Eventide sigh
+
+
+
+ 124. உறுப்புநலன் அழிதல்Limbs languish
+
+ 125 நெஞ்சொடு கிளத்தல்Soliloquy
+
+
+
+ 126. நிறையழிதல்Reserve lost
+
+
+
+ 127. அவர்வயின் விதும்பல்Mutual yearning
+
+
+
+ 128. குறிப்பறிவுறுத்தல்Feeling surmised
+
+
+
+ 129. புணர்ச்சி விதும்பல்Longing for reunion
+
+
+
+ 130. நெஞ்சொடு புலத்தல்Chiding the heart
+
+
+
+ 131. புலவிBouderic
+
+
+
+ 132. புலவி நுணுக்கம்Feigned anger
+
+
+
+ 133. ஊடலுவகைSulking charm  
 
 -------------  
 
   
 
-### 109. தகையணங்குறுத்தல் - Beauty's dart  
+###
+
+
+
+ 109. தகையணங்குறுத்தல் - Beauty's dart  
 
   
 
@@ -9641,7 +12102,9 @@ From doom to flit and nothing else. 1080
 
 Is it an angel? A fair peacock  
 
-Or jewelled belle? To my mind a shock! 1081  
+Or jewelled belle? To my mind a shock!
+
+ 1081  
 
 2. நோக்கினாள் நோக்கெதிர் நோக்குதல் தாக்கணங்கு  
 
@@ -9649,7 +12112,9 @@ Or jewelled belle? To my mind a shock! 1081
 
 The counter glances of this belle  
 
-Are armied dart of the Love-Angel. 1082  
+Are armied dart of the Love-Angel.
+
+ 1082  
 
 3. பண்டறியேன் கூறறென் பதனை இனியறிந்தேன்  
 
@@ -9657,7 +12122,9 @@ Are armied dart of the Love-Angel. 1082
 
 Not known before - I spy Demise  
 
-In woman's guise with battling eyes. 1083  
+In woman's guise with battling eyes.
+
+ 1083  
 
 4. கண்டார் உயிருண்ணும் தோற்றத்தால் பெண்டகைப்  
 
@@ -9665,7 +12132,9 @@ In woman's guise with battling eyes. 1083
 
 This artless dame has darting eyes  
 
-That drink the life of men who gaze. 1084  
+That drink the life of men who gaze.
+
+ 1084  
 
 5. கூற்றமோ கண்ணோ பிணையோ மடவரல்  
 
@@ -9673,7 +12142,9 @@ That drink the life of men who gaze. 1084
 
 Is it death, eye or doe? All three  
 
-In winsome woman's look I see. 1085  
+In winsome woman's look I see.
+
+ 1085  
 
 6. கொடும்புருவம் கோடா மறைப்பின் நடுங்கஞர்  
 
@@ -9681,7 +12152,9 @@ In winsome woman's look I see. 1085
 
 If cruel brows unbent, would screen  
 
-Her eyes won't cause me trembling pain. 1086  
+Her eyes won't cause me trembling pain.
+
+ 1086  
 
 7. கடாஅக் களிற்றின்மேல் கட்படாம் மாதர்  
 
@@ -9689,7 +12162,9 @@ Her eyes won't cause me trembling pain. 1086
 
 Vest on the buxom breast of her  
 
-Looks like rutting tusker's eye-cover. 1087  
+Looks like rutting tusker's eye-cover.
+
+ 1087  
 
 8. ஒண்ணுதற் கோஒ உடைந்ததே ஞாட்பினுள்  
 
@@ -9697,7 +12172,9 @@ Looks like rutting tusker's eye-cover. 1087
 
 Ah these fair brows shatter my might  
 
-Feared by foemen yet to meet. 1088  
+Feared by foemen yet to meet.
+
+ 1088  
 
 9. பிணையேர் மடநோக்கும் நாணும் உடையாட்கு  
 
@@ -9705,7 +12182,9 @@ Feared by foemen yet to meet. 1088
 
 Which jewel can add to her beauty  
 
-With fawn-like looks and modesty? 1089  
+With fawn-like looks and modesty?
+
+ 1089  
 
 10. உண்டார்கண் அல்லது அடுநறாக் காமம்போல்  
 
@@ -9713,13 +12192,19 @@ With fawn-like looks and modesty? 1089
 
 To the drunk alone is wine delight  
 
-Nothing delights like love at sight. 1090  
+Nothing delights like love at sight.
+
+ 1090  
 
 -----------  
 
   
 
-### 110. குறிப்பறிதல் - Signs speak the heart  
+###
+
+
+
+ 110. குறிப்பறிதல் - Signs speak the heart  
 
   
 
@@ -9729,7 +12214,9 @@ Nothing delights like love at sight. 1090
 
 Her painted eyes, two glances dart  
 
-One hurts; the other heals my heart. 1091  
+One hurts; the other heals my heart.
+
+ 1091  
 
 2. கண்களவு கொள்ளும் சிறுநோக்கம் காமத்தில்  
 
@@ -9737,7 +12224,9 @@ One hurts; the other heals my heart. 1091
 
 Her furtive lightning glance is more  
 
-Than enjoyment of sexual lore. 1092  
+Than enjoyment of sexual lore.
+
+ 1092  
 
 3. நோக்கினாள் நோக்கி இறைஞ்சினாள் அஃதவள்  
 
@@ -9745,7 +12234,9 @@ Than enjoyment of sexual lore. 1092
 
 She looked; looking bowed her head  
 
-And love-plant was with water fed. 1093  
+And love-plant was with water fed.
+
+ 1093  
 
 4. யான்நோக்குங் காலை நிலன்நோக்கும் நோக்காக்கால்  
 
@@ -9753,7 +12244,9 @@ And love-plant was with water fed. 1093
 
 I look; she droops to earth awhile  
 
-I turn; she looks with gentle smile. 1094  
+I turn; she looks with gentle smile.
+
+ 1094  
 
 5. குறிக்கொண்டு நோக்காமை அல்லால் ஒருகண்  
 
@@ -9761,7 +12254,9 @@ I turn; she looks with gentle smile. 1094
 
 No direct gaze; a side-long glance  
 
-She darts at me and smiles askance. 1095  
+She darts at me and smiles askance.
+
+ 1095  
 
 6. உறாஅ தவர்போல் சொலினும் செறாஅர்சொல்  
 
@@ -9769,7 +12264,9 @@ She darts at me and smiles askance. 1095
 
 Their words at first seem an offence  
 
-But quick we feel them friendly ones. 1096  
+But quick we feel them friendly ones.
+
+ 1096  
 
 7. செறாஅச் சிறுசொல்லும் செற்றார்போல் நோக்கும்  
 
@@ -9777,7 +12274,9 @@ But quick we feel them friendly ones. 1096
 
 Harsh little words; offended looks,  
 
-Are feigned consenting love-lorn tricks. 1097  
+Are feigned consenting love-lorn tricks.
+
+ 1097  
 
 8. அசையியற்கு உண்டாண்டோர் ஏஎர்யான் நோக்கப்  
 
@@ -9785,7 +12284,9 @@ Are feigned consenting love-lorn tricks. 1097
 
 What a grace the slim maid has!  
 
-As I look she slightly smiles. 1098  
+As I look she slightly smiles.
+
+ 1098  
 
 9. ஏதிலார் போலப் பொதுநோக்கு நோக்குதல்  
 
@@ -9793,7 +12294,9 @@ As I look she slightly smiles. 1098
 
 Between lovers we do discern  
 
-A stranger's look of unconcern. 1099  
+A stranger's look of unconcern.
+
+ 1099  
 
 10. கண்ணொடு கண்ணிணை நோக்கொக்கின் வாய்ச்சொற்கள்  
 
@@ -9801,13 +12304,19 @@ A stranger's look of unconcern. 1099
 
 The words of mouth are of no use  
 
-When eye to eye agrees the gaze. 1100  
+When eye to eye agrees the gaze.
+
+ 1100  
 
 -----------  
 
   
 
-### 111. புணர்ச்சி மகிழ்தல் - Embrace bliss  
+###
+
+
+
+ 111. புணர்ச்சி மகிழ்தல் - Embrace bliss  
 
   
 
@@ -9817,7 +12326,9 @@ When eye to eye agrees the gaze. 1100
 
 In this bangled beauty dwell  
 
-The joys of sight sound touch taste smell. 1101  
+The joys of sight sound touch taste smell.
+
+ 1101  
 
 2. பிணிக்கு மருந்து பிறமன் அணியிழை  
 
@@ -9825,7 +12336,9 @@ The joys of sight sound touch taste smell. 1101
 
 The cure for ailment is somewhere  
 
-For fair maid's ill she is the cure. 1102  
+For fair maid's ill she is the cure.
+
+ 1102  
 
 3. தாம்வீழ்வார் மென்றோள் துயிலின் இனிதுகொல்  
 
@@ -9833,7 +12346,9 @@ For fair maid's ill she is the cure. 1102
 
 Is lotus-eyed lord's heaven so sweet  
 
-As sleep in lover's arms so soft? 1103  
+As sleep in lover's arms so soft?
+
+ 1103  
 
 4. நீங்கின் தெறூஉம் குறுகுங்கால் தண்ணென்னும்  
 
@@ -9841,7 +12356,9 @@ As sleep in lover's arms so soft? 1103
 
 Away it burns and cools anear  
 
-Wherefrom did she get this fire? 1104  
+Wherefrom did she get this fire?
+
+ 1104  
 
 5. வேட்ட பொழுதின் அவையவை போலுமே  
 
@@ -9849,7 +12366,9 @@ Wherefrom did she get this fire? 1104
 
 The arms of my flower-tressed maid  
 
-Whatever I wish that that accord. 1105  
+Whatever I wish that that accord.
+
+ 1105  
 
 6. உறுதோறு உயிர்தளிர்ப்பத் தீண்டலால் பேதைக்கு  
 
@@ -9857,7 +12376,9 @@ Whatever I wish that that accord. 1105
 
 My simple maid has nectar arms  
 
-Each embrace brings life-thrilling charms. 1106  
+Each embrace brings life-thrilling charms.
+
+ 1106  
 
 7. தம்மில் இருந்து தமதுபாத்து உண்டற்றால்  
 
@@ -9865,7 +12386,9 @@ Each embrace brings life-thrilling charms. 1106
 
 Ah the embrace of this fair dame  
 
-Is like sharing one's food at home. 1107  
+Is like sharing one's food at home.
+
+ 1107  
 
 8. வீழும் இருவர்க்கு இனிதே வளியிடை  
 
@@ -9873,7 +12396,9 @@ Is like sharing one's food at home. 1107
 
 Joy is the fast embrace that doth  
 
-Not admit e'en air between both. 1108  
+Not admit e'en air between both.
+
+ 1108  
 
 9. ஊடல் உணர்தல் புணர்தல் இவைகாமம்  
 
@@ -9881,7 +12406,9 @@ Not admit e'en air between both. 1108
 
 Sulking, feeling and clasping fast  
 
-These three are sweets of lover's tryst. 1109  
+These three are sweets of lover's tryst.
+
+ 1109  
 
 10. அறிதோறு அறியாமை கண்டற்றால் காமம்  
 
@@ -9889,13 +12416,19 @@ These three are sweets of lover's tryst. 1109
 
 As knowledge reveals past ignorance  
 
-So is the belle as love gets close. 1110  
+So is the belle as love gets close.
+
+ 1110  
 
 ---------  
 
   
 
-### 112. நலம் புனைந்துரைத்தல் - Beauty extolled  
+###
+
+
+
+ 112. நலம் புனைந்துரைத்தல் - Beauty extolled  
 
   
 
@@ -9905,7 +12438,9 @@ So is the belle as love gets close. 1110
 
 Soft blessed anicha flower, hail  
 
-On whom I dote is softer still. 1111  
+On whom I dote is softer still.
+
+ 1111  
 
 2. மலர்காணின் மையாத்தி நெஞ்சே இவள்கண்  
 
@@ -9913,7 +12448,9 @@ On whom I dote is softer still. 1111
 
 You can't liken flowers by many eyed,  
 
-To her bright eyes, O mind dismayed. 1112  
+To her bright eyes, O mind dismayed.
+
+ 1112  
 
 3. முறிமேனி முத்தம் முறுவல் வெறிநாற்றம்  
 
@@ -9921,7 +12458,9 @@ To her bright eyes, O mind dismayed. 1112
 
 The bamboo-shouldered has pearl-like smiles  
 
-Fragrant breath and lance-like eyes. 1113  
+Fragrant breath and lance-like eyes.
+
+ 1113  
 
 4. காணின் குவளை கவிழ்ந்து நிலன்நோக்கும்  
 
@@ -9929,7 +12468,9 @@ Fragrant breath and lance-like eyes. 1113
 
 Lily droops down to ground and says  
 
-I can't equal the jewelled-one's eyes. 1114  
+I can't equal the jewelled-one's eyes.
+
+ 1114  
 
 5. அனிச்சப்பூக் கால்களையாள் பெய்தாள் நுசுப்பிற்கு  
 
@@ -9937,7 +12478,9 @@ I can't equal the jewelled-one's eyes. 1114
 
 Anicha flower with stem she wears  
 
-To her breaking waist sad-drum-blares! 1115  
+To her breaking waist sad-drum-blares!
+
+ 1115  
 
 6. மதியும் மடந்தை முகனும் அறியா  
 
@@ -9945,7 +12488,9 @@ To her breaking waist sad-drum-blares! 1115
 
 Stars are confused to know which is  
 
-The moon and which is woman's face. 1116  
+The moon and which is woman's face.
+
+ 1116  
 
 7. அறுவாய் நிறைந்த அவிர்மதிக்குப் போல  
 
@@ -9953,7 +12498,9 @@ The moon and which is woman's face. 1116
 
 Are there spots on the lady's face  
 
-Just as in moon that changes phase? 1117  
+Just as in moon that changes phase?
+
+ 1117  
 
 8. மாதர் முகம்போல் ஒளிவிட வல்லையேல்  
 
@@ -9961,7 +12508,9 @@ Just as in moon that changes phase? 1117
 
 Like my lady's face if you shine  
 
-All my love to you; hail O moon! 1118  
+All my love to you; hail O moon!
+
+ 1118  
 
 9. மலர்ன்ன கண்ணாள் முகமொத்தி யாயின்  
 
@@ -9969,7 +12518,9 @@ All my love to you; hail O moon! 1118
 
 Like the face of my flower-eyed one  
 
-If you look, then shine alone O moon! 1119  
+If you look, then shine alone O moon!
+
+ 1119  
 
 10. அனிச்சமும் அன்னத்தின் தூவியும் மாதர்  
 
@@ -9977,13 +12528,19 @@ If you look, then shine alone O moon! 1119
 
 The soft flower and the swan's down are  
 
-Like nettles to the feet of the fair. 1120  
+Like nettles to the feet of the fair.
+
+ 1120  
 
 ----------  
 
   
 
-### 113. காதற் சிறப்புரைத்தல் - Love's excellence  
+###
+
+
+
+ 113. காதற் சிறப்புரைத்தல் - Love's excellence  
 
   
 
@@ -9993,7 +12550,9 @@ Like nettles to the feet of the fair. 1120
 
 Like milk and honey the dew is sweet  
 
-From her white teeth whose word is soft. 1121  
+From her white teeth whose word is soft.
+
+ 1121  
 
 2. உடம்பொடு உயிரிடை என்னமற் றன்ன  
 
@@ -10001,7 +12560,9 @@ From her white teeth whose word is soft. 1121
 
 Love between me and this lady  
 
-Is like bond between soul and body. 1122  
+Is like bond between soul and body.
+
+ 1122  
 
 3. கருமணியிற் பாவாய்நீ போதாயாம் வீழும்  
 
@@ -10009,7 +12570,9 @@ Is like bond between soul and body. 1122
 
 Depart image in my pupil  
 
-Giving room to my fair-browed belle! 1123  
+Giving room to my fair-browed belle!
+
+ 1123  
 
 4. வாழ்தல் உயிர்க்கன்னள் ஆயிழை சாதல்  
 
@@ -10017,7 +12580,9 @@ Giving room to my fair-browed belle! 1123
 
 Life with my jewel is existence  
 
-Death it is her severance. 1124  
+Death it is her severance.
+
+ 1124  
 
 5. உள்ளுவன் மன்யான் மறப்பின் மறப்பறியேன்  
 
@@ -10025,7 +12590,9 @@ Death it is her severance. 1124
 
 Can I forget? I recall always  
 
-The charms of her bright battling eyes. 1125  
+The charms of her bright battling eyes.
+
+ 1125  
 
 6. கண்ணுன்ளின் போகார் இமைப்பின் பருவரார்  
 
@@ -10033,7 +12600,9 @@ The charms of her bright battling eyes. 1125
 
 So subtle is my lover's form  
 
-Ever in my eyes winking, no harm. 1126  
+Ever in my eyes winking, no harm.
+
+ 1126  
 
 7. கண்ணுள்ளார் காத லவராகக் கண்ணும்  
 
@@ -10041,7 +12610,9 @@ Ever in my eyes winking, no harm. 1126
 
 My lover in my eyes abides  
 
-I paint them not lest he hides. 1127  
+I paint them not lest he hides.
+
+ 1127  
 
 8. நெஞ்சத்தார் காத லவராக வெய்துஉண்டல்  
 
@@ -10049,7 +12620,9 @@ I paint them not lest he hides. 1127
 
 My lover abides in my heart  
 
-I fear hot food lest he feels hot. 1128  
+I fear hot food lest he feels hot.
+
+ 1128  
 
 9. இமைப்பின் கரப்பாக்கு அறிவல் அனைத்திற்கே  
 
@@ -10057,7 +12630,9 @@ I fear hot food lest he feels hot. 1128
 
 My eyes wink not lest he should hide  
 
-And him as cruel the townsmen chide. 1129  
+And him as cruel the townsmen chide.
+
+ 1129  
 
 10. உவந்துறைவர் உள்ளத்துள் என்றும் இகந்துறைவர்  
 
@@ -10065,13 +12640,19 @@ And him as cruel the townsmen chide. 1129
 
 He abides happy in my heart  
 
-But people mistake he is apart. 1130  
+But people mistake he is apart.
+
+ 1130  
 
 ------------  
 
   
 
-### 114. நாணுத் துறவுரைத்தல் - Decorum defied  
+###
+
+
+
+ 114. நாணுத் துறவுரைத்தல் - Decorum defied  
 
   
 
@@ -10081,7 +12662,9 @@ But people mistake he is apart. 1130
 
 Pangs of passion find no recourse  
 
-Except riding /*'palmyra horse'. 1131  
+Except riding /*'palmyra horse'.
+
+ 1131  
 
 2. நோனா உடம்பும் உயிரும் மடலேறும்  
 
@@ -10089,7 +12672,9 @@ Except riding /*'palmyra horse'. 1131
 
 Pining body and mind lose shame  
 
-And take to riding of the palm. 1132  
+And take to riding of the palm.
+
+ 1132  
 
 3. நாணொடு நல்லாண்மை பண்டுடையேன் இன்றுடையேன்  
 
@@ -10097,7 +12682,9 @@ And take to riding of the palm. 1132
 
 Once I was modest and manly  
 
-My love has now Madal only. 1133  
+My love has now Madal only.
+
+ 1133  
 
 4. காமக் கடும்புனல் உய்க்குமே நாணொடு  
 
@@ -10105,7 +12692,9 @@ My love has now Madal only. 1133
 
 Rushing flood of love sweeps away  
 
-The raft of shame and firmness, aye! 1134  
+The raft of shame and firmness, aye!
+
+ 1134  
 
 5. தொடலைக் குறுந்தொடி தந்தாள் மடலொடு  
 
@@ -10113,7 +12702,9 @@ The raft of shame and firmness, aye! 1134
 
 Palm-ride and pangs of eventide  
 
-Are gifts of wreath-like bracelet maid. 1135  
+Are gifts of wreath-like bracelet maid.
+
+ 1135  
 
 6. மடலூர்தல் யாமத்தும் உள்ளுவேன் மன்ற  
 
@@ -10121,7 +12712,9 @@ Are gifts of wreath-like bracelet maid. 1135
 
 Madal I ride at midnight for  
 
-My eyes sleep not seeing this fair. 1136  
+My eyes sleep not seeing this fair.
+
+ 1136  
 
 7. கடலன்ன காமம் உழந்தும் மடலேறாப்  
 
@@ -10129,7 +12722,9 @@ My eyes sleep not seeing this fair. 1136
 
 Her sea-like lust seeks not Madal!  
 
-Serene is woman's self control. 1137  
+Serene is woman's self control.
+
+ 1137  
 
 8. நிறையரியர் மன்அளியர் என்னாது காமம்  
 
@@ -10137,7 +12732,9 @@ Serene is woman's self control. 1137
 
 Lust betrays itself in haste  
 
-Though women are highly soft and chaste. 1138  
+Though women are highly soft and chaste.
+
+ 1138  
 
 9. அறிகிலார் எல்லாரும் என்றேஎன் காமம்  
 
@@ -10145,7 +12742,9 @@ Though women are highly soft and chaste. 1138
 
 My perplexed love roves public street  
 
-Believing that none knows its secret. 1139  
+Believing that none knows its secret.
+
+ 1139  
 
 10. யாங்கண்ணின் காண நகுப அறிவில்லார்  
 
@@ -10153,7 +12752,9 @@ Believing that none knows its secret. 1139
 
 Fools laugh at me before my eyes  
 
-For they feel not my pangs and sighs. 1140  
+For they feel not my pangs and sighs.
+
+ 1140  
 
 /* Palmyra horse or 'Madal' is a torture expressive of the burning passion of the lover to the beloved. The lover's body is laid on a rough pricking palmyra bed and he is carried along the street with songs of love pangs. The parents of the lovers first reproach them and then consent to their marriage.  
 
@@ -10161,7 +12762,11 @@ For they feel not my pangs and sighs. 1140
 
   
 
-### 115. அலரறிவுறுத்தல் - Public clamour  
+###
+
+
+
+ 115. அலரறிவுறுத்தல் - Public clamour  
 
   
 
@@ -10171,7 +12776,9 @@ For they feel not my pangs and sighs. 1140
 
 Rumour sustains my existence  
 
-Good luck! many know not its sense. 1141  
+Good luck! many know not its sense.
+
+ 1141  
 
 2. மலரன்ன கண்ணாள் அருமை அறியாது  
 
@@ -10179,7 +12786,9 @@ Good luck! many know not its sense. 1141
 
 Rumour gives me the flower-like belle  
 
-People know not what rare angel. 1142  
+People know not what rare angel.
+
+ 1142  
 
 3. உறாஅதோ ஊரறிந்த கௌவை அதனைப்  
 
@@ -10187,7 +12796,9 @@ People know not what rare angel. 1142
 
 I profit by this public rumour  
 
-Having not, I feel, I have her. 1143  
+Having not, I feel, I have her.
+
+ 1143  
 
 4. கவ்வையால் கவ்விது காமம் அதுஇன்றேல்  
 
@@ -10195,7 +12806,9 @@ Having not, I feel, I have her. 1143
 
 Rumour inflames the love I seek  
 
-Or else it becomes bleak and weak. 1144  
+Or else it becomes bleak and weak.
+
+ 1144  
 
 5. களித்தொறும் கள்ளுண்டல் வேட்டற்றால் காமம்  
 
@@ -10203,7 +12816,9 @@ Or else it becomes bleak and weak. 1144
 
 Drink delights as liquor flows  
 
-Love delights as rumour grows. 1145  
+Love delights as rumour grows.
+
+ 1145  
 
 6. கண்டது மன்னும் ஒருநாள் அலர்மன்னும்  
 
@@ -10211,7 +12826,9 @@ Love delights as rumour grows. 1145
 
 One lasting day we met alone  
 
-Lasting rumours eclipse our moon. 1146  
+Lasting rumours eclipse our moon.
+
+ 1146  
 
 7. ஊரவர் கௌவை எருவாக அன்னைசொல்  
 
@@ -10219,7 +12836,9 @@ Lasting rumours eclipse our moon. 1146
 
 Scandal manures; mother's refrain  
 
-Waters the growth of this love-pain. 1147  
+Waters the growth of this love-pain.
+
+ 1147  
 
 8. நெய்யால் எரிநுதுப்பேம் என்றற்றால் கௌவையால்  
 
@@ -10227,7 +12846,9 @@ Waters the growth of this love-pain. 1147
 
 To quench the lust by rumour free  
 
-Is to quench fire by pouring ghee. 1148  
+Is to quench fire by pouring ghee.
+
+ 1148  
 
 9. அலர்நாண ஒல்வதோ அஞ்சலோம்பு என்றார்  
 
@@ -10235,7 +12856,9 @@ Is to quench fire by pouring ghee. 1148
 
 Who said "fear not" flared up rumour  
 
-Why then should I blush this clamour? 1149  
+Why then should I blush this clamour?
+
+ 1149  
 
 10. தாம்வேண்டின் நல்குவர் காதலர் யாம்வேண்டும்  
 
@@ -10243,13 +12866,19 @@ Why then should I blush this clamour? 1149
 
 Town raising this cry, I desire  
 
-Consent is easy from my sire. 1150  
+Consent is easy from my sire.
+
+ 1150  
 
 -------------  
 
   
 
-### 116. பிரிவாற்றாமை - Pangs of separation  
+###
+
+
+
+ 116. பிரிவாற்றாமை - Pangs of separation  
 
   
 
@@ -10259,7 +12888,9 @@ Consent is easy from my sire. 1150
 
 Tell me if you but do not leave,  
 
-Your quick return to those who live. 1151  
+Your quick return to those who live.
+
+ 1151  
 
 2. இன்கண் உடைத்தவர் பார்வல் பிரிவஞ்சும்  
 
@@ -10267,7 +12898,9 @@ Your quick return to those who live. 1151
 
 His sight itself was pleasing, near  
 
-Embrace pains now by partings fear. 1152  
+Embrace pains now by partings fear.
+
+ 1152  
 
 3. அரிதரோ தேற்றம் அறிவுடையார் கண்ணும்  
 
@@ -10275,7 +12908,9 @@ Embrace pains now by partings fear. 1152
 
 On whom shall I lay my trust hence  
 
-While parting lurks in knowing ones? 1153  
+While parting lurks in knowing ones?
+
+ 1153  
 
 4. அளித்தஞ்சல் என்றவர் நீப்பின் தெளித்தசொல்  
 
@@ -10283,7 +12918,9 @@ While parting lurks in knowing ones? 1153
 
 He parts whose love told me - fear not  
 
-Is my trust in him at default? 1154  
+Is my trust in him at default?
+
+ 1154  
 
 5. ஓம்பின் அமைந்தார் பிரிவோம்பல் மற்றவர்  
 
@@ -10291,7 +12928,9 @@ Is my trust in him at default? 1154
 
 Stop his parting - my life to save  
 
-Meeting is rare if he would leave. 1155  
+Meeting is rare if he would leave.
+
+ 1155  
 
 6. பிரிவுரைக்கும் வன்கண்ண ராயின் அரிதவர்  
 
@@ -10299,7 +12938,9 @@ Meeting is rare if he would leave. 1155
 
 His hardness says, "I leave you now"  
 
-Is there hope of his renewed love? 1156  
+Is there hope of his renewed love?
+
+ 1156  
 
 7. துறைவன் துறந்தமை தூற்றாகொல் முன்கை  
 
@@ -10307,7 +12948,9 @@ Is there hope of his renewed love? 1156
 
 Will not my gliding bangles' cry  
 
-The parting of my lord betray? 1157  
+The parting of my lord betray?
+
+ 1157  
 
 8. இன்னாது இனன்இல்ஊர் வாழ்தல் அதனினும்  
 
@@ -10315,7 +12958,9 @@ The parting of my lord betray? 1157
 
 Bitter is life in friendless place;  
 
-Worse is parting love's embrace! 1158  
+Worse is parting love's embrace!
+
+ 1158  
 
 9. தொடின்கடின் அல்லது காமநோய் போல  
 
@@ -10323,7 +12968,9 @@ Worse is parting love's embrace! 1158
 
 Can fire that burns by touch burn like  
 
-Parting of the hearts love-sick? 1159  
+Parting of the hearts love-sick?
+
+ 1159  
 
 10. அரிதாற்றி அல்லல்நோய் நீக்கிப் பிரிவாற்றிப்  
 
@@ -10331,13 +12978,19 @@ Parting of the hearts love-sick? 1159
 
 Many survive pangs of parting  
 
-Not I this sore so distressing. 1160  
+Not I this sore so distressing.
+
+ 1160  
 
 -------------  
 
   
 
-### 117. படர்மெலிந்திரங்கல் - Wailing of pining love  
+###
+
+
+
+ 117. படர்மெலிந்திரங்கல் - Wailing of pining love  
 
   
 
@@ -10347,7 +13000,9 @@ Not I this sore so distressing. 1160
 
 It swells out like baled out spring  
 
-How to bear this pain so writhing? 1161  
+How to bear this pain so writhing?
+
+ 1161  
 
 2. கரத்தலும் ஆற்றேன்இந் நோயைநோய் செய்தார்க்கு  
 
@@ -10355,7 +13010,9 @@ How to bear this pain so writhing? 1161
 
 I can't conceal this nor complain  
 
-For shame to him who caused this pain. 1162  
+For shame to him who caused this pain.
+
+ 1162  
 
 3. காமமும் நாணும் உயிர்காவாத் தூங்கும்என்  
 
@@ -10363,7 +13020,9 @@ For shame to him who caused this pain. 1162
 
 In life - poles of this wearied frame  
 
-Are poised the weights of lust and shame. 1163  
+Are poised the weights of lust and shame.
+
+ 1163  
 
 4. காமக் கடல்மன்னும் உண்டோ அதுநீந்தும்  
 
@@ -10371,7 +13030,9 @@ Are poised the weights of lust and shame. 1163
 
 My lust is a sea, I do not see  
 
-A raft to go across safely. 1164  
+A raft to go across safely.
+
+ 1164  
 
 5. துப்பின் எவனாவர் மற்கொல் துயர்வரவு  
 
@@ -10379,7 +13040,9 @@ A raft to go across safely. 1164
 
 What wilt they prove when they are foes  
 
-Who in friendship bring me woes! 1165  
+Who in friendship bring me woes!
+
+ 1165  
 
 6. இன்பம் கடல்மற்றுக் காமம் அஃதடுங்கால்  
 
@@ -10387,7 +13050,9 @@ Who in friendship bring me woes! 1165
 
 The pleasure in love is oceanful  
 
-But its pangs are more painful. 1166  
+But its pangs are more painful.
+
+ 1166  
 
 7. காமக் கடும்புனல் நீந்திக் கரைகாணேன்  
 
@@ -10395,7 +13060,9 @@ But its pangs are more painful. 1166
 
 Wild waves of love I swim shoreless  
 
-Pining alone in midnight hush. 1167  
+Pining alone in midnight hush.
+
+ 1167  
 
 8. மன்னுயி ரெல்லாம் துயிற்றி அளித்திரா  
 
@@ -10403,7 +13070,9 @@ Pining alone in midnight hush. 1167
 
 Night's mercy lulls all souls to sleep  
 
-Keeping but me for companionship. 1168  
+Keeping but me for companionship.
+
+ 1168  
 
 9. கொடியார் கொடுமையின் தாம்கொடிய இந்நாள்  
 
@@ -10411,7 +13080,9 @@ Keeping but me for companionship. 1168
 
 Crueller than that cruel he  
 
-Are midnight hours gliding slowly. 1169  
+Are midnight hours gliding slowly.
+
+ 1169  
 
 10. உள்ளம்போன்று உள்வழிச் செல்கிற்பின் வெள்ளநீர்  
 
@@ -10419,13 +13090,19 @@ Are midnight hours gliding slowly. 1169
 
 Like heart, if my sight reaches him  
 
-It won't in floods of tears swim! 1170  
+It won't in floods of tears swim!
+
+ 1170  
 
 ----------  
 
   
 
-### 118. கண்விதுப்பழிதல் - Wasteful look for wistful love  
+###
+
+
+
+ 118. கண்விதுப்பழிதல் - Wasteful look for wistful love  
 
   
 
@@ -10435,7 +13112,9 @@ It won't in floods of tears swim! 1170
 
 The eye pointed him to me; why then  
 
-They weep with malady and pine? 1171  
+They weep with malady and pine?
+
+ 1171  
 
 2. தெரிந்துணரா நோக்கிய உண்கண் பரிந்துணராப்  
 
@@ -10443,7 +13122,9 @@ They weep with malady and pine? 1171
 
 Why should these dyed eyes grieve now sans  
 
-Regrets for their thoughtless glance? 1172  
+Regrets for their thoughtless glance?
+
+ 1172  
 
 3. கதுமெனத் தாம்நோக்கித் தாமே கலுழும்  
 
@@ -10451,7 +13132,9 @@ Regrets for their thoughtless glance? 1172
 
 Eyes darted eager glance that day  
 
-It's funny that they weep today. 1173  
+It's funny that they weep today.
+
+ 1173  
 
 4. பெயலாற்றா நீருலந்த உண்கண் உயலாற்றா  
 
@@ -10459,7 +13142,9 @@ It's funny that they weep today. 1173
 
 These eyes left me to endless grief  
 
-Crying adry without relief. 1174  
+Crying adry without relief.
+
+ 1174  
 
 5. படலாற்றா பைதல் உழக்கும் கடலாற்றாக்  
 
@@ -10467,7 +13152,9 @@ Crying adry without relief. 1174
 
 My eyes causing lust more than sea  
 
-Suffer that torture sleeplessly. 1175  
+Suffer that torture sleeplessly.
+
+ 1175  
 
 6. ஓஒ இனிதே எமக்கிந்நோய் செய்தகண்  
 
@@ -10475,7 +13162,9 @@ Suffer that torture sleeplessly. 1175
 
 Lo! eyes that wrought this love-sickness  
 
-Are victims of the same themselves. 1176  
+Are victims of the same themselves.
+
+ 1176  
 
 7. உழந்துழந்து உள்நீர் அறுக விழைந்திழைந்து  
 
@@ -10483,7 +13172,9 @@ Are victims of the same themselves. 1176
 
 Let tears dry up pining pining  
 
-In eyes that eyed him longing longing. 1177  
+In eyes that eyed him longing longing.
+
+ 1177  
 
 8. பேணாது பெட்டார் உளர்மன்னோ மற்றவர்க்  
 
@@ -10491,7 +13182,9 @@ In eyes that eyed him longing longing. 1177
 
 Ther's he whose lips loved, not his heart  
 
-Yet my eyes pine seeing him not. 1178  
+Yet my eyes pine seeing him not.
+
+ 1178  
 
 9. வாராக்கால் துஞ்சா வரின்துஞ்சா ஆயிடை  
 
@@ -10499,7 +13192,9 @@ Yet my eyes pine seeing him not. 1178
 
 He comes; no sleep; he goes; no sleep  
 
-This is the fate of eyes that weep. 1179  
+This is the fate of eyes that weep.
+
+ 1179  
 
 10. மறைபெறல் ஊரார்க்கு அரிதன்றால் எம்போல்  
 
@@ -10507,13 +13202,19 @@ This is the fate of eyes that weep. 1179
 
 Like drum beats eyes declare my heart;  
 
-From people who could hide his secret? 1180  
+From people who could hide his secret?
+
+ 1180  
 
 -----------  
 
   
 
-### 119. பசப்புறு பருவரல் - Wailing over pallor  
+###
+
+
+
+ 119. பசப்புறு பருவரல் - Wailing over pallor  
 
   
 
@@ -10523,7 +13224,9 @@ From people who could hide his secret? 1180
 
 My lover's parting, I allowed  
 
-Whom to complain my hue pallid? 1181  
+Whom to complain my hue pallid?
+
+ 1181  
 
 2. அவர்தந்தார் என்னும் தகையால் இவர்தந்தென்  
 
@@ -10531,7 +13234,9 @@ Whom to complain my hue pallid? 1181
 
 Claiming it is begot through him  
 
-Pallor creeps and rides over my frame. 1182  
+Pallor creeps and rides over my frame.
+
+ 1182  
 
 3. சாயலும் நாணும் அவர்கொண்டார் கைம்மாறா  
 
@@ -10539,7 +13244,9 @@ Pallor creeps and rides over my frame. 1182
 
 He seized my beauty and modesty  
 
-Leaving pangs and Pallor to me. 1183  
+Leaving pangs and Pallor to me.
+
+ 1183  
 
 4. உள்ளுவன் மன்யான் உரைப்பது அவர்திறமால்  
 
@@ -10547,7 +13254,9 @@ Leaving pangs and Pallor to me. 1183
 
 He is my thought, his praise my theme  
 
-Yet this pallor steals over my frame. 1184  
+Yet this pallor steals over my frame.
+
+ 1184  
 
 5. உவக்காண்எம் காதலர் செல்வார் இவக்காண்என்  
 
@@ -10555,7 +13264,9 @@ Yet this pallor steals over my frame. 1184
 
 My lover departed me there  
 
-And pallor usurped my body here. 1185  
+And pallor usurped my body here.
+
+ 1185  
 
 6. விளக்கற்றம் பார்க்கும் இருளேபோல் கொண்கன்  
 
@@ -10563,7 +13274,9 @@ And pallor usurped my body here. 1185
 
 Just as darkness waits for light-off  
 
-Pallor looks for lover's arms-off. 1186  
+Pallor looks for lover's arms-off.
+
+ 1186  
 
 7. புல்லிக் கிடந்தேன் புடைபெயர்ந்தேன் அவ்வளவில்  
 
@@ -10571,7 +13284,9 @@ Pallor looks for lover's arms-off. 1186
 
 From his embrace I turned a nonce  
 
-This pallor swallowed me at once. 1187  
+This pallor swallowed me at once.
+
+ 1187  
 
 8. பசந்தாள் இவள்என்பது அல்லால் இவளைத்  
 
@@ -10579,7 +13294,9 @@ This pallor swallowed me at once. 1187
 
 On my pallor they cast a slur  
 
-But none says "lo he parted her". 1188  
+But none says "lo he parted her".
+
+ 1188  
 
 9. பசக்கமன் பட்டாங்கென் மேனி நயப்பித்தார்  
 
@@ -10587,7 +13304,9 @@ But none says "lo he parted her". 1188
 
 Let all my body become pale  
 
-If he who took my leave fares well. 1189  
+If he who took my leave fares well.
+
+ 1189  
 
 10. பசப்பெஎனப் பேர்பெறுதல் நன்றே நயப்பித்தார்  
 
@@ -10595,13 +13314,19 @@ If he who took my leave fares well. 1189
 
 Let people call me all pallid  
 
-But my lover let them not deride. 1190  
+But my lover let them not deride.
+
+ 1190  
 
 ------------  
 
   
 
-### 120. தனிப்படர்மிகுதி - Pining alone  
+###
+
+
+
+ 120. தனிப்படர்மிகுதி - Pining alone  
 
   
 
@@ -10611,7 +13336,9 @@ But my lover let them not deride. 1190
 
 Stoneless fruit of love they have  
 
-Who are beloved by those they love. 1191  
+Who are beloved by those they love.
+
+ 1191  
 
 2. வாழ்வார்க்கு வானம் பயந்தற்றால் வீழ்வார்க்கு  
 
@@ -10619,7 +13346,9 @@ Who are beloved by those they love. 1191
 
 The lover - and -beloved's self-givings  
 
-Are like rains to living beings. 1192  
+Are like rains to living beings.
+
+ 1192  
 
 3. வீழுநர் வீழப் படுவார்க்கு அமையுமே  
 
@@ -10627,7 +13356,9 @@ Are like rains to living beings. 1192
 
 The pride of living is for those  
 
-Whose love is returned by love so close. 1193  
+Whose love is returned by love so close.
+
+ 1193  
 
 4. வீழப் படுவார் கெழீஇயிலர் தாம்வீழ்வார்  
 
@@ -10635,7 +13366,9 @@ Whose love is returned by love so close. 1193
 
 Whose love is void of love in turn  
 
-Are luckless with all esteems they earn. 1194  
+Are luckless with all esteems they earn.
+
+ 1194  
 
 5. நாம்காதல் கொண்டார் நமக்கெவன் செய்பவோ  
 
@@ -10643,7 +13376,9 @@ Are luckless with all esteems they earn. 1194
 
 What can our lover do us now  
 
-If he does not requite our love? 1195  
+If he does not requite our love?
+
+ 1195  
 
 6. ஒருதலையான் இன்னாது காமம்காப் போல  
 
@@ -10651,7 +13386,9 @@ If he does not requite our love? 1195
 
 One sided pains; love in both souls  
 
-Poises well like shoulder poles. 1196  
+Poises well like shoulder poles.
+
+ 1196  
 
 7. பருவரலும் பைதலும் காணான்கொல் காமன்  
 
@@ -10659,7 +13396,9 @@ Poises well like shoulder poles. 1196
 
 This cupid aims at me alone;  
 
-Knows he not my pallor and pain? 1197  
+Knows he not my pallor and pain?
+
+ 1197  
 
 8. வீழ்வாரின் இன்சொல் பெறாஅது உலகத்து  
 
@@ -10667,7 +13406,9 @@ Knows he not my pallor and pain? 1197
 
 None is so firm as she who loves  
 
-Without kind words from whom she dotes. 1198  
+Without kind words from whom she dotes.
+
+ 1198  
 
 9. நசைஇயார் நல்கார் எனினும் அவர்மாட்டு  
 
@@ -10675,7 +13416,9 @@ Without kind words from whom she dotes. 1198
 
 The lover accords not my desires  
 
-And yet his words sweeten my ears. 1199  
+And yet his words sweeten my ears.
+
+ 1199  
 
 10. உறாஅர்க்கு உறுநோய் உரைப்பாய் கடலைச்  
 
@@ -10683,13 +13426,19 @@ And yet his words sweeten my ears. 1199
 
 You tell your grief to listless he  
 
-Bless my heart! rather fill up sea! 1200  
+Bless my heart! rather fill up sea!
+
+ 1200  
 
 -------------  
 
   
 
-### 121. நினைந்தவர் புலம்பல் - Sad memories  
+###
+
+
+
+ 121. நினைந்தவர் புலம்பல் - Sad memories  
 
   
 
@@ -10699,7 +13448,9 @@ Bless my heart! rather fill up sea! 1200
 
 Love is sweeter than wine; for vast  
 
-Is its delight at very thought. 1201  
+Is its delight at very thought.
+
+ 1201  
 
 2. எனைத்தொன்று இனிதேகாண் காமம்தாம் வீழ்வார்  
 
@@ -10707,7 +13458,9 @@ Is its delight at very thought. 1201
 
 Pains are off at the lover's thought  
 
-In all aspects this love is sweet. 1202  
+In all aspects this love is sweet.
+
+ 1202  
 
 3. நினைப்பவர் போன்று நினையார்கொல் தும்மல்  
 
@@ -10715,7 +13468,9 @@ In all aspects this love is sweet. 1202
 
 To sneeze I tried hence but could not  
 
-Me he tried to think but did not. 1203  
+Me he tried to think but did not.
+
+ 1203  
 
 4. யாமும் உளேம்கொல் அவர்நெஞ்சத்து எந்நெஞ்சத்து  
 
@@ -10723,7 +13478,9 @@ Me he tried to think but did not. 1203
 
 Have I a place within his heart?  
 
-Ah from mine he will never depart. 1204  
+Ah from mine he will never depart.
+
+ 1204  
 
 5. தம்நெஞ்சத்து எம்மைக் கடிகொண்டார் நாணார்கொல்  
 
@@ -10731,7 +13488,9 @@ Ah from mine he will never depart. 1204
 
 Shame! My heart often he enters  
 
-Banning me entry into his. 1205  
+Banning me entry into his.
+
+ 1205  
 
 6. மற்றியான் என்னுளேன் மன்னோ அவரொடுயான்  
 
@@ -10739,7 +13498,9 @@ Banning me entry into his. 1205
 
 Beyond the thought of life with him  
 
-What else of life can I presume? 1206  
+What else of life can I presume?
+
+ 1206  
 
 7. மறப்பின் எவனாவன் மற்கொல் மறப்பறியேன்  
 
@@ -10747,7 +13508,9 @@ What else of life can I presume? 1206
 
 What will happen if I forget  
 
-When his memory burns my heart? 1207  
+When his memory burns my heart?
+
+ 1207  
 
 8. எனைத்து நினைப்பினும் காயார் அனைத்தன்றோ  
 
@@ -10755,7 +13518,9 @@ When his memory burns my heart? 1207
 
 I bring him to ceaseless memory  
 
-He chides not; and thus honours me. 1208  
+He chides not; and thus honours me.
+
+ 1208  
 
 9. விளியும்என் இன்னுயிர் வேறல்லம் என்பார்  
 
@@ -10763,7 +13528,9 @@ He chides not; and thus honours me. 1208
 
 Dear life ebbs away by thought  
 
-Of him who said we are one heart. 1209  
+Of him who said we are one heart.
+
+ 1209  
 
 10. விடாஅது சென்றாரைக் கண்ணினால் காணப்  
 
@@ -10771,13 +13538,19 @@ Of him who said we are one heart. 1209
 
 Hail moon! Set not so that I find  
 
-Him who left me but not my mind. 1210  
+Him who left me but not my mind.
+
+ 1210  
 
 -----------  
 
   
 
-### 122. கனவுநிலை யுரைத்தல் - Dream visions  
+###
+
+
+
+ 122. கனவுநிலை யுரைத்தல் - Dream visions  
 
   
 
@@ -10787,7 +13560,9 @@ Him who left me but not my mind. 1210
 
 How shall I feast this dream-vision  
 
-That brings the beloved's love-mission? 1211  
+That brings the beloved's love-mission?
+
+ 1211  
 
 2. கயலுண்கண் யானிரப்பத் துஞ்சிற் கலந்தார்க்கு  
 
@@ -10795,7 +13570,9 @@ That brings the beloved's love-mission? 1211
 
 I beg these fish-like dark eyes sleep  
 
-To tell my lover how life I keep. 1212  
+To tell my lover how life I keep.
+
+ 1212  
 
 3. நனவினால் நல்கா தவரைக் கனவினால்  
 
@@ -10803,7 +13580,9 @@ To tell my lover how life I keep. 1212
 
 In wakeful hours who sees me not  
 
-I meet in dreams and linger yet. 1213  
+I meet in dreams and linger yet.
+
+ 1213  
 
 4. கனவினான் உண்டாகும் காமம் நனவினான்  
 
@@ -10811,7 +13590,9 @@ I meet in dreams and linger yet. 1213
 
 In dreams I enjoy his love-bliss  
 
-Who in wakeful hours I miss. 1214  
+Who in wakeful hours I miss.
+
+ 1214  
 
 5. நனவினாற் கண்டதூஉம் ஆங்கே கனவுந்தான்  
 
@@ -10819,7 +13600,9 @@ Who in wakeful hours I miss. 1214
 
 Dream-sight of him delights at once  
 
-Awake- What of seeing him -hence. 1215  
+Awake- What of seeing him -hence.
+
+ 1215  
 
 6. நனவென ஒன்றில்லை யாயின் கனவினால்  
 
@@ -10827,7 +13610,9 @@ Awake- What of seeing him -hence. 1215
 
 If wakeful hours cometo nought  
 
-My lov'r in dreams would nev'r depart 1216  
+My lov'r in dreams would nev'r depart
+
+ 1216  
 
 7. நனவினால் நல்காக் கொடியார் கனவினால்  
 
@@ -10835,7 +13620,9 @@ My lov'r in dreams would nev'r depart 1216
 
 Awake he throws my overtures  
 
-Adream, ah cruel! he tortures! 1217  
+Adream, ah cruel! he tortures!
+
+ 1217  
 
 8. துஞ்சுங்கால் தோள்மேலர் ஆகி விழிக்குங்கால்  
 
@@ -10843,7 +13630,9 @@ Adream, ah cruel! he tortures! 1217
 
 Asleep he embraces me fast;  
 
-Awake he enters quick my heart. 1218  
+Awake he enters quick my heart.
+
+ 1218  
 
 9. நனவினால் நல்காரை நோவர் கனவினால்  
 
@@ -10851,7 +13640,9 @@ Awake he enters quick my heart. 1218
 
 In dreams who don't discern lovers  
 
-Rue their missing in wakeful hours. 1219  
+Rue their missing in wakeful hours.
+
+ 1219  
 
 10. நனவினால் நம்நீத்தார் என்பர் கனவினால்  
 
@@ -10859,13 +13650,19 @@ Rue their missing in wakeful hours. 1219
 
 The townsmen say he left me thus  
 
-In dreams failing to see him close. 1220  
+In dreams failing to see him close.
+
+ 1220  
 
 ------------  
 
   
 
-### 123. பொழுதுகண்டிரங்கல் - Eventide sigh  
+###
+
+
+
+ 123. பொழுதுகண்டிரங்கல் - Eventide sigh  
 
   
 
@@ -10875,7 +13672,9 @@ In dreams failing to see him close. 1220
 
 Bless you! you are not eventide  
 
-But killing dart to wedded bride! 1221  
+But killing dart to wedded bride!
+
+ 1221  
 
 2. புன்கண்ணை வாழி மருள்மாலை எம்கேள்போல்  
 
@@ -10883,7 +13682,9 @@ But killing dart to wedded bride! 1221
 
 Hail sad eventide dim and grim  
 
-Has your mate like mine, cruel whim! 1222  
+Has your mate like mine, cruel whim!
+
+ 1222  
 
 3. பனிஅரும்பிப் பைதல்கொள் மாலைதுனி அரும்பித்  
 
@@ -10891,7 +13692,9 @@ Has your mate like mine, cruel whim! 1222
 
 Wet eve came pale and trembling then  
 
-Now it makes bold with growing pain. 1223  
+Now it makes bold with growing pain.
+
+ 1223  
 
 4. காதலர் இல்வழி மாலை கொலைக்களத்து  
 
@@ -10899,7 +13702,9 @@ Now it makes bold with growing pain. 1223
 
 Lover away, comes eventide  
 
-Like slayer to field of homicide. 1224  
+Like slayer to field of homicide.
+
+ 1224  
 
 5. காலைக்குச் செய்தநன்று என்கொல்? எவன்கொல்யான்  
 
@@ -10907,7 +13712,9 @@ Like slayer to field of homicide. 1224
 
 What good have I done to morning  
 
-And what evil to this evening? 1225  
+And what evil to this evening?
+
+ 1225  
 
 6. மாலைநோய் செய்தல் மணந்தார் அகலாத  
 
@@ -10915,7 +13722,9 @@ And what evil to this evening? 1225
 
 Evening pangs I have not known  
 
-When my lord nev'r left me alone. 1226  
+When my lord nev'r left me alone.
+
+ 1226  
 
 7. காலை அரும்பிப் பகலெல்லாம் போதாகி  
 
@@ -10923,7 +13732,9 @@ When my lord nev'r left me alone. 1226
 
 Budding at dawn burgeoning all day  
 
-This disease blooms in evening gay. 1227  
+This disease blooms in evening gay.
+
+ 1227  
 
 8. அழல்போலும் மாலைக்குத் தூதாகி ஆயன்  
 
@@ -10931,7 +13742,9 @@ This disease blooms in evening gay. 1227
 
 A deadly arm, this shepherd's flute  
 
-Hails flaming eve and slays my heart. 1228  
+Hails flaming eve and slays my heart.
+
+ 1228  
 
 9. பதிமருண்டு பைதல் உழக்கும் மதிமருண்டு  
 
@@ -10939,7 +13752,9 @@ Hails flaming eve and slays my heart. 1228
 
 Deluding eve if it prolongs  
 
-The whole town will suffer love-pangs. 1229  
+The whole town will suffer love-pangs.
+
+ 1229  
 
 10. பொருள்மாலை யாளரை உள்ளி மருள்மாலை  
 
@@ -10947,13 +13762,19 @@ The whole town will suffer love-pangs. 1229
 
 Thinking of him whose quest is wealth  
 
-My life outlives the twilight stealth. 1230  
+My life outlives the twilight stealth.
+
+ 1230  
 
 -----------  
 
   
 
-### 124. உறுப்பு நலனழிதல் - Limbs languish  
+###
+
+
+
+ 124. உறுப்பு நலனழிதல் - Limbs languish  
 
   
 
@@ -10963,7 +13784,9 @@ My life outlives the twilight stealth. 1230
 
 To lift from want he left me afar  
 
-His thought makes my eyes blush the flower. 1231  
+His thought makes my eyes blush the flower.
+
+ 1231  
 
 2. நயந்தவர் நல்காமை சொல்லுவ போலும்  
 
@@ -10971,7 +13794,9 @@ His thought makes my eyes blush the flower. 1231
 
 My pale tearful eyes betray  
 
-The hardness of my husband, away. 1232  
+The hardness of my husband, away.
+
+ 1232  
 
 3. தணந்தமை சால அறிவிப்ப போலும்  
 
@@ -10979,7 +13804,9 @@ The hardness of my husband, away. 1232
 
 These arms that swelled on nuptial day  
 
-Now shrunk proclaim "He is away". 1233  
+Now shrunk proclaim "He is away".
+
+ 1233  
 
 4. பணைநீங்கிப் பைந்தொடி சோரும் துணைநீங்கித்  
 
@@ -10987,7 +13814,9 @@ Now shrunk proclaim "He is away". 1233
 
 Bracelets slip off the arms that have  
 
-Lost old beauty for He took leave. 1234  
+Lost old beauty for He took leave.
+
+ 1234  
 
 5. கொடியார் கொடுமை உரைக்கும் தொடியொடு  
 
@@ -10995,7 +13824,9 @@ Lost old beauty for He took leave. 1234
 
 Bereft of bracelets and old beauty  
 
-Arms tell the cruel's cruelty. 1235  
+Arms tell the cruel's cruelty.
+
+ 1235  
 
 6. தொடியொடு தோள்நெகிழ நோவல் அவரைக்  
 
@@ -11003,7 +13834,9 @@ Arms tell the cruel's cruelty. 1235
 
 Arms thin, armlets loose make you call  
 
-My sire cruel; that pains my soul. 1236  
+My sire cruel; that pains my soul.
+
+ 1236  
 
 7. பாடு பெறுதியோ நெஞ்சே கொடியார்க்கென்  
 
@@ -11011,7 +13844,9 @@ My sire cruel; that pains my soul. 1236
 
 Go and tell the cruel, O mind  
 
-Bruit ov'r my arms and glory find. 1237  
+Bruit ov'r my arms and glory find.
+
+ 1237  
 
 8. முயங்கிய கைகளை ஊக்கப் பசந்தது  
 
@@ -11019,7 +13854,9 @@ Bruit ov'r my arms and glory find. 1237
 
 The front of this fair one O paled  
 
-As my clasping arms loosed their hold. 1238  
+As my clasping arms loosed their hold.
+
+ 1238  
 
 9. முயக்கிடைத் தண்வளி போழப் பசப்புற்ற  
 
@@ -11027,7 +13864,9 @@ As my clasping arms loosed their hold. 1238
 
 Cool breeze crept between our embrace  
 
-Her large rain-cloud-eyes paled at once. 1239  
+Her large rain-cloud-eyes paled at once.
+
+ 1239  
 
 10. கண்ணின் பசப்போ பருவரல் எய்தின்றே  
 
@@ -11035,13 +13874,19 @@ Her large rain-cloud-eyes paled at once. 1239
 
 Pale eyes pained seeing the pallor  
 
-Of the bright forehead of this fair. 1240  
+Of the bright forehead of this fair.
+
+ 1240  
 
 --------  
 
   
 
-### 125. நெஞ்சொடு கிளத்தல் - Soliloquy  
+###
+
+
+
+ 125. நெஞ்சொடு கிளத்தல் - Soliloquy  
 
   
 
@@ -11051,7 +13896,9 @@ Of the bright forehead of this fair. 1240
 
 Think of, O heart, some remedy  
 
-To cure this chronic malady. 1241  
+To cure this chronic malady.
+
+ 1241  
 
 2. காதல் அவரில ராகநீ நோவது  
 
@@ -11059,7 +13906,9 @@ To cure this chronic malady. 1241
 
 Bless O mind! you pine in vain  
 
-For me he has no love serene. 1242  
+For me he has no love serene.
+
+ 1242  
 
 3. இருந்துள்ளி என்பரிதல் நெஞ்சே பரிந்துள்ளல்  
 
@@ -11067,7 +13916,9 @@ For me he has no love serene. 1242
 
 O mind, why pine and sit moody?  
 
-Who made you so pale lacks pity. 1243  
+Who made you so pale lacks pity.
+
+ 1243  
 
 4. கண்ணும் கொளச்சேறி நெஞ்சே இவையென்னைத்  
 
@@ -11075,7 +13926,9 @@ Who made you so pale lacks pity. 1243
 
 Take these eyes and meet him, O heart  
 
-Or their hunger will eat me out. 1244  
+Or their hunger will eat me out.
+
+ 1244  
 
 5. செற்றா ரெனக்கை விடல்உண்டோ நெஞ்சேயாம்  
 
@@ -11083,7 +13936,9 @@ Or their hunger will eat me out. 1244
 
 He spurns our love and yet, O mind,  
 
-Can we desert him as unkind? 1245  
+Can we desert him as unkind?
+
+ 1245  
 
 6. கலந்துணர்ந்தும் காதலர்க் கண்டால் புலந்துணராய்  
 
@@ -11091,7 +13946,9 @@ Can we desert him as unkind? 1245
 
 Wrath is false, O heart, face-to face.  
 
-Sans huff, you rush to his sweet embrace. 1246  
+Sans huff, you rush to his sweet embrace.
+
+ 1246  
 
 7. காமம் விடுஒன்றோ நாண்விடு நன்னெஞ்சே  
 
@@ -11099,7 +13956,9 @@ Sans huff, you rush to his sweet embrace. 1246
 
 Off with love O mind, or shame  
 
-I cannot endure both of them. 1247  
+I cannot endure both of them.
+
+ 1247  
 
 8. பரிந்தவர் நல்காரென்று ஏங்கிப் பிரிந்தவர்  
 
@@ -11107,7 +13966,9 @@ I cannot endure both of them. 1247
 
 Without pity he would depart!  
 
-You sigh and seek his favour, poor heart! 1248  
+You sigh and seek his favour, poor heart!
+
+ 1248  
 
 9. உள்ளத்தார் காத லவராக உள்ளிநீ  
 
@@ -11115,7 +13976,9 @@ You sigh and seek his favour, poor heart! 1248
 
 The lover lives in Self you know;  
 
-Whom you think, mind to whom you go? 1249  
+Whom you think, mind to whom you go?
+
+ 1249  
 
 10. துன்னாத் துறந்தாரை நெஞ்சத்து உடையேமா  
 
@@ -11123,13 +13986,19 @@ Whom you think, mind to whom you go? 1249
 
 Without a thought he deserted us  
 
-To think of him will make us worse. 1250  
+To think of him will make us worse.
+
+ 1250  
 
 -----------  
 
   
 
-### 126. நிறையழிதல் - Reserve lost  
+###
+
+
+
+ 126. நிறையழிதல் - Reserve lost  
 
   
 
@@ -11139,7 +14008,9 @@ To think of him will make us worse. 1250
 
 Passion's axe shall break the door  
 
-Of reserve bolted with my honour. 1251  
+Of reserve bolted with my honour.
+
+ 1251  
 
 2. காம மெனஒன்றோ கண்ணின்றென் நெஞ்சத்தை  
 
@@ -11147,7 +14018,9 @@ Of reserve bolted with my honour. 1251
 
 The thing called lust is a heartless power  
 
-It sways my mind at midnight hour. 1252  
+It sways my mind at midnight hour.
+
+ 1252  
 
 3. மறைப்பேன்மன் காமத்தை யானோ குறிப்பின்றித்  
 
@@ -11155,7 +14028,9 @@ It sways my mind at midnight hour. 1252
 
 How to hide this lust which shows  
 
-Itself while I sneeze unawares! 1253  
+Itself while I sneeze unawares!
+
+ 1253  
 
 4. நிறையுடையேன் என்பேன்மன் யானோஎன் காமம்  
 
@@ -11163,7 +14038,9 @@ Itself while I sneeze unawares! 1253
 
 I was proud of my sex-reserve  
 
-Lo lust betrays what I preserve. 1254  
+Lo lust betrays what I preserve.
+
+ 1254  
 
 5. செற்றார்பின் செல்லாப் பெருந்தகைமை காமநோய்  
 
@@ -11171,7 +14048,9 @@ Lo lust betrays what I preserve. 1254
 
 Dignity seeks not a deserter  
 
-But Love-sick is its innovator. 1255  
+But Love-sick is its innovator.
+
+ 1255  
 
 6. செற்றவர் பின்சேறல் வேண்டி அளித்தரோ  
 
@@ -11179,7 +14058,9 @@ But Love-sick is its innovator. 1255
 
 O Grief, my deserter you seek  
 
-Of your caprice what shall I speak! 1256  
+Of your caprice what shall I speak!
+
+ 1256  
 
 7. நாணென ஒன்றோ அறியலம் காமத்தால்  
 
@@ -11187,7 +14068,9 @@ Of your caprice what shall I speak! 1256
 
 When lover's love does what it desires  
 
-We forget all shame unawares. 1257  
+We forget all shame unawares.
+
+ 1257  
 
 8. பன்மாயக் கள்வன் பணிமொழி அன்றோநம்  
 
@@ -11195,7 +14078,9 @@ We forget all shame unawares. 1257
 
 The cheater of many wily arts  
 
-His tempting words break through women's hearts. 1258  
+His tempting words break through women's hearts.
+
+ 1258  
 
 9. புலப்ப லெனச் சென்றேன் புல்லினேன் நெஞ்சம்  
 
@@ -11203,7 +14088,9 @@ His tempting words break through women's hearts. 1258
 
 In huff I went and felt at ease  
 
-Heat to heart in sweet embrace. 1259  
+Heat to heart in sweet embrace.
+
+ 1259  
 
 10. நிணந்தீயில் இட்டன்ன நெஞ்சினார்க்கு உண்டோ  
 
@@ -11211,13 +14098,19 @@ Heat to heart in sweet embrace. 1259
 
 To feign dislike is it not rare  
 
-For mates who melt like fat in fire? 1260  
+For mates who melt like fat in fire?
+
+ 1260  
 
 ---------  
 
   
 
-### 127. அவர்வயின் விதும்பல் - Mutual yearning  
+###
+
+
+
+ 127. அவர்வயின் விதும்பல் - Mutual yearning  
 
   
 
@@ -11227,7 +14120,9 @@ For mates who melt like fat in fire? 1260
 
 My eyes are dim lustre-bereft  
 
-Worn fingers count days since he left. 1261  
+Worn fingers count days since he left.
+
+ 1261  
 
 2. இலங்கிழாய் இன்று மறப்பின்என் தோள்மேல்  
 
@@ -11235,7 +14130,9 @@ Worn fingers count days since he left. 1261
 
 Beauty pales and my bracelets slide;  
 
-Why not forget him now, bright maid? 1262  
+Why not forget him now, bright maid?
+
+ 1262  
 
 3. உரன்நசைஇ உள்ளம் துணையாகச் சென்றார்  
 
@@ -11243,7 +14140,9 @@ Why not forget him now, bright maid? 1262
 
 Will as guide he went to win  
 
-Yet I live-to see him again. 1263  
+Yet I live-to see him again.
+
+ 1263  
 
 4. கூடிய காமம் பிரிந்தார் வரவுள்ளிக்  
 
@@ -11251,7 +14150,9 @@ Yet I live-to see him again. 1263
 
 My heart in rapture heaves to see  
 
-His retun with love to embrace me. 1264  
+His retun with love to embrace me.
+
+ 1264  
 
 5. காண்கமன் கொண்கனைக் கண்ணாரக் கண்டபின்  
 
@@ -11259,7 +14160,9 @@ His retun with love to embrace me. 1264
 
 Let me but gaze and gaze my spouse  
 
-sallow on my soft shoulders flies. 1265  
+sallow on my soft shoulders flies.
+
+ 1265  
 
 6. வருகமன் கொண்கன் ஒருநாள் பருகுவன்  
 
@@ -11267,7 +14170,9 @@ sallow on my soft shoulders flies. 1265
 
 Let my spouse return just a day  
 
-Joy-drink shall drive my pain away. 1266  
+Joy-drink shall drive my pain away.
+
+ 1266  
 
 7. புலப்பேன்கொல் புல்லுவேன் கொல்லோ கலப்பேன்கொல்  
 
@@ -11275,7 +14180,9 @@ Joy-drink shall drive my pain away. 1266
 
 If my eye-like lord returneth  
 
-Shall I sulk or clasp or do both? 1267  
+Shall I sulk or clasp or do both?
+
+ 1267  
 
 8. வினைகலந்து வென்றீக வேந்தன் மனைகலந்து  
 
@@ -11283,7 +14190,9 @@ Shall I sulk or clasp or do both? 1267
 
 May the king fight and win and give  
 
-And with my wife I will feast this eve! 1268  
+And with my wife I will feast this eve!
+
+ 1268  
 
 9. ஒருநாள் எழுநாள்போல் செல்லும்சேட் சென்றார்  
 
@@ -11291,7 +14200,9 @@ And with my wife I will feast this eve! 1268
 
 One day seems as seven to those  
 
-Who yearn return of distant spouse. 1269  
+Who yearn return of distant spouse.
+
+ 1269  
 
 10. பெறின்என்னாம் பெற்றக்கால் என்னாம் உறின்என்னாம்  
 
@@ -11299,13 +14210,19 @@ Who yearn return of distant spouse. 1269
 
 When her heart is broken, what is  
 
-The good of meeting and love-embrace? 1270  
+The good of meeting and love-embrace?
+
+ 1270  
 
 ----------  
 
   
 
-### 128. குறிப்பறிவுறுத்தல் - Feeling surmised  
+###
+
+
+
+ 128. குறிப்பறிவுறுத்தல் - Feeling surmised  
 
   
 
@@ -11315,7 +14232,9 @@ The good of meeting and love-embrace? 1270
 
 You hide; but your painted eyes  
 
-Restraint off, report your surmise. 1271  
+Restraint off, report your surmise.
+
+ 1271  
 
 2. கண்நிறைந்த காரிகைக் காம்பேர்தோட் பேதைக்குப்  
 
@@ -11323,7 +14242,9 @@ Restraint off, report your surmise. 1271
 
 With seemly grace and stem-like arms  
 
-The simple she has ample charms. 1272  
+The simple she has ample charms.
+
+ 1272  
 
 3. மணியில் திகழ்தரு நூல்போல் மடந்நை  
 
@@ -11331,7 +14252,9 @@ The simple she has ample charms. 1272
 
 Something shines through her jewelled charm  
 
-Like thread shining through wreathed gem. 1273  
+Like thread shining through wreathed gem.
+
+ 1273  
 
 4. முகைமொக்குள் உள்ளது நாற்றம்போல் பேதை  
 
@@ -11339,7 +14262,9 @@ Like thread shining through wreathed gem. 1273
 
 Like scent in bud secrets conceal  
 
-In the bosom of her half smile. 1274  
+In the bosom of her half smile.
+
+ 1274  
 
 5. செறிதொடி செய்திறந்த கள்ளம் உறுதுயர்  
 
@@ -11347,7 +14272,9 @@ In the bosom of her half smile. 1274
 
 The close-bangled belle's hidden thought  
 
-Has a cure for my troubled heart. 1275  
+Has a cure for my troubled heart.
+
+ 1275  
 
 6. பெரிதாற்றிப் பெட்பக் கலத்தல் அரிதாற்றி  
 
@@ -11355,7 +14282,9 @@ Has a cure for my troubled heart. 1275
 
 His over-kind close embrace sooths;  
 
-But makes me feel, loveless, he parts. 1276  
+But makes me feel, loveless, he parts.
+
+ 1276  
 
 7. தண்ணந் துறைவன் தணந்தமை நம்மினும்  
 
@@ -11363,7 +14292,9 @@ But makes me feel, loveless, he parts. 1276
 
 Quick, my bracelets read before  
 
-The mind of my lord of cool shore. 1277  
+The mind of my lord of cool shore.
+
+ 1277  
 
 8. நெருநற்றுச் சென்றார்எம் காதலர் யாமும்  
 
@@ -11371,7 +14302,9 @@ The mind of my lord of cool shore. 1277
 
 My lover parted but yesterday;  
 
-With sallowness it is seventh day. 1278  
+With sallowness it is seventh day.
+
+ 1278  
 
 9. தொடிநோக்கி மென்றோளும் நோக்கி அடிநோக்கி  
 
@@ -11379,7 +14312,9 @@ With sallowness it is seventh day. 1278
 
 She views her armlets, her tender arms  
 
-And then her feet; these are her norms. 1279  
+And then her feet; these are her norms.
+
+ 1279  
 
 10. பெண்ணினால் பெண்மை உடைத்தென்ப கண்ணினால்  
 
@@ -11387,13 +14322,19 @@ And then her feet; these are her norms. 1279
 
 To express love-pangs by eyes and pray  
 
-Is womanhood's womanly way. 1280  
+Is womanhood's womanly way.
+
+ 1280  
 
 ---------  
 
   
 
-### 129. புணர்ச்சிவிதும்பல் - Longing for reunion  
+###
+
+
+
+ 129. புணர்ச்சிவிதும்பல் - Longing for reunion  
 
   
 
@@ -11403,7 +14344,9 @@ Is womanhood's womanly way. 1280
 
 Rapture at thought and joy when seen  
 
-Belong to love and not to wine. 1281  
+Belong to love and not to wine.
+
+ 1281  
 
 2. தினைத்துணையும் ஊடாமை வேண்டும் பனைத்துணையும்  
 
@@ -11411,7 +14354,9 @@ Belong to love and not to wine. 1281
 
 When passion grows palmyra-tall  
 
-Sulking is wrong though millet-small. 1282  
+Sulking is wrong though millet-small.
+
+ 1282  
 
 3. பேணாது பெட்பவே செய்யினும் கொண்கனைக்  
 
@@ -11419,7 +14364,9 @@ Sulking is wrong though millet-small. 1282
 
 Though slighting me he acts his will  
 
-My restless eyes would see him still. 1283  
+My restless eyes would see him still.
+
+ 1283  
 
 4. ஊடற்கண் சென்றேன்மன் தோழி அதுமறந்து  
 
@@ -11427,7 +14374,9 @@ My restless eyes would see him still. 1283
 
 Huff I would, maid, but I forget;  
 
-And leap to embrace him direct. 1284  
+And leap to embrace him direct.
+
+ 1284  
 
 5. எழுதுங்கால் கோல்காணாக் கண்ணேபோல் கொண்கன்  
 
@@ -11435,7 +14384,9 @@ And leap to embrace him direct. 1284
 
 When close I see not lord's blemish  
 
-Like eyes that see not painter's brush. 1285  
+Like eyes that see not painter's brush.
+
+ 1285  
 
 6. காணுங்கால் காணேன் தவறாய காணாக்கால்  
 
@@ -11443,7 +14394,9 @@ Like eyes that see not painter's brush. 1285
 
 When he's with me I see not fault  
 
-And nought but fault when he is not. 1286  
+And nought but fault when he is not.
+
+ 1286  
 
 7. உய்த்தல் அறிந்து புனல்பாய் பவரேபோல்  
 
@@ -11451,7 +14404,9 @@ And nought but fault when he is not. 1286
 
 To leap in stream which carries off  
 
-When lord is close to feign a huff. 1287  
+When lord is close to feign a huff.
+
+ 1287  
 
 8. இளித்தக்க இன்னா செயினும் களித்தார்க்குக்  
 
@@ -11459,7 +14414,9 @@ When lord is close to feign a huff. 1287
 
 Like wine to addicts that does disgrace  
 
-Your breast, O thief, is for my embrace! 1288  
+Your breast, O thief, is for my embrace!
+
+ 1288  
 
 9. மலரினும் மெல்லிது காமம் சிலர்அதன்  
 
@@ -11467,7 +14424,9 @@ Your breast, O thief, is for my embrace! 1288
 
 Flower-soft is love; a few alone  
 
-Know its delicacy so fine. 1289  
+Know its delicacy so fine.
+
+ 1289  
 
 10. கண்ணின் துனித்தே கலங்கினாள் புல்லுதல்  
 
@@ -11475,13 +14434,19 @@ Know its delicacy so fine. 1289
 
 She feigned dislike awhile but flew  
 
-Faster for embrace than I do. 1290  
+Faster for embrace than I do.
+
+ 1290  
 
 ---------  
 
   
 
-### 130. நெஞ்சொடுபுலத்தல் - Chiding the heart  
+###
+
+
+
+ 130. நெஞ்சொடுபுலத்தல் - Chiding the heart  
 
   
 
@@ -11491,7 +14456,9 @@ Faster for embrace than I do. 1290
 
 You see, his heart is his alone;  
 
-Why not my heart be all my own? 1291  
+Why not my heart be all my own?
+
+ 1291  
 
 2. உறாஅ தவர்கண்ட கண்ணும் அவரைச்  
 
@@ -11499,7 +14466,9 @@ Why not my heart be all my own? 1291
 
 O heart, you see how he slights me  
 
-Yet you clasp him as if friendly. 1292  
+Yet you clasp him as if friendly.
+
+ 1292  
 
 3. கெட்டார்க்கு நட்டார்இல் என்பதோ நெஞ்சேநீ  
 
@@ -11507,7 +14476,9 @@ Yet you clasp him as if friendly. 1292
 
 You follow him at will. Is it  
 
-"The fallen have no friends" my heart? 1293  
+"The fallen have no friends" my heart?
+
+ 1293  
 
 4. இனிஅன்ன நின்னோடு சூழ்வார்யார் நெஞ்சே  
 
@@ -11515,7 +14486,9 @@ You follow him at will. Is it
 
 You won't sulk first and then submit  
 
-Who will then consult you, my heart? 1294  
+Who will then consult you, my heart?
+
+ 1294  
 
 5. பெறாஅமை அஞ்சும் பெறின்பிரிவு அஞ்சும்  
 
@@ -11523,7 +14496,9 @@ Who will then consult you, my heart? 1294
 
 Frets to gain and fears loss in gain  
 
-O my heart suffers ceaseless pain. 1295  
+O my heart suffers ceaseless pain.
+
+ 1295  
 
 6. தனியே இருந்து நினைத்தக்கால் என்னைத்  
 
@@ -11531,7 +14506,9 @@ O my heart suffers ceaseless pain. 1295
 
 My itching mind eats me anon  
 
-As I muse on him all alone. 1296  
+As I muse on him all alone.
+
+ 1296  
 
 7. நாணும் மறந்தேன் அவர்மறக் கல்லாஎன்  
 
@@ -11539,7 +14516,9 @@ As I muse on him all alone. 1296
 
 forget shame but not his thought  
 
-In mean foolish mind I'm caught. 1297  
+In mean foolish mind I'm caught.
+
+ 1297  
 
 8. எள்ளின் இளிவாம்என்று எண்ணி அவர்திறம்  
 
@@ -11547,7 +14526,9 @@ In mean foolish mind I'm caught. 1297
 
 My heart living in love of him  
 
-Hails his glory ignoring blame. 1298  
+Hails his glory ignoring blame.
+
+ 1298  
 
 9. துன்பத்திற்கு யாரே துணையாவார் தாமுடைய  
 
@@ -11555,7 +14536,9 @@ Hails his glory ignoring blame. 1298
 
 Who support a man in grief  
 
-If lover's heart denies relief? 1299  
+If lover's heart denies relief?
+
+ 1299  
 
 10. தஞ்சம் தமரல்லர் ஏதிலார் தாமுடைய  
 
@@ -11563,13 +14546,19 @@ If lover's heart denies relief? 1299
 
 Why wonder if strangers disown  
 
-When one's own heart is not his own? 1300  
+When one's own heart is not his own?
+
+ 1300  
 
 -----------  
 
   
 
-### 131. புலவி - Bouderic  
+###
+
+
+
+ 131. புலவி - Bouderic  
 
   
 
@@ -11579,7 +14568,9 @@ When one's own heart is not his own? 1300
 
 Feign sulk; embrace him not so that  
 
-We can see his distress a bit. 1301  
+We can see his distress a bit.
+
+ 1301  
 
 2. உப்பமைந் தற்றால் புலவி அதுசிறிது  
 
@@ -11587,7 +14578,9 @@ We can see his distress a bit. 1301
 
 Sulking is the salt of love; but  
 
-Too much of it spoils the taste. 1302  
+Too much of it spoils the taste.
+
+ 1302  
 
 3. அலந்தாரை அல்லல்நோய் செய்தற்றால் தம்மைப்  
 
@@ -11595,7 +14588,9 @@ Too much of it spoils the taste. 1302
 
 To leave the sulker unembraced  
 
-Is to grieve the one sorely grieved. 1303  
+Is to grieve the one sorely grieved.
+
+ 1303  
 
 4. ஊடி யவரை உணராமை வாடிய  
 
@@ -11603,7 +14598,9 @@ Is to grieve the one sorely grieved. 1303
 
 To comfort not lady in pout  
 
-Is to cut the fading plant at root. 1304  
+Is to cut the fading plant at root.
+
+ 1304  
 
 5. நலத்தகை நல்லவர்க்கு ஏஎர் புலத்தகை  
 
@@ -11611,7 +14608,9 @@ Is to cut the fading plant at root. 1304
 
 Pouting of flower-eyed has  
 
-To pure good mates a lovely grace. 1305  
+To pure good mates a lovely grace.
+
+ 1305  
 
 6. துனியும் புலவியும் இல்லாயின் காமம்  
 
@@ -11619,7 +14618,9 @@ To pure good mates a lovely grace. 1305
 
 Love devoid of frowns and pets  
 
-Misses its ripe and unripe fruits. 1306  
+Misses its ripe and unripe fruits.
+
+ 1306  
 
 7. ஊடலின் உண்டாங்கோர் துன்பம் புணர்வது  
 
@@ -11627,7 +14628,9 @@ Misses its ripe and unripe fruits. 1306
 
 "Will union take place soon or late?"  
 
-In lover's pout this leaves a doubt. 1307  
+In lover's pout this leaves a doubt.
+
+ 1307  
 
 8. நோதல் எவன்மற்று நொந்தாரென்று அஃதறியும்  
 
@@ -11635,7 +14638,9 @@ In lover's pout this leaves a doubt. 1307
 
 What's the good of grieving lament  
 
-When concious lover is not present? 1308  
+When concious lover is not present?
+
+ 1308  
 
 9. நீரும் நிழலது இனிதே புலவியும்  
 
@@ -11643,7 +14648,9 @@ When concious lover is not present? 1308
 
 Water delights in a shady grove  
 
-And sulking in souls of psychic love. 1309  
+And sulking in souls of psychic love.
+
+ 1309  
 
 10. ஊடல் உணங்க விடுவாரோடு என்நெஞ்சம்  
 
@@ -11651,13 +14658,19 @@ And sulking in souls of psychic love. 1309
 
 My heart athirst would still unite  
 
-With her who me in sulking left! 1310  
+With her who me in sulking left!
+
+ 1310  
 
 --------  
 
   
 
-### 132. புலவிநுணுக்கம் - Feigned anger  
+###
+
+
+
+ 132. புலவிநுணுக்கம் - Feigned anger  
 
   
 
@@ -11667,7 +14680,9 @@ With her who me in sulking left! 1310
 
 I shrink to clasp you bosom lewd  
 
-To the gaze of all ladies exposed. 1311  
+To the gaze of all ladies exposed.
+
+ 1311  
 
 2. ஊடி யிருந்தேமாத் தும்மினார் யாம்தம்மை  
 
@@ -11675,7 +14690,9 @@ To the gaze of all ladies exposed. 1311
 
 He sneezed while we went on sulking  
 
-Expecting me to say "live long". 1312  
+Expecting me to say "live long".
+
+ 1312  
 
 3. கோட்டுப்பூச் சூடினும் காயும் ஒருத்தியைக்  
 
@@ -11683,7 +14700,9 @@ Expecting me to say "live long". 1312
 
 "For which lady?" she widely cries  
 
-While I adorn myself with flowers. 1313  
+While I adorn myself with flowers.
+
+ 1313  
 
 4. யாரினும் காதலம் என்றேனா ஊடினாள்  
 
@@ -11691,7 +14710,9 @@ While I adorn myself with flowers. 1313
 
 "I love you more than all" I said  
 
-"Than whom, than whom?" she sulked and chid. 1314  
+"Than whom, than whom?" she sulked and chid.
+
+ 1314  
 
 5. இம்மைப் பிறப்பில் பிரியலம் என்றேனாக்  
 
@@ -11699,7 +14720,9 @@ While I adorn myself with flowers. 1313
 
 "In this life we won't part" I told  
 
-Her eyes at once with tears were filled. 1315  
+Her eyes at once with tears were filled.
+
+ 1315  
 
 6. உள்ளினேன் என்றேன்மற்று என்மறந்தீர் என்றென்னைப்  
 
@@ -11707,7 +14730,9 @@ Her eyes at once with tears were filled. 1315
 
 I said "I thought of you". She left  
 
-Her embrace crying "Oft you forget". 1316  
+Her embrace crying "Oft you forget".
+
+ 1316  
 
 7. வழுத்தினாள் தும்மினே னாக அழித்தழுதாள்  
 
@@ -11715,7 +14740,9 @@ Her embrace crying "Oft you forget". 1316
 
 I sneezed; she blessed; then changed and wept  
 
-"You sneezed now at which lady's thought?" 1317  
+"You sneezed now at which lady's thought?"
+
+ 1317  
 
 8. தும்முச் செறுப்ப அழுதாள் நுமர்உள்ளல்  
 
@@ -11723,7 +14750,9 @@ I sneezed; she blessed; then changed and wept
 
 I repressed sneeze; she wept crying  
 
-"Your thoughts from me you are hiding". 1318  
+"Your thoughts from me you are hiding".
+
+ 1318  
 
 9. தன்னை உணர்த்தினும் காயும் பிறர்க்குநீர்  
 
@@ -11731,7 +14760,9 @@ I repressed sneeze; she wept crying
 
 I try to coax her and she remarks  
 
-"Your coaxing others thus this marks". 1319  
+"Your coaxing others thus this marks".
+
+ 1319  
 
 10. நினைத்திருந்து நோக்கினும் காயும் அனைத்துநீர்  
 
@@ -11747,7 +14778,11 @@ I think and gaze at her; she chides:
 
   
 
-### 133. ஊடலுவகை - Sulking charm  
+###
+
+
+
+ 133. ஊடலுவகை - Sulking charm  
 
   
 
@@ -11757,7 +14792,9 @@ I think and gaze at her; she chides:
 
 He is flawless; but I do pout.  
 
-So that his loving ways show out. 1321  
+So that his loving ways show out.
+
+ 1321  
 
 2. ஊடலில் தோன்றும் சிறுதுனி நல்லளி  
 
@@ -11765,7 +14802,9 @@ So that his loving ways show out. 1321
 
 Fading first, love blooms and outlives  
 
-The petty pricks that pouting gives. 1322  
+The petty pricks that pouting gives.
+
+ 1322  
 
 3. புலத்தலின் புத்தேள்நாடு உண்டோ நிலத்தொடு  
 
@@ -11773,7 +14812,9 @@ The petty pricks that pouting gives. 1322
 
 Is there a heaven like sulk beneath  
 
-Of hearts that join like water and earth? 1323  
+Of hearts that join like water and earth?
+
+ 1323  
 
 4. புல்லி விடாஅப் புலவியுள் தோன்றுமென்  
 
@@ -11781,7 +14822,9 @@ Of hearts that join like water and earth? 1323
 
 In long pout after embrace sweet  
 
-A weapon is up to break my heart. 1324  
+A weapon is up to break my heart.
+
+ 1324  
 
 5. தவறில ராயினும் தாம்வீழ்வார் மென்றோள்  
 
@@ -11789,7 +14832,9 @@ A weapon is up to break my heart. 1324
 
 Though free form faults, one feels the charms  
 
-Of feigned release from lover's arms. 1325  
+Of feigned release from lover's arms.
+
+ 1325  
 
 6. உணலினும் உண்டது அறல்இனிது காமம்  
 
@@ -11797,7 +14842,9 @@ Of feigned release from lover's arms. 1325
 
 Sweeter than meal is digestion  
 
-And sulk in love than union. 1326  
+And sulk in love than union.
+
+ 1326  
 
 7. ஊடலில் தோற்றவர் வென்றார் அதுமன்னும்  
 
@@ -11805,7 +14852,9 @@ And sulk in love than union. 1326
 
 The yielder wins in lover's pout  
 
-Reunited joy brings it out. 1327  
+Reunited joy brings it out.
+
+ 1327  
 
 8. ஊடிப் பெறுகுவங் கொல்லோ நுதல்வெயர்ப்பக்  
 
@@ -11813,7 +14862,9 @@ Reunited joy brings it out. 1327
 
 Shall not our pouting again give  
 
-The dew-browed joy of joint love? 1328  
+The dew-browed joy of joint love?
+
+ 1328  
 
 9. ஊடுக மன்னோ ஒளியிழை யாம்இரப்ப  
 
@@ -11821,7 +14872,9 @@ The dew-browed joy of joint love? 1328
 
 Sulk on O belle of shining jewels!  
 
-Prolong O night! our delight swells! 1329  
+Prolong O night! our delight swells!
+
+ 1329  
 
 10. ஊடுதல் காமத்திற்கு இன்பம் அதற்கின்பம்  
 
@@ -11829,10 +14882,14 @@ Prolong O night! our delight swells! 1329
 
 Bouderie is lovers' delight  
 
-Its delight grows when they unite 1330  
+Its delight grows when they unite
+
+ 1330  
 
 ---------  
 
-This page was last revised on 17 Feb. 2021.  
+This page was last revised on 17 Feb.
+
+ 2021.  
 
 Feel free to send the corrections to the webmaster.

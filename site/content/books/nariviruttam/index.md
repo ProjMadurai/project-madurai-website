@@ -8,9 +8,12 @@ genres:
   - பிரபந்தம்
   - விருத்தம்
 ---
+
 ttps://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
-weight: 342  
+weight:
+
+ 342  
 
 authors:  
 
@@ -60,7 +63,9 @@ webpages with unicode charset.
 
   
 
-© Project Madurai 1998 - 2009.  
+© Project Madurai
+
+ 1998-2009.  
 
   
 
@@ -930,6 +935,8 @@ $ தோகை>>தோக்கை என யதுகை நோக்கித�
 
   
 
-This page was last revised on 3 July 2009  
+This page was last revised on 3 July
+
+ 2009  
 
 Please send your comments and corrections to WebMaster of this site

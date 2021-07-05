@@ -7,6 +7,7 @@ authors:
 genres:
   - சங்ககாலம் – எட்டுத்தொகை
 ---
+
 https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
 weight: 38  
@@ -65,7 +66,9 @@ i). You need to have Unicode fonts containing Tamil Block (Latha,
 
 Arial Unicode MS, TSCu_Inaimathi, Code2000, UniMylai,...) installed on your computer  
 
-and the OS capable of rendering Tamil Scripts (Windows 2000 or Windows XP).  
+and the OS capable of rendering Tamil Scripts (Windows
+
+ 2000 or Windows XP).  
 
 ii)Use a browser that is capable of handling UTF-8 based pages  
 
@@ -73,7 +76,9 @@ ii)Use a browser that is capable of handling UTF-8 based pages
 
 . In case of difficulties send an email request to [kalyan@geocities.com](mailto:kalyan@geocities.com)  
 
-C: Project Madurai 2000  
+C: Project Madurai
+
+ 2000  
 
 Project Madurai is an open, voluntary, worldwide initiative devoted  
 
@@ -716,6 +721,8 @@ header page is kept intact.
 வண்ணம் - ஒழுகு வண்ணமும் சொற்சீர் வண்ணமும்  
 
 (பதிகம்)**  
+  
+  
 
 மன்னிய பெரும்புகழ் மறுஇல் வாய்மொழி  
 
@@ -1390,6 +1397,8 @@ header page is kept intact.
 தூக்கு: செந்தூக்கு  
 
 (பதிகம்)**  
+  
+  
 
 இமைய வரம்பன் தம்பி அமைவர  
 
@@ -1926,6 +1935,8 @@ header page is kept intact.
 பெயர்: நாடுகாண் அவிர்சுடர்  
 
 (பதிகம்)**  
+  
+  
 
 ஆராத் திருவிற் சேர லாதற்கு  
 
@@ -2528,6 +2539,8 @@ header page is kept intact.
 பெயர்: /*வெருவரு புனற்றார்/*  
 
 (பதிகம்)**  
+  
+  
 
 வடவர் உட்கும் வான்தோய் வெல்கொடிக்  
 
@@ -3120,6 +3133,8 @@ header page is kept intact.
 பெயர்: மரம்படுதீங்கனி  
 
 (பதிகம்)**  
+  
+  
 
 குடக்கோ நெடுஞ்சேர லாதற்கு வேஎள்  
 
@@ -3696,6 +3711,8 @@ header page is kept intact.
 பெயர்: பறைக்குரல் அருவி  
 
 (பதிகம்)**  
+  
+  
 
 மடியா உள்ளமொடு மாற்றோர்ப் பிணித்த  
 
@@ -4226,6 +4243,8 @@ header page is kept intact.
 பெயர்: புண்உடை எறுழ்த்தோள்  
 
 (பதிகம்)**  
+  
+  
 
 பொய்இல் செல்வக் கடுங்கோ வுக்கு  
 
@@ -4862,6 +4881,8 @@ header page is kept intact.
 பெயர்: வலிகெழு தடக்கை  
 
 (பதிகம்)**  
+  
+  
 
 குட்டுவன் இரும்பொறைக்கு மையூர் கிழாஅன்  
 
@@ -4924,6 +4945,8 @@ header page is kept intact.
 அவை வருமாறு:  
 
 **(1)**  
+  
+  
 
 இருங்கண் யானையொ(டு) அரும்கலம் துறுத்துப்  
 
@@ -4947,9 +4970,13 @@ header page is kept intact.
 
 (புறத்திரட்டு, பகைவயிற்சேறல், 8; தொல். புறத். 6,  
 
-இளம். 8; ந. மேற். அடி க:சீவக. 339, ந. மேற்.)  
+இளம். 8; ந. மேற். அடி க:சீவக.
+
+ 339, ந. மேற்.)  
 
 **(2)**  
+  
+  
 
 இலங்கு தொடி மருப்பிற் கடாஅம் வார்ந்து  
 
@@ -4986,6 +5013,8 @@ header page is kept intact.
 (தொல். புறத். 12, 25, ந. மேற்.)  
 
 **(3)**  
+  
+  
 
 பேணுதரு சிறப்பின் பெண்இயல்(பு) ஆயினும்  
 
@@ -4996,6 +5025,8 @@ header page is kept intact.
 (தொல். கற்பு. 39, ந. மேற்.)  
 
 **(4)**  
+  
+  
 
 வந்தனென் பெரும கண்டனென் செலற்கே  
 
@@ -5020,6 +5051,8 @@ header page is kept intact.
 (புறத்திரட்டு, பாசறை. 8)  
 
 **(5)**  
+  
+  
 
 'விசயந் தப்பிய' என்னும் பதிற்றுப்பத்து ஈகை  
 
@@ -5033,4 +5066,6 @@ header page is kept intact.
 
   
 
-This file was first put up on 4 Jan 2000.
+This file was first put up on 4 Jan
+
+ 2000.

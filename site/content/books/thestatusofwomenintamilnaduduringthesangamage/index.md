@@ -7,19 +7,28 @@ authors:
 genres:
   - சொற்பொழிவு
 ---
+
 **source:**  
 
 The Status of Women in Tamil Nadu During the Sangam Age  
 
 Dr. C. BALASUBRA MANIAN  
 
-Vice - Chancellor. TAMIL UNIVERSITY. ΤΗΑΝJΑVUR - 613 005.  
+Vice - Chancellor. TAMIL UNIVERSITY. ΤΗΑΝJΑVUR-613
+
+
+
+ 005.  
 
 МАRUМАLАRР РАТlРРАКАМ. MADRAS - 6OO O29  
 
 Selling rights :  
 
-PAARI NILAYAM, 184, PRAKASAM SAALAI, MADRAS-600 1 08.  
+PAARI NILAYAM,
+
+ 184, PRAKASAM SAALAI, MADRAS-600 1
+
+ 08.  
 
 ------------------  
 
@@ -29,19 +38,31 @@ Dr. MALCOLM. S. ADISESHIAH,
 
 Vice-Chancellor, University of Madras  
 
-It is appropriate that 1975 which was proclaimed by the United Nations as the International Women's Year and the following year 1976 which was declared by that same august body as the start of the United Nations Decade for Women should see the publication by the University of Madras of the Diwan Bahadur K. Krishnaswami Rao Endowment Lectures 1971-72 devoted to the subject, “The Status of Women in Tamil Nadu during the Sangam Age.” The status of women is a theme which has no beginning and no end. It is perennially alive and insistently challenging.  
+It is appropriate that
+
+ 1975 which was proclaimed by the United Nations as the International Women's Year and the following year
+
+ 1976 which was declared by that same august body as the start of the United Nations Decade for Women should see the publication by the University of Madras of the Diwan Bahadur K. Krishnaswami Rao Endowment Lectures
+
+ 1971-72 devoted to the subject, “The Status of Women in Tamil Nadu during the Sangam Age.” The status of women is a theme which has no beginning and no end. It is perennially alive and insistently challenging.  
 
 Reading through this clear, concise and illuminating historical commentary on the status of women in this part of our vast country at the time of Valluvar's famous writings and Nakkirar’s memorable poems, two thoughts come to my mind.  
 
 The first is whether we, the people of India, the community in Tamil Nadu, will learn from history. This is an important issue because nothing that has been adumbrated on the status of women either internationally in the World Plan of Action adopted by the United Nations Conference on the Status of Women held last year in Mexico city of set forth in detail, precision and majestic sweep in our National Report on the Status of Women in India entitled, “Towards Equality,” contains anything that has not been recorded two thousand years ago, as evidenced in the lectures published in this monograph. And so the question is, will we learn from history or will we once more live up to the generalisation that the only lesson that men (and women) learn from history is that they never learn from history?  
 
-The second issue is related to our capacity for verbalisation and the consequences of our normative lifestyles. How far are the characterisations, rights and qualities attributed to women in the Sangam Age a reflection of what was in fact the practice, the reality in existence? Are the various facets of the portrayal of the Status of Women normative standards set forth or descriptions of conditions as they existed. On the capacity for verbalisation, we, as a people, seem to possess somewhat unique abilities. Anyone reading through two thousand years from now - say in 4001 A.D.— our laws, exhortations, economic, social and juridicial writings and political manifestos and rhetoric that issued between 1970-75 about eradicating poverty would naturally come to the conclusion that we had abolished poverty in this land by the nineteen seventies. Again our sacred literature is really a series of normative essays in the nature and being of God, man and the duties and obligations incumbent on us as a consequence of the God-Man equation. It has little relation to how we conduct our religious and secular life in the daily round which makes up our being. And so the question is whether we can slow down on our capacity for verbalism and practice a little of what we preach, can we close even a little the yawning and growing gap between the normative and positive in our lives?  
+The second issue is related to our capacity for verbalisation and the consequences of our normative lifestyles. How far are the characterisations, rights and qualities attributed to women in the Sangam Age a reflection of what was in fact the practice, the reality in existence? Are the various facets of the portrayal of the Status of Women normative standards set forth or descriptions of conditions as they existed. On the capacity for verbalisation, we, as a people, seem to possess somewhat unique abilities. Anyone reading through two thousand years from now - say in
+
+ 4001 A.D.— our laws, exhortations, economic, social and juridicial writings and political manifestos and rhetoric that issued between
+
+ 1970-75 about eradicating poverty would naturally come to the conclusion that we had abolished poverty in this land by the nineteen seventies. Again our sacred literature is really a series of normative essays in the nature and being of God, man and the duties and obligations incumbent on us as a consequence of the God-Man equation. It has little relation to how we conduct our religious and secular life in the daily round which makes up our being. And so the question is whether we can slow down on our capacity for verbalism and practice a little of what we preach, can we close even a little the yawning and growing gap between the normative and positive in our lives?  
 
 If we can move a little further forward on both these issues—learn from our history and live by what we say — then, | believe this monograph by Dr. Balasubramanian would have served a useful and necessary purpose.  
 
 University Buildings, MALCOLM. S. ADISESHIAH,  
 
-31st May 1976. Vice-Chancellor.  
+31st May
+
+ 1976. Vice-Chancellor.  
 
 ----------------  
 
@@ -55,13 +76,17 @@ With a deep sense of gratitude, I sincerely thank Dr. Malcolm S. Adiseshiah for 
 
 I hope the Tamil world would warmly welcome this volume.  
 
-9-6- 1976, Dr. С. ВАLASUВRAМАNIAN  
+9-6-1976, Dr. С. ВАLASUВRAМАNIAN  
 
-Madras-600 005, }  
+Madras-600
+
+ 005, }  
 
 ---------------  
 
-The Diwan Bahadur K. Krishnaswami Rao Endowment Lectures 1971-72  
+The Diwan Bahadur K. Krishnaswami Rao Endowment Lectures
+
+ 1971-72  
 
 BY  
 
@@ -323,7 +348,9 @@ Women who chose to lead a widow's life were called “A lil Pendir.” (That is,
 
 As the widows removed their jewels they were called "Kali Kala Maka!ir" (கழி கல மகளிர்).[139]. They also tonsured their heads. This practice appears to have been widely prevalent in many countries of the world in the olden days.[140] Western scholars are of the opinion that women cut off their hair to add to the strength to the departed.  
 
-Sir J. G. Fraser, while discussing the reason for shearing of locks as an offering for the dead, says “still it is to be remembered that in the opinion of some people, the hair is the special seat of its owner's strength, and that accordingly in cutting their hair and presenting it to the dead they may have imagined that they were supplying him with a source of energy not less ample and certain than when they provided with their blood to drink". [141] (Folk tales in the old Testament, P. IV. Ch. iv. p. 397).  
+Sir J. G. Fraser, while discussing the reason for shearing of locks as an offering for the dead, says “still it is to be remembered that in the opinion of some people, the hair is the special seat of its owner's strength, and that accordingly in cutting their hair and presenting it to the dead they may have imagined that they were supplying him with a source of energy not less ample and certain than when they provided with their blood to drink". [141] (Folk tales in the old Testament, P. IV. Ch. iv. p.
+
+ 397).  
 
 The old Testament says that "virtuous woman is a crown to her husband".[142]  
 
@@ -415,7 +442,17 @@ The ancient Tamils called love and marriage “Aham" (அகம்). The terms �
 
 He further states that if any one has declared that a particular individual has fathomed the feminine mind better than Shakespeare he should be either an ignoramus or a great scholar.[25 As the Sangam poets have assessed women's mind as no others have done, they have to be deemed to be great men of wisdom.  
 
-The literary places designated as Sangam literature include Paththuppāttu and Eṭṭuththogai anthologies and consist of 2381 verses on the whole. Of these verses 1862 relate to Aham topics. Naṭrinai contains 500, Paripādal 8, Kaliththogai 149, Ahanānūru 400, and Paththuppāttu 4,  
+The literary places designated as Sangam literature include Paththuppāttu and Eṭṭuththogai anthologies and consist of
+
+ 2381 verses on the whole. Of these verses
+
+ 1862 relate to Aham topics. Naṭrinai contains
+
+ 500, Paripādal 8, Kaliththogai
+
+ 149, Ahanānūru
+
+ 400, and Paththuppāttu 4,  
 
 Most of the Aham songs revolve around the lady-love. The actors who take part in the thrilling dramas of the Aham life are Thalaivi (தலைவி). Thalaivan (தலைவன்), Thōli (தோழி), Sevili (செவிலி), Naṟrrāi (நற்றாய்), and Pāṇgan (பாங்கன்). The Aham songs most of them, portrays the warm feelings of love, the throbbings of expectation and mental ecstasy etc, of the loved-ones.¨  
 
@@ -687,11 +724,15 @@ References, Notes for Part 1
 
 1. Kavimaņi Dēsika Vināyakam Piļļais "Malarum Mālaiyum."  
 
-- பெண்ணின் உரிமைகள், p. 148  
+- பெண்ணின் உரிமைகள், p.
+
+ 148  
 
 2. Bhāratīdāsaņ: "Bhāratidāsaņ Kavitaikaļ."  
 
--- Volume 1. "Penkalaipparri Bernard Sha”  
+-- Volume
+
+ 1. "Penkalaipparri Bernard Sha”  
 
 3. Bhāratidāsaņ: /*BhāratidasenKavitaikal"—Volume-1.  
 
@@ -707,7 +748,9 @@ References, Notes for Part 1
 
 அவ்வழி நல்லை வாழிய நிலனே."  
 
-- ஔவையார், புறநானூறு, 187  
+- ஔவையார், புறநானூறு,
+
+ 187  
 
 6.' அச்சமும் நானும் மடனுமுந் துறுத்த  
 
@@ -759,7 +802,9 @@ References, Notes for Part 1
 
 14. "நறுந்தண் ணியளே நன்மா மேனி'  
 
--- குறுந்தொகை,, 168:4  
+-- குறுந்தொகை,,
+
+ 168:4  
 
 15. "செறியெயிற் றரிவை கூந்தலின்  
 
@@ -773,13 +818,17 @@ References, Notes for Part 1
 
 மையீ ரோதி மாஅயோள்வயின்.”  
 
-- - குறுந்தொகை, 199  
+- - குறுந்தொகை,
+
+ 199  
 
 17. பூவொடு புரையுங் கண்ணும் வேயென  
 
 விறல்வனப் பெய்திய தோளும் பிறையென  
 
-மதிமயக் குறூஉ நுதலும் --- குறுந்தொகை, 226:1-3  
+மதிமயக் குறூஉ நுதலும் --- குறுந்தொகை,
+
+ 226:1-3  
 
 18. வேயெனத் திரண்டதோள் வெறிகமழ் வணரைம்பால்  
 
@@ -825,7 +874,9 @@ References, Notes for Part 1
 
 22. “முனைக்குவரம் பாகிய வென்வே னெடுந்தகை."  
 
-- புறநானூறு, 314-2  
+- புறநானூறு,
+
+ 314-2  
 
 23. “ஈன்ற வயிறோ விதுவே  
 
@@ -835,7 +886,9 @@ References, Notes for Part 1
 
 24. “பொய்யா நாவிற் கபிலன் பாடிய,’’  
 
-- புறநானூறு, 174:10  
+- புறநானூறு,
+
+ 174:10  
 
 25.” குறியிறைக் குரம்பைக் குறவர் மாக்கள்  
 
@@ -855,7 +908,9 @@ References, Notes for Part 1
 
 பெருவெள் ளென்னிற் பிழையாது மன்னே.”  
 
-- புறநானூறு, 129  
+- புறநானூறு,
+
+ 129  
 
 26. "குன்றக் குறவன் கடவுட் பேணி  
 
@@ -865,13 +920,17 @@ References, Notes for Part 1
 
 சேயதாற் றெய்யநீ பிரியு நாடே."  
 
--ஐங்குறுநூறு, 257  
+-ஐங்குறுநூறு,
+
+ 257  
 
 27. “சுனைப்பூக் குற்றுத் தொடலை தை.இப்  
 
 புனக்கிளி கடியும் பூங்கட் பேதை."  
 
-- குறுந்தொகை, 142:2-1  
+- குறுந்தொகை,
+
+ 142:2-1  
 
 28. "விளையா டாயமொடு ஒரை யாடாது  
 
@@ -889,7 +948,9 @@ References, Notes for Part 1
 
 பஞ்சாய்ப் பள்ளஞ் சூழ்ந்து மற்றிவள்.”  
 
-- - குறுந்தொகை, 276:1-2  
+- - குறுந்தொகை,
+
+ 276:1-2  
 
 30. “தாதிற் செய்த தண்பனிப் பாவை  
 
@@ -903,7 +964,9 @@ References, Notes for Part 1
 
 உண்ணாப் பாவையை யூட்டு வோளே."  
 
-- ஐங்குறுநூறு, 128:2-3  
+- ஐங்குறுநூறு,
+
+ 128:2-3  
 
 32. "சுடர்விரி வினைபாய்ந்த தூதையும் பாவையும்  
 
@@ -925,7 +988,9 @@ References, Notes for Part 1
 
 நோயிலை யிவட்கென நொதுமலர் பழிக்குங்கால்.”  
 
-கலித்தொகை, குறிஞ்சிக்கலி, 23.16- 19  
+கலித்தொகை, குறிஞ்சிக்கலி,
+
+ 23.16- 19  
 
 35. "பாசவ லிடித்த கருங்கா /*ழுலக்கை  
 
@@ -933,7 +998,9 @@ References, Notes for Part 1
 
 ஒண்டொடி மகளிர் வண்ட லயரும்.”  
 
-- - குறுந்தொகை, 2.38:1.3  
+- - குறுந்தொகை,
+
+ 2.38:1.3  
 
 36. “அவலெறிந்த வுலக்கை வாழைச் சேர்த்தி I  
 
@@ -957,7 +1024,9 @@ References, Notes for Part 1
 
 40. அறிவுடை யோனா றரசுஞ் செல்லும். அறிவு  
 
-- புறநானூறு, 18347  
+- புறநானூறு,
+
+ 18347  
 
 41. தோழிதானே செவிலி மகளே."  
 
@@ -995,7 +1064,9 @@ References, Notes for Part 1
 
 பூம்பொறிக் கழற்கா னெடுந்தகை புண்ணே.'  
 
-- புறநானூறு, 281:8-9  
+- புறநானூறு,
+
+ 281:8-9  
 
 48. கொடுவரி பாய்ந்தெனக் கொழுநர் மார்பின்  
 
@@ -1003,7 +1074,9 @@ References, Notes for Part 1
 
 அறல்வாழ் கூந்தற் கொடிச்சியர் பாடல்.”  
 
-- மலைபடுகடாம், 302-304  
+- மலைபடுகடாம்,
+
+ 302-304  
 
 49. ”இவனிவ ளைம்பால் பற்றவு மிவளிவன்  
 
@@ -1019,7 +1092,9 @@ References, Notes for Part 1
 
 மணமகி ழியற்கை காட்டி யோயே..'  
 
-- குறுந்தொகை,, 229  
+- குறுந்தொகை,,
+
+ 229  
 
 50. “யாயு ஞாயும் யாரா கியரோ  
 
@@ -1041,13 +1116,17 @@ References, Notes for Part 1
 
 இளைய ளாயினும் ஆரணங் கினளே.'  
 
-ஐங்குறுநூறு, 259  
+ஐங்குறுநூறு,
+
+ 259  
 
 52. 'கொல்லேற்றுக் கோடஞ்சு வானை மறுமையும்  
 
 புல்லாளே ஆய மகள்.'  
 
-- கலித்தொகை, 103:63-64  
+- கலித்தொகை,
+
+ 103:63-64  
 
 53. கொல்லேறு சாட இருந்தார்க்கெம் பல்லிருங்  
 
@@ -1063,7 +1142,9 @@ References, Notes for Part 1
 
 தந்தையுங் கொடான்.  
 
-- புறநானூறு, 383:10-13  
+- புறநானூறு,
+
+ 383:10-13  
 
 55. “அருமழை தரல் வேண்டில் தருகிற்கும் பெருமையளே”.'  
 
@@ -1141,7 +1222,9 @@ References, Notes for Part 1
 
 தன்னைத்தான் கொண்டொழுகின் உண்டு.”  
 
-- திருக்குறள், 974  
+- திருக்குறள்,
+
+ 974  
 
 64. "மனைத்தக்க மாண்புடையள் ஆகித்தற் கொண்டான்  
 
@@ -1219,7 +1302,9 @@ References, Notes for Part 1
 
 பொற்புடைத் தெய்வம் யாங்கண் டிலமால்."  
 
-- சிலப்பதிகாரம், அடைக்கலக்காதை, 142-144  
+- சிலப்பதிகாரம், அடைக்கலக்காதை,
+
+ 142-144  
 
 75. "நீரின் றமையா வுலகம் போலத்  
 
@@ -1231,13 +1316,17 @@ References, Notes for Part 1
 
 மடந்தையொ டெம்மிடை நட்பு.”  
 
-- திருக்குறள், 1122  
+- திருக்குறள்,
+
+ 1122  
 
 77. "வினையே யாடவர்க் குயிரே வாணுதல்  
 
 மனையுறை மகளிர்க் காடவ ருயிரென."  
 
-- - - குறுந்தொகை,, 135:1-2  
+- - - குறுந்தொகை,,
+
+ 135:1-2  
 
 78. Kuruntokai-79.  
 
@@ -1265,7 +1354,9 @@ References, Notes for Part 1
 
 மறக்குவேன் கொல்லென் காதலன் எனவே.”  
 
-- நற்றிணை, 397  
+- நற்றிணை,
+
+ 397  
 
 82. "இம்மை மாறி மறுமை யாயினும்  
 
@@ -1329,13 +1420,17 @@ References, Notes for Part 1
 
 மானுண் டெஞ்சிய கலிழி நீரே.”  
 
-- ஐங்குறுநூறு, 203  
+- ஐங்குறுநூறு,
+
+ 203  
 
 87. “அகழ்வாரைத் தாங்கும் நிலம்போலத் தம்மை  
 
 இகழ்வார்ப் பொறுத்தல் தலை."  
 
-- திருக்குறள், 151  
+- திருக்குறள்,
+
+ 151  
 
 88. "தாயுடன் றலைக்குங் காலையும் வாய்விட்  
 
@@ -1347,7 +1442,9 @@ References, Notes for Part 1
 
 தன்னுறு விழுமங் களைஞரோ விலளே.”  
 
-- - குறுந்தொகை,, 397:4.8  
+- - குறுந்தொகை,,
+
+ 397:4.8  
 
 89. "அன்புடைக் கணவ ரழிதகச் செயினும்  
 
@@ -1381,7 +1478,9 @@ References, Notes for Part 1
 
 மடமொழி மாதராள் பெண்.”  
 
-- நாலடியார், 384  
+- நாலடியார்,
+
+ 384  
 
 93. “நிறையும் மறைபுலப் படாமை நிறுக்கும்  
 
@@ -1423,7 +1522,9 @@ References, Notes for Part 1
 
 புதுவது புனைந்த யாப்பின் மேற்றே.”  
 
-- தொல்காப்பியம், செய்யுளியல், 231  
+- தொல்காப்பியம், செய்யுளியல்,
+
+ 231  
 
 97. "மறப்பரும் கேண்மையோ டறப்பரி சாரமும்  
 
@@ -1449,7 +1550,9 @@ References, Notes for Part 1
 
 மெல்லியல் குறுமகள் உறைவின் ஊரே."  
 
-- நற்றிணை, 142, 9-11  
+- நற்றிணை,
+
+ 142, 9-11  
 
 101. "பலர்புகு வாயி லடைப்பக் கடவுதர்  
 
@@ -1463,13 +1566,17 @@ References, Notes for Part 1
 
 மலரத் திறந்த வாயில் பலருண.”  
 
-- குறிஞ்சிப்பாட்டு, 202-3  
+- குறிஞ்சிப்பாட்டு,
+
+ 202-3  
 
 103. "உலகுபுகத் திறந்த வாயிற்  
 
 பலரோ டுண்டல் மரீஇ யோனே.”  
 
-- புறநானூறு, 234:5-9  
+- புறநானூறு,
+
+ 234:5-9  
 
 104. Nambiyakaporul: Akatinaiyiyal.  
 
@@ -1487,7 +1594,9 @@ References, Notes for Part 1
 
 நுண்ணிதின் மகிழ்ந்தன் றொண்ணுதன் முகனே.”  
 
-- குறுந்தொகை, 167  
+- குறுந்தொகை,
+
+ 167  
 
 107. “உண்டனன் உண்ணக் கண்ட  
 
@@ -1511,11 +1620,19 @@ References, Notes for Part 1
 
 தேம்பூங் கட்டி யென்றணி ரினியே.”  
 
-- குறுந்தொகை, 196:1-2  
+- குறுந்தொகை,
 
-111. Tiruveňgaikkövai: 403.  
+ 196:1-2  
 
-112. Tolkāppiyam, Purattinaiyiyal 4.  
+111. Tiruveňgaikkövai:
+
+
+
+ 403.  
+
+112. Tolkāppiyam, Purattinaiyiyal
+
+ 4.  
 
 Ilampüranar's commentary.  
 
@@ -1541,11 +1658,15 @@ Ilampüranar's commentary.
 
 செருமுக நோக்கிச் செல்கென விடுமே.”  
 
-- புறநானூறு, 279  
+- புறநானூறு,
+
+ 279  
 
 114. "மனைக்குவிளக் காகிய வாணுதல்.”  
 
-- புறநானூறு, 314:1  
+- புறநானூறு,
+
+ 314:1  
 
 115. "மனைக்கு விளக்கம் மடவாள்.”  
 
@@ -1559,7 +1680,9 @@ Ilampüranar's commentary.
 
 ஏறுபோல் பீடு நடை."  
 
-- திருக்குறள், 656  
+- திருக்குறள்,
+
+ 656  
 
 118. "இல்லதென் இல்லவள் மாண்பானால்.”  
 
@@ -1609,7 +1732,9 @@ Ilampüranar's commentary.
 
 சிறந்துபுறங் காக்குங் கடவுட் பள்ளி.”  
 
-- மதுரைக்காஞ்சி, 461-467  
+- மதுரைக்காஞ்சி,
+
+ 461-467  
 
 124. "நிலத்தினும் பெரிதே வானினு முயர்ந்தன்று  
 
@@ -1627,7 +1752,9 @@ Ilampüranar's commentary.
 
 இனிவிழ வாயிற் றென்னு மிவ்வூரே.”  
 
-- குறுந்தொகை , 265:4-6  
+- குறுந்தொகை ,
+
+ 265:4-6  
 
 126. "யாண்டுபல வாக நரையில வாகுதல்  
 
@@ -1635,13 +1762,17 @@ Ilampüranar's commentary.
 
 மாண்டவென் மனைவியொடு மக்களு நிரம்பினர்.”  
 
-- புறநானூறு, 191:1-3  
+- புறநானூறு,
+
+ 191:1-3  
 
 127. "இம்மைப் பிறப்பில் பிரியலம் என்றேனாக்  
 
 கண்நிறை நீர்கொண் டனள்.”  
 
-- திருக்குறள், 1315  
+- திருக்குறள்,
+
+ 1315  
 
 128. "பெருந்தோட் கணவன் மாய்ந்தென வரும்பற  
 
@@ -1649,7 +1780,9 @@ Ilampüranar's commentary.
 
 நள்ளிரும் பொய்கையுந் தீயுமோ ரற்றே.”  
 
-- புறநானூறு, 246:13-15  
+- புறநானூறு,
+
+ 246:13-15  
 
 129. "காதல ரிறப்பிற் கனையெரி பொத்தி  
 
@@ -1685,7 +1818,9 @@ Ilampüranar's commentary.
 
 - புறநானூறு, 62:13-15  
 
-133. Puranāņūru : 240  
+133. Puranāņūru :
+
+ 240  
 
 134. Periya Puránam-Tirunavukkarasu Náyanár Puránam.  
 
@@ -1695,23 +1830,35 @@ Ilampüranar's commentary.
 
 137. "பருத்திப் பெண்டின் பனுவ லன்ன.”  
 
-- புறநானூறு, 125  
+- புறநானூறு,
+
+ 125  
 
 138. "ஆளில் பெண்டிர் தாளின் செய்த  
 
 நுணங்குநுண் பனுவல் போல.”  
 
--Narriņai, 353  
+-Narriņai,
+
+ 353  
 
 139. "கழிகல மகளிர் போல  
 
 வழிநினைந் திருத்த லதனினு மரிதே."  
 
-- புறநானூறு, 289:14-15  
+- புறநானூறு,
 
-140. புறநானூறு, 25, 250, 26 1, 280  
+ 289:14-15  
 
-141. - Folklore in the Old Testament, Part I., P. 377 .  
+140. புறநானூறு, 25,
+
+ 250, 26 1,
+
+ 280  
+
+141. - Folklore in the Old Testament, Part I., P.
+
+ 377 .  
 
 142. “A virtuous woman is a crown to her husband."  
 
@@ -1745,13 +1892,19 @@ the weaker vessel."
 
 தில்லாளின் ஊடி லிடும்.”  
 
--திருக்குறள், 1039  
+-திருக்குறள்,
+
+ 1039  
 
 148. "இல்லதென் இல்லவள் மாண்பானால் உள்ளதென் இல்லவள் மாணாக் கடை.”  
 
 -திருக்குறள், 53  
 
-149. Avvaiyār, Tanippādal Tirațtu, Part 1. P. 63.  
+149. Avvaiyār, Tanippādal Tirațtu, Part
+
+ 1. P.
+
+ 63.  
 
 Notes : Part II  
 
@@ -1763,29 +1916,49 @@ India, naturally spoke of a Dravidian Language.”
 
 2. Pura-p-porul Venbã mālai, Karantaippatalam, 14  
 
-3. V. Kanagasabai Pillai, The Tamil Eighteen Hundred Years Age, p. 120  
+3. V. Kanagasabai Pillai, The Tamil Eighteen Hundred Years Age, p.
 
-4. K. A. Nilakanta Sastri. Tamilar Paņpāțum Varalārum,” p. 115  
+ 120  
+
+4. K. A. Nilakanta Sastri. Tamilar Paņpāțum Varalārum,” p.
+
+ 115  
 
 5. T. V. Kalyana Sundaranar, “Peņņiņ Perumal, (or) Vālkkaittuņai” p. 39-40  
 
 6. Dr. M. Varadarajan. “Peņmai Vāļka,' p. 11-12  
 
-7. Dr. V. Sp. Manickam. - “Tamilkkātal,' p. 152  
+7. Dr. V. Sp. Manickam. - “Tamilkkātal,' p.
 
-8. Dr. K. K. Pillai, 'A Social History of the Tamils,’ Part I, p. 385  
+ 152  
 
-9. Dr. N. Subramaniyam. -“Sangam Polity," p. 285  
+8. Dr. K. K. Pillai, 'A Social History of the Tamils,’ Part I, p.
 
-10. Dr. N. Subramaniyam, -"Journal of Indian History", Vol. XXXVIII, Part 1, April 1960, Serial No: 112, Page 487  
+ 385  
+
+9. Dr. N. Subramaniyam. -“Sangam Polity," p.
+
+ 285  
+
+10. Dr. N. Subramaniyam, -"Journal of Indian History", Vol. XXXVIII, Part 1, April
+
+ 1960, Serial No:
+
+ 112, Page
+
+ 487  
 
 11. Jawaharlal Nehru.  
 
-—"The Discovery of India.’ p. 107  
+—"The Discovery of India.’ p.
+
+ 107  
 
 12. K. Gnanambal,  
 
-- "Home life among the Tamils in Sangam age.’ p. 107  
+- "Home life among the Tamils in Sangam age.’ p.
+
+ 107  
 
 13. 'பிறப்பே குடிமை ஆண்மை யாண்டோடு  
 
@@ -1807,7 +1980,9 @@ India, naturally spoke of a Dravidian Language.”
 
 -தொல்காப்பிய, களவியல் , 2  
 
-14A. Dr. V. Sp. Manickam, - /*Tamil-k-kātail," p. 152  
+14A. Dr. V. Sp. Manickam, - /*Tamil-k-kātail," p.
+
+ 152  
 
 15. Dr. M. Varadarajan, -“Peņmai Vālka,' p. 26  
 
@@ -1853,7 +2028,9 @@ India, naturally spoke of a Dravidian Language.”
 
 செயிர் தீர் காட்சிக் சற்புச்சிறந் தன்றென.”  
 
--தொல்காப்பியம், களவியல் , 22, 1.2  
+-தொல்காப்பியம், களவியல் , 22,
+
+ 1.2  
 
 23. செறிவும் நிறையுஞ் செம்மையுஞ் செப்பும்  
 
@@ -1877,7 +2054,9 @@ India, naturally spoke of a Dravidian Language.”
 
 - அறிஞர் தனி நாயக அடிகளார், தமிழ்த்தூது, p. 46  
 
-26. Dr. V. Sp. Manickam, The Tamil Concept of Love, pp. 317-318.  
+26. Dr. V. Sp. Manickam, The Tamil Concept of Love, pp.
+
+ 317-318.  
 
 27. அறத்தொடு நின்றேனைக் கண்டு திறப்பட  
 
@@ -1897,9 +2076,13 @@ India, naturally spoke of a Dravidian Language.”
 
 உரிமை செப்பினர் நமரே...... H H  
 
-- குறுந்தொகை 351:4-5  
+- குறுந்தொகை
 
-29. Dr. U. V Swaminatha Aiyar, Kuruntokai, 351, Commentary.  
+ 351:4-5  
+
+29. Dr. U. V Swaminatha Aiyar, Kuruntokai,
+
+ 351, Commentary.  
 
 - குறுந்தொகை  
 
@@ -1913,7 +2096,9 @@ India, naturally spoke of a Dravidian Language.”
 
 டின்றுபெரி தென்னு மாங்கண தவையே.”  
 
-- குறுந்தொகை. 146  
+- குறுந்தொகை.
+
+ 146  
 
 31. காலே பரிதப் பினவே கண்ணே  
 
@@ -1925,9 +2110,15 @@ India, naturally spoke of a Dravidian Language.”
 
 -குறுந்தொகை , 44  
 
-32. கலித்தொகை, பாலைக்கலி, 8.  
+32. கலித்தொகை, பாலைக்கலி,
 
-33. Dr. V. Sp, Manickam, The Tamil Concept of Love, p. 318.  
+ 8.  
+
+33. Dr. V. Sp, Manickam, The Tamil Concept of Love, p.
+
+
+
+ 318.  
 
 34. எக்கர் ஞாழன் மலரின் மகளிர்  
 
@@ -1941,9 +2132,17 @@ India, naturally spoke of a Dravidian Language.”
 
 முலையிடைப் போலப் புகின்.”  
 
-- கலித்தொகை, முல்லைக்கலி, 371 -73  
+- கலித்தொகை, முல்லைக்கலி,
 
-36. அகநானூறு, 280 Et 390.  
+ 371 -73  
+
+36. அகநானூறு,
+
+ 280 Et
+
+
+
+ 390.  
 
 37. …. … ...ஆய்தொடிக் குறுமகள்  
 
@@ -1951,7 +2150,9 @@ India, naturally spoke of a Dravidian Language.”
 
 பெறலருங் குரைய ளாயின்..... .”  
 
-- அகநானூறு, 280, 4-6  
+- அகநானூறு,
+
+ 280, 4-6  
 
 38. "ஒரான் வல்சிச் சிரில் வாழ்க்கை  
 
@@ -1959,7 +2160,9 @@ India, naturally spoke of a Dravidian Language.”
 
 இணிவிழ வாயிற் றென்னுமிவ் வூரே.”  
 
--குறுந்தொகை , 265:4-6  
+-குறுந்தொகை ,
+
+ 265:4-6  
 
 39. "முழங்குகடன் முழவின் முசிறி யன்ன  
 
@@ -1969,11 +2172,17 @@ India, naturally spoke of a Dravidian Language.”
 
 தந்தையுங் கொடாஅ னாயின் வந்தோர்.”  
 
--புறநானூறு 343:10-13  
+-புறநானூறு
 
-40. (1) நற்றிணை: 393; 10, நமர் கொடை நேர்ந்தனர்”  
+ 343:10-13  
 
-(2) ஐங்குறுநூறு: 300; 2-3  
+40. (1) நற்றிணை:
+
+ 393; 10, நமர் கொடை நேர்ந்தனர்”  
+
+(2) ஐங்குறுநூறு:
+
+ 300; 2-3  
 
 /*அஞ்சிறை விரிக்கும் பெருங்கல் வெற்பன்  
 
@@ -2035,7 +2244,9 @@ India, naturally spoke of a Dravidian Language.”
 
 இனியவோ பெரும தமியோர்க்கு மனையே.'  
 
-- குறுந்தொகை, 124  
+- குறுந்தொகை,
+
+ 124  
 
 46. 'வினையே யாடவர்க் குயிரே வாணுதல்  
 
@@ -2045,7 +2256,9 @@ India, naturally spoke of a Dravidian Language.”
 
 அழாஅ றோழி யழுங்குவர் செலவே.”  
 
-- குறுந்தொகை 135  
+- குறுந்தொகை
+
+ 135  
 
 47. ‘'வேரல் வேலி வேர்க்கோட் பலவின்  
 
@@ -2075,7 +2288,9 @@ India, naturally spoke of a Dravidian Language.”
 
 விடல்சூழ லனா னின்னுடை நட்பே.”  
 
-- குறுந்தொகை, 300:7-8  
+- குறுந்தொகை,
+
+ 300:7-8  
 
 50. எல்லா மெவனோ பதடி வைகல்  
 
@@ -2091,13 +2306,17 @@ India, naturally spoke of a Dravidian Language.”
 
 கழிந்த நாளிவண் வாழு நாளே.  
 
-- குறுந்தொகை , 323  
+- குறுந்தொகை ,
+
+ 323  
 
 51. "ஒருநாள் புணரப் புணரின்  
 
 அரைநாள் வாழ்க்கையும் வேண்டலன் யானே.”  
 
--குறுந்தொகை , 280:4-5  
+-குறுந்தொகை ,
+
+ 280:4-5  
 
 52. 'முட்டாச் சிறப்பின் பட்டினம் பெறினும்  
 
@@ -2105,23 +2324,33 @@ India, naturally spoke of a Dravidian Language.”
 
 வாரேன் வாழிய நெஞ்சே."  
 
--பட்டினப்பாலை, 218-20  
+-பட்டினப்பாலை,
+
+ 218-20  
 
 53. (1) அன்றை யன்ன நட்பினன்.”  
 
-- குறுந்தொகை 385:6  
+- குறுந்தொகை
+
+ 385:6  
 
 (2) தலைநாள் அன்ன பேணலன்'  
 
-- நற்றிணை 332:8  
+- நற்றிணை
+
+ 332:8  
 
 (3) தண்டாக் காதலும் தலைநாள் போன்மே”  
 
-- அகநானூறு, 332:15  
+- அகநானூறு,
+
+ 332:15  
 
 (4) அன்றை யன்ன விருப்போடு”  
 
-- குறிஞ்சிப்பாட்டு, 238  
+- குறிஞ்சிப்பாட்டு,
+
+ 238  
 
 54. "பாண்மகன்  
 
@@ -2131,7 +2360,9 @@ India, naturally spoke of a Dravidian Language.”
 
 வதுவை நாளினும் இனியனால் எமக்கே.”  
 
-- அகநானூறு, 352:16-17  
+- அகநானூறு,
+
+ 352:16-17  
 
 55. “திறவாக் கண்ண சாய்செவிக் குருளை  
 
@@ -2153,7 +2384,9 @@ India, naturally spoke of a Dravidian Language.”
 
 இரும்போர் ஒக்கலொ டொருங்குடன் மிசையும்.”  
 
-- சிறுபாணாற்றுப்ப்படை, 13-139 56.  
+- சிறுபாணாற்றுப்ப்படை, 13-139
+
+ 56.  
 
 56. "துன்னருங் கானமுந் துணித லாற்றாய்  
 
@@ -2161,13 +2394,17 @@ India, naturally spoke of a Dravidian Language.”
 
 னென்னிலை யுரைமோ நெஞ்சே."  
 
-- அகநானூறு, 181 : 1-3  
+- அகநானூறு,
+
+ 181 : 1-3  
 
 57. அடங்கிய கற்பி னாய்நுதன் மடந்தை  
 
 உயர் நிலை யுலக மவன்புக வார.'  
 
-- புறநானூறு 249:10-11  
+- புறநானூறு
+
+ 249:10-11  
 
 58. ஆறிய கற்பி னடங்கிய சாயல்  
 
@@ -2181,15 +2418,21 @@ India, naturally spoke of a Dravidian Language.”
 
 59. மங்கல மகளிரொடு மர்லை சூட்டி.”  
 
-- புறநானூறு 332:5  
+- புறநானூறு
+
+ 332:5  
 
 60. :சென்றதற் கொண்டு மனையோள் விரும்பி.”  
 
-- புறநானூறு 333:8  
+- புறநானூறு
+
+ 333:8  
 
 61. நிழலினும் போகாநின் வெள்யோள் பயந்த.”  
 
-- புறநானூறு , 222:2  
+- புறநானூறு ,
+
+ 222:2  
 
 62. வசையில் மகளிர்.'  
 
@@ -2241,7 +2484,9 @@ India, naturally spoke of a Dravidian Language.”
 
 -குறுந்தொகை , 45:5  
 
-72. Akanāņūru. 190:12  
+72. Akanāņūru.
+
+ 190:12  
 
 73. 'வடமீன் போல் தொழுதேத்த வயங்கிய கற்பினாள்.'  
 
@@ -2269,7 +2514,9 @@ India, naturally spoke of a Dravidian Language.”
 
 - புறநானுறு, 71:1 -6  
 
-77. புறநானுறு. 246  
+77. புறநானுறு.
+
+ 246  
 
 78. "கருங்கட் டாக்கலை பெரும்பிறி துற்றெனக்  
 
@@ -2287,13 +2534,17 @@ India, naturally spoke of a Dravidian Language.”
 
 79. :அகலம் மகளிர்க் கல்லது மலர்ப்பறி யலையே.”  
 
--பதிற்றுப்பத்து, 713; 4-5  
+-பதிற்றுப்பத்து,
+
+ 713; 4-5  
 
 80 :பிறன் மனை நோக்காத பேராண்மை சான்றோர்க்கு  
 
 அறனொன் றோ ஆன்ற வொழுக்கு.”  
 
--திருக்குறள், 148  
+-திருக்குறள்,
+
+ 148  
 
 81. அன்பகத் தில்லா உயிர்வாழ்க்கை வன்பாற்கண்  
 
@@ -2301,13 +2552,31 @@ India, naturally spoke of a Dravidian Language.”
 
 -திருக்குறள், 78  
 
-82. புறநானூறு 143.  
+82. புறநானூறு
 
-83. புறநானூறு, 1448 145.  
 
-84. புறநானூறு, 146.  
 
-85. புறநானூறு, 147.  
+ 143.  
+
+83. புறநானூறு,
+
+ 1448
+
+
+
+ 145.  
+
+84. புறநானூறு,
+
+
+
+ 146.  
+
+85. புறநானூறு,
+
+
+
+ 147.  
 
 86. மனைவி உயர்வுங் கிழவோன் பணிவும்  
 
@@ -2315,9 +2584,15 @@ India, naturally spoke of a Dravidian Language.”
 
 - தொல்காப்பியம், பொருளியல், 31  
 
-87. மருதைக்காஞ்சி , 23.  
+87. மருதைக்காஞ்சி ,
 
-88. தஞ்சை வாணன் கோவை, 398.  
+ 23.  
+
+88. தஞ்சை வாணன் கோவை,
+
+
+
+ 398.  
 
 89. 'கழனி மாத்து விளைந்துகு தீம்பழம்  
 
@@ -2339,7 +2614,9 @@ India, naturally spoke of a Dravidian Language.”
 
 91. எண்ணரும் பாசறைப் பெண்ணொடு புணரார்.  
 
--தொல்காப்பியம், கற்பியல், 131  
+-தொல்காப்பியம், கற்பியல்,
+
+ 131  
 
 92. ஆவு மானியற் பார்ப்பன மாக்களும்  
 
@@ -2377,9 +2654,13 @@ India, naturally spoke of a Dravidian Language.”
 
 தித்திக் குறங்கி னுாழ்மா றலைப்ப.'  
 
--குறுந்தொகை 293:1-6  
+-குறுந்தொகை
 
-95. Puranänüru, 151: Commentary.  
+ 293:1-6  
+
+95. Puranänüru,
+
+ 151: Commentary.  
 
 96. “மகிழ்நன் மார்பே வெய்யை யானி  
 
@@ -2409,19 +2690,33 @@ India, naturally spoke of a Dravidian Language.”
 
 - திருக்குறள், 60  
 
-100. அகநானூறு 184  
+100. அகநானூறு
 
-101. நற்றிணை, 330.  
+ 184  
 
-102. கலித்தொகை , 86.  
+101. நற்றிணை,
 
-103. அகநானூறு, 66.  
 
-104. "முழவிமிழ் துணங்கை துரங்கும் விழவின்." -அகநானூறு, 336:16  
+
+ 330.  
+
+102. கலித்தொகை ,
+
+ 86.  
+
+103. அகநானூறு,
+
+ 66.  
+
+104. "முழவிமிழ் துணங்கை துரங்கும் விழவின்." -அகநானூறு,
+
+ 336:16  
 
 105. "மகளிர் தழிஇய துணங்கை யானும்.”  
 
--குறுந்தொகை 312;  
+-குறுந்தொகை
+
+ 312;  
 
 106. (1).“நிரைதொடி நல்லவர் துணங்கையுள் தலைக் கொள்ளக்  
 
@@ -2437,7 +2732,9 @@ India, naturally spoke of a Dravidian Language.”
 
 பெறற்கருந்தொல்சீர்த் துறக்க மேய்க்கும்.”  
 
-- பெரும்பாணாற்றுப்படை, 387-388  
+- பெரும்பாணாற்றுப்படை,
+
+ 387-388  
 
 108. “We may infer that women of the period had a free social life,  
 
@@ -2467,7 +2764,9 @@ and enjoyed themselves sporting in the river.”
 
 சிறந்து புறங்காக்குங் கடவுட் பள்ளியும்.”  
 
-- மதுரைக்காஞ்சி . 460-467  
+- மதுரைக்காஞ்சி .
+
+ 460-467  
 
 111. “தைய லவரொடுந் தந்தா ரவரொடும்  
 
@@ -2477,7 +2776,9 @@ and enjoyed themselves sporting in the river.”
 
 - பரிபாடல், 15: 46-48  
 
-112. ஐங்குறுநூறு, 257  
+112. ஐங்குறுநூறு,
+
+ 257  
 
 113. “யாண்டுபல வாக நரையிலவாகுதல்  
 
@@ -2493,7 +2794,9 @@ and enjoyed themselves sporting in the river.”
 
 சான்றோர் பலர்யான் வாழு மூரே  
 
-- புறநானூறு, 191  
+- புறநானூறு,
+
+ 191  
 
 114 “மன்னுக பெரும நீயே தொன்னிலைப்  
 
@@ -2543,13 +2846,17 @@ and enjoyed themselves sporting in the river.”
 
 - திரிகடுகம், 78  
 
-123. K.K.Pillai, The Social History of the Tamils. Part -1, p. 390-391  
+123. K.K.Pillai, The Social History of the Tamils. Part -1, p.
+
+ 390-391  
 
 124. ஒவத்தன்ன வினைபுனை நல்லிற்  
 
 பாவையன்ன நல்லோள் கணவன்  
 
-- பதிற்றுப்பத்து 7.1:-/*84  
+- பதிற்றுப்பத்து
+
+ 7.1:-/*84  
 
 125. பெண்மை சான்று பெருமட நிலைஇக்  
 
@@ -2645,5 +2952,7 @@ A Critical Study of Kuruntokai
 
 ------------------  
 
-This file was last updated on 20 November 2016.  
+This file was last updated on 20 November
+
+ 2016.  
 

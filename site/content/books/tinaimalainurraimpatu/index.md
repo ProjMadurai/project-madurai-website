@@ -7,7 +7,10 @@ authors:
 genres:
   - நீதிநெறி – பதினெண்கீழ்க்கணக்கு
 ---
-© மதுரைத் திட்டம் 2000  
+
+© மதுரைத் திட்டம்
+
+ 2000  
 
   
 
@@ -1301,6 +1304,8 @@ genres:
 
 ----------  
 
-This file was edited on 13 Feb. 2019.  
+This file was edited on 13 Feb.
+
+ 2019.  
 
 Feel free to send the corrections to the webmaster.

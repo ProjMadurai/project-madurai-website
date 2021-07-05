@@ -7,6 +7,7 @@ authors:
 genres:
   - சமூக நாவல்
 ---
+
 ### சேற்றில் மனிதர்கள்  
 
 ராஜம் கிருஷ்ணன்  
@@ -27,11 +28,21 @@ genres:
 
 ஃப்ளாட் எண் 3&8, மாசிலாமணி தெரு,  
 
-பாண்டி பஜார், தி. நகர், சென்னை 600 017  
+பாண்டி பஜார், தி. நகர், சென்னை
 
-முதற் பதிப்பு 1982, ஐந்தாம் பதிப்பு 2001  
+ 600
 
-விலை ரூ 68.00  
+ 017  
+
+முதற் பதிப்பு
+
+ 1982, ஐந்தாம் பதிப்பு
+
+ 2001  
+
+விலை ரூ
+
+ 68.00  
 
 ----------  
 
@@ -45,11 +56,17 @@ by Rajam Krishnan
 
 © Rajam Krishnan  
 
-pages 240;  
+pages
+
+ 240;  
 
 Dhagam, G3/8, Masilamani Street, Pondy Bazaar,  
 
-T. Nagar, Chennai 600 017  
+T. Nagar, Chennai
+
+ 600
+
+ 017  
 
 ----------  
 
@@ -5367,5 +5384,7 @@ T. Nagar, Chennai 600 017
 
 -------------  
 
-This file was last updated on 26 August 2018  
+This file was last updated on 26 August
+
+ 2018  
 

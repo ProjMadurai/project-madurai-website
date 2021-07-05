@@ -10,6 +10,7 @@ genres:
   - சமயம்
   - சைவம்
 ---
+
 Editorial Note on this release: Rev. Pope has used transliterated form with diacritical markersto cite many Tamil words with grantha characters (such as the first letter of Civan markedwith C-cedilla). To render the English translation using lower case ASCII characters, wehave used the following transliteration scheme with upper-case C for C-cedilla (for the first letter of Civan):  
 
 Vowels: a A i I u U e E ai o O au H;  
@@ -28,7 +29,9 @@ by
 
 Rev.G.U.Pope  
 
-Oxford, Clarendon Press, 1900  
+Oxford, Clarendon Press,
+
+ 1900  
 
 (part I - Hymns 1 -10 )  
 
@@ -42,7 +45,9 @@ Civan's Course from Everlasting
 
   
 
-This has always been considered the first of MAnikka-vACagar's poems, and it has all the characteristics of a preface, as enumerated in the NannUl; but its very technical completeness makes its genuineness doubtful; and it rather apperars to have been added by the Tillai assembly when the lyrics of the Saint were first collected. In the VAthavUrar purANam(V II) it is said that after the divine Master had returned to Kailacam, the sage with the 999 devotees remained under the Kurunthu tree at Perunn-turrai, where the God had first appeared to him; erected a shrine there, and spent this time in adoration and praise, until his fellow-worshippers passed through the fire to Civan, leaving him alone. To this, the first period of his religious history, the following three poems belong; and also according to tradition, lyrics 19, 20, 23-29, 32-34, 36, 38, 39, 41-48, and perhaps a few others.  
+This has always been considered the first of MAnikka-vACagar's poems, and it has all the characteristics of a preface, as enumerated in the NannUl; but its very technical completeness makes its genuineness doubtful; and it rather apperars to have been added by the Tillai assembly when the lyrics of the Saint were first collected. In the VAthavUrar purANam(V II) it is said that after the divine Master had returned to Kailacam, the sage with the
+
+ 999 devotees remained under the Kurunthu tree at Perunn-turrai, where the God had first appeared to him; erected a shrine there, and spent this time in adoration and praise, until his fellow-worshippers passed through the fire to Civan, leaving him alone. To this, the first period of his religious history, the following three poems belong; and also according to tradition, lyrics 19, 20, 23-29, 32-34, 36, 38, 39, 41-48, and perhaps a few others.  
 
 Here all the Tamil lines are of four feet, except the last, which has three only. The connection is VeNTaLai. The metre is veng-kalipA.  
 
@@ -1454,7 +1459,9 @@ This remarkable poem contains a hundred especially flowing and harmonious verses
 
 The titles of the ten decades, into which the poem is divided, indicate in some measure the course of his thoughts and the character of his mental conflicts. There is a most pathetic alternation of rapturous and realising devotion with coldness and apathy, and even, it seems of temporary abandonment to gross sensuality. It is to be doubted whether the whole of these verses are of one period, and I should prefer to think that they really embody his meditations and solloquies up to the period of his final settlement in Cithambaram.  
 
-DECAD 1.  
+DECAD
+
+ 1.  
 
 THE COGNITION OF THE TRUE.  
 
@@ -1830,7 +1837,9 @@ all things not heard before, He caused to hear;
 
 And guarding me from future ' birth,' He made me His.  
 
-Such is the wondrous work our Lord hath wrought for me ! 112  
+Such is the wondrous work our Lord hath wrought for me !
+
+ 112  
 
 XXIX. His appearing.  
 
@@ -1902,7 +1911,9 @@ Despite the gain of changeless, sweetest gifts of grace,thou'rt changed,
 
 DEAD HEART !  
 
-RUINED by thee, to all that's false subjected, thus I RUINED lie ! 128  
+RUINED by thee, to all that's false subjected, thus I RUINED lie !
+
+ 128  
 
 XXXIII. Heart unworthy of trust; insensible to complaint  
 
@@ -2060,7 +2071,9 @@ Sire, Mother, Lord: to Him all these are not !
 
 Erewhile within my inmost soul He entered,  
 
-Whom none by thought can know, the Ever-blissful One ! 188  
+Whom none by thought can know, the Ever-blissful One !
+
+ 188  
 
 XLVIII. I had but a glimpse of His glory.  
 
@@ -2706,11 +2719,15 @@ Hail Thou who art to THY TRUE SERVANTS TRUE !
 
   
 
-This title, which forms the burthen of the poem, is given to one of the Sage's most interesting compositions. It consists of fifty quatrains, constructed in a beautiful metre (see my Second Grammar 192) which is in fact epichoriambic (as is explained in the notes to the Tamil text).  
+This title, which forms the burthen of the poem, is given to one of the Sage's most interesting compositions. It consists of fifty quatrains, constructed in a beautiful metre (see my Second Grammar
+
+ 192) which is in fact epichoriambic (as is explained in the notes to the Tamil text).  
 
 It is called AnthAthi poem. This means that it is anaphoretic, the last word of a verse is to be repeated in the beginning of each following verse, and very often striking its keynote. Hymn V is the same). This has a beautiful effect in Tamil, but the difference of Idiom often forbids translator to attempt to reproduce it in English.  
 
-The poem throughout is a genuine human cry for Divine help in the midst of a terrible struggle and is full of the most vivid emotion. It was composed, according to tradition, immediately after the wonderful cento that forms the fifth poem, and gives expression to the youthful devotee's feelings after his guru had finally departed, and the company of the 999 (?) saints who attended him had thrown themselves into the fire. He is said to have gone round the Civan shrines in the PAndiyan Kingdom, and first of all to have spent some considerable time in the ancient city of Tiru-uttara-kOcamangai, which was at one time a PAndiyan capital, situate eight miles south-west of Ramnad, where the ruins of an important Civan shrine are yet to be seen. There he suffered from the reaction naturally consequent upon the excitement produced by the wonderful events of the preceding months. He had been till now the petted, highly gifted favourite and prime minister of the PAndiyan Kingdom living in the midst of pomp and luxury, invested with almost absolute power; and was still in early manhood. He finds himself at once a Caiva mendicant, who has renounced everything subsists on alms, and must spend his days and nights in solitary meditation.  
+The poem throughout is a genuine human cry for Divine help in the midst of a terrible struggle and is full of the most vivid emotion. It was composed, according to tradition, immediately after the wonderful cento that forms the fifth poem, and gives expression to the youthful devotee's feelings after his guru had finally departed, and the company of the
+
+ 999 (?) saints who attended him had thrown themselves into the fire. He is said to have gone round the Civan shrines in the PAndiyan Kingdom, and first of all to have spent some considerable time in the ancient city of Tiru-uttara-kOcamangai, which was at one time a PAndiyan capital, situate eight miles south-west of Ramnad, where the ruins of an important Civan shrine are yet to be seen. There he suffered from the reaction naturally consequent upon the excitement produced by the wonderful events of the preceding months. He had been till now the petted, highly gifted favourite and prime minister of the PAndiyan Kingdom living in the midst of pomp and luxury, invested with almost absolute power; and was still in early manhood. He finds himself at once a Caiva mendicant, who has renounced everything subsists on alms, and must spend his days and nights in solitary meditation.  
 
 Meanwhile the circumstances in which he finds himself placed the lives of his companions, the whole environment of the temple, are not favourable to pure and high devotion. The lofty ideal is not realized here. Then, as now, the influences surrounding and emanating from the shrine itself were in many ways deteriorating. From the evidence of these verses, we conclude that there were two things from which he suffered. One of these was the allurements of the female attendants who, in bands pertained to the temple. We have noticed this elsewhere. Hindu commentators will often find mystic meanings, which are harmless, - if unfounded. Again and again in this and other poems he deplores the way in which he has been led to violate his vow. The other difficulty, often referred to was the way in which mere ceremonial acts had to be performed, affording no relief to his conscience. He thus fell into a desponding and well-nigh despairing state of mind, and sent forth this cry like that heard in the Psalter, and reiterated by the greatest Being that ever trod the pathway of this human life. Few things in literature have such a genuine ring as some of the verses in which young noble bewails his apparent desertion by his Master. Yet he never quite lost his confidence and love; and afterwards, as many of the lyrics show, exchanged for the 'spirit of heaviness the garment of praise'.  
 
@@ -3682,7 +3699,9 @@ And gave release. SING we His foot whence mercy flows ! AMMANAY, SEE ! (6)
 
 3) He is also worshipped in the temple of Perun-turai, His great southern-shrine, where the saint first knew Him; and  
 
-4) in the sacred court of Tillai He dwells, a BrAhman, one of the 3000 saints, the mystic Dancer and Dispenser of grace. There the sage is to obtain his consummation.  
+4) in the sacred court of Tillai He dwells, a BrAhman, one of the
+
+ 3000 saints, the mystic Dancer and Dispenser of grace. There the sage is to obtain his consummation.  
 
 These four ideas perpetually recur in these poems. This is un unfailing topic treated with inexhaustible variety.  
 
@@ -4754,6 +4773,8 @@ To Him, Whose form is fiery flame, go thou,
 
 AND BREATHE HIS PRAISE, O HUMMING-BEE ! (80)  
 
-This file was last edited on 5 Jan. 2009  
+This file was last edited on 5 Jan.
+
+ 2009  
 
 Feel free to send the corrections to the webmaster.

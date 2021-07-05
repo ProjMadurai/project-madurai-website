@@ -8,9 +8,12 @@ genres:
   - அந்தாதி
   - பிரபந்தம்
 ---
+
 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
-weight: 333  
+weight:
+
+ 333  
 
 authors:  
 
@@ -58,7 +61,9 @@ This webpage presents the Etext in Tamil script in UTF-8 encoding.
 
   
 
-© Project Madurai 1998 - 2008  
+© Project Madurai
+
+ 1998-2008  
 
   
 
@@ -1098,7 +1103,9 @@ You are welcome to freely distribute this file, provided this header page is kep
 
 தந்தி பெறாது என்றும் வாசி பெறாது என்றும் தாழ்வுடையேன்  
 
-புந்தி பெறாது என்றும் தேவர் பொன் தாமரைப் பூக்கொண்டதே 100  
+புந்தி பெறாது என்றும் தேவர் பொன் தாமரைப் பூக்கொண்டதே
+
+ 100  
 
   
 
@@ -1228,6 +1235,8 @@ You are welcome to freely distribute this file, provided this header page is kep
 
   
 
-This page was first put up on July, 2008. Please send your  
+This page was first put up on July,
+
+ 2008. Please send your  
 
 comments and corrections to the WebMasters of this site

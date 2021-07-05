@@ -7,11 +7,14 @@ authors:
 genres:
   - சித்தர் பாடல்கள்
 ---
+
 ## சித்தர் பாடல்கள் - 4  
 
   
 
-### 1. அகப்பேய்ச் சித்தர் பாடல்கள்  
+###
+
+ 1. அகப்பேய்ச் சித்தர் பாடல்கள்  
 
   
 
@@ -627,7 +630,9 @@ genres:
 
   
 
-### 2. இடைக்காட்டுச் சித்தர் பாடல்கள்  
+###
+
+ 2. இடைக்காட்டுச் சித்தர் பாடல்கள்  
 
   
 
@@ -940,6 +945,8 @@ genres:
 எப்பொ ருளுஞ்சொல்லுமே.46 **பலரோடு கிளத்தல்  
 
 (குறள் வெண்செந்துறை)**  
+  
+  
 
 கண்ணுள் மணியைக் கருதிய பேரொளியை  
 
@@ -1273,7 +1280,9 @@ genres:
 
   
 
-### 3. கொங்கணச் சித்தர் பாடல்கள்  
+###
+
+ 3. கொங்கணச் சித்தர் பாடல்கள்  
 
   
 
@@ -1985,6 +1994,8 @@ genres:
 
 பாரதி வாலைப்பெண் வாழியவே!111  
 
-This file was last updated on 23 August 2004  
+This file was last updated on 23 August
+
+ 2004  
 
 Please send your comments to the [webmasters of this website](mailto:kalyan@softhome.net, kumar@vt.edu?subject=PM211 cittar paTalkaL -4).

@@ -7,6 +7,7 @@ authors:
 genres:
   - கவிதைகள்
 ---
+
 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
 weight: 90  
@@ -31,13 +32,17 @@ genres:
 
   
 
-## Literary Works of Bharathidaasan ( Kanakasubbaratnam, 1891-1964)  
+## Literary Works of Bharathidaasan ( Kanakasubbaratnam,
+
+ 1891-1964)  
 
 V : kAthal ninaivukaL (in Tamil Script, unicode/utf-8 format)  
 
   
 
-புரட்சி கவிஞர் பாரதிதாசன் (கனகசுப்பரத்னம், 1891 - 1964)  
+புரட்சி கவிஞர் பாரதிதாசன் (கனகசுப்பரத்னம்,
+
+ 1891-1964)  
 
 படைப்புகள்  
 
@@ -57,7 +62,9 @@ i). You need to have Unicode fonts containing Tamil Block (Latha,
 
 Arial Unicode MS, TSCu_Inaimathi, Code2000, UniMylai,...) installed on your computer  
 
-and the OS capable of rendering Tamil Scripts (Windows 2000 or Windows XP).  
+and the OS capable of rendering Tamil Scripts (Windows
+
+ 2000 or Windows XP).  
 
 ii)Use a browser that is capable of handling UTF-8 based pages  
 
@@ -65,7 +72,9 @@ ii)Use a browser that is capable of handling UTF-8 based pages
 
 .In case of difficulties send an email request to [Project Madurai](mailto:pmadurai@gmail.com)  
 
-© Project Madurai 2000  
+© Project Madurai
+
+ 2000  
 
 Project Madurai is an open, voluntary, worldwide initiative devoted  
 
@@ -127,7 +136,9 @@ header page is kept intact.
 
 [  
 
-### 1. ஆடுகின்றாள்  
+###
+
+ 1. ஆடுகின்றாள்  
 
   
 
@@ -181,7 +192,9 @@ header page is kept intact.
 
 ]()[  
 
-### 2. காதலற்ற பெட்டகம்  
+###
+
+ 2. காதலற்ற பெட்டகம்  
 
   
 
@@ -245,7 +258,9 @@ header page is kept intact.
 
 ]()[  
 
-### 3. காதலன் காதலிக்கு  
+###
+
+ 3. காதலன் காதலிக்கு  
 
   
 
@@ -291,7 +306,9 @@ header page is kept intact.
 
 ]()[  
 
-### 4. காதலி காதலனுக்கு  
+###
+
+ 4. காதலி காதலனுக்கு  
 
   
 
@@ -335,7 +352,9 @@ header page is kept intact.
 
 ]()[  
 
-### 5. இன்னும் அவள் வரவில்லை  
+###
+
+ 5. இன்னும் அவள் வரவில்லை  
 
   
 
@@ -437,7 +456,9 @@ header page is kept intact.
 
 ]()[  
 
-### 6. சொல்லித்தானா தெரியவேண்டும்  
+###
+
+ 6. சொல்லித்தானா தெரியவேண்டும்  
 
   
 
@@ -491,7 +512,9 @@ header page is kept intact.
 
 ]()[  
 
-### 7. அவள்மேற் பழி  
+###
+
+ 7. அவள்மேற் பழி  
 
   
 
@@ -561,7 +584,9 @@ header page is kept intact.
 
 ]()[  
 
-### 8. அவளை மறந்துவிடு  
+###
+
+ 8. அவளை மறந்துவிடு  
 
   
 
@@ -647,7 +672,9 @@ header page is kept intact.
 
 ]()[  
 
-### 9. காதல் இயற்கை  
+###
+
+ 9. காதல் இயற்கை  
 
   
 
@@ -747,7 +774,9 @@ header page is kept intact.
 
 ]()[  
 
-### 10. பிசைந்த தேன்  
+###
+
+ 10. பிசைந்த தேன்  
 
   
 
@@ -809,7 +838,9 @@ header page is kept intact.
 
 ]()[  
 
-### 11. எங்களிஷ்டம்  
+###
+
+ 11. எங்களிஷ்டம்  
 
   
 
@@ -927,7 +958,9 @@ header page is kept intact.
 
 ]()[  
 
-### 12. வாளிக்குத் தப்பிய மான்  
+###
+
+ 12. வாளிக்குத் தப்பிய மான்  
 
   
 
@@ -1189,7 +1222,9 @@ header page is kept intact.
 
 ]()[  
 
-### 13. தும்பியும் மலரும்  
+###
+
+ 13. தும்பியும் மலரும்  
 
   
 
@@ -1227,7 +1262,9 @@ header page is kept intact.
 
 ]()[  
 
-### 14. தமிழ் வாழ்வு  
+###
+
+ 14. தமிழ் வாழ்வு  
 
   
 
@@ -1495,7 +1532,9 @@ header page is kept intact.
 
 ]()[  
 
-### 15. உணர்வெனும் பெரும்பதம்  
+###
+
+ 15. உணர்வெனும் பெரும்பதம்  
 
   
 
@@ -1629,7 +1668,9 @@ header page is kept intact.
 
 ]()[  
 
-### 16. ஒரே குறை  
+###
+
+ 16. ஒரே குறை  
 
   
 
@@ -1797,7 +1838,9 @@ header page is kept intact.
 
   
 
-### 17. காதலனுக்குத் தேறுதல்  
+###
+
+ 17. காதலனுக்குத் தேறுதல்  
 
   
 
@@ -1901,6 +1944,8 @@ header page is kept intact.
 
 ]()]()  
 
-This file was last edited on 14 nov. 2018.  
+This file was last edited on 14 nov.
+
+ 2018.  
 
 Feel free to send the corrections to the webmaster.

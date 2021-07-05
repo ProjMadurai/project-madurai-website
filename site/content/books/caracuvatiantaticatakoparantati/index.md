@@ -8,6 +8,7 @@ genres:
   - அந்தாதி
   - பிரபந்தம்
 ---
+
 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
 weight: 52  
@@ -56,7 +57,9 @@ i). You need to have Unicode fonts containing Tamil Block (Latha,
 
 Arial Unicode MS, TSCu_Inaimathi, Code2000, UniMylai,...) installed on your computer  
 
-and the OS capable of rendering Tamil Scripts (Windows 2000 or Windows XP).  
+and the OS capable of rendering Tamil Scripts (Windows
+
+ 2000 or Windows XP).  
 
 ii)Use a browser that is capable of handling UTF-8 based pages  
 
@@ -64,7 +67,9 @@ ii)Use a browser that is capable of handling UTF-8 based pages
 
 . In case of difficulties send an email request to [kalyan@geocities.com](mailto:kalyan@geocities.com)  
 
-© Project Madurai 1999-2000  
+© Project Madurai
+
+ 1999-2000  
 
 Project Madurai is an open, voluntary, worldwide initiative devoted  
 
@@ -480,7 +485,9 @@ header page is kept intact.
 
 பொய்யோம் அவன்புகழ் ஏத்திப் பிதற்றிப் பித்தாய்ந் திரியோம்  
 
-ஐயோ அறிதும் என்றே உபகாரத்தின் ஆற்றலையே. .. 10.  
+ஐயோ அறிதும் என்றே உபகாரத்தின் ஆற்றலையே. ..
+
+ 10.  
 
 ஆற்றில பொதிந்த மணலின தொகை அரு மாமறைகள்  
 
@@ -496,7 +503,9 @@ header page is kept intact.
 
 பலவேதமும் மொழிந்தான் குருகூர்ப் பதுமத்து இரண்டு  
 
-சலவேல்களும் உளவே அது காண்என் தனியுயிரே. .. 12.  
+சலவேல்களும் உளவே அது காண்என் தனியுயிரே. ..
+
+ 12.  
 
 உயிர்உருக்கும் புக்கு உணர்வு உருக்கும் உடலத்தினுள்ள  
 
@@ -576,7 +585,9 @@ header page is kept intact.
 
 சிலையார்அமுதின் அடிச் சடகோபனைச் சென்று இறைஞ்சும்  
 
-தலையார் எவர் அவரே எம்மை ஆளும் தபோதனரே. .. 22.  
+தலையார் எவர் அவரே எம்மை ஆளும் தபோதனரே. ..
+
+ 22.  
 
 போந்து ஏறுக என்று இமையோர் புகலினும், பூந்தொழுவின்  
 
@@ -720,7 +731,9 @@ header page is kept intact.
 
 கோலத்திலே முளைத்துக் கொழுந்தோடிக் குணங்கடந்த  
 
-முலத்திலே செல்ல மூட்டிய ஞானத்து எம்ய்முர்த்தியே. .. 40.  
+முலத்திலே செல்ல மூட்டிய ஞானத்து எம்ய்முர்த்தியே. ..
+
+ 40.  
 
 முர்த்தத்தினை இம் முழு ஏழ் உலகு முழுகுகின்ற  
 
@@ -784,7 +797,9 @@ header page is kept intact.
 
 குவடு இறக் குத்திய மாறப் பெயர்கொலை யானை நங்காய்  
 
-இவள் திறந்து ஒன்றும் படர் அந்தி வானம் இருள்கின்றதே. .. 48.  
+இவள் திறந்து ஒன்றும் படர் அந்தி வானம் இருள்கின்றதே. ..
+
+ 48.  
 
 இருளாய்ப் பரந்த உலகங்களை விளிக்கும் இரவி  
 
@@ -824,7 +839,9 @@ header page is kept intact.
 
 ஒன்றாத வண்ணம் உபாயம் இயற்றியது ஊழ்வினையை  
 
-வென்றான் குருகைப்பிரான் மகிழேயன்றி வேறில்லையே. .. 53.  
+வென்றான் குருகைப்பிரான் மகிழேயன்றி வேறில்லையே. ..
+
+ 53.  
 
 வேறே நமக்கிவன் அன்புடை மெய்யடியான் என்றுள்ளம்  
 
@@ -904,7 +921,9 @@ header page is kept intact.
 
 தெரிக்கின்ற கோச்சடகோபன் தன் தெய்வக் கவிபுவியில்  
 
-சுரிக்கின்ற நுண்மணல் ஊற்றொக்கும் தோண்டச் சுரத்தலினே. .. 63.  
+சுரிக்கின்ற நுண்மணல் ஊற்றொக்கும் தோண்டச் சுரத்தலினே. ..
+
+ 63.  
 
 சுரக்கும் திருவும் வறுமையும் தீரும் தொடக்கு விட்டுக்  
 
@@ -1136,7 +1155,9 @@ header page is kept intact.
 
 பெருமையும் மாயப் பிணக்கும் தவிர்ந்துறு பேதம் செய்யும்  
 
-இருமையும் தீர்த்த பிரான் சடகோபன் தன் இன்னருளே. .. 92.  
+இருமையும் தீர்த்த பிரான் சடகோபன் தன் இன்னருளே. ..
+
+ 92.  
 
 அருளில் சிலமகிழ் ஆயிழைக்கு ஈவர்கொல் அந்திவந்த  
 
@@ -1192,7 +1213,9 @@ header page is kept intact.
 
 தொழுதியல் நாயகன் ஓதும் கனல்துறை நீர்ப்பொருநை  
 
-வழுதி நன்னாடன் திருவாய்மொழி எம் மனத்தனவே. .. 99.  
+வழுதி நன்னாடன் திருவாய்மொழி எம் மனத்தனவே. ..
+
+ 99.  
 
 மனையும் பெரும்சேல்வமும் மக்களும் மற்றை வாழ்வும் தன்னை  
 
@@ -1200,8 +1223,12 @@ header page is kept intact.
 
 புனையும் தமிழ்க்கவியால் இருள் நீங்கிப் பொருள் விளங்கி  
 
-வினையும் திரிவுற்றன குற்றம் நீங்கின வேதங்களே. .. 100  
+வினையும் திரிவுற்றன குற்றம் நீங்கின வேதங்களே. ..
 
-This page was first put up on Feb. 9, 2000  
+ 100  
+
+This page was first put up on Feb. 9,
+
+ 2000  
 
 Please send your comments and corrections to the [Webmaster of this site](mailto:kalyan@geocities.com, kumar@vt.edu?subject=PM-kampar -1)

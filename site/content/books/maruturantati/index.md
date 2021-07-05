@@ -8,6 +8,7 @@ genres:
   - அந்தாதி
   - பிரபந்தம்
 ---
+
 ### தலைமலைகண்டதேவர் இயற்றிய "மருதூரந்தாதி"  
 
 மூலமும் ஆறுமுக நாவலர் உரையும்  
@@ -1276,5 +1277,7 @@ Copyright Reserved.
 
 **மருதூரந்தாதியுரை முற்றுப்பெற்றது**  
 
-This file was last updated on 3 June 2017.  
+This file was last updated on 3 June
+
+ 2017.  
 

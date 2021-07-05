@@ -7,6 +7,7 @@ authors:
 genres:
   - நீதிநெறி – பதினெண்கீழ்க்கணக்கு
 ---
+
 ### நாலடியார்  
 
 ஆங்கில மொழிபெயர்ப்பு - போப் மற்றும் எல்லிஸ்  
@@ -31,9 +32,15 @@ The South Indai Saiva Siddhantha Works Publishing Society
 
 Tinnevelly, Madras- 1  
 
-© 1963 (first edition March 1958)  
+©
 
-Publication No: 927  
+ 1963 (first edition March
+
+ 1958)  
+
+Publication No:
+
+ 927  
 
 Appar Achakam, Madras-1.  
 
@@ -63,13 +70,49 @@ Glossary Photo Rev. Dr. G. U. Pope
 
 Of the great ancient works of Tamilnad known for their moral profundity and weighty comments on life and thought, Tirukkural and Naladiyar stand foremost. The proverbial saying "நாலும்இரண்டும்சொல்லுக்குஉறுதி '' (the couplets of Tirukkural and the quatrains of Naladiyar are the best of ethical sayings) glorifies their value in a single sentence. Great ethical and philosophical utterances have been rendered in poetic form in Naladiyar. The poetic value of the stanzas cannot be underestimated although it is true that their moral value pre-eminently appeals to the readers. W. H. Hudson observes: “there is no reason why poetry should not be the outcome of philosophy and the vehicle of philosophic truth without sacrificing anything of its essential poetic qualities and graces.” Naladiyar belongs to that category of poetry which celebrates philosophic truth without sacrificing itsessential poetic charm. The writers of these stanzas were poets who also wished to be great teachers and moralists.  
 
-The authorship of this work is ascribed to a group of Jain ascetics who lived in the third or fourth century A.D. Its compilation has a tale to tell. In a critical situation of famine in the Pandiya Country, a group of eight thousand Jain ascetics left their place each leaving a stanza behind him. Of them four hundred are said to have been selected and compiled. The stanzas themselves testify to the fact that this is not the work of a single author, but of many belonging to the same school and age. That is why we find repetition of ideas as in stanzas 207 and 210 and similarity of expression as in stanzas 230 and 238. That this work is later than Tirukkural is evident from the classification and arrangement of chapters on the model of the latter, the whole work consisting of three parts and each chapter containing ten stanzas. But this classification is not so apt and so complete as in Tirukkural, as may be seen from the loose connection of the following stanzas to the chapters in which they are placed :-  
+The authorship of this work is ascribed to a group of Jain ascetics who lived in the third or fourth century A.D. Its compilation has a tale to tell. In a critical situation of famine in the Pandiya Country, a group of eight thousand Jain ascetics left their place each leaving a stanza behind him. Of them four hundred are said to have been selected and compiled. The stanzas themselves testify to the fact that this is not the work of a single author, but of many belonging to the same school and age. That is why we find repetition of ideas as in stanzas
+
+ 207 and
+
+ 210 and similarity of expression as in stanzas
+
+ 230 and
+
+
+
+ 238. That this work is later than Tirukkural is evident from the classification and arrangement of chapters on the model of the latter, the whole work consisting of three parts and each chapter containing ten stanzas. But this classification is not so apt and so complete as in Tirukkural, as may be seen from the loose connection of the following stanzas to the chapters in which they are placed :-  
 
   
 
-Stanza No.Chapter No. 33, 34, 35, 39, 404 586 78 to 808 10211 111 to 12012 124 to 126, 12813 181 to 18319  
+Stanza No.Chapter No. 33, 34, 35, 39,
 
-The words and ideas expressed in stanza No.305 are not different from those of the Tirukkural couplets Nos. 1061 and 1069.  
+ 404
+
+ 586 78 to
+
+ 808
+
+ 10211
+
+ 111 to
+
+ 12012
+
+ 124 to
+
+ 126,
+
+ 12813
+
+ 181 to
+
+ 18319  
+
+The words and ideas expressed in stanza No.305 are not different from those of the Tirukkural couplets Nos.
+
+ 1061 and
+
+ 1069.  
 
 This is a Jain work laying great stress on renunciation. The ascetic note is struck in almost all the chapters except those on High birth (15), The Support of kindred (21), Scrutiny in forming friendships (22), Bearing and forbearing in friendship (23), Unreal friend ship (24) and Chaste matronhood (247). Yet, like Tirukkural, it appeals to the learned of all religions and sects by virtue of the eternal truths it explains and the moral philosophy it expounds. There is also a special effectiveness in elucidating certain ideas in four lines with appropriate emotional fervour as in stanzas 36, 40 and 83, which is not so easily possible in the couplets of Tirukkural.  
 
@@ -99,9 +142,17 @@ Not only is it one of the text-books prescribed for the Oriental Honour School o
 
 I have therefore in my official capacity prepared under some disadvantages, this edition, in the hope of bringing at least a few European minds into closer contact with those of our Tamil fellow-subjects; and of inducing young Tamil students to bring the freer and more invigorating, though more laborious methods of European study to bear upon their own great classics.  
 
-A recent Tamil editor of the Naladi begins his preface with these words, "The Naladiyar is one of the moral text-books emanating from the (Madura) Academy, (சங்கம்) and, therefore, came into existence 4000 years ago!'  
+A recent Tamil editor of the Naladi begins his preface with these words, "The Naladiyar is one of the moral text-books emanating from the (Madura) Academy, (சங்கம்) and, therefore, came into existence
 
-He also gives, with slight variations, the current tradition regarding the 400 quatrains. It is briefly this : ‘Once on a time, 8000 Jain ascetics, driven by famine, came to a Pandiyan king and were supported by him. When the famine was over they prepared to return to their own country, though the king wished to retain the learned strangers who added lustre to his court. At last the poets were driven to depart secretly by night. In the morning it was found that each bard had left on his seat a quatrain. These were examined and found to differ widely from one another. The king then ordered them all to be thrown into the river Vaigai, when it was found that the palm-leaf scrolls containing these 400 quatrains ascended the river against the current, and came to the bank. To these the king gave the name of Naladiyar (the quatrainists).' Some other verses reached the banks at various spots, and are found in two collections, called 'Old sayings' (பழமொழி) and ‘The Essence of the way of virtue' (அறநெறிச்சாரம்). These atter works have never obtained the popularity enjoyed by the Naladiyar; and I should regard them as mainly imitations due to a later period, though some of the verses are certainly more or less ancient.  
+ 4000 years ago!'  
+
+He also gives, with slight variations, the current tradition regarding the
+
+ 400 quatrains. It is briefly this : ‘Once on a time,
+
+ 8000 Jain ascetics, driven by famine, came to a Pandiyan king and were supported by him. When the famine was over they prepared to return to their own country, though the king wished to retain the learned strangers who added lustre to his court. At last the poets were driven to depart secretly by night. In the morning it was found that each bard had left on his seat a quatrain. These were examined and found to differ widely from one another. The king then ordered them all to be thrown into the river Vaigai, when it was found that the palm-leaf scrolls containing these
+
+ 400 quatrains ascended the river against the current, and came to the bank. To these the king gave the name of Naladiyar (the quatrainists).' Some other verses reached the banks at various spots, and are found in two collections, called 'Old sayings' (பழமொழி) and ‘The Essence of the way of virtue' (அறநெறிச்சாரம்). These atter works have never obtained the popularity enjoyed by the Naladiyar; and I should regard them as mainly imitations due to a later period, though some of the verses are certainly more or less ancient.  
 
 These traditions point to a collection of popular verses made after the impalement of the Samanar (or Amanar - Jains, lit, 'naked ones'), perhaps in the time of Sundara Pandiyan (or Kun-Pandiyan), who probably lived in the twelfth centuryA.D.  
 
@@ -113,11 +164,19 @@ The fact that to them exclusively the title of Naladi (or quatrain) was given se
 
 As might be expected from their history, no consistent and developed system of philosophy, religion, or morals can be deduced from them; and it may be said with truth that these utterances have too little sequence and connexion to admit of any scientific criticism. Yet it is a kind of merit to put a happy point upon it commonplace; and these epigrams, drawn sometimes from Sanskrit sources and oftener forming the ground of ornate Sanskrit verses, written in imitation or rivalry, have become household words through all South India.  
 
-I am unwilling to enter here on any discussion of the date of this and other Tamil classics, since there are scarcely any ascertained facts or ancient inscriptions from which to reason. The discussion of these matters requires aptitude, leisure, and opportunity for archaeological research (and these I do not possess), in addition to a critical acquaintance with Tamil literature. The want of this last essential has rendered many otherwise profound researches almost valueless. A very careful consideration of many masterpieces of Tamil literature leads me to think that between A. D. 800 and 1200 the greatest of these works were composed. Internal evidence, as far as I see, is all we have to rely on.  
+I am unwilling to enter here on any discussion of the date of this and other Tamil classics, since there are scarcely any ascertained facts or ancient inscriptions from which to reason. The discussion of these matters requires aptitude, leisure, and opportunity for archaeological research (and these I do not possess), in addition to a critical acquaintance with Tamil literature. The want of this last essential has rendered many otherwise profound researches almost valueless. A very careful consideration of many masterpieces of Tamil literature leads me to think that between A. D.
 
-Hiouen-Thsang, the Buddhist pilgrim who visited the continent of India in 640 A. D., says that in Malakuta the people were not much addicted to the cultivation of literature, and only valued the pursuit of wealth; and mentions Jains as the most prominent sect. Now, this Malukuta, must be Malakotta, Malainadu, Malaya, Malayalam, and seems to have included the whole Southern part of the Madras Presidency (Hultzsch, South-Indian Inscriptions, vol, ii part i, p. 2 note) : the Pandya and Cera Kingdoms.  
+ 800 and
 
-The Jains were great students and copyists of books (Burnell, S. I. Palaeography, p. 88). We may feel quite sure that the seventh century A. D., at the latest, saw the beginning of Tamil literature under Jain auspices. Perhaps the Jains fostered the vernaculars partly out of opposition to the Brahmans. Reformers and missionaries, who generally address themselves to the intelligent middle classes, have often been the most assiduous students and promoters of the vulgar tongues. Quatrain 243 of the Naladishows the feeling of hostility that existed between North and South : between Hindus and Jains. The great antiquity of Tamil, which is the one worthy rival of Sanskrit, is abundantly plain.  
+ 1200 the greatest of these works were composed. Internal evidence, as far as I see, is all we have to rely on.  
+
+Hiouen-Thsang, the Buddhist pilgrim who visited the continent of India in
+
+ 640 A. D., says that in Malakuta the people were not much addicted to the cultivation of literature, and only valued the pursuit of wealth; and mentions Jains as the most prominent sect. Now, this Malukuta, must be Malakotta, Malainadu, Malaya, Malayalam, and seems to have included the whole Southern part of the Madras Presidency (Hultzsch, South-Indian Inscriptions, vol, ii part i, p. 2 note) : the Pandya and Cera Kingdoms.  
+
+The Jains were great students and copyists of books (Burnell, S. I. Palaeography, p. 88). We may feel quite sure that the seventh century A. D., at the latest, saw the beginning of Tamil literature under Jain auspices. Perhaps the Jains fostered the vernaculars partly out of opposition to the Brahmans. Reformers and missionaries, who generally address themselves to the intelligent middle classes, have often been the most assiduous students and promoters of the vulgar tongues. Quatrain
+
+ 243 of the Naladishows the feeling of hostility that existed between North and South : between Hindus and Jains. The great antiquity of Tamil, which is the one worthy rival of Sanskrit, is abundantly plain.  
 
 The ancient grammatical works existing in Tamil, and its wonderful metrical system, prove its assiduous cultivation for long ages. An elaborate, scientific series of metres, such as Tamil glories in, adapted to every style and theme of composition, is the growth of centuries. Classical Tamil bears every mark of slow and natural evolution; but the subject is complicated by the number of works in circulation falsely attributed to old writers. The many really ridiculous forgeries of this kind bring discredit on all Tamil literature. Tamil scholars should banish, among other things, such spurious works as many of those attributed to Agastya, Avvai, Pattanattu-pillai, and others.  
 
@@ -135,23 +194,43 @@ Here the student must first master the third and fourth lines, in which is enunc
 
 This is seen in the first quatrain, where the aphorism is, 'worldly prosperity is a thing of no account’.  
 
-This axiom is illustrated by a matter of daily experience. The connective is எனின் = 'if this is an undeniable fact, then.......,' Compare also 293.  
+This axiom is illustrated by a matter of daily experience. The connective is எனின் = 'if this is an undeniable fact, then.......,' Compare also
+
+
+
+ 293.  
 
 2. One class of the didactic quatrain depends for its effectiveness chiefly on some apt and ingenious simile, illustration, or analogy. To us some of these seem forced and fanciful conceits, but we really are not always in a position to judge or rightly estimate them.  
 
-In 290 the aptness of the figure, the beauty of the expression, the wonderful terseness of the conclusion, together with the perfection of the form and rhythm, leave nothing to be desired.  
+In
 
-3. In some of these the simile is simply thrown in, while the most prominent thing is the clear enunciation of a truth. Here the whole runs on like rhetorical prose. Examples of this are 8, 49, 87.  
+ 290 the aptness of the figure, the beauty of the expression, the wonderful terseness of the conclusion, together with the perfection of the form and rhythm, leave nothing to be desired.  
+
+3. In some of these the simile is simply thrown in, while the most prominent thing is the clear enunciation of a truth. Here the whole runs on like rhetorical prose. Examples of this are 8, 49,
+
+ 87.  
 
 4. Some are cumulative, with or without a climax.  
 
-Thus in 65 we find three statements, with a thread of connexion : 'It is the difficulty of the achievement that makes it meritorious.' In 80 we have three precepts. In 100 there is a climax. See 4, 55, 88.  
+Thus in 65 we find three statements, with a thread of connexion : 'It is the difficulty of the achievement that makes it meritorious.' In 80 we have three precepts. In
 
-5. Others are enumerative, where the various parts and accessories of some idea are summed up. See 74, 81, 83, 34, 119.  
+ 100 there is a climax. See 4, 55,
 
-6. A few are antithetic, suggesting a contrast with or without a simile; as, 48, 51, 52, 89.  
+ 88.  
 
-7. A very few contain puns. So 39, 56.  
+5. Others are enumerative, where the various parts and accessories of some idea are summed up. See 74, 81, 83, 34,
+
+
+
+ 119.  
+
+6. A few are antithetic, suggesting a contrast with or without a simile; as, 48, 51, 52,
+
+ 89.  
+
+7. A very few contain puns. So 39,
+
+ 56.  
 
 If I am not deceived there is in many of these verses something far beyond mere technical skill. At times by a few happy touches an idea is expressed in such apt language, and illuminated by such a picturesque use and adaptation of familiar words, each chosen with truest and most accurate discrimination, that the quatrain becomes a group of life-like pictures, on which the mind is fain to linger long, and to which it recurs often. In this matchless verse (135) —  
 
@@ -185,7 +264,9 @@ It will be seen that the editor and translator has sought carefully and patientl
 
 Indian Institute, Oxford,  
 
-February, 1893. G. U. Pope.  
+February,
+
+ 1893. G. U. Pope.  
 
 -------------  
 
@@ -327,9 +408,15 @@ Conceives, I pray may happy consummation find.
 
 This invocation is said to be by the Commentator Pathumanar.  
 
-**பகுதி 1. அறத்துப்பால் /PART I. ON VIRTUE  
+**பகுதி
 
-அதிகாரம் 1. செல்வ நிலையாமை / Ch. 1. The Instability of Prosperity  
+ 1. அறத்துப்பால் /PART I. ON VIRTUE  
+
+அதிகாரம்
+
+ 1. செல்வ நிலையாமை / Ch.
+
+ 1. The Instability of Prosperity  
 
 **  
 
@@ -475,7 +562,9 @@ Those who stint in clothes and food, and mortify their bodies, yet do not deeds 
 
 ---------  
 
-**2. இளமை நிலையாமை / Ch. 2. Youth Abides Not  
+**2. இளமை நிலையாமை / Ch.
+
+ 2. Youth Abides Not  
 
 **  
 
@@ -621,7 +710,9 @@ Relentless death is roaming round, and eyes his man! 'Tis true. Take up your wal
 
 --------  
 
-**3. யாக்கை நிலையாமை / Ch. 3. The Bodily Frame Endures Not  
+**3. யாக்கை நிலையாமை / Ch.
+
+ 3. The Bodily Frame Endures Not  
 
 **  
 
@@ -767,7 +858,9 @@ Unasked men come, appear in the home as kinsmen, and then silently go. As the bi
 
 -----------  
 
-**4. அறன்வலி யுறுத்தல் / Ch. 4. The Might of Virtue**  
+**4. அறன்வலி யுறுத்தல் / Ch.
+
+ 4. The Might of Virtue**  
 
 31. பிச்சைக்காரர் பிறர்வாசல் நிற்பார்  
 
@@ -911,7 +1004,9 @@ Parting with honour's jewel I might still consent to live a suppliant's life of 
 
 --------------  
 
-**5. தூய்தன்மை / Ch. 5. Impurity**  
+**5. தூய்தன்மை / Ch.
+
+ 5. Impurity**  
 
 41. மேற்றோல் நீங்கினால் நாற்றமாம் உடம்பு.  
 
@@ -1059,7 +1154,9 @@ The skulls of the dead, grinning so as to excite disgust, cure the vain lovers o
 
 --------------  
 
-**6. துறவு / Ch. 6. Renunciation**  
+**6. துறவு / Ch.
+
+ 6. Renunciation**  
 
 51. தவத்தின்முன் பாவம் நில்லாது.  
 
@@ -1203,7 +1300,9 @@ Though wretched men behold afflictions urge and press, renunciation is not in th
 
 -----  
 
-**7. சினமின்மை / Ch. 7. The Absence of Anger : Meekness**  
+**7. சினமின்மை / Ch.
+
+ 7. The Absence of Anger : Meekness**  
 
 61. மதித்தாலும் இகழ்ந்தாலும் மனங்கொள்ளார் மேலோர்.  
 
@@ -1345,7 +1444,9 @@ Though a dog, in range, should lay hold of them, there are none in the world who
 
 ----------  
 
-**8. பொறையுடைமை / Ch. 8. Patience**  
+**8. பொறையுடைமை / Ch.
+
+ 8. Patience**  
 
 71. அறிவிலாரோடு உரையாடுதல் தீது.  
 
@@ -1489,7 +1590,9 @@ Never desire evil, nor eat with improper persons, nor lie.
 
 Though ruin seize you plan not ruin to the just! Though body's flesh should waste, eat not from hands unfit! Though the whole earth o'er-arched by heaven accrue as gain, never speak word with falsehood mixed !  
 
-**9. பிறர்மனை நயவாமை / Ch. 9. The Not Desiring Other Men's Wives**  
+**9. பிறர்மனை நயவாமை / Ch.
+
+ 9. The Not Desiring Other Men's Wives**  
 
 81. அயலார் மனைவியை அறிஞர் விரும்பார்.  
 
@@ -1635,7 +1738,9 @@ From the ruddy fire that fiercely rises in the village you may scape by bathing 
 
 -----------  
 
-**10. ஈகை / Ch. 10. Liberality**  
+**10. ஈகை / Ch.
+
+ 10. Liberality**  
 
 91. கொடை மேலுலகில் இன்பமும் கொடுக்கும்.  
 
@@ -1781,7 +1886,9 @@ The sound of beaten drum a katham off they'll hear; the thunder's voice through 
 
 ------------  
 
-**11. பழவினை / Ch. 11. Old Deeds**  
+**11. பழவினை / Ch.
+
+ 11. Old Deeds**  
 
 101.முன்செய்த வினை செய்தவனையே தேடிவரும்.  
 
@@ -1925,7 +2032,9 @@ The early fates diminish not, nor do they increase, they come not in order chang
 
 -----------  
 
-**12. மெய்ம்மை / Ch. 12. Truth: Reality**  
+**12. மெய்ம்மை / Ch.
+
+ 12. Truth: Reality**  
 
 111.இயன்றதை வழங்காதிருப்பது குற்றம்.  
 
@@ -2069,7 +2178,9 @@ Save a man's deed: nought goes with him, search where you will. The body which m
 
 ------  
 
-**13. தீவினையச்சம் / Ch. 13. Dread of Evil Deeds**  
+**13. தீவினையச்சம் / Ch.
+
+ 13. Dread of Evil Deeds**  
 
 121. பிறவுயிர்களைக் கொன்று புலாலுண்ணல் பெரும்பாவம்.  
 
@@ -2217,9 +2328,13 @@ O mind! thou leavest not the bonds of home. How many cycles, pray, with thou liv
 
   
 
-### பகுதி 2. பொருட்பால் / PART II. ON WEALTH  
+### பகுதி
 
-14. கல்வி /Ch. 14. Learning  
+ 2. பொருட்பால் / PART II. ON WEALTH  
+
+14. கல்வி /Ch.
+
+ 14. Learning  
 
   
 
@@ -2365,7 +2480,9 @@ If men leaving works of wisdom, that contain well-weighed instruction, unstudied
 
 ------------  
 
-**15. குடிப்பிறப்பு / Ch. 15. High Birth**  
+**15. குடிப்பிறப்பு / Ch.
+
+ 15. High Birth**  
 
 141. உயர்குடிப்பிறந்தார் வறுமையிலும் ஒழுக்கம் தவறார்.  
 
@@ -2509,7 +2626,9 @@ The nobly born, even when destitute, are props in time of feebleness to the need
 
 -------------  
 
-**16. மேன்மக்கள் /Ch. 16. Great Men**  
+**16. மேன்மக்கள் /Ch.
+
+ 16. Great Men**  
 
 151. சிறு குற்றமும் மேன்மக்களிடம் சேராது.  
 
@@ -2653,7 +2772,9 @@ The lowest sort of men say, there are men of property,’— cling to them stead
 
 --------------  
 
-**17. பெரியாரைப் பிழையாமை / Ch. 17. Avoidance of Offence to the Great**  
+**17. பெரியாரைப் பிழையாமை / Ch.
+
+ 17. Avoidance of Offence to the Great**  
 
 161. பெரியவர் வெறுத்தால் பின் திருப்ப (பேர்க்க) முடியாது.  
 
@@ -2797,7 +2918,9 @@ The greatness of the great is [the quality of littleness (in their own sight), i
 
 ----------------  
 
-**18. நல்லினஞ்சேர்தல் /Ch. 18. Association with the Good**  
+**18. நல்லினஞ்சேர்தல் /Ch.
+
+ 18. Association with the Good**  
 
 171. நல்லோரைச் சார்ந்தால் தீயகுணம் நீங்கும்.  
 
@@ -2943,7 +3066,9 @@ Though themselves pure in mind, even good men incur contempt because of their as
 
 --------------  
 
-**19. பெருமை / Ch. 19. (Moral) Greatness**  
+**19. பெருமை / Ch.
+
+ 19. (Moral) Greatness**  
 
 181. பேராசை நீக்கியவரே பெருமை யுடையவர்.  
 
@@ -3089,7 +3214,9 @@ The excellent will daily give to the needy in charity their first-served food; t
 
 ---------------  
 
-**20. தாளாண்மை / Ch. 20. Persevering Energy**  
+**20. தாளாண்மை / Ch.
+
+ 20. Persevering Energy**  
 
 191. முயற்சியுடையவர் முதன்மையாக வாழ்வார்.  
 
@@ -3237,7 +3364,9 @@ The base feed full of rice and savoury food, that men, great lords of the triple
 
 -------------  
 
-**21. சுற்றந்தழால் / Ch. 21. The Support of Kindred**  
+**21. சுற்றந்தழால் / Ch.
+
+ 21. The Support of Kindred**  
 
 201. சுற்றத்தாரைக் கண்டால் துன்பம் நீங்கும்.  
 
@@ -3381,7 +3510,9 @@ The savoury fried curry, (in colour) like a cat's eye, which one eats seated a p
 
 --------------  
 
-**22. நட்பாராய்தல்/Ch. 22. Scrutiny in Forming Friendships**  
+**22. நட்பாராய்தல்/Ch.
+
+ 22. Scrutiny in Forming Friendships**  
 
 211. நாளுக்கு நாள் உயரும் நல்லோர் நட்பு.  
 
@@ -3527,7 +3658,9 @@ When men have formed an intimacy (மரீஇ) separation afterwards even from 
 
 -----------  
 
-**23. நட்பிற் பிழை பொறுத்தல் / Ch. 23. Bearing and Forbearing in Friendship**  
+**23. நட்பிற் பிழை பொறுத்தல் / Ch.
+
+ 23. Bearing and Forbearing in Friendship**  
 
 221. நட்பினர் பிழையை நல்லோர் பொறுப்பர்.  
 
@@ -3671,7 +3804,9 @@ He who pries into his friends faults shares the punishment of the revealer of se
 
 --------------  
 
-**24. கூடா நட்பு / Ch. 24. Unreal Friendship  
+**24. கூடா நட்பு / Ch.
+
+ 24. Unreal Friendship  
 
 **  
 
@@ -3817,7 +3952,9 @@ The absence of generosity in those whose exterior is pleasing, is like the mingl
 
 -------------  
 
-**25. அறிவுடைமை / Ch. 25. The Possession of Practical Wisdom  
+**25. அறிவுடைமை / Ch.
+
+ 25. The Possession of Practical Wisdom  
 
 **  
 
@@ -3963,7 +4100,9 @@ If a man has wrought all fitting works, enjoyed all seemly pleasures, done deeds
 
 -------------  
 
-**26. அறிவின்மை / Ch. 26. The Lack of Practical Wisdom  
+**26. அறிவின்மை / Ch.
+
+ 26. The Lack of Practical Wisdom  
 
 **  
 
@@ -4109,7 +4248,9 @@ The base man does not apprehend the faultless words of accurate instruction whic
 
 -------------  
 
-**27. நன்றியில் செல்வம் / Ch. 27. Wealth that profits not  
+**27. நன்றியில் செல்வம் / Ch.
+
+ 27. Wealth that profits not  
 
 **  
 
@@ -4255,7 +4396,9 @@ Men void of understanding, though they learn, learn not! Men of understanding, t
 
 -------------  
 
-**28. ஈயாமை /Ch. 28. Absence of Charity; or, the Miser  
+**28. ஈயாமை /Ch.
+
+ 28. Absence of Charity; or, the Miser  
 
 **  
 
@@ -4401,7 +4544,9 @@ Gathering it together is trouble, and even so the guarding of resplendent wealth
 
 ---------------  
 
-**29. இன்மை / Ch. 29. Poverty  
+**29. இன்மை / Ch.
+
+ 29. Poverty  
 
 **  
 
@@ -4547,7 +4692,9 @@ The humming spotted beetle tribes all bright in hue gather not on the branch tha
 
 --------------  
 
-**30. மானம் Ch. 30. Honour (Self-respect.)  
+**30. மானம் Ch.
+
+ 30. Honour (Self-respect.)  
 
 **  
 
@@ -4693,7 +4840,9 @@ The jungle-haunting tiger that slays the wild cow, refuses to eat and passes by 
 
 --------------  
 
-**31. இரவச்சம் /Ch. 31. The Dread of Mendicancy.  
+**31. இரவச்சம் /Ch.
+
+ 31. The Dread of Mendicancy.  
 
 **  
 
@@ -4839,7 +4988,9 @@ Relying on old friendship, in an affectionate manner, render such assistance as 
 
 ----------------  
 
-**32. அவையறிதல் / Ch. 32. The Knowledge of the Assembly  
+**32. அவையறிதல் / Ch.
+
+ 32. The Knowledge of the Assembly  
 
 **  
 
@@ -4869,7 +5020,9 @@ Decline entirely to utter words of wisdom before heretics (காரறிவா
 
 Avoid the angry violent disputant.  
 
-Well-disciplined men come not near the heretic (=man of evil learning, the teacher of an evil system), who stores up (in his memory certain formulas, comp. 304), as though he understood their worth, and repeats them by rote (lit. as a tongue-lesson). The heretic, if worsted in the assembly, will abuse the family (of his opponents); or he will spring up and challenge them to fight.  
+Well-disciplined men come not near the heretic (=man of evil learning, the teacher of an evil system), who stores up (in his memory certain formulas, comp.
+
+ 304), as though he understood their worth, and repeats them by rote (lit. as a tongue-lesson). The heretic, if worsted in the assembly, will abuse the family (of his opponents); or he will spring up and challenge them to fight.  
 
 313. கற்றது அறியாமற் கழறுவர் பேதையர்.  
 
@@ -4987,7 +5140,9 @@ Will those who are not of high family, however they may study learned works, be 
 
 -------------  
 
-**33 . புல்லறிவாண்மை / Ch. 33. Insufficient Knowledge  
+**33 . புல்லறிவாண்மை / Ch.
+
+ 33. Insufficient Knowledge  
 
 **  
 
@@ -5133,7 +5288,9 @@ Though they have gained a human frame, of virtue think they not! In vain they sp
 
 -------------  
 
-**34 . பேதைமை / Ch. 34. Utter Folly  
+**34 . பேதைமை / Ch.
+
+ 34. Utter Folly  
 
 **  
 
@@ -5279,7 +5436,9 @@ The learning a man has acquired, his world - renowned excellence, and his nobili
 
 -----------  
 
-**35. கீழ்மை / Ch. 35. Lowness  
+**35. கீழ்மை / Ch.
+
+ 35. Lowness  
 
 **  
 
@@ -5423,7 +5582,9 @@ Hear, O Sir! The little bullock-calves will not learn to bear the yoke and draw 
 
 -----------------  
 
-**36. கயமை /Ch. 36. Baseness  
+**36. கயமை /Ch.
+
+ 36. Baseness  
 
 **  
 
@@ -5569,7 +5730,9 @@ Though born in the water, and its hue appear green, the Netti's pith knows no mo
 
 -------------  
 
-**37. பன்னெறி / Ch. 37. Miscellaneous Topics.  
+**37. பன்னெறி / Ch.
+
+ 37. Miscellaneous Topics.  
 
 **  
 
@@ -5719,7 +5882,9 @@ And love of these fails too, when income fails !’
 
 ------------  
 
-**38. பொதுமகளிர் / Ch. 38. Wantons  
+**38. பொதுமகளிர் / Ch.
+
+ 38. Wantons  
 
 **  
 
@@ -5865,7 +6030,9 @@ Though the dupes clearly discern and know the guileful intentions entertained by
 
 ---------  
 
-**39 . கற்புடை மகளிர் / Ch. 39. Chaste Matronhood  
+**39 . கற்புடை மகளிர் / Ch.
+
+ 39. Chaste Matronhood  
 
 **  
 
@@ -6021,7 +6188,9 @@ The pining wife
 
 ### பகுதி 3 . காமத்துப்பால் / PART III. ON LOVE (OR PLEASURE)  
 
-40. காம நுதலியல் / Ch. 40. The Characteristics of Love  
+40. காம நுதலியல் / Ch.
+
+ 40. The Characteristics of Love  
 
   
 
@@ -6335,25 +6504,577 @@ ocean, is the glory of her house.
 
 **பாட்டு முதற்குறிப்பு அகரவரிசை**  
 
-**செய்யுள் - எண்****செய்யுள் எண்** அகத்தாரே வாழ்வார் என் 31ஆள்பார்த் துழலும்20 அக்கேபோல் அங்கை123ஆற்றுந் துணையும்196 அங்கண் விசும்பின் -அக 151ஆன்படு நெய்பெய் 239 அங்கண் விசும்பின் -அம் 373இசைந்த சிறுமை 187 அங்கோட் டகலல்குல் 372இசையா ஒருபொருள்111 அச்சம் பெரிதால் 81இசையா தெனினும் 194 அடுக்கல் மலைநாட 203இசையும் எனினும் 152 அடைந்தார்ப் பிரிவும் 173இடம்பட மெய்ஞ்ஞானம் 116 அத்திட்ட கூறை 281இடும்பைகூர் நெஞ்சத்தார் 107 அம்பல் அயல் எடுப்ப87இட்டாற்றுப் பட்டொன் 288 அம்பும் அழலும் 89இமைக்கும் அளவில்தம் 323 அரக்காம்பல் நாறும்வாய் 396இம்மி அரிசித்94 அருகல தாகிப் 261இம்மை பயக்குமால்132 அரும்பவிழ் தாரினான் 390இம்மையும் நன்றாம் 294 அரும்பெறல் யாக்கையைப்34இரவலர் கன்றாக 279 அரும்பெறற் கற்பின் 381இருக்கை எழலும் 143 அருளின் அறமுறைக்கும்321இரும்பார்க்குங் காலராய் 122 அலகுசால் கற்பின் 140இலங்குநீர்த் தண்சேர்ப்ப 227 அவமதிப்பும் ஆன்ற 163இல்லம் இளமை 53 அவ்வியம் இல்லார் 322இல்லா இடத்தும் 91  
+**செய்யுள் - எண்****செய்யுள் எண்** அகத்தாரே வாழ்வார் என் 31ஆள்பார்த் துழலும்20 அக்கேபோல் அங்கை123ஆற்றுந் துணையும்196 அங்கண் விசும்பின் -அக
 
-அழல்மண்டு போழ்தின் 202இல்லாமை கந்தா 303 அள்ளிக்கொள் வன்ன 262இழித்தக்க செய்தொருவன்302 அறம்புகழ் கேண்மை82இழைத்தநாள் எல்லை6 அறிமின் அறநெறி 172இளையான் அடக்கம் 65 அறியாப் பருவத் 171இறப்பச் சிறிதென்னா 99 அறியாரும் அல்லர் 108இறப்ப நினையுங்கால் 174 அறிவ தறிந்தடங்கி 74இறப்பவே தீய223 அறுசுவை உண்டி1இற்சார்வின் ஏமாந்தோம் 182 ஆகா தெனினும்337இற்பிறப்பில்லார் 320 ஆடுகோடாகி192இற்பிறப் பெண்ணி 212 ஆணமில் நெஞ்சத்374இனநன்மை இன்சொலொன் 146 ஆமாபோல் நக்கி377இனியார்தம் நெஞ்சத்து369 ஆர்த்த அறிவினர்351இன்பம் பயந்தாங்79 ஆர்த்த பொறிய290இன்றாதும் இந்நிலையே359 ஆவாநாம் ஆக்கம்32இன்றுகொல் அன்றுகொல்36 ஆவேறுரு வின்118இன்னர் இனையர்205 இன்னா இயைக 306எய்தியிருந்த 325 இன்னா செயினும் - இனி76எறிநீர்ப் பெருங்கடல் 275 இன்னா செயினும் - விட225எறியென் றெதிர்நிற்பாள் 363 இன்னா செயினும் - விடு226எற்றொன்றும் இல்லா 150  
+ 151ஆன்படு நெய்பெய்
 
-ஈட்டலும் துன்பமற் 280எனக்குத்தா யாகியாள் 15 ஈண்டுநீர் வையத்துள்109எனதென தென்றிருக்கும் 276 ஈத லிசையா181என்பாய் உகினும் 292 ஈனமாய் இல்லிருந்198என்றும் புதியார் 307 உடாஅதும் உண்ணாதும்10என்னானும் ஒன்றுதம்5 உடுக்கை உலறி 141என்னேமற் றிவ்வுடம்பு330 உடைப்பெருஞ் செல்வரும் 368ஏட்டைப் பருவத்தும் 358 உடையார் இவர்என் 160ஏதிலார் செய்த 228 உணர உணரும் 247ஏமாந்த போழ்தின் 378 உண்டாய போழ்தின் 284ஏற்றகை மாற்றாமை 98 உண்ணான் ஒளிநிறான் 9ஒண்கதிர் வாள்மதியம்176 உபகாரம் செய்ததனை 69ஒருநன்றி செய்தவர்க் 357 உயிர்போயார் வெண்டலை 50ஒருநீர்ப் பிறந்தோருங்கு 236 உருவிற் கமைந்தான்கண் 240ஒருபுடை பாம்பு 148 உருவும் இளமையும் 102ஒருவ ரொருவரைச் 309 உலகறியத் தீரக் 204ஓக்கிய ஒள்வாள்தன் 129 உளநாள் சிலவால் 324ஓதியும் ஓதார் 270 உள்கூர் பசியால் 286ஓலைக் கணக்கர் 397 உள்ளத்தான் நள்ளா 128கடகம் செறிந்ததங் 289 உள்ளத் துணர்வுடையான் 386கடக்கருங் கானத்துக் 398  
+ 239 அங்கண் விசும்பின் -அம்
 
-உள்ளம் ஒருவன் 380கடமா தொலைச்சிய 300 உறக்கும் துணையதோர் 38கடல்சார்ந்தும் இன்னீர் 245 உறற்பால நீக்கல் 104கடித்துக் கரும்பினைக் 156 உறுபுலி ஊனிரை 193கடிப்பிடு கண்முரசம் 100 உறுபுனல் தந்துல 185கடியெனக் கேட்டுங் 364 உறைப்பருங் காலத்தும் 184கடுக்கி ஒருவன் 189 ஊக்கித்தாம் கொண்ட 57கடுக்கெனச் சொல்வற்றாம் 348 ஊரங் கணநீர் 175கடையாயார் நட்பிற் 216 ஊருள் எழுந்த 90கடையெலாம் காய்பசி 297 ஊறி உவர்த்தக்க 47கட்கினியாள் காதலன் 384 ஊறுசெய் நெஞ்சம்தம் 379கணமலை நன்னாட 353 எஞ்ஞான்றும் எம்கணவர் 385கணம் கொண்டு சுற்றத்தார் 25 எத்துணை யானும் 272கண்கயல் என்னுங் 395 எந்நிலத்து வித்திடினும் 243கண்மூன் றுடையானும் 400 எம்மை அறிந்திலிர் 165கப்பி கடவதாக் 341 கம்மஞ்செய் மாக்கள் 393கொடுத்தலும் துய்த்தலும் 274 கரவாத திண்ணன்பின் 305கொய்புல் கொடுத்துக் 350 கருங்கொள்ளும் செங் 387கொலைஞர் உலையேற்றித் 331 கருத்துணர்ந்து கற்றறிந்தார் 211கொல்லை யிரும்புனத்துக் 178 கருமமும் உட்படாப் 250கொன்னே கழிந்தன் 55  
+ 373இசைந்த சிறுமை
 
-கரும வரிசையாற் 249கோடேந் தகவல்குற் 354 கரும்பாட்டிக் கட்டி 35கோட்டுப்பூப்போல 215 கல்எறிந் தன்ன 66கோதை யருவிக் 71 கல்நனி நல்ல 334கோளாற்றக் கொள்ளாக் 191 கல்லாக் கழிப்பர் 366சக்கரச் செல்வம் 346 கல்லாது நீண்ட 254சாய்ப்பறிக்க நீர்திகழுந் 389 கல்லாது போகிய 169சான்றாண்மை சாயல் 142 கல்லாமை அச்சம் 145சான்றோர் எனமதித்துச் 126 கல்லாரே யாயினும் 139சிதலை தினப்பட்ட 197 கல்லென்று தந்தை 253சிறுகா பெருகா 110 கல்லோங் குயர்வரைமேற் 283சிறுகாலை யேதமக்குச் 328 கல்வி கரையில 135சரியார் கேண்மை 232 கழிந்தார் இடுதலை 49செந்நெல்லா லாய 367 கழிநீருட் காரட் 217செம்மையொன் றின்றிச் 85 களர்நிலத் துப்பிறந்த 133செய்கை யழிந்து 147 கள்ளார்கள் உண்ணார் 157செய்யாத செய்தும்நாம் 235 கற்றதூஉ மின்றிக் 314செல்சுடர் நோக்கிச் 394 கற்றறிந்த நாவினார் 256செல்லா இடத்தும் 149 கற்றனவும் கண்ணகன்ற 340செல்வர்யாம் என்றுதாம் 8 கற்றார் உரைக்குங் 260செல்வுழிக் கண்ஒருநாள்154  
+ 187 அங்கோட் டகலல்குல்
 
-கனைகடல் தண்சேர்ப்ப 138செழும்பெரும் பொய்கை 352 காணின் குடிப்பழியாம் 84செறிப்பில் பழங்கூரை 231 காதலார் சொல்லுங் 73செறுத்தோ றுடைப் 222 காலாடு போழ்தில் 113சென்றே எறிப 24 காவா தொருவன்தன் 63சொல்தளர்ந்து கோல் 13 காழாய கொண்டு 342சொற்றாற்றுக் கொண்டு 313 குஞ்சி யழகும் 131தக்காரும் தக்கவர் 112 குடநீர்அட் டுண்ணும் 382தக்கோலம் தின்று 43 குடரும் கொழுவும் 46தங்கண் மரபில்லார் 336 குலம்தவம் கல்வி 333தண்டாச் சிறப்பின் தம் 62 குற்றமும் ஏனைக் 230தமரென்று தாங்கொள்ளப் 229 கூர்த்துநாய் கௌவிக் 70தம்அமர் காதலர் 392 கேளாதே வந்து 30தம்மை இகழ்ந்தமை 58 கொடியவை கூறாதி 388தம்மை இகழ்வாரைத் 117 தலையே தவம் முயன்று 365நல்லார் நயவ 265 தவலருந் தொல்கேள்வித் 137நளிகடல் தண்சேர்ப்ப - நல் 242 தளிர்மேலே நிற்பினும் 355நளிகடல் தண்சேர்ப்ப - நாள் 166 தனதாகத் தான்கொடான் 278நறுமலர் தண்கோதாய்த் 209 தாமேயும் இன்புறார் 327நன்னிலைக்கண் தன்னை 248 தாம் செய்வினையல்லால் 120நாப்பாடம் சொல்லி 312  
+ 372இசையா ஒருபொருள்111 அச்சம் பெரிதால் 81இசையா தெனினும்
 
-தாழாத் தளராத் 14நாய்க்காற் சிறுவிரல்போல் 218 தான்கெடினும் தக்கார்கே 80நார்த்தொடுத் தீர்க்கிலென் 26 திருத்தன்னை நீப்பினும் 304நாலாறும் ஆறாய் 383 திருமதுகை யாகத் 291நாள்வாய்ப் பெறினுந்தந் 207 தினைத்துணைய ராகித்தம் 105நாறாத் தகடேபோல் 266 தினையனைத்தே யாயினும் 344நிலநலத்தால் நந்திய 179 தீங்கரும் பீன்ற 199நிலையாமை நோய்மூப்புச் 52 துகள்தீர் பெருஞ்செல்வம் 2நின்றன நின்றன 4 துக்கத்துள் தூங்கி 121நீரினும் நுண்ணிது 282 துய்த்துக் கழியான் 273நீருட் பிறந்து 360 துன்பமே மீதூரக 60நீர்மையே யன்றி 287 துன்பம் பலநாள் 54நுண்ணுணர்வி னாரொடு 233 தெண்ணீர்க் குவளை 44நுண்ணுணர் வின்மை 251 தெரியத் தெரியுந் 168நெடுங்காலம் ஓடினும் 68 தெளிவிலார் நட்பிற் 219நெருப்பழல் சேர்ந்தக்கால் 124 தோணி இயக்குவான் 136நேரல்லார் நீரல்ல 72 தோற்போர்வை மேலும் 42நேர்த்து நிகரல்லார் 64 தோற்றம்சால் ஞாயிறு 7பகைவர் பணிவிடம் 241 நச்சியார்க் கியாமை 299படுமழை மொக்குளில் 27 நடுக்குற்றுத் தற்சேர்ந்தார் 93பண்டம் அறியார் 48 நடுவூருள் வேதிகை 96பரவா வெளிப்படா 88  
+ 194 அடுக்கல் மலைநாட
 
-நட்டார்க்கும் நள்ளா 271பராஅரைப் புன்னை 246 நட்புநார் அற்றன 12பருவம் எனைத்துள் 18 நம்மாலே யாவர்இந் 301பலநாளும் பக்கத்தா 214 நயவார்கண் நல்குரவு 267பல்லார் அறியப் 86 நரம்பெழுந்து நல்கூர்ந்தா 153பல்லாவுள் உய்த்து 101 நரைவரும் என்றெண்ணி 11பல்லான்ற கேள்விப் - பாட 252 நல்ஆவின் கன்றாயின் 115பல்லான்ற கேள்விப் - வீய 106 நல்ல குலமென்றும் 195பழமைகந் தாகப் 310 நல்லர் பெரிதளியர் 298பழைய ரிவரென்று 349 நல்லவை செய்யின் 144பனிபடு சோலைப் 17 நல்லவை நாடொறும் 338பன்றிக்கூழ்ப் பத்தரில் 257 நல்லார் எனத்தாம் 221பன்னாளும் சென்றக்கால் 159 பாடமே ஓதிப் 316மலைமிசைத் தோன்றும் 21 பாம்பிற் கொருதலை 375மல்கு திரைய 263 பாலாற் கழீஇப் 258மல்லன்மா ஞாலத்து 296 பாலோ டளாயநீர் 177மழைதிளைக்கும் மாடமாய் 361 பாவமும் ஏனைப் 295மறுமைக்கு வித்து 183 பிறந்த குலம்மாயும் 285மறுமையும் இம்மையும் 95 பிறர்மறை யின்கண 158மற்றறிவாம் நல்வினை 19 புக்க விடத்தச்சம் 83மனத்தான் மறுவில் 180  
+ 203இசையும் எனினும்
 
-புணர்கடல்சூழ் வையத்துப் 264மனைப்பாசம் கைவிடாய் 130 புதுப்புனலும் பூங்குழையார் 370மன்றம் கறங்க 23 புத்தகமே சாலத் 318மன்னர் திருவும் 167 புல்நுனிமேல் நீர்போல் 29மாக்கேழ் மடநல்லாய் 41 புல்லா எழுத்தின் 155மாண்ட குணத்தோடு 56 புல்லாப்புன் கோட்டிப் 255மாற்றாராய் நின்றுதம் 67> புறத்துத்தான் இன்மை 308மான அருங்கலம் 40 பெயற்பால் மழைபெய்யாக் 97முட்டிகை போல 208 பெரியவர் கேண்மை 125முட்டுற்ற போழ்தின் 238 பெரியார் பெருநட்புக் 77முயங்காக்கால் பாயும் 391 பெரியார் பெருமை 170முலைக்கண்ணும் முத்தும் 399 பெருகுவது போலத் 234முல்லை முகைமுறுவல் 45 பெருங்கடலாடிய 332முற்றற் சிறுமந்தி 237 பெருநடை தாம்பெறினும் 343முற்றுற்றுந் துற்றினை 190 பெருமுத் தரையர் 200முன்னரே சாநாள் 92 பெருவரை நாட 186மூப்புமேல் வாராமை 326 பெறுவது கொள்பவர் 317மெய்ஞ்ஞானக் கோட்டி 311 பெறுவதொன் றின்றியும் 335மெய்வாய்கண் மூக்குச் 59 பொத்தநூற் கல்லும் 376மெல்லிய நல்லாருள் 188 பொழிந்தினிது நாறினும் 259மைதீர் பசும்பொன்மேல் 347 பொழிப்பகலம் நுட்ப நூல் 319யாஅர் உலகத்தோர் 119  
+ 152 அடைந்தார்ப் பிரிவும்
 
-பொறுப்பரென் றெண்ணிப் 161யாஅர் ஒருவர் 127 பொற்கலத்துப் பெய்த 206யாக்கையை யாப்புடைத்தாப் 28 பொற்கலத் தூட்டிப் 345யாமாயின் எம்இல்லம் 293 பொன்னிறச் செந்நெற் 269யானை அனையவர் 213 பொன்னே கொடுத்தும் 162யானை யெருத்தம் 3 மக்களா லாய 37வடுவிலா வையத்து 114 மடிதிரை தந்திட்ட 224வயாவும் வருத்தமும் 201 மதித்திறப் பாரும் 61வலவைக ளல்லாதார் 268 மரீஇப் பலரோடு 220வழங்காத செல்வரின் 277 மலைநலம் உள்ளும் 356வழுக்கெனைத்தும் இல்லாத 362 வளம்பட வேண்டாதார் 103வினைப்பயன் வந்தக்கால் 33 வற்றிமற் றாற்றப் 78வெறிஅயர் வெங்களத்து 16 வாழ்நாட் கலகா 22வெறுமை யிடத்தும் 329 வான்ஒடு வில்லின் 0வென்றிப் பொருட்டால் 315 விரிநிற நாகம் 164வேம்பின் இலையுட் 244 விருப்பிலா ரில்லத்து 210வேற்றுமை யின்றிக் 75 விழைந்தொருவர் தம்மை 339வைகலும் வைகல் 39 விளக்குப் புகஇருள் 51வைப்புழிக் கோட்பாடா 134 விளக்கொளியும் வேசையர் 371  
+ 173இடம்பட மெய்ஞ்ஞானம்
+
+ 116 அத்திட்ட கூறை
+
+ 281இடும்பைகூர் நெஞ்சத்தார்
+
+ 107 அம்பல் அயல் எடுப்ப87இட்டாற்றுப் பட்டொன்
+
+ 288 அம்பும் அழலும் 89இமைக்கும் அளவில்தம்
+
+ 323 அரக்காம்பல் நாறும்வாய்
+
+ 396இம்மி அரிசித்94 அருகல தாகிப்
+
+ 261இம்மை பயக்குமால்132 அரும்பவிழ் தாரினான்
+
+ 390இம்மையும் நன்றாம்
+
+ 294 அரும்பெறல் யாக்கையைப்34இரவலர் கன்றாக
+
+ 279 அரும்பெறற் கற்பின்
+
+ 381இருக்கை எழலும்
+
+ 143 அருளின் அறமுறைக்கும்321இரும்பார்க்குங் காலராய்
+
+ 122 அலகுசால் கற்பின்
+
+ 140இலங்குநீர்த் தண்சேர்ப்ப
+
+ 227 அவமதிப்பும் ஆன்ற
+
+ 163இல்லம் இளமை 53 அவ்வியம் இல்லார்
+
+ 322இல்லா இடத்தும் 91  
+
+அழல்மண்டு போழ்தின்
+
+ 202இல்லாமை கந்தா
+
+ 303 அள்ளிக்கொள் வன்ன
+
+ 262இழித்தக்க செய்தொருவன்302 அறம்புகழ் கேண்மை82இழைத்தநாள் எல்லை6 அறிமின் அறநெறி
+
+ 172இளையான் அடக்கம் 65 அறியாப் பருவத்
+
+ 171இறப்பச் சிறிதென்னா 99 அறியாரும் அல்லர்
+
+ 108இறப்ப நினையுங்கால்
+
+ 174 அறிவ தறிந்தடங்கி 74இறப்பவே தீய223 அறுசுவை உண்டி1இற்சார்வின் ஏமாந்தோம்
+
+ 182 ஆகா தெனினும்337இற்பிறப்பில்லார்
+
+ 320 ஆடுகோடாகி192இற்பிறப் பெண்ணி
+
+ 212 ஆணமில் நெஞ்சத்374இனநன்மை இன்சொலொன்
+
+ 146 ஆமாபோல் நக்கி377இனியார்தம் நெஞ்சத்து369 ஆர்த்த அறிவினர்351இன்பம் பயந்தாங்79 ஆர்த்த பொறிய290இன்றாதும் இந்நிலையே359 ஆவாநாம் ஆக்கம்32இன்றுகொல் அன்றுகொல்36 ஆவேறுரு வின்118இன்னர் இனையர்205 இன்னா இயைக
+
+ 306எய்தியிருந்த
+
+ 325 இன்னா செயினும் - இனி76எறிநீர்ப் பெருங்கடல்
+
+ 275 இன்னா செயினும் - விட225எறியென் றெதிர்நிற்பாள்
+
+ 363 இன்னா செயினும் - விடு226எற்றொன்றும் இல்லா
+
+ 150  
+
+ஈட்டலும் துன்பமற்
+
+ 280எனக்குத்தா யாகியாள் 15 ஈண்டுநீர் வையத்துள்109எனதென தென்றிருக்கும்
+
+ 276 ஈத லிசையா181என்பாய் உகினும்
+
+ 292 ஈனமாய் இல்லிருந்198என்றும் புதியார்
+
+ 307 உடாஅதும் உண்ணாதும்10என்னானும் ஒன்றுதம்5 உடுக்கை உலறி
+
+ 141என்னேமற் றிவ்வுடம்பு330 உடைப்பெருஞ் செல்வரும்
+
+ 368ஏட்டைப் பருவத்தும்
+
+ 358 உடையார் இவர்என்
+
+ 160ஏதிலார் செய்த
+
+ 228 உணர உணரும்
+
+ 247ஏமாந்த போழ்தின்
+
+ 378 உண்டாய போழ்தின்
+
+ 284ஏற்றகை மாற்றாமை 98 உண்ணான் ஒளிநிறான் 9ஒண்கதிர் வாள்மதியம்176 உபகாரம் செய்ததனை 69ஒருநன்றி செய்தவர்க்
+
+ 357 உயிர்போயார் வெண்டலை 50ஒருநீர்ப் பிறந்தோருங்கு
+
+ 236 உருவிற் கமைந்தான்கண்
+
+ 240ஒருபுடை பாம்பு
+
+ 148 உருவும் இளமையும்
+
+ 102ஒருவ ரொருவரைச்
+
+ 309 உலகறியத் தீரக்
+
+ 204ஓக்கிய ஒள்வாள்தன்
+
+ 129 உளநாள் சிலவால்
+
+ 324ஓதியும் ஓதார்
+
+ 270 உள்கூர் பசியால்
+
+ 286ஓலைக் கணக்கர்
+
+ 397 உள்ளத்தான் நள்ளா
+
+ 128கடகம் செறிந்ததங்
+
+ 289 உள்ளத் துணர்வுடையான்
+
+ 386கடக்கருங் கானத்துக்
+
+ 398  
+
+உள்ளம் ஒருவன்
+
+ 380கடமா தொலைச்சிய
+
+ 300 உறக்கும் துணையதோர் 38கடல்சார்ந்தும் இன்னீர்
+
+ 245 உறற்பால நீக்கல்
+
+ 104கடித்துக் கரும்பினைக்
+
+ 156 உறுபுலி ஊனிரை
+
+ 193கடிப்பிடு கண்முரசம்
+
+ 100 உறுபுனல் தந்துல
+
+ 185கடியெனக் கேட்டுங்
+
+ 364 உறைப்பருங் காலத்தும்
+
+ 184கடுக்கி ஒருவன்
+
+ 189 ஊக்கித்தாம் கொண்ட 57கடுக்கெனச் சொல்வற்றாம்
+
+ 348 ஊரங் கணநீர்
+
+ 175கடையாயார் நட்பிற்
+
+ 216 ஊருள் எழுந்த 90கடையெலாம் காய்பசி
+
+ 297 ஊறி உவர்த்தக்க 47கட்கினியாள் காதலன்
+
+ 384 ஊறுசெய் நெஞ்சம்தம்
+
+ 379கணமலை நன்னாட
+
+ 353 எஞ்ஞான்றும் எம்கணவர்
+
+ 385கணம் கொண்டு சுற்றத்தார் 25 எத்துணை யானும்
+
+ 272கண்கயல் என்னுங்
+
+ 395 எந்நிலத்து வித்திடினும்
+
+ 243கண்மூன் றுடையானும்
+
+ 400 எம்மை அறிந்திலிர்
+
+ 165கப்பி கடவதாக்
+
+ 341 கம்மஞ்செய் மாக்கள்
+
+ 393கொடுத்தலும் துய்த்தலும்
+
+ 274 கரவாத திண்ணன்பின்
+
+ 305கொய்புல் கொடுத்துக்
+
+ 350 கருங்கொள்ளும் செங்
+
+ 387கொலைஞர் உலையேற்றித்
+
+ 331 கருத்துணர்ந்து கற்றறிந்தார்
+
+ 211கொல்லை யிரும்புனத்துக்
+
+ 178 கருமமும் உட்படாப்
+
+ 250கொன்னே கழிந்தன் 55  
+
+கரும வரிசையாற்
+
+ 249கோடேந் தகவல்குற்
+
+ 354 கரும்பாட்டிக் கட்டி 35கோட்டுப்பூப்போல
+
+ 215 கல்எறிந் தன்ன 66கோதை யருவிக் 71 கல்நனி நல்ல
+
+ 334கோளாற்றக் கொள்ளாக்
+
+ 191 கல்லாக் கழிப்பர்
+
+ 366சக்கரச் செல்வம்
+
+ 346 கல்லாது நீண்ட
+
+ 254சாய்ப்பறிக்க நீர்திகழுந்
+
+ 389 கல்லாது போகிய
+
+ 169சான்றாண்மை சாயல்
+
+ 142 கல்லாமை அச்சம்
+
+ 145சான்றோர் எனமதித்துச்
+
+ 126 கல்லாரே யாயினும்
+
+ 139சிதலை தினப்பட்ட
+
+ 197 கல்லென்று தந்தை
+
+ 253சிறுகா பெருகா
+
+ 110 கல்லோங் குயர்வரைமேற்
+
+ 283சிறுகாலை யேதமக்குச்
+
+ 328 கல்வி கரையில
+
+ 135சரியார் கேண்மை
+
+ 232 கழிந்தார் இடுதலை 49செந்நெல்லா லாய
+
+ 367 கழிநீருட் காரட்
+
+ 217செம்மையொன் றின்றிச் 85 களர்நிலத் துப்பிறந்த
+
+ 133செய்கை யழிந்து
+
+ 147 கள்ளார்கள் உண்ணார்
+
+ 157செய்யாத செய்தும்நாம்
+
+ 235 கற்றதூஉ மின்றிக்
+
+ 314செல்சுடர் நோக்கிச்
+
+ 394 கற்றறிந்த நாவினார்
+
+ 256செல்லா இடத்தும்
+
+ 149 கற்றனவும் கண்ணகன்ற
+
+ 340செல்வர்யாம் என்றுதாம் 8 கற்றார் உரைக்குங்
+
+ 260செல்வுழிக் கண்ஒருநாள்154  
+
+கனைகடல் தண்சேர்ப்ப
+
+ 138செழும்பெரும் பொய்கை
+
+ 352 காணின் குடிப்பழியாம் 84செறிப்பில் பழங்கூரை
+
+ 231 காதலார் சொல்லுங் 73செறுத்தோ றுடைப்
+
+ 222 காலாடு போழ்தில்
+
+ 113சென்றே எறிப 24 காவா தொருவன்தன் 63சொல்தளர்ந்து கோல் 13 காழாய கொண்டு
+
+ 342சொற்றாற்றுக் கொண்டு
+
+ 313 குஞ்சி யழகும்
+
+ 131தக்காரும் தக்கவர்
+
+ 112 குடநீர்அட் டுண்ணும்
+
+ 382தக்கோலம் தின்று 43 குடரும் கொழுவும் 46தங்கண் மரபில்லார்
+
+ 336 குலம்தவம் கல்வி
+
+ 333தண்டாச் சிறப்பின் தம் 62 குற்றமும் ஏனைக்
+
+ 230தமரென்று தாங்கொள்ளப்
+
+ 229 கூர்த்துநாய் கௌவிக் 70தம்அமர் காதலர்
+
+ 392 கேளாதே வந்து 30தம்மை இகழ்ந்தமை 58 கொடியவை கூறாதி
+
+ 388தம்மை இகழ்வாரைத்
+
+ 117 தலையே தவம் முயன்று
+
+ 365நல்லார் நயவ
+
+ 265 தவலருந் தொல்கேள்வித்
+
+ 137நளிகடல் தண்சேர்ப்ப - நல்
+
+ 242 தளிர்மேலே நிற்பினும்
+
+ 355நளிகடல் தண்சேர்ப்ப - நாள்
+
+ 166 தனதாகத் தான்கொடான்
+
+ 278நறுமலர் தண்கோதாய்த்
+
+ 209 தாமேயும் இன்புறார்
+
+ 327நன்னிலைக்கண் தன்னை
+
+ 248 தாம் செய்வினையல்லால்
+
+ 120நாப்பாடம் சொல்லி
+
+ 312  
+
+தாழாத் தளராத் 14நாய்க்காற் சிறுவிரல்போல்
+
+ 218 தான்கெடினும் தக்கார்கே 80நார்த்தொடுத் தீர்க்கிலென் 26 திருத்தன்னை நீப்பினும்
+
+ 304நாலாறும் ஆறாய்
+
+ 383 திருமதுகை யாகத்
+
+ 291நாள்வாய்ப் பெறினுந்தந்
+
+ 207 தினைத்துணைய ராகித்தம்
+
+ 105நாறாத் தகடேபோல்
+
+ 266 தினையனைத்தே யாயினும்
+
+ 344நிலநலத்தால் நந்திய
+
+ 179 தீங்கரும் பீன்ற
+
+ 199நிலையாமை நோய்மூப்புச் 52 துகள்தீர் பெருஞ்செல்வம் 2நின்றன நின்றன 4 துக்கத்துள் தூங்கி
+
+ 121நீரினும் நுண்ணிது
+
+ 282 துய்த்துக் கழியான்
+
+ 273நீருட் பிறந்து
+
+ 360 துன்பமே மீதூரக 60நீர்மையே யன்றி
+
+ 287 துன்பம் பலநாள் 54நுண்ணுணர்வி னாரொடு
+
+ 233 தெண்ணீர்க் குவளை 44நுண்ணுணர் வின்மை
+
+ 251 தெரியத் தெரியுந்
+
+ 168நெடுங்காலம் ஓடினும் 68 தெளிவிலார் நட்பிற்
+
+ 219நெருப்பழல் சேர்ந்தக்கால்
+
+ 124 தோணி இயக்குவான்
+
+ 136நேரல்லார் நீரல்ல 72 தோற்போர்வை மேலும் 42நேர்த்து நிகரல்லார் 64 தோற்றம்சால் ஞாயிறு 7பகைவர் பணிவிடம்
+
+ 241 நச்சியார்க் கியாமை
+
+ 299படுமழை மொக்குளில் 27 நடுக்குற்றுத் தற்சேர்ந்தார் 93பண்டம் அறியார் 48 நடுவூருள் வேதிகை 96பரவா வெளிப்படா 88  
+
+நட்டார்க்கும் நள்ளா
+
+ 271பராஅரைப் புன்னை
+
+ 246 நட்புநார் அற்றன 12பருவம் எனைத்துள் 18 நம்மாலே யாவர்இந்
+
+ 301பலநாளும் பக்கத்தா
+
+ 214 நயவார்கண் நல்குரவு
+
+ 267பல்லார் அறியப் 86 நரம்பெழுந்து நல்கூர்ந்தா
+
+ 153பல்லாவுள் உய்த்து
+
+ 101 நரைவரும் என்றெண்ணி 11பல்லான்ற கேள்விப் - பாட
+
+ 252 நல்ஆவின் கன்றாயின்
+
+ 115பல்லான்ற கேள்விப் - வீய
+
+ 106 நல்ல குலமென்றும்
+
+ 195பழமைகந் தாகப்
+
+ 310 நல்லர் பெரிதளியர்
+
+ 298பழைய ரிவரென்று
+
+ 349 நல்லவை செய்யின்
+
+ 144பனிபடு சோலைப் 17 நல்லவை நாடொறும்
+
+ 338பன்றிக்கூழ்ப் பத்தரில்
+
+ 257 நல்லார் எனத்தாம்
+
+ 221பன்னாளும் சென்றக்கால்
+
+ 159 பாடமே ஓதிப்
+
+ 316மலைமிசைத் தோன்றும் 21 பாம்பிற் கொருதலை
+
+ 375மல்கு திரைய
+
+ 263 பாலாற் கழீஇப்
+
+ 258மல்லன்மா ஞாலத்து
+
+ 296 பாலோ டளாயநீர்
+
+ 177மழைதிளைக்கும் மாடமாய்
+
+ 361 பாவமும் ஏனைப்
+
+ 295மறுமைக்கு வித்து
+
+ 183 பிறந்த குலம்மாயும்
+
+ 285மறுமையும் இம்மையும் 95 பிறர்மறை யின்கண
+
+ 158மற்றறிவாம் நல்வினை 19 புக்க விடத்தச்சம் 83மனத்தான் மறுவில்
+
+ 180  
+
+புணர்கடல்சூழ் வையத்துப்
+
+ 264மனைப்பாசம் கைவிடாய்
+
+ 130 புதுப்புனலும் பூங்குழையார்
+
+ 370மன்றம் கறங்க 23 புத்தகமே சாலத்
+
+ 318மன்னர் திருவும்
+
+ 167 புல்நுனிமேல் நீர்போல் 29மாக்கேழ் மடநல்லாய் 41 புல்லா எழுத்தின்
+
+ 155மாண்ட குணத்தோடு 56 புல்லாப்புன் கோட்டிப்
+
+ 255மாற்றாராய் நின்றுதம் 67> புறத்துத்தான் இன்மை
+
+ 308மான அருங்கலம் 40 பெயற்பால் மழைபெய்யாக் 97முட்டிகை போல
+
+ 208 பெரியவர் கேண்மை
+
+ 125முட்டுற்ற போழ்தின்
+
+ 238 பெரியார் பெருநட்புக் 77முயங்காக்கால் பாயும்
+
+ 391 பெரியார் பெருமை
+
+ 170முலைக்கண்ணும் முத்தும்
+
+ 399 பெருகுவது போலத்
+
+ 234முல்லை முகைமுறுவல் 45 பெருங்கடலாடிய
+
+ 332முற்றற் சிறுமந்தி
+
+ 237 பெருநடை தாம்பெறினும்
+
+ 343முற்றுற்றுந் துற்றினை
+
+ 190 பெருமுத் தரையர்
+
+ 200முன்னரே சாநாள் 92 பெருவரை நாட
+
+ 186மூப்புமேல் வாராமை
+
+ 326 பெறுவது கொள்பவர்
+
+ 317மெய்ஞ்ஞானக் கோட்டி
+
+ 311 பெறுவதொன் றின்றியும்
+
+ 335மெய்வாய்கண் மூக்குச் 59 பொத்தநூற் கல்லும்
+
+ 376மெல்லிய நல்லாருள்
+
+ 188 பொழிந்தினிது நாறினும்
+
+ 259மைதீர் பசும்பொன்மேல்
+
+ 347 பொழிப்பகலம் நுட்ப நூல்
+
+ 319யாஅர் உலகத்தோர்
+
+ 119  
+
+பொறுப்பரென் றெண்ணிப்
+
+ 161யாஅர் ஒருவர்
+
+ 127 பொற்கலத்துப் பெய்த
+
+ 206யாக்கையை யாப்புடைத்தாப் 28 பொற்கலத் தூட்டிப்
+
+ 345யாமாயின் எம்இல்லம்
+
+ 293 பொன்னிறச் செந்நெற்
+
+ 269யானை அனையவர்
+
+ 213 பொன்னே கொடுத்தும்
+
+ 162யானை யெருத்தம் 3 மக்களா லாய 37வடுவிலா வையத்து
+
+ 114 மடிதிரை தந்திட்ட
+
+ 224வயாவும் வருத்தமும்
+
+ 201 மதித்திறப் பாரும் 61வலவைக ளல்லாதார்
+
+ 268 மரீஇப் பலரோடு
+
+ 220வழங்காத செல்வரின்
+
+ 277 மலைநலம் உள்ளும்
+
+ 356வழுக்கெனைத்தும் இல்லாத
+
+ 362 வளம்பட வேண்டாதார்
+
+ 103வினைப்பயன் வந்தக்கால் 33 வற்றிமற் றாற்றப் 78வெறிஅயர் வெங்களத்து 16 வாழ்நாட் கலகா 22வெறுமை யிடத்தும்
+
+ 329 வான்ஒடு வில்லின் 0வென்றிப் பொருட்டால்
+
+ 315 விரிநிற நாகம்
+
+ 164வேம்பின் இலையுட்
+
+ 244 விருப்பிலா ரில்லத்து
+
+ 210வேற்றுமை யின்றிக் 75 விழைந்தொருவர் தம்மை
+
+ 339வைகலும் வைகல் 39 விளக்குப் புகஇருள் 51வைப்புழிக் கோட்பாடா
+
+ 134 விளக்கொளியும் வேசையர்
+
+ 371  
 
 **பாட்டு முதற்குறிப்பு அகரவரிசை முற்றும்.**  
 
@@ -8473,23 +9194,31 @@ Our Popular English Publications
 
 Tirukkural  
 
-This book contains metrical translation by Rev. Dr. G. U. Pope, translation in prose rendered by Rev. W. H. Drew and Rev. John Lazarus and also the versions of Mr. F. W. Ellis for some selected couplets. Rs. 10.00  
+This book contains metrical translation by Rev. Dr. G. U. Pope, translation in prose rendered by Rev. W. H. Drew and Rev. John Lazarus and also the versions of Mr. F. W. Ellis for some selected couplets. Rs.
+
+ 10.00  
 
 The Tamils Eighteen Hundred Years Ago  
 
 V. Kanagasabhai, B.A.,B.L.  
 
-This work sheds floods of light on the antiquities of the Tamil race, their Literature, Civilization, Commerce, Kingdoms, Foreign Trade etc. Rs. 8.00  
+This work sheds floods of light on the antiquities of the Tamil race, their Literature, Civilization, Commerce, Kingdoms, Foreign Trade etc. Rs.
+
+ 8.00  
 
 The Treatment of Nature in Sangam Literature  
 
 Dr. M. Varadarajanar, M.A.M.O.L.,Ph.D.  
 
-In this treatise, the author expounds the keen vision and deep insight of the authors of the Sangam classics, in respect of the study and elegant portrayal of the floras and faunas in all their serenity and romanticism in every discernible detail. Rs. 7.00  
+In this treatise, the author expounds the keen vision and deep insight of the authors of the Sangam classics, in respect of the study and elegant portrayal of the floras and faunas in all their serenity and romanticism in every discernible detail. Rs.
+
+ 7.00  
 
 Prof. P. Sundaram Pillai Commemoration Volume  
 
-This volume contains articles in English and Tamil on philosophy, History and Tamil Literature etc. and critical study of characterisation contributed by eminent men of letters, for his immortal drama "Manonmaniam". Rs. 8.00  
+This volume contains articles in English and Tamil on philosophy, History and Tamil Literature etc. and critical study of characterisation contributed by eminent men of letters, for his immortal drama "Manonmaniam". Rs.
+
+ 8.00  
 
 Tamil India  
 
@@ -8507,4 +9236,6 @@ Ten Tamil Ethics
 
 Prop T. B. Krishnaswami, M.A.,B.L.  
 
-This book is the collection of English Translation in lucid style, of ten ethical poems in Tamil viz., Athisudi, Konrai-Venthan, Ulaga-Neethi, Vetri-Verkai, Muthurai, Nalvazhi, Nanneri, Nithi-Neri-Vilakkam, Neethi-Venba and Aranericharam. Rs. 4.00
+This book is the collection of English Translation in lucid style, of ten ethical poems in Tamil viz., Athisudi, Konrai-Venthan, Ulaga-Neethi, Vetri-Verkai, Muthurai, Nalvazhi, Nanneri, Nithi-Neri-Vilakkam, Neethi-Venba and Aranericharam. Rs.
+
+ 4.00

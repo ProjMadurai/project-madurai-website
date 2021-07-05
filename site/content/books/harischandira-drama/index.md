@@ -7,6 +7,7 @@ authors:
 genres:
   - நாடகம்
 ---
+
 ### ஹரிச்சந்திரா / நாடகம்  
 
 பம்மல் சம்பந்த முதலியார்  
@@ -75,7 +76,9 @@ Persons desirous of staging my version of Harischandra must take my previous per
 
 I beg to offer a small reward, to any one who proves to me that any person has infringed my copyright in any of my dramas.  
 
-Pammal lodge MADRAS The Author 26th August 1918.  
+Pammal lodge MADRAS The Author 26th August
+
+ 1918.  
 
 -----------------------------------------------------------  
 
@@ -5071,5 +5074,7 @@ Pammal lodge MADRAS The Author 26th August 1918.
 
 -----------------------------------------------------------  
 
-This file was last updated on 1 June 2012  
+This file was last updated on 1 June
+
+ 2012  
 

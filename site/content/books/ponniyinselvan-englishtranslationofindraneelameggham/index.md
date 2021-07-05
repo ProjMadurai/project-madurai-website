@@ -8,16 +8,18 @@ authors:
 genres:
   - நாவல்
 ---
+
 மொழிபெயர்ப்பு (Ponniyan Selvan - Part 1; 2)'  
 
 thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
-weight: 278  
+weight:
+
+ 278  
 
 authors:  
 
-  - கல்கி கிருஷ்ணமூர்த்தி   
-
+  - கல்கி கிருஷ்ணமூர்த்தி  
   - இந்திரா நீலமேகம் (Kalki Krishnamurthy - Indra Neelameggham)  
 
 genres:  
@@ -60,7 +62,9 @@ Our sincere thanks to Mrs. Dr. Indra Neelameggham for providing with the e-versi
 
 PDF and Web versions Dr. K. Kalyanasundaram, Lausanne, Switzerland  
 
-© Project Madurai 2007.  
+© Project Madurai
+
+ 2007.  
 
 Project Madurai is an open, voluntary, worldwide initiative devoted  
 
@@ -88,11 +92,15 @@ New Floods
 
   
 
-**Translated 1990 by Indra Neelameggham** Salt Lake City, Utah.  
+**Translated
+
+ 1990 by Indra Neelameggham** Salt Lake City, Utah.  
 
 With much thanks to R.Neelameggham and Elizabeth Ramadorai for editing help.  
 
-Thanks to B. Ganesan [biga] for maintaining the Thodarkathai website 1997 - 2000  
+Thanks to B. Ganesan [biga] for maintaining the Thodarkathai website
+
+ 1997-2000  
 
 Translation Copyright Indra Neelameggham  
 
@@ -1930,7 +1938,9 @@ Let us now explain the reason for such talk amongst these women.
 
   
 
-About a thousand and more years ago, the best of kings, Paranthaka Sundara Chozla (AD 957-973), ruled as an Emperor without equal in South India. He had ascended the Chozla throne several years before the times of our story. For the past several hundred years Chozla power had been growing. Chozla Territories were spreading in all directions. Even so, when Sundara Chozla ascended the throne, his enemies in the south and north were powerful.  
+About a thousand and more years ago, the best of kings, Paranthaka Sundara Chozla (AD
+
+ 957-973), ruled as an Emperor without equal in South India. He had ascended the Chozla throne several years before the times of our story. For the past several hundred years Chozla power had been growing. Chozla Territories were spreading in all directions. Even so, when Sundara Chozla ascended the throne, his enemies in the south and north were powerful.  
 
 Gandara Aditya who had ruled before him, was immersed in devotion to God Shiva; he had merited the title Gandara-aditya who had knowledge of (knew) Shiva. He did not show much interest in expanding his territories. After Gandara Aditya, his brother Arinjaya, who ascended the throne, ruled for a short year. After Arinjaya's death at Atrur, his son Paranthaka Sundara Chozla came to power.  
 
@@ -2206,7 +2216,9 @@ It was a practice among the Tamils of the ancient times to erect a hero stone an
 
 One such memorial-temple existed near the village of Thiru-puram-biyam, on the northern banks of the River Manni about half a league from Kudanthai. It had been erected in memory of a great warrior, the Ganga King Prithvi-pathi who had died in a great battle near that village.  
 
-Those who read world history may recall that the great battles of Waterloo and Panipat changed the very course of history. The battle of Thiru-puram-biyam had a similar significance with regard to South Indian history. That battle took place in the year AD 885, about a hundred years before the times of our story. It is essential that all persons interested in the history of the Tamils should know the details of that battle.  
+Those who read world history may recall that the great battles of Waterloo and Panipat changed the very course of history. The battle of Thiru-puram-biyam had a similar significance with regard to South Indian history. That battle took place in the year AD
+
+ 885, about a hundred years before the times of our story. It is essential that all persons interested in the history of the Tamils should know the details of that battle.  
 
 The early Chozla kings of the Sangam Age -- Karikala Valava, Ilan-chet-chenni, Perunar-killi, Thodi-thot Sembiyan -- ruled with great fame and prosperity. For about five to six hundred years after their times, a long eclipse clouded the fame of the Chozla's. The Pandiyas in the south and the Pallavas of the north squashed the Chozlas into becoming petty chieftains. Towards the end, the Chozlas had to give up their coveted capital city, Uraiyoor, to the Pandiyas and move east. The Chozla chieftains who moved east made Pazlayarai, near Kudanthai, their new capital. But they did not forget their rights to their long time capital, i.e., Uraiyoor. Neither did they give up their title of Rooster Kings -- a title of monarchs who ruled from Uraiyoor which was also known as Kozliyoor (kozli in Tamil means rooster.)  
 
@@ -3482,7 +3494,11 @@ Kadamba A flower
 
 Kama Love, Passion  
 
-Karadi 1. A musical instrument 2. Bear  
+Karadi
+
+ 1. A musical instrument
+
+ 2. Bear  
 
 Karagam Folk dance with balancing decorated pots  
 
@@ -3490,7 +3506,11 @@ Karaiyar Coastal, fisherfolk
 
 Karppu Sanctity of a married woman. Chastity  
 
-Kavi 1. Poet 2. Monkey  
+Kavi
+
+ 1. Poet
+
+ 2. Monkey  
 
 Konnai A flowering tree  
 
@@ -3602,4 +3622,6 @@ Vinnagara Vishnu temple
 
 Top  
 
-This page was last updated on 1 June 2007.
+This page was last updated on 1 June
+
+ 2007.

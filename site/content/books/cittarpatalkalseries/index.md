@@ -7,6 +7,7 @@ authors:
 genres:
   - சித்தர் பாடல்கள்
 ---
+
 கள்'  
 
 thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
@@ -55,7 +56,9 @@ i). You need to have Unicode fonts containing Tamil Block (Latha,
 
 Arial Unicode MS, TSCu_Inaimathi, Code2000, UniMylai,...) installed on your computer  
 
-and the OS capable of rendering Tamil Scripts (Windows 2000 or Windows XP).  
+and the OS capable of rendering Tamil Scripts (Windows
+
+ 2000 or Windows XP).  
 
 ii)Use a browser that is capable of handling UTF-8 based pages  
 
@@ -63,7 +66,9 @@ ii)Use a browser that is capable of handling UTF-8 based pages
 
 . In case of difficulties send an email request to]()[kalyan@geocities.com](mailto:kalyan@geocities.com)  
 
-© Project Madurai 1998-2000  
+© Project Madurai
+
+ 1998-2000  
 
 Project Madurai is an open, voluntary, worldwide initiative devoted  
 
@@ -103,7 +108,9 @@ header page is kept intact.
 
   
 
-### 1. திருவேகம்பமாலை  
+###
+
+ 1. திருவேகம்பமாலை  
 
   
 
@@ -463,7 +470,9 @@ header page is kept intact.
 
   
 
-### 2. திருத்தில்லை  
+###
+
+ 2. திருத்தில்லை  
 
   
 
@@ -629,7 +638,9 @@ header page is kept intact.
 
   
 
-### 3. முதலாவது கோயிற்றிருவகவல்  
+###
+
+ 3. முதலாவது கோயிற்றிருவகவல்  
 
   
 
@@ -733,7 +744,9 @@ header page is kept intact.
 
   
 
-### 4. இரண்டாவது கோயிற்றிருவகவல்  
+###
+
+ 4. இரண்டாவது கோயிற்றிருவகவல்  
 
   
 
@@ -815,7 +828,9 @@ header page is kept intact.
 
   
 
-### 5. மூன்றாவது கோயிற்றிருவகவல்  
+###
+
+ 5. மூன்றாவது கோயிற்றிருவகவல்  
 
   
 
@@ -925,7 +940,9 @@ header page is kept intact.
 
   
 
-### 6. நான்காவது கச்சித் திருவகவல்  
+###
+
+ 6. நான்காவது கச்சித் திருவகவல்  
 
   
 
@@ -1267,7 +1284,9 @@ header page is kept intact.
 
   
 
-### 7. அருட்புலம்பல் - முதல்வன் முறையீடு  
+###
+
+ 7. அருட்புலம்பல் - முதல்வன் முறையீடு  
 
   
 
@@ -1597,7 +1616,9 @@ header page is kept intact.
 
   
 
-### 8. அருட்புலம்பல் - மகடூ முன்னிலையாக உள்ளது  
+###
+
+ 8. அருட்புலம்பல் - மகடூ முன்னிலையாக உள்ளது  
 
   
 
@@ -1795,10 +1816,11 @@ header page is kept intact.
 
 திருச்சிற்றம்பலம்  
 
-This page was first put up on August 22, 2000  
+This page was first put up on August 22,
 
-Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com,   
+ 2000  
 
+Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com,  
   
 
 kumar@vt.edu?subject=PM83-paTTinattAr songs)

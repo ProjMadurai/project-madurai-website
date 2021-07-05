@@ -7,6 +7,7 @@ authors:
 genres:
   - நாடகம்
 ---
+
 ### பம்மல் சம்பந்த முதலியார் அவர்களின்  
 
 சதி-சுலோசனா (நாடகம்)  
@@ -65,7 +66,11 @@ PRINTED BY THE PEERLESS PRESS
 
 15, LINGHI CHETTY STREET, GT.  
 
-[All Rights Reserved. 1935 Price per Copy 2.00]  
+[All Rights Reserved.
+
+ 1935 Price per Copy
+
+ 2.00]  
 
 ----------------------------  
 
@@ -125,7 +130,9 @@ PRINTED BY THE PEERLESS PRESS
 
 ----------  
 
-காபிரைட்] 1935 [விலை 2-00  
+காபிரைட்]
+
+ 1935 [விலை 2-00  
 
 -----------------------------------------------------------  
 
@@ -163,7 +170,9 @@ I have to warn all Societies and Companies desirous of staging this (or any othe
 
 "PAMMAL LODGE" THE AUTHOR  
 
-G.T. MADRAS. 1st Jan. 1935.  
+G.T. MADRAS. 1st Jan.
+
+ 1935.  
 
 --------------------------  
 
@@ -2459,5 +2468,7 @@ sp; காட்சி முடிகிறது.
 
 **நாடகம் முற்றியது.**  
 
-This file was last updated on 20 July 2012  
+This file was last updated on 20 July
+
+ 2012  
 

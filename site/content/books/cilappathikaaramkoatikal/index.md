@@ -7,6 +7,7 @@ authors:
 genres:
   - காப்பியம்
 ---
+
 ர்க்காண்டம்'  
 
 thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
@@ -59,7 +60,9 @@ i). You need to have Unicode fonts containing Tamil Block (Latha,
 
 Arial Unicode MS, TSCu_Inaimathi, Code2000, UniMylai,...) installed on your computer  
 
-and the OS capable of rendering Tamil Scripts (Windows 2000 or Windows XP).  
+and the OS capable of rendering Tamil Scripts (Windows
+
+ 2000 or Windows XP).  
 
 ii)Use a browser that is capable of handling UTF-8 based pages  
 
@@ -71,7 +74,9 @@ In case of difficulties send an email request to [kalyan@geocities.com](mailto:k
 
   
 
-ன Project Madurai 2000  
+ன Project Madurai
+
+ 2000  
 
 Project Madurai is an open, voluntary, worldwide initiative devoted  
 
@@ -125,7 +130,9 @@ header page is kept intact.
 
   
 
-ன மதுரைத் திட்டம் 2000  
+ன மதுரைத் திட்டம்
+
+ 2000  
 
   
 
@@ -333,11 +340,15 @@ header page is kept intact.
 
   
 
-## 1. புகார்க் காண்டம்  
+##
+
+ 1. புகார்க் காண்டம்  
 
   
 
-### 1. மங்கல வாழ்த்துப் பாடல்  
+###
+
+ 1. மங்கல வாழ்த்துப் பாடல்  
 
   
 
@@ -479,8 +490,7 @@ header page is kept intact.
 
   
 
-###   
-
+###  
 2. மனையறம்படுத்த காதை  
 
   
@@ -653,7 +663,9 @@ header page is kept intact.
 
   
 
-### 3. அரங்கேற்று காதை  
+###
+
+ 3. அரங்கேற்று காதை  
 
   
 
@@ -955,7 +967,9 @@ header page is kept intact.
 
   
 
-### 4. அந்திமாலைச் சிறப்புசெய் காதை  
+###
+
+ 4. அந்திமாலைச் சிறப்புசெய் காதை  
 
   
 
@@ -1115,8 +1129,7 @@ header page is kept intact.
 
   
 
-###   
-
+###  
 5. இந்திர விழவு ஊர் எடுத்த காதை  
 
   
@@ -1511,7 +1524,9 @@ header page is kept intact.
 
   
 
-### 6. கடலாடு காதை  
+###
+
+ 6. கடலாடு காதை  
 
   
 
@@ -1813,7 +1828,9 @@ header page is kept intact.
 
   
 
-### 7. கானல் வரி  
+###
+
+ 7. கானல் வரி  
 
   
 
@@ -2505,7 +2522,9 @@ header page is kept intact.
 
   
 
-### 8. வேனில் காதை  
+###
+
+ 8. வேனில் காதை  
 
   
 
@@ -2727,7 +2746,9 @@ header page is kept intact.
 
   
 
-### 9. கனாத்திறம் உரைத்த காதை  
+###
+
+ 9. கனாத்திறம் உரைத்த காதை  
 
   
 
@@ -2877,7 +2898,9 @@ header page is kept intact.
 
   
 
-### 10. நாடுகாண் காதை  
+###
+
+ 10. நாடுகாண் காதை  
 
   
 
@@ -3327,8 +3350,12 @@ header page is kept intact.
 
   
 
-## (புகார்க் காண்டம் முற்றிற்று.)  This file was first put up on 13 Jan 2000.  
+## (புகார்க் காண்டம் முற்றிற்று.)  This file was first put up on 13 Jan
 
-Revised version in table form put up on 10 May 2001  
+ 2000.  
+
+Revised version in table form put up on 10 May
+
+ 2001  
 
 Please [click here to send in your corrections to the Webmaster of the site](mailto:kalyan@geocities.com, kumar@vt.edu)

@@ -7,6 +7,7 @@ authors:
 genres:
   - சிறுகதைகள் தொகுப்பு
 ---
+
 ### ஜனனி (சிறுகதைத் தொகுதி)  
 
 ஆசிரியர்: லா. ச. ராமாமிருதம்  
@@ -19,13 +20,19 @@ genres:
 
 "லா. ச. ராமாமிருதம்"  
 
-முதற்பதிப்பு ஜூன் 1992, இரண்டாம் பதிப்பு : அக்டோபர் 2005  
+முதற்பதிப்பு ஜூன்
+
+ 1992, இரண்டாம் பதிப்பு : அக்டோபர்
+
+ 2005  
 
 உரிமை : ஆசிரியருக்கு  
 
 திருநாவுக்கரசு தயாரிப்பு  
 
-விலை : ரூ. 60.00  
+விலை : ரூ.
+
+ 60.00  
 
 ----  
 
@@ -35,27 +42,43 @@ AUTHOR : La. Sa. Ramamirtham
 
 LANGUAGE : TAMIL SUBJECT : Short Stories  
 
-EDITION : First Edition, June, 1992  
+EDITION : First Edition, June,
 
-Second Edition, October, 2005  
+ 1992  
 
-PAGES : viii + 232 = 240  
+Second Edition, October,
+
+ 2005  
+
+PAGES : viii +
+
+ 232 =
+
+ 240  
 
 Published By : VANATHI PATHIPPAKAM  
 
-23, Deenadayalu Street, Thyagaraya Nagar, CHENNA - 600 017  
+23, Deenadayalu Street, Thyagaraya Nagar, CHENNA-600
+
+ 017  
 
 Email : vanathipathippakam (ovsni.net)  
 
 Website: www.vanathipathippakam.com  
 
-Teị : 24342810, 24310769  
+Teị :
+
+ 24342810,
+
+ 24310769  
 
 PRICE : RS. 60  
 
 Laser Typeset at:  
 
-S.P.M. Graphics, CHENNAI-600 071  
+S.P.M. Graphics, CHENNAI-600
+
+ 071  
 
 Printed at: Malar Printers O44-8224803  
 
@@ -141,7 +164,9 @@ Printed at: Malar Printers O44-8224803
 
   
 
-### 1. ஜனனி  
+###
+
+ 1. ஜனனி  
 
   
 
@@ -707,7 +732,9 @@ Printed at: Malar Printers O44-8224803
 
   
 
-### 2. யோகம்  
+###
+
+ 2. யோகம்  
 
   
 
@@ -1077,7 +1104,9 @@ Printed at: Malar Printers O44-8224803
 
   
 
-### 3. புற்று  
+###
+
+ 3. புற்று  
 
   
 
@@ -1513,7 +1542,9 @@ Printed at: Malar Printers O44-8224803
 
   
 
-### 4. எழுத்தின் பிறப்பு  
+###
+
+ 4. எழுத்தின் பிறப்பு  
 
   
 
@@ -1569,7 +1600,9 @@ Printed at: Malar Printers O44-8224803
 
   
 
-### 5. அரவான்  
+###
+
+ 5. அரவான்  
 
   
 
@@ -1827,7 +1860,9 @@ Printed at: Malar Printers O44-8224803
 
   
 
-### 6. பூர்வா  
+###
+
+ 6. பூர்வா  
 
   
 
@@ -2157,7 +2192,9 @@ Printed at: Malar Printers O44-8224803
 
   
 
-### 7. மஹாபலி  
+###
+
+ 7. மஹாபலி  
 
   
 
@@ -2253,7 +2290,9 @@ Printed at: Malar Printers O44-8224803
 
   
 
-### 8. கணுக்கள்  
+###
+
+ 8. கணுக்கள்  
 
   
 
@@ -2665,7 +2704,9 @@ Printed at: Malar Printers O44-8224803
 
   
 
-### 9. கொட்டு மேளம்  
+###
+
+ 9. கொட்டு மேளம்  
 
   
 
@@ -3325,7 +3366,9 @@ Printed at: Malar Printers O44-8224803
 
   
 
-### 10. ரயில்  
+###
+
+ 10. ரயில்  
 
   
 
@@ -3489,5 +3532,7 @@ Printed at: Malar Printers O44-8224803
 
 **ஜனனி முற்றிற்று**  
 
-This file was last updated on 26 April 2016.  
+This file was last updated on 26 April
+
+ 2016.  
 

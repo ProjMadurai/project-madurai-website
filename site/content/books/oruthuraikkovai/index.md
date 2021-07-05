@@ -8,6 +8,7 @@ genres:
   - கோவை
   - பிரபந்தம்
 ---
+
 ### பொன்னாங்கால் அமிர்தகவிராயரவர்களாலியற்றிய  
 
 இரகுநாதசேதுபதி ஒருதுறைக்கோவை.  
@@ -50,7 +51,9 @@ ________
 
 Alert:  
 
-Please take note that the quality of the scanned image of this 1889 publication is not adequate to identify unambiguously each Tamil character, particularly pure consonants (mei) in all relevant places of this poetry work. We have done our best but errors are likely, particularly at places marked with an asterisk (/*).  
+Please take note that the quality of the scanned image of this
+
+ 1889 publication is not adequate to identify unambiguously each Tamil character, particularly pure consonants (mei) in all relevant places of this poetry work. We have done our best but errors are likely, particularly at places marked with an asterisk (/*).  
 
 ---------------  
 
@@ -1992,5 +1995,7 @@ Please take note that the quality of the scanned image of this 1889 publication 
 
 -----------------------------------------------------------  
 
-This file was last updated on 4 April 2012  
+This file was last updated on 4 April
+
+ 2012  
 

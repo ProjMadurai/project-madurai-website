@@ -7,6 +7,7 @@ authors:
 genres:
   - 
 ---
+
 **Short notes on meikkIrtikaL**  
 
 meykiirtikaL are prologue verses found in stone inscriptions and in copper plate grants which praises the king in reign on date. These are useful for history as they indicateregnal year ofkings, details on their dynasty etc. In tamiz nATu thousands of inscriptions were recorded and archived as annals of history. We can find details on administration, tax system, random sampled record of various day to day activities of common people on those era. Hence inscriptions are form part ofrecordedhistory and culture of tamiz naATu  
@@ -27,7 +28,9 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
-### 1.1.1 (01)  
+###
+
+ 1.1.1 (01)  
 
   
 
@@ -209,7 +212,9 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
-### 1.1.2 (02)  
+###
+
+ 1.1.2 (02)  
 
   
 
@@ -287,13 +292,15 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 நின்றிலங்கும் மணிநீண்முடி நிலமன்னவனெடுஞ் சடையற்கு45 ராஜ்யவர்ஷம் பதினேழாவது பாற்பட்டு செல்லாநிற்க . . . . . .  
 
-1.1. பராந்தக நெடுஞ்சடையன் (768 - 815)  
+1.1. பராந்தக நெடுஞ்சடையன் (768-815)  
 
 3. சின்னமனூர் சிறிய செப்பேட்டுப் பகுதி  
 
   
 
-### 1.1.3 (03)  
+###
+
+ 1.1.3 (03)  
 
   
 
@@ -347,7 +354,9 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
-### 1.2.1 (04)  
+###
+
+ 1.2.1 (04)  
 
   
 
@@ -503,7 +512,9 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
-### 1.3.1 (05)  
+###
+
+ 1.3.1 (05)  
 
   
 
@@ -641,7 +652,9 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
-### 1.4.1 (06)  
+###
+
+ 1.4.1 (06)  
 
   
 
@@ -693,7 +706,9 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
-### 1.5.1 (07)  
+###
+
+ 1.5.1 (07)  
 
   
 
@@ -719,11 +734,13 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 சீ வல்லப தேவர்க்கு யாண்டு 4 ஆவது - 10  
 
-1.5 சீவல்லபன் (1120 - 1146) -- 2  
+1.5 சீவல்லபன் (1120-1146) -- 2  
 
   
 
-### 1.5.2 (08)  
+###
+
+ 1.5.2 (08)  
 
   
 
@@ -753,7 +770,9 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
-### 1.6.1 (09)  
+###
+
+ 1.6.1 (09)  
 
   
 
@@ -791,7 +810,9 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
-### 1.7.1 (10)  
+###
+
+ 1.7.1 (10)  
 
   
 
@@ -837,11 +858,13 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 திசையனைத்தும் உடனாண்ட சிரீபராந்தக தேவர்க்குயாண்டு... ...  
 
-1.8. சடையவர்மன் வீரபாண்டியன் (1175 - 1180)  
+1.8. சடையவர்மன் வீரபாண்டியன் (1175-1180)  
 
   
 
-### 1.8.1 (11)  
+###
+
+ 1.8.1 (11)  
 
   
 
@@ -875,11 +898,13 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 சிரீ வீரபாண்டிய தேவர்.  
 
-1.9. சடையவர்மன் குலசேகர பாண்டியன் (1190 - 1218)  
+1.9. சடையவர்மன் குலசேகர பாண்டியன் (1190-1218)  
 
   
 
-### 1.9.1 (12)  
+###
+
+ 1.9.1 (12)  
 
   
 
@@ -963,11 +988,13 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 நாள் முப்பததைந்தினால் . . . . .  
 
-1.9. சடையவர்மன் குலசேகர பாண்டியன் (1190 - 1218) -2  
+1.9. சடையவர்மன் குலசேகர பாண்டியன் (1190-1218) -2  
 
   
 
-### 1.9.2 (13)  
+###
+
+ 1.9.2 (13)  
 
   
 
@@ -1017,11 +1044,13 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 யாண்டு ஒன்பதாவது நாள் நாற்பத்து நாலினால். . .  
 
-1.9 சடையவர்மன் குலசேகர பாண்டியன் (1190 - 1218) - 3  
+1.9 சடையவர்மன் குலசேகர பாண்டியன் (1190-1218) - 3  
 
   
 
-### 1.9.3 (14)  
+###
+
+ 1.9.3 (14)  
 
   
 
@@ -1079,11 +1108,13 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 யாண்டு பதின்முன்றாவதின் எதிராமாண்டு . .  
 
-1.10. மாறவர்மன் சுந்தர பாண்டியன் (1215 - 1239)  
+1.10. மாறவர்மன் சுந்தர பாண்டியன் (1215-1239)  
 
   
 
-### 1.10.1 (15)  
+###
+
+ 1.10.1 (15)  
 
   
 
@@ -1163,11 +1194,13 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 நூற்று எழுபத்தாறினால்.  
 
-1.10. மாறவர்மன் சுந்தர பாண்டியன் (1215 - 1239) - 2  
+1.10. மாறவர்மன் சுந்தர பாண்டியன் (1215-1239) - 2  
 
   
 
-### 1.10.2 (16)  
+###
+
+ 1.10.2 (16)  
 
   
 
@@ -1371,7 +1404,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 வெண்மருப்புங் கையுங் குறைத்தெங்கன் மீனவற்கும்  
 
-பால்குடமா மென்றுதான் வீரர்கோன் மாமுகடு - 100  
+பால்குடமா மென்றுதான் வீரர்கோன் மாமுகடு-100  
 
 தடவி மழைமடுக்கும் காகநெடும் பந்தற்கே  
 
@@ -1381,7 +1414,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 வெள்ளெயி றில்செவ் வாய்பெரிய சூலக்க  
 
-வல்லி பலிகொள்கஎன வாழ்த்தி வென்று - 105  
+வல்லி பலிகொள்கஎன வாழ்த்தி வென்று-105  
 
 பகையின் மிகையொழிய வேந்தலறக் கொன்று  
 
@@ -1391,7 +1424,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 வெண்கவடி வித்த வீர முழுதெடுத்துப்  
 
-பாடும் பரணிதனைப் பார்வேந்தர் கேட்பிக்க - 110  
+பாடும் பரணிதனைப் பார்வேந்தர் கேட்பிக்க-110  
 
 ஆடுந் திருமஞ் சனநீர்கள் மண்குளிர  
 
@@ -1401,7 +1434,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 மூரி மணிப்பட்டங் கட்டி முடிசூட்டி  
 
-மார்பில் அணைத்துவளவ னவன்முதல் தேவியென்று - 115  
+மார்பில் அணைத்துவளவ னவன்முதல் தேவியென்று-115  
 
 பேர்பெற்ற வஞ்சி முதலாய பெய்வளையார்  
 
@@ -1411,7 +1444,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 கொடிகொண்ட நெற்றி நிறைந்தக்கோ புரஞ்சூழ  
 
-முடிகொண்டசோழபுர மண்டபத்துப் புகுத - 120  
+முடிகொண்டசோழபுர மண்டபத்துப் புகுத-120  
 
 திசைதொறும் சொம்பொற் செயத்தம்பம் நாட்டி  
 
@@ -1421,7 +1454,9 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 விளங்கிய மணியணி வீரசிம் மாசனத்து  
 
-விளங்கெழு கவரி யிருமருங்கசைப்பக் 125  
+விளங்கெழு கவரி யிருமருங்கசைப்பக்
+
+ 125  
 
 கடலென்ன முழங்கும் களிநல் யானை  
 
@@ -1433,7 +1468,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 அருளிய ஸரீகோ மாறபன்ம ரான  
 
-திரிபுவனச் சக்கரவர்த்திகள் ஸரீசோணாடு - 130  
+திரிபுவனச் சக்கரவர்த்திகள் ஸரீசோணாடு-130  
 
 கொண்டுமுடிகொண்டசோழபரத்து வீராபிக்ஷேகம்  
 
@@ -1445,11 +1480,13 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
-1.11. சடையவர்மன் சுந்தர பாண்டியன் (1252 - 1271)  
+1.11. சடையவர்மன் சுந்தர பாண்டியன் (1252-1271)  
 
   
 
-### 1.11.1 (17)  
+###
+
+ 1.11.1 (17)  
 
   
 
@@ -1647,11 +1684,13 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 பெற்றஅத்தத்துநாள் .  
 
-1.12. சடையவர்மன் வீரபாண்டியன் (1253 - 1268)  
+1.12. சடையவர்மன் வீரபாண்டியன் (1253-1268)  
 
   
 
-### 1.12.1 (18)  
+###
+
+ 1.12.1 (18)  
 
   
 
@@ -1795,13 +1834,17 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 திரிபுவன சக்கரவர்த்திகள் சிரீ வீரபாண்டிய தேவர்க்கு - 70  
 
-யாண்டு 11ஆவது நாளள் 173 னால் . . .  
+யாண்டு 11ஆவது நாளள்
 
-1.12. சடையவர்மன் வீரபாண்டியன் (1253 - 1268) - 2  
+ 173 னால் . . .  
+
+1.12. சடையவர்மன் வீரபாண்டியன் (1253-1268) - 2  
 
   
 
-### 1.12.2 (19)  
+###
+
+ 1.12.2 (19)  
 
   
 
@@ -1823,11 +1866,13 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 கிழமையும் தசமியும் பெற்ற மூலத்து நாள் . .  
 
-1.13 மாறவர்மன் குலசேகர பாண்டியன் (1268 - 1285)  
+1.13 மாறவர்மன் குலசேகர பாண்டியன் (1268-1285)  
 
   
 
-### 1.13.1 (20)  
+###
+
+ 1.13.1 (20)  
 
   
 
@@ -1887,11 +1932,13 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
-1.14. மாற வர்மன் விக்கிரம பாண்டியன் (1283 - 1296)  
+1.14. மாற வர்மன் விக்கிரம பாண்டியன் (1283-1296)  
 
   
 
-### 1.14.1 (21)  
+###
+
+ 1.14.1 (21)  
 
   
 
@@ -1929,11 +1976,13 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
-1.15. சடையவர்மன் சுந்தர பாண்டியன் (1296 - 1310)  
+1.15. சடையவர்மன் சுந்தர பாண்டியன் (1296-1310)  
 
   
 
-### 1.15.1 (22)  
+###
+
+ 1.15.1 (22)  
 
   
 
@@ -1971,11 +2020,13 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
-1.16. அரிகேசரி பராக்கிரம பாண்டியன் (1422 - 1463)  
+1.16. அரிகேசரி பராக்கிரம பாண்டியன் (1422-1463)  
 
   
 
-### 1.16.1 (23)  
+###
+
+ 1.16.1 (23)  
 
   
 
@@ -2089,11 +2140,15 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
-2.1 முதலாம் இராசராசன் (கி. பி 985 - 1014)  
+2.1 முதலாம் இராசராசன் (கி. பி
+
+ 985-1014)  
 
   
 
-### 2.1.1 (24)  
+###
+
+ 2.1.1 (24)  
 
   
 
@@ -2127,11 +2182,15 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 வன்மரான ஸரீஇராசராச தேவர்க்கு யாண்டு...  
 
-2.1 முதலாம் இராசராசன் (கி. பி 985 - 1014) - 2  
+2.1 முதலாம் இராசராசன் (கி. பி
+
+ 985-1014) - 2  
 
   
 
-### 2.1.2 (25)  
+###
+
+ 2.1.2 (25)  
 
   
 
@@ -2345,7 +2404,9 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 பருஷையர் பகுவிதம் பயின்றது கருஷைமுக்  
 
-கண்ணவ னுறைவது கடவுளர் நிறைவது . . . . . 105  
+கண்ணவ னுறைவது கடவுளர் நிறைவது . . . . .
+
+ 105  
 
 மண்ணவர் தொழுவது வானவர் மகிழ்வது  
 
@@ -2365,7 +2426,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 மாவொன் றாகவந்த வேலி யாறே  
 
-காலி லந்தங் களைந்து நீங்கிய - - - - - - - - - - 115  
+காலி லந்தங் களைந்து நீங்கிய - - - - - - - - --115  
 
 நிலத்தா னீங்கா நெற்றுகை ஆங்கொரு  
 
@@ -2375,7 +2436,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 எழுநூற் றிருபதி லிறைமகற் குரிமை  
 
-நாழி யெட்டான் வாழி யட்டானக் - - - - - - - - 120  
+நாழி யெட்டான் வாழி யட்டானக் - - - - - - --120  
 
 கருங்காலொன்றாற் செங்கை யிரண்டிட்டு  
 
@@ -2385,7 +2446,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 உவந்துநஞ் சுண்டவருக் கமுதுண நயந்த  
 
-வொத்தெண் வழுவாப் பத்தெண் குத்தல் - - - - 125  
+வொத்தெண் வழுவாப் பத்தெண் குத்தல் - - --125  
 
 பழநெல் லரிசி பன்னிரு நாழிக்குப்  
 
@@ -2425,7 +2486,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 இப்பரி சியற்றி யெழுந்துநே ரானபின்  
 
-புதுமலர் விரிந்து மதுமலர் சோலைப் - - - - - - 145  
+புதுமலர் விரிந்து மதுமலர் சோலைப் - - - - --145  
 
 புள்ளுர் கோவ லுள்ளுர்ப் பழநிலம்  
 
@@ -2465,7 +2526,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 மணங்கொண் டீண்டு முணங்கல் பூண்டி  
 
-யொப்புத் தொறுமா முப்பத்தறு மாவு - - - - - - - 165  
+யொப்புத் தொறுமா முப்பத்தறு மாவு - - - - - --165  
 
 மிகவந் துயர்புனற் பகவந்தக் கழனி  
 
@@ -2475,7 +2536,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 ஏவிய வெட்டு மாவும் வாவியிற்  
 
-கோடேறு பழனக் காடேறு மாநிலம் - - - - - - - 170  
+கோடேறு பழனக் காடேறு மாநிலம் - - - - - --170  
 
 அஞ்சும் களர்நிலம் பத்துந் நெஞ்சத்து  
 
@@ -2507,7 +2568,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 மாத்தாற் கலவரை யான வரையரை  
 
-அறுகல மேற்றிப் பெறுகல வளவை - - - - - - - - 185  
+அறுகல மேற்றிப் பெறுகல வளவை - - - - - - --185  
 
 மூன்றொடு முப்பது குறைந்த முன்னூற்றுக்  
 
@@ -2527,7 +2588,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 வையமது புகழு நெய்யமுது முப்பிடி  
 
-கொள்ளக் கொடுத்த நெல்லறு நாழியும் - - - - - 195  
+கொள்ளக் கொடுத்த நெல்லறு நாழியும் - - - --195  
 
 பொழுது மூன்றினுக் கிழுதுபடு செந்தயி  
 
@@ -2537,7 +2598,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 அந்தண னொருவ னபிஷேகஞ் செய்யத்  
 
-தந்தன குறுணி முற்றதைந்த நானாழியு - - - - - 200  
+தந்தன குறுணி முற்றதைந்த நானாழியு - - - --200  
 
 மறைய வல்செய் மாணிரண் டினுக்கு  
 
@@ -2557,7 +2618,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 சாலி விளைநிலம் வேலி யாக்கி  
 
-முதல்வதின் மூன்றே முக்காலே யரைக்கா - - - 210  
+முதல்வதின் மூன்றே முக்காலே யரைக்கா - --210  
 
 லிதன்தனி வந்த யியல்வகை யுரைப்பில்  
 
@@ -2567,7 +2628,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 நெஞ்சா சார நிறைவொடு குறையாப்  
 
-பஞ்சா சாரியப் பகுதி யோர்க்கும் - - - - - - - - 215  
+பஞ்சா சாரியப் பகுதி யோர்க்கும் - - - - - - --215  
 
 நறைப்புது மலர்விரி நந்த வானம்  
 
@@ -2587,7 +2648,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 தன்னவை முன்னற் தத்துவ நெறியி  
 
-லறங்கள் யாவையு மிறங்கா வண்ணம் - - - - - - 225  
+லறங்கள் யாவையு மிறங்கா வண்ணம் - - - - --225  
 
 விஞ்ஞா பனத்தால் மிகவௌிப் படுத்தோன்  
 
@@ -2607,7 +2668,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 காரிய மல்லதோர் காரிய நினையா  
 
-தாராண் டலமைக் கற்பக சதுசன - - - - - - - - 235  
+தாராண் டலமைக் கற்பக சதுசன - - - - - - --235  
 
 பேராண் டலைமைக் புணர்புயத் துரவோன்  
 
@@ -2635,7 +2696,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 தலந்தருத் தண்டலைத் தடநீர்  
 
-நலந்தரு பொன்னி நாடுகிழவோனே. - - - - - 249  
+நலந்தரு பொன்னி நாடுகிழவோனே. - - - --249  
 
 ..........  
 
@@ -2657,11 +2718,15 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 ..........  
 
-2.2 முதலாம் இராசேந்திரன் (கி. பி 1012 - 1044)  
+2.2 முதலாம் இராசேந்திரன் (கி. பி
+
+ 1012-1044)  
 
   
 
-### 2.2.1 (26)  
+###
+
+ 2.2.1 (26)  
 
   
 
@@ -2807,11 +2872,15 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 ...........வது- - - - - - - - - - - - - - - - - - 70  
 
-2.3 முதலாம் இராசாதிராசன் (கி. பி 1018 - 1054) -1  
+2.3 முதலாம் இராசாதிராசன் (கி. பி
+
+ 1018-1054) -1  
 
   
 
-### 2.3.1 (27)  
+###
+
+ 2.3.1 (27)  
 
   
 
@@ -2857,11 +2926,15 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 தேவர்க்கு யாண்டு .................................. - - - - - -20  
 
-2.3 முதலாம் இராசாதிராசன் (கி. பி 1018 - 1054) -2  
+2.3 முதலாம் இராசாதிராசன் (கி. பி
+
+ 1018-1054) -2  
 
   
 
-### 2.3.2 (28)  
+###
+
+ 2.3.2 (28)  
 
   
 
@@ -3029,11 +3102,15 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 யாண்டு ................  
 
-2.3 முதலாம் இராசாதிராசன் (கி. பி 1018 - 1054) -3  
+2.3 முதலாம் இராசாதிராசன் (கி. பி
+
+ 1018-1054) -3  
 
   
 
-### 2.3.3 (29)  
+###
+
+ 2.3.3 (29)  
 
   
 
@@ -3185,11 +3262,15 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 தேவர்க்கு யாண்டு .......... ...........  
 
-2.4 இரண்டாம் இராசேந்திரன் (கி. பி 1051 - 1063) - 1  
+2.4 இரண்டாம் இராசேந்திரன் (கி. பி
+
+ 1051-1063) - 1  
 
   
 
-### 2.4.1 (30)  
+###
+
+ 2.4.1 (30)  
 
   
 
@@ -3217,11 +3298,15 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 ..........  
 
-2.4 இரண்டாம் இராசேந்திரன் (கி. பி 1051 - 1063) - 2  
+2.4 இரண்டாம் இராசேந்திரன் (கி. பி
+
+ 1051-1063) - 2  
 
   
 
-### 2.4.2 (31)  
+###
+
+ 2.4.2 (31)  
 
   
 
@@ -3261,11 +3346,15 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 .....................  
 
-2.4 இரண்டாம் இராசேந்திரன் (கி. பி 1051 - 1063) - 3  
+2.4 இரண்டாம் இராசேந்திரன் (கி. பி
+
+ 1051-1063) - 3  
 
   
 
-### 2.4.3 (32)  
+###
+
+ 2.4.3 (32)  
 
   
 
@@ -3319,11 +3408,15 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 .....................  
 
-2.4 இரண்டாம் இராசேந்திரன் (கி. பி 1051 - 1063) - 4  
+2.4 இரண்டாம் இராசேந்திரன் (கி. பி
+
+ 1051-1063) - 4  
 
   
 
-### 2.4.4 (33)  
+###
+
+ 2.4.4 (33)  
 
   
 
@@ -3489,11 +3582,15 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 ................  
 
-2.4 இரண்டாம் இராசேந்திரன் (கி. பி 1051 - 1063) - 5  
+2.4 இரண்டாம் இராசேந்திரன் (கி. பி
+
+ 1051-1063) - 5  
 
   
 
-### 2.4.5 (34)  
+###
+
+ 2.4.5 (34)  
 
   
 
@@ -3671,11 +3768,15 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 யாண்டு ......  
 
-2.5. இராசமகேந்திரன்<(கி. பி 1060-1063) - 1  
+2.5. இராசமகேந்திரன்<(கி. பி
+
+ 1060-1063) - 1  
 
   
 
-### 2.5.1 (35)  
+###
+
+ 2.5.1 (35)  
 
   
 
@@ -3693,11 +3794,15 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 ......  
 
-2.5. இராசமகேந்திரன் (கி. பி 1060-1063) - 2  
+2.5. இராசமகேந்திரன் (கி. பி
+
+ 1060-1063) - 2  
 
   
 
-### 2.5.2 (36)  
+###
+
+ 2.5.2 (36)  
 
   
 
@@ -3721,11 +3826,15 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 .........  
 
-2.6. வீரஇராஜேந்திரன் (கி. பி 1063 - 1070) - 1  
+2.6. வீரஇராஜேந்திரன் (கி. பி
+
+ 1063-1070) - 1  
 
   
 
-### 2.6.1 (37)  
+###
+
+ 2.6.1 (37)  
 
   
 
@@ -3803,11 +3912,15 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 ...........  
 
-2.6. வீரஇராஜேந்திரன் (கி. பி 1063 - 1070) - 2  
+2.6. வீரஇராஜேந்திரன் (கி. பி
+
+ 1063-1070) - 2  
 
   
 
-### 2.6.2 (38)  
+###
+
+ 2.6.2 (38)  
 
   
 
@@ -4031,7 +4144,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 வல்லவர் கோனை வரவு காணாது  
 
-சொல்லிய நாளின் மேலுமொர் திங்கள் - - - - - - - - 110  
+சொல்லிய நாளின் மேலுமொர் திங்கள் - - - - - - --110  
 
 பார்த்தி ருந்த பின்னைப் பேர்த்தவன்  
 
@@ -4041,7 +4154,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 மூவரும் தனித்தனி முதுகிடப் பாவரும்  
 
-இரட்ட பாடி ஏழரை இலக்கமு - - - - - - - - - - - - - 115  
+இரட்ட பாடி ஏழரை இலக்கமு - - - - - - - - - - - --115  
 
 முரட்டொழில் அடக்கி முழங்கெரி யூட்டி  
 
@@ -4071,7 +4184,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 வல்ல னாகில் வந்துகாக் கென்று  
 
-சொல்லி யெடுத்தவத் தானை விசைய - - - - - - - - - 130  
+சொல்லி யெடுத்தவத் தானை விசைய - - - - - - - --130  
 
 வாடையொடு அடுத்தபே ராற்றிற் றடுத்த  
 
@@ -4091,7 +4204,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 மேவருந் தானைத் தாவடி செலுத்தி  
 
-வேங்கைநன் நாடு மீட்டுக் கொண்டுதன் - - - - - - - - 140  
+வேங்கைநன் நாடு மீட்டுக் கொண்டுதன் - - - - - - --140  
 
 பூங்கழற்கு அடைக்லம் புகுந்த படைக்கலத்  
 
@@ -4101,7 +4214,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 பூண்டசயத்திருவோடுங் கங்கா புரிபுகந்து  
 
-அருளி அங்கே ராசாதி ராசனெனத் - - - - - - - - - - 145  
+அருளி அங்கே ராசாதி ராசனெனத் - - - - - - - - --145  
 
 தராதிப ராகத்தம் நியமித்து இயற்றிப்  
 
@@ -4111,7 +4224,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 இருநிதிப் பிறக்கம் வரிசையிற் காட்டி  
 
-ஆழிய நிகளமும் அகற்றி ஆங்கவர் - - - - - - - - - - 150  
+ஆழிய நிகளமும் அகற்றி ஆங்கவர் - - - - - - - - --150  
 
 வாழிய விரதமாற்றிப் பூழிமஞ்  
 
@@ -4133,11 +4246,15 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 ..........  
 
-2.6. வீரஇராஜேந்திரன் (கி. பி 1063 - 1070) - 3  
+2.6. வீரஇராஜேந்திரன் (கி. பி
+
+ 1063-1070) - 3  
 
   
 
-### 2.6.3 (39)  
+###
+
+ 2.6.3 (39)  
 
   
 
@@ -4165,11 +4282,15 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 யாண்டு ............  
 
-2.7. அதிராசேந்திரன் (கி. பி 1067 - 1070) - 1  
+2.7. அதிராசேந்திரன் (கி. பி
+
+ 1067-1070) - 1  
 
   
 
-### 2.7.1 (40)  
+###
+
+ 2.7.1 (40)  
 
   
 
@@ -4213,11 +4334,15 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 ........  
 
-2.8. குலோத்துங்கன் I (கி. பி 1070 - 1120 ) - 1  
+2.8. குலோத்துங்கன் I (கி. பி
+
+ 1070-1120 ) - 1  
 
   
 
-### 2.8.1 (41)  
+###
+
+ 2.8.1 (41)  
 
   
 
@@ -4267,11 +4392,15 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 உடையார் ஸரீஇராசேந்திர சோழ தேவர்க்கு யாண்டு 2 ஆவது  
 
-2.8. குலோத்துங்கன் I (கி. பி 1070 - 1120 ) - 2  
+2.8. குலோத்துங்கன் I (கி. பி
+
+ 1070-1120 ) - 2  
 
   
 
-### 2.8.2 (43)  
+###
+
+ 2.8.2 (43)  
 
   
 
@@ -4319,11 +4448,15 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 6 - ஆவது....  
 
-2.8. குலோத்துங்கன் I (கி. பி 1070 - 1120 ) - 3  
+2.8. குலோத்துங்கன் I (கி. பி
+
+ 1070-1120 ) - 3  
 
   
 
-### 2.8.3 (43)  
+###
+
+ 2.8.3 (43)  
 
   
 
@@ -4519,11 +4652,15 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 சப்தமியு பெற்ற உத்திரட்டாதி நாள்..  
 
-2.8. குலோத்துங்கன் I (கி. பி 1070 - 1120 ) -4  
+2.8. குலோத்துங்கன் I (கி. பி
+
+ 1070-1120 ) -4  
 
   
 
-### 2.8.4 (44)  
+###
+
+ 2.8.4 (44)  
 
   
 
@@ -4555,11 +4692,15 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 யாண்டு நாற்பத்தாறாவது.  
 
-2.8. குலோத்துங்கன் I (கி. பி 1070 - 1120 ) - 5  
+2.8. குலோத்துங்கன் I (கி. பி
+
+ 1070-1120 ) - 5  
 
   
 
-### 2.8.5 (45)  
+###
+
+ 2.8.5 (45)  
 
   
 
@@ -4581,11 +4722,15 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 தேவர்க்கு யாண்டு 4 ஆவது..  
 
-2.8. குலோத்துங்கன் I (கி. பி 1070 - 1120 ) - 6  
+2.8. குலோத்துங்கன் I (கி. பி
+
+ 1070-1120 ) - 6  
 
   
 
-### 2.8.6 (46)  
+###
+
+ 2.8.6 (46)  
 
   
 
@@ -4629,11 +4774,15 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 தேவர்க்கு யாண்டு 2 வது..  
 
-2.9. விக்கிரம சோழன் (கி. பி 1018 - 1135 ) - 1  
+2.9. விக்கிரம சோழன் (கி. பி
+
+ 1018-1135 ) - 1  
 
   
 
-### 2.9.1 (47)  
+###
+
+ 2.9.1 (47)  
 
   
 
@@ -4801,11 +4950,15 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 தேவர்க்கு யாண்டு ஐஞ்சாவது.  
 
-2.9. விக்கிரம சோழன் (கி. பி 1018 - 1135 ) - 2  
+2.9. விக்கிரம சோழன் (கி. பி
+
+ 1018-1135 ) - 2  
 
   
 
-### 2.9.2 (48)  
+###
+
+ 2.9.2 (48)  
 
   
 
@@ -4839,11 +4992,15 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 சோழ தேவர்க்கு யாண்டு 10-ஆவது.  
 
-2.9. விக்கிரம சோழன் (கி. பி 1018 - 1135 ) - 3  
+2.9. விக்கிரம சோழன் (கி. பி
+
+ 1018-1135 ) - 3  
 
   
 
-### 2.9.3 (49)  
+###
+
+ 2.9.3 (49)  
 
   
 
@@ -4865,11 +5022,15 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 திருநல்லி யாண்டு நாற்பத்தொன் றாவது<  
 
-2.10. குலோத்துங்கன் II. (கி. பி 1133 - 1150 ) - 1  
+2.10. குலோத்துங்கன் II. (கி. பி
+
+ 1133-1150 ) - 1  
 
   
 
-### 2.10.1 (50)  
+###
+
+ 2.10.1 (50)  
 
   
 
@@ -4961,11 +5122,15 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 பெற்ற அத்தத்தினாள்...  
 
-2.10. குலோத்துங்கன் II. (கி. பி 1133 - 1150 ) - 2  
+2.10. குலோத்துங்கன் II. (கி. பி
+
+ 1133-1150 ) - 2  
 
   
 
-### 2.10.2 (51)  
+###
+
+ 2.10.2 (51)  
 
   
 
@@ -5075,11 +5240,15 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 சோழ தேவர்க்கு யாண்டு 7 ஆவது  
 
-2.10. குலோத்துங்கன் II. (கி. பி 1133 - 1150 ) - 3  
+2.10. குலோத்துங்கன் II. (கி. பி
+
+ 1133-1150 ) - 3  
 
   
 
-### 2.10.3 (52)  
+###
+
+ 2.10.3 (52)  
 
   
 
@@ -5119,11 +5288,15 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 ஏழாவதின் எதிராவது  
 
-2.11. இராசராசன் II (கி. பி 1146 - 1163 ) - 1  
+2.11. இராசராசன் II (கி. பி
+
+ 1146-1163 ) - 1  
 
   
 
-### 2.11.1 (53)  
+###
+
+ 2.11.1 (53)  
 
   
 
@@ -5165,11 +5338,15 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 சதுர்த்தசியும் வியாழக் கிழமையுமான நாள்........  
 
-2.11. இராசராசன் II (கி. பி 1146 - 1163 ) -2  
+2.11. இராசராசன் II (கி. பி
+
+ 1146-1163 ) -2  
 
   
 
-### 2.11.2 (54)  
+###
+
+ 2.11.2 (54)  
 
   
 
@@ -5241,11 +5418,15 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 எத்துறைக்கும் இறைவனென்னவும் யாஞ்செய்.......  
 
-2.12. இராசாதிராசன் II. (கி. பி 1163 - 1178) - 1  
+2.12. இராசாதிராசன் II. (கி. பி
+
+ 1163-1178) - 1  
 
   
 
-### 2.12.1 (55)  
+###
+
+ 2.12.1 (55)  
 
   
 
@@ -5285,13 +5466,19 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 ஸரீ ராசாதி ராச தேவர்க்கு யாண்டு 4 ஆவது  
 
-நாள் 323 இனால்..  
+நாள்
 
-2.12. இராசாதிராசன் II. (கி. பி 1163 - 1178) - 2  
+ 323 இனால்..  
+
+2.12. இராசாதிராசன் II. (கி. பி
+
+ 1163-1178) - 2  
 
   
 
-### 2.12.2 (56)  
+###
+
+ 2.12.2 (56)  
 
   
 
@@ -5321,11 +5508,15 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 தேவர்க்கு யாண்டு 5-ஆவது..........  
 
-2.12. இராசாதிராசன் II. (கி. பி 1163 - 1178) -3  
+2.12. இராசாதிராசன் II. (கி. பி
+
+ 1163-1178) -3  
 
   
 
-### 2.12.3 (57)  
+###
+
+ 2.12.3 (57)  
 
   
 
@@ -5443,11 +5634,15 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 திரியோதசியும் செவ்வாய்க் கிழமையும்பெற்ற மகத்துநாள்.  
 
-2.13. குலோத்துங்கன் III. (கி. பி 1178 - 1218 ) - 1  
+2.13. குலோத்துங்கன் III. (கி. பி
+
+ 1178-1218 ) - 1  
 
   
 
-### 2.13.1 (58)  
+###
+
+ 2.13.1 (58)  
 
   
 
@@ -5481,13 +5676,19 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 தருளிய கோப்பர கேசரி வன்மரான - 15  
 
-ஸரீ குலோத்துங்க தேவர்க்கு யாண்டு 9 நாள் 88......  
+ஸரீ குலோத்துங்க தேவர்க்கு யாண்டு 9 நாள்
 
-2.13. குலோத்துங்கன் III. (கி. பி 1178 - 1218 ) - 2  
+ 88......  
+
+2.13. குலோத்துங்கன் III. (கி. பி
+
+ 1178-1218 ) - 2  
 
   
 
-### 2.13.2 (59)  
+###
+
+ 2.13.2 (59)  
 
   
 
@@ -5553,11 +5754,15 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 சோழ தேவர்க்கு யாண்டு 18ஆவது.  
 
-2.13. குலோத்துங்கன் III. (கி. பி 1178 - 1218 ) -3  
+2.13. குலோத்துங்கன் III. (கி. பி
+
+ 1178-1218 ) -3  
 
   
 
-### 2.13.3 (60)  
+###
+
+ 2.13.3 (60)  
 
   
 
@@ -5615,11 +5820,15 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 பட்சத்துச் செவ்வாய்க்கிழமையும் பெற்ற பூசத்து நாள்..........  
 
-2.13. குலோத்துங்கன் III. (கி. பி 1178 - 1218 ) - 4  
+2.13. குலோத்துங்கன் III. (கி. பி
+
+ 1178-1218 ) - 4  
 
   
 
-### 2.13.4 (61)  
+###
+
+ 2.13.4 (61)  
 
   
 
@@ -5659,7 +5868,9 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
-### 2.14.1 (58)  
+###
+
+ 2.14.1 (58)  
 
   
 
@@ -5715,7 +5926,9 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
-### 2.14.2 (63)  
+###
+
+ 2.14.2 (63)  
 
   
 
@@ -5733,11 +5946,13 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 பண்ணியருளிய திரிபுவன வீரதேவர்க்குயாண்டு 33 ஆவது...........  
 
-2.15. இராசராசன் III. (1216 - 1256) - 1  
+2.15. இராசராசன் III. (1216-1256) - 1  
 
   
 
-### 2.15.1 (64)  
+###
+
+ 2.15.1 (64)  
 
   
 
@@ -5775,11 +5990,13 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 யாண்டு 16ஆவது...........  
 
-2.15. இராசராசன் III. (1216 - 1256) - 2  
+2.15. இராசராசன் III. (1216-1256) - 2  
 
   
 
-### 2.15.2 (65)  
+###
+
+ 2.15.2 (65)  
 
   
 
@@ -5817,11 +6034,13 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 பூர்வபட்சத்து பஞ்சமியும் வியாழக்கிழமையும்... ... ...  
 
-2.16. இராசேந்திரன் III. (1246 - 1279) - 1  
+2.16. இராசேந்திரன் III. (1246-1279) - 1  
 
   
 
-### 2.16.1 (67)  
+###
+
+ 2.16.1 (67)  
 
   
 
@@ -5843,11 +6062,13 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 யாண்டு நாலாவது...  
 
-2.16. இராசேந்திரன் III. (1246 - 1279) - 2  
+2.16. இராசேந்திரன் III. (1246-1279) - 2  
 
   
 
-### 2.16.2 (66)  
+###
+
+ 2.16.2 (66)  
 
   
 
@@ -5873,11 +6094,13 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
-3.1 இரண்டாம் தேவராய மகாராயர் (1426 - 1452) 1  
+3.1 இரண்டாம் தேவராய மகாராயர் (1426-1452) 1  
 
   
 
-### 3.1.1 (68)  
+###
+
+ 3.1.1 (68)  
 
   
 
@@ -5907,7 +6130,9 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 பிருதிவி ராச்சியம் பண்ணியருளா நின்ற  
 
-சகாப்தம் 1373 ன் மேல் செல்லா நின்ற  
+சகாப்தம்
+
+ 1373 ன் மேல் செல்லா நின்ற  
 
 பிரசாபதி வருஷத்து மீனஞாயிற்று  
 
@@ -5915,11 +6140,15 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 பெற்ற திருவொணத்து நாள் ..... - 15  
 
-3.2 மல்லிகார்ச்சுன தேவ மகாராயர் 1447 - 1465  
+3.2 மல்லிகார்ச்சுன தேவ மகாராயர்
+
+ 1447-1465  
 
   
 
-### 3.2.1 (69)  
+###
+
+ 3.2.1 (69)  
 
   
 
@@ -5943,17 +6172,23 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 பிருதிவி ராச்சியம் பண்ணியருளா நின்ற  
 
-சகாத்தம் 1378ன்மேல் செல்லா நின்ற- - 10  
+சகாத்தம்
+
+ 1378ன்மேல் செல்லா நின்ற- - 10  
 
 தாதுவருஷத்து மகர ஞாயிற்று அமரபட்சத்து  
 
 துதிகையும் புதவாரமும் பெற்ற மகத்துநாள்....  
 
-3.3 கிருஷ்ண தேவமகாராயர் 1509 - 1530  
+3.3 கிருஷ்ண தேவமகாராயர்
+
+ 1509-1530  
 
   
 
-### 3.3.1 (70)  
+###
+
+ 3.3.1 (70)  
 
   
 
@@ -5987,11 +6222,13 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 ...திருவுளம் பற்றின தர்ம சாசனராயசம் - 10  
 
-3.4 வீர அச்சுத தேவமகாராயர் (1529 - 1542)  
+3.4 வீர அச்சுத தேவமகாராயர் (1529-1542)  
 
   
 
-### 3.4.1 (71)  
+###
+
+ 3.4.1 (71)  
 
   
 
@@ -6007,17 +6244,21 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 மகாராயர் பிருதிவி ராச்சியம் பண்ணியருளா நின்ற  
 
-சகாத்தம் 1451 இன் மேல் செல்லா நின்ற விரோதி  
+சகாத்தம்
+
+ 1451 இன் மேல் செல்லா நின்ற விரோதி  
 
 சம்வத்சரத்து விருச்சிக ஞாயிற்று அமரபட்சத்து  
 
 பஞ்சமியிலே........  
 
-3.5. சதாசிவ தேவமகாராயர் (1542 - 1570) -1  
+3.5. சதாசிவ தேவமகாராயர் (1542-1570) -1  
 
   
 
-### 3.5.1 (72)  
+###
+
+ 3.5.1 (72)  
 
   
 
@@ -6035,7 +6276,9 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 மகாஇராயர் பிருதி ராச்சியம் பண்ணி  
 
-அருளாநின்ற சகாப்தம் 1467 தன் மேல்  
+அருளாநின்ற சகாப்தம்
+
+ 1467 தன் மேல்  
 
 செல்லாநின்ற விசுவாவசு சம்வத்சரத்து பால்குண  
 
@@ -6043,11 +6286,13 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 வாரமும் பெற்ற ரோலிணி நட்சத்திரத்து.....  
 
-3.5. சதாசிவ தேவமகாராயர் (1542 - 1570) -2  
+3.5. சதாசிவ தேவமகாராயர் (1542-1570) -2  
 
   
 
-### 3.5.2 (73)  
+###
+
+ 3.5.2 (73)  
 
   
 
@@ -6085,11 +6330,13 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 பேற்ற மூல நட்சத்திரத்து நாள் ...... - 15  
 
-3.5. சதாசிவ தேவமகாராயர் (1542 - 1570) -3  
+3.5. சதாசிவ தேவமகாராயர் (1542-1570) -3  
 
   
 
-### 3.5.3 (74)  
+###
+
+ 3.5.3 (74)  
 
   
 
@@ -6111,7 +6358,9 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 பிருதிவி ராச்சியம் பண்ணியருளா நின்ற  
 
-சகாத்தம் 1483 இதன்மேல் செல்லாநின்ற  
+சகாத்தம்
+
+ 1483 இதன்மேல் செல்லாநின்ற  
 
 துன்மதி வருஷம் மகரஞாயிற்றுப் பூர்வ பட்சத்து - 10  
 
@@ -6121,7 +6370,9 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
-### 3.6.1 (75)  
+###
+
+ 3.6.1 (75)  
 
   
 
@@ -6191,19 +6442,27 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 ஸரீரங்க ரங்கதேவ மகாராயர் பிருதிவி இராச்சியம்  
 
-பண்ணியருளா நின்ற சாலிவாகன சகாத்தம் 1489  
+பண்ணியருளா நின்ற சாலிவாகன சகாத்தம்
 
-கலியுக சகாத்தம் 4899 இதன் மேல் செல்லாநின்ற - 35  
+ 1489  
+
+கலியுக சகாத்தம்
+
+ 4899 இதன் மேல் செல்லாநின்ற - 35  
 
 காளயுக்தி வருஷம் கார்த்திகை மாதம் 8ம் தேதி  
 
 மங்கள வாரமும்... கூடின சுபதினத்தில் .......  
 
-3.7. வீர வசந்தராயர் 1565 - ....  
+3.7. வீர வசந்தராயர்
+
+ 1565 - ....  
 
   
 
-### 3.7.1 (76)  
+###
+
+ 3.7.1 (76)  
 
   
 
@@ -6225,14 +6484,17 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 பண்ணி யருளாநின்ற காலத்தில் கலியக  
 
-சகாப்தம் 4900க்கு மேல் (1490 சகம்)  
+சகாப்தம்
+
+ 4900க்கு மேல் (1490 சகம்)  
 
 வீரவசந்தராயர் நயனாருக்கு ஆண்டு - 10  
 
 மூன்றாவதில் விபவ வருஷம் கார்த்திகை மாதம் ...  
 
-This page was first put up on Jan 16, 2002  
+This page was first put up on Jan 16,
 
-Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com,   
+ 2002  
 
+Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com,  
 kumar@vt.edu?subject=PM134-meikkiirtikaL)

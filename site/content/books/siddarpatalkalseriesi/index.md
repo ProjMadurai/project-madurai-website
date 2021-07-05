@@ -7,6 +7,7 @@ authors:
 genres:
   - சித்தர் பாடல்கள்
 ---
+
 humbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
 weight: 76  
@@ -73,7 +74,9 @@ i). You need to have Unicode fonts containing Tamil Block (Latha,
 
 Arial Unicode MS, TSCu_Inaimathi, Code2000, UniMylai,...) installed on your computer  
 
-and the OS capable of rendering Tamil Scripts (Windows 2000 or Windows XP).  
+and the OS capable of rendering Tamil Scripts (Windows
+
+ 2000 or Windows XP).  
 
 ii)Use a browser that is capable of handling UTF-8 based pages  
 
@@ -81,7 +84,9 @@ ii)Use a browser that is capable of handling UTF-8 based pages
 
 . In case of difficulties send an email request to [kalyan@geocities.com](mailto:kalyan@geocities.com)  
 
-© Project Madurai 1999  
+© Project Madurai
+
+ 1999  
 
 Project Madurai is an open, voluntary, worldwide initiative devoted  
 

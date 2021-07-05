@@ -8,6 +8,7 @@ genres:
   - பிரபந்தம்
   - பிள்ளைத்தமிழ்
 ---
+
 ### எட்டிகுடி முருகன் பிள்ளைத் தமிழ்  
 
 ஆசிரியர்: கோவை.கு. நடேச கவுண்டர்  
@@ -20,7 +21,9 @@ Source:
 
 கவியரசு கு. நடேச கவுண்டர்  
 
-எட்டுகுடி முருகன் தேவஸ்தானம், எட்டுகுடி, 1947.  
+எட்டுகுடி முருகன் தேவஸ்தானம், எட்டுகுடி,
+
+ 1947.  
 
 --------------------------  
 
@@ -2592,6 +2595,8 @@ line missing in the following verse ?? to be checked
 
 **எட்டுகுடி முருகன் பிள்ளைத்தமிழ் முற்றும்.**  
 
-This file was last updated on 8 October 2010.  
+This file was last updated on 8 October
+
+ 2010.  
 
 Fee free to send corrections to the webmaster

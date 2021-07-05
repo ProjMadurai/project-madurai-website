@@ -7,6 +7,7 @@ authors:
 genres:
   - நீதிநெறி – பதினெண்கீழ்க்கணக்கு
 ---
+
 ttps://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
 weight: 36  
@@ -23,7 +24,9 @@ genres:
 
   
 
-# pazamozhi 400 (in tamil script, unicode format)  
+# pazamozhi
+
+ 400 (in tamil script, unicode format)  
 
   
 
@@ -65,7 +68,9 @@ i). You need to have Unicode fonts containing Tamil Block (Latha,
 
 Arial Unicode MS, TSCu_Inaimathi, Code2000, UniMylai,...) installed on your computer  
 
-and the OS capable of rendering Tamil Scripts (Windows 2000 or Windows XP).  
+and the OS capable of rendering Tamil Scripts (Windows
+
+ 2000 or Windows XP).  
 
 ii)Use a browser that is capable of handling UTF-8 based pages  
 
@@ -73,7 +78,9 @@ ii)Use a browser that is capable of handling UTF-8 based pages
 
 . In case of difficulties send an email request to [kalyan@geocities.com](mailto:kalyan@geocities.com)  
 
-C: Project Madurai 1999  
+C: Project Madurai
+
+ 1999  
 
 Project Madurai is an open, voluntary, worldwide initiative devoted  
 
@@ -1461,7 +1468,9 @@ header page is kept intact.
 
 கட்டி அடையைக் களைவித்துக் 'கண்சொரீஇ  
 
-இட்டிகை தீற்று பவர்'. 108  
+இட்டிகை தீற்று பவர்'.
+
+ 108  
 
 109.  
 
@@ -5041,10 +5050,14 @@ header page is kept intact.
 
 --------------------  
 
-( குறிப்பு : தற்சிறப்புப் பாயிரமும் கடவுள் வணக்கமும் சேர்த்து மொத்தம் 401 பாடல்கள்).  
+( குறிப்பு : தற்சிறப்புப் பாயிரமும் கடவுள் வணக்கமும் சேர்த்து மொத்தம்
+
+ 401 பாடல்கள்).  
 
 பழமொழி நானூறு முற்றிற்று  
 
 ------------------------------------  
 
-This Etext file was first put up in the Web on 20 Dec. 1999.
+This Etext file was first put up in the Web on 20 Dec.
+
+ 1999.

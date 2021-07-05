@@ -7,6 +7,7 @@ authors:
 genres:
   - நாவல்; மொழிபெயர்ப்பு
 ---
+
 ### Measure for Measure (a Tale from Shakespeare)  
 
 in Tamil by Pandit S.M. Natesa Sastri, B.A.,  
@@ -89,6 +90,8 @@ Book Source: British Library, London and Tamil Heritage Foundation
 
 "நாம் பிறருக்களப்பதுதான் நமக்கும் அளக்கப்படும்."  
 
-This page was last updated on 10 August 2007.  
+This page was last updated on 10 August
+
+ 2007.  
 
 Feel free to send corrections and comments to the Webmaster.

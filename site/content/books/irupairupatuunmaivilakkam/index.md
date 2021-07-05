@@ -7,6 +7,7 @@ authors:
 genres:
   - சைவ சித்தாந்தம்
 ---
+
 ## irupA irupatu (aruNanti civAcAriyAr)  
 
 இருபா இருபது (ஆசிரியர் : அருணந்தி சிவாசாரியார் )  
@@ -1275,6 +1276,8 @@ genres:
 
 ----------------------  
 
-This page was first put up on April 18, 2000  
+This page was first put up on April 18,
+
+ 2000  
 
 Please send your comments and corrections to the [Webmaster of this site](mailto:kalyan@geocities.com, kumar@vt.edu?subject=PM68: irupA irupatu)

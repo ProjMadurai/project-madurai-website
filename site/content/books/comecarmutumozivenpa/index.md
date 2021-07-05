@@ -8,9 +8,12 @@ genres:
   - பிரபந்தம்
   - வெண்பா
 ---
+
 mbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
-weight: 137  
+weight:
+
+ 137  
 
 authors:  
 
@@ -52,9 +55,13 @@ Etext input & Proof-reading: Mr. N.D. Logasundaram & his daughter Ms. Selvanayag
 
 web version: Mr. N.D. Logasundaram, Chennai, Tamilnadu & Mr. K. Kalyanasundaram, Lausanne, Switzerland  
 
-Source acknowledgement: Publication from M/s vAviLLa rAmasvAmi cAstrulu & sons 292, Esplanade Chennai  
+Source acknowledgement: Publication from M/s vAviLLa rAmasvAmi cAstrulu & sons
 
-' Akshaya Thai ' printed at ' The Sri Rama Press ' 15, Broadway Madras. 1927.  
+ 292, Esplanade Chennai  
+
+' Akshaya Thai ' printed at ' The Sri Rama Press ' 15, Broadway Madras.
+
+ 1927.  
 
 Editor ' mani tirunAvukkaracu mutaliar ' paccaappan kallUrit tamizAciriyar".  
 
@@ -68,7 +75,9 @@ i). You need to have Unicode fonts containing Tamil Block (Latha,
 
 Arial Unicode MS, TSCu_Inaimathi, Code2000, UniMylai,...) installed on your computer  
 
-and the OS capable of rendering Tamil Scripts (Windows 2000 or Windows XP).  
+and the OS capable of rendering Tamil Scripts (Windows
+
+ 2000 or Windows XP).  
 
 ii)Use a browser that is capable of handling UTF-8 based pages  
 
@@ -76,7 +85,9 @@ ii)Use a browser that is capable of handling UTF-8 based pages
 
 . In case of difficulties send an email request to [kalyan@geocities.com](mailto:kalyan@geocities.com) or [kumar@vt.edu](mailto:kumar@vt.edu)  
 
-© Project Madurai 1999 - 2003  
+© Project Madurai
+
+ 1999-2003  
 
 Project Madurai is an open, voluntary, worldwide initiative devoted  
 
@@ -98,7 +109,9 @@ header page is kept intact.
 
   
 
-### அதிகாரத்திற்கு ஒன்றாக 133 திருக்குறளை உள்ளீடுகொண்ட நீதி நூல்  
+### அதிகாரத்திற்கு ஒன்றாக
+
+ 133 திருக்குறளை உள்ளீடுகொண்ட நீதி நூல்  
 
   
 
@@ -1168,6 +1181,8 @@ header page is kept intact.
 
   
 
-காயும் புலவியில் வன்தொண்டர் கடைபட்டுத்தோயுமின்பின் மேலானார் சோமேசா - ஆயுங்கால்ஊடலிற் தோற்றவர்வென் றாரது மன்னுங்கூடலிற் காணப் படும்.    This file was last revised on 20 Feb. 2002  
+காயும் புலவியில் வன்தொண்டர் கடைபட்டுத்தோயுமின்பின் மேலானார் சோமேசா - ஆயுங்கால்ஊடலிற் தோற்றவர்வென் றாரது மன்னுங்கூடலிற் காணப் படும்.    This file was last revised on 20 Feb.
+
+ 2002  
 
 Please send your comments to the [webmasters of this website](mailto:kalyan@geocities.com, kumar@vt.edu?subject=PM137 nIti veNpA).

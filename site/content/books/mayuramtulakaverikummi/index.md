@@ -8,15 +8,22 @@ genres:
   - கும்மி
   - பிரபந்தம்
 ---
-ி 2. மாணிக்கவாசகர் சரித்திர கும்மி.'  
+
+ி
+
+ 2. மாணிக்கவாசகர் சரித்திர கும்மி.'  
 
 thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
-weight: 767  
+weight:
+
+ 767  
 
 authors:  
 
-  - 1. சிறுமணவூர் முனிசாமி முதலியார் 2. ஆவிடையார் கோவில் ஆத்மனாதய்யர்  
+ -1. சிறுமணவூர் முனிசாமி முதலியார்
+
+ 2. ஆவிடையார் கோவில் ஆத்மனாதய்யர்  
 
 genres:  
 
@@ -472,6 +479,8 @@ In tamil script, unicode/utf-8 format
 
 _____________&______________  
 
-This file was last updated on 3 Dec. 2020.  
+This file was last updated on 3 Dec.
+
+ 2020.  
 
 Feel free to send the corrections to the webmaster.

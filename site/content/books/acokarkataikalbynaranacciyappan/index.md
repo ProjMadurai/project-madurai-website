@@ -7,11 +7,14 @@ authors:
 genres:
   - சிறுவர்களுக்கான கதைகள்
 ---
+
 ஒரு ஈயின் ஆசை (683_02)'  
 
 thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
-weight: 682  
+weight:
+
+ 682  
 
 authors:  
 
@@ -63,7 +66,11 @@ In tamil script, unicode/utf-8 format
 
 சென்னை-600014.  
 
-முதற் பதிப்பு: ஜனவரி 1966, இரண்டாம் பதிப்பு மார்ச் 1975  
+முதற் பதிப்பு: ஜனவரி
+
+ 1966, இரண்டாம் பதிப்பு மார்ச்
+
+ 1975  
 
 உரிமை ஆசிரியருக்கே.  
 
@@ -699,6 +706,8 @@ In tamil script, unicode/utf-8 format
 
 ----------------------  
 
-This file was last updated on 14 Nov. 2019  
+This file was last updated on 14 Nov.
+
+ 2019  
 
 Feel free to send the corrections to the webmaster.

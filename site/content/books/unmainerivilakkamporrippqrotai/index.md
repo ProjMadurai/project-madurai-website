@@ -7,7 +7,10 @@ authors:
 genres:
   - சைவ சித்தாந்தம்
 ---
-### 1. உண்மை நெறி விளக்கம் - உமாபதி சிவம்  
+
+###
+
+ 1. உண்மை நெறி விளக்கம் - உமாபதி சிவம்  
 
 இயற்றியவர்: சீகாழி தத்துவ நாதர் (காலம்: கி.பி.1350)  
 
@@ -111,7 +114,9 @@ genres:
 
   
 
-### 2. போற்றிப் பஃறொடை  
+###
+
+ 2. போற்றிப் பஃறொடை  
 
 இயற்றியவர்: உமாபதி சிவம் (காலம் : கி.பி.1309)  
 
@@ -507,6 +512,8 @@ genres:
 
 முற்றும்  
 
-This page was first put up on June 27, 2001  
+This page was first put up on June 27,
+
+ 2001  
 
 Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, kumar@vt.edu? subject=PM114 : umapati sivam works)

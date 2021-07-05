@@ -8,13 +8,16 @@ genres:
   - தொகுப்பு
   - பாடல்கள்
 ---
+
 ### Namakkal kavinjar V. Ramalingam Pillai (1888-1972) pATalkaL- part III  
 
 (in Tamil Script, TSCII format)  
 
 நாமக்கல் கவிஞர் இராமலிங்கம் பிள்ளை பாடல்கள் - மூன்றாம் பாகம்  
 
-பாடல்கள் 181- 251  
+பாடல்கள்
+
+ 181-251  
 
   
 
@@ -3450,10 +3453,11 @@ genres:
 
 வாழிய கொடியே! வாழ்கபல் லாண்டு! (கொடி)  
 
-This page was first put up on Sept 15, 2000  
+This page was first put up on Sept 15,
 
-Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com,   
+ 2000  
 
+Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com,  
   
 
 kumar@vt.edu?subject=PM84-nAmakkal kavinjar songs III)

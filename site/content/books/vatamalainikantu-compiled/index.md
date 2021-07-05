@@ -7,17 +7,24 @@ authors:
 genres:
   - இலக்கணம்
 ---
+
 ## வட மலை நிகண்டு  
 
 தொகுப்பு : ஈஸ்வர பாரதி  
 
   
 
-The original work was compiled by Iswara Bharati, son of Chidambara Bharati in the Kollam year 876, corresponding to 1700.A.D. It was called "iraiyUr vadamalai nikaNtu". Although it contained three chapters as mentioned in the dedication stanzas, only the second chapter is available in manuscript and is secured in Dr. U.V.Swaminatha Iyer Library.  
+The original work was compiled by Iswara Bharati, son of Chidambara Bharati in the Kollam year
+
+ 876, corresponding to
+
+ 1700.A.D. It was called "iraiyUr vadamalai nikaNtu". Although it contained three chapters as mentioned in the dedication stanzas, only the second chapter is available in manuscript and is secured in Dr. U.V.Swaminatha Iyer Library.  
 
 It was due to the devoted efforts of late Dr. U.V.Swaminatha Iyer, who is revered as தமிழ்த் தாத்தா, that this manuscript was collected and preserved.  
 
-The source of this text is the edition published by Dr. U.V.Swaminatha Iyer Library, edited by Tiru. R.Nagaswamy in 1983. This pmadurai file contains only the original verses (moolam) and not the meaning and notes included in the printed book.  
+The source of this text is the edition published by Dr. U.V.Swaminatha Iyer Library, edited by Tiru. R.Nagaswamy in
+
+ 1983. This pmadurai file contains only the original verses (moolam) and not the meaning and notes included in the printed book.  
 
   
 
@@ -2615,7 +2622,9 @@ The source of this text is the edition published by Dr. U.V.Swaminatha Iyer Libr
 
 கொல்லெனும் பெயர்கொலை யேவலு மசைச்சொல்லும்  
 
-ஐயமும் வருத்தமும் செங்கொல்லும் கருங்கொல்லும். .... 594  
+ஐயமும் வருத்தமும் செங்கொல்லும் கருங்கொல்லும். ....
+
+ 594  
 
 கொடியெனும் பெயரே யொழுங்கும் வல்லியும்  
 
@@ -6619,6 +6628,8 @@ The source of this text is the edition published by Dr. U.V.Swaminatha Iyer Libr
 
   
 
-This page was first put up on June 21, 2001  
+This page was first put up on June 21,
+
+ 2001  
 
 Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, kumar@vt.edu? subject=PM113 : vatamalai nikantu)

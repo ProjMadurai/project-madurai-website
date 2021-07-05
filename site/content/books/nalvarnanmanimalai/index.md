@@ -8,9 +8,12 @@ genres:
   - பிரபந்தம்
   - மாலை
 ---
+
 ail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
-weight: 138  
+weight:
+
+ 138  
 
 authors:  
 
@@ -52,9 +55,13 @@ Etext input & Proof-reading: Mr. N.D. Logasundaram & his daughter Ms. Selvanayag
 
 web version: Mr. N.D. Logasundaram, Chennai, Tamilnadu.  
 
-Source acknowledgement: Book published by vAviLLa irAmasuvAmi casturulu and sons, 292 Esplanade Chennai  
+Source acknowledgement: Book published by vAviLLa irAmasuvAmi casturulu and sons,
 
-Printed at Rama Press 15, Broadway Madras 1926; patippAciriyar paccaiyappan kallUri tamizAciriyar maNi tirynAvykkaracu mutaliyAr.  
+ 292 Esplanade Chennai  
+
+Printed at Rama Press 15, Broadway Madras
+
+ 1926; patippAciriyar paccaiyappan kallUri tamizAciriyar maNi tirynAvykkaracu mutaliyAr.  
 
   
 
@@ -66,7 +73,9 @@ i). You need to have Unicode fonts containing Tamil Block (Latha,
 
 Arial Unicode MS, TSCu_Inaimathi, Code2000, UniMylai,...) installed on your computer  
 
-and the OS capable of rendering Tamil Scripts (Windows 2000 or Windows XP).  
+and the OS capable of rendering Tamil Scripts (Windows
+
+ 2000 or Windows XP).  
 
 ii)Use a browser that is capable of handling UTF-8 based pages  
 
@@ -74,7 +83,9 @@ ii)Use a browser that is capable of handling UTF-8 based pages
 
 . In case of difficulties send an email request to [kalyan@geocities.com](mailto:kalyan@geocities.com) or [kumar@vt.edu](mailto:kumar@vt.edu)  
 
-© Project Madurai 1999 - 2003  
+© Project Madurai
+
+ 1999-2003  
 
 Project Madurai is an open, voluntary, worldwide initiative devoted  
 
@@ -812,6 +823,8 @@ header page is kept intact.
 
 பூவெனப் படுவது பொறிவாழ் பூவே.  
 
-This file was last revised on 21 Feb. 2002  
+This file was last revised on 21 Feb.
+
+ 2002  
 
 Please send your comments to the [webmasters of this website](mailto:kalyan@geocities.com, kumar@vt.edu?subject=PM138 nalvar manimalai).

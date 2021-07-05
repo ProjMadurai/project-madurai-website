@@ -9,6 +9,7 @@ genres:
   - சமயம்
   - சைவம்
 ---
+
 Part 1 containing the English Translation of first 10 Hymns of tiruvAcakam has been released earlier as Project Madurai Etext release /#94.  
 
 [Click here to go to Part I](http://www.tamil.net/projectmadurai/pub/pm0094/tvcpope1.html)  
@@ -755,7 +756,9 @@ II. The second of these triumphs is the destruction of Dakshan's sacrifice. The 
 
   
 
-In the Kaci Khandam, the account of Dakshan-his sacrifice, punishment, forgiveness, and penance in Benares - occupies chapters xxxviii-xc inclusive, and fills 148 stanzas. It sums up, with some inconsistencies, the whole story as given in the Sanskrit books. Dakshan (- the Intelligent) is represented sometimes as the father, and sometimes as the son of Aditi; and at other times the two are curiously said to have been reciprocally producers and produced. He is identified with Prajapati, the Creator. This almost seems like a statement that the whole universe is developed from intelligence, and might appear like a very symbolical acting forth of Hegel's system. Dakshan had many daughters married to the great saints, and especially Kacyapa(Kaciban) is said to have been the husband of twelve of them. One of his daughters was Durga, or Uma, who was subsequently born from the mountain after her voluntary death, and so received the name of Parvathi. So Civan, the Supreme, was a son-in-law of Dakshan, the Intelligence from which the Universe was developed. It is rather entangled.  
+In the Kaci Khandam, the account of Dakshan-his sacrifice, punishment, forgiveness, and penance in Benares - occupies chapters xxxviii-xc inclusive, and fills
+
+ 148 stanzas. It sums up, with some inconsistencies, the whole story as given in the Sanskrit books. Dakshan (- the Intelligent) is represented sometimes as the father, and sometimes as the son of Aditi; and at other times the two are curiously said to have been reciprocally producers and produced. He is identified with Prajapati, the Creator. This almost seems like a statement that the whole universe is developed from intelligence, and might appear like a very symbolical acting forth of Hegel's system. Dakshan had many daughters married to the great saints, and especially Kacyapa(Kaciban) is said to have been the husband of twelve of them. One of his daughters was Durga, or Uma, who was subsequently born from the mountain after her voluntary death, and so received the name of Parvathi. So Civan, the Supreme, was a son-in-law of Dakshan, the Intelligence from which the Universe was developed. It is rather entangled.  
 
   
 
@@ -3357,7 +3360,9 @@ THE SIGHT OF THE 'GURU.'
 
 -----  
 
-This is one of the places which the Sage is said to have visited before seeing Cithambaram. It would appear that here he had some peculiar manifestation of the god, who had revealed himself to him in Perun-turrai. It is open to conjecture that the Guru, whom he regarded as Civan manifested in the flesh, resided there, or at least was a constant visitant. The place itself is a renowned Caiva shrine, and has its own legend, a considerable poem of 832 quatrains. This is of recent origin, and, I should suppose, of small authority. It states that the original name of the hill was Veda-giri, or the hill of the Veda. It is said to have four hills clustered together, each being one of the four Vedas, while the central peak, which is of basaltic formation, is Civan Himself in the form of the Lingam. It is curiously stated that 'in Arur the god dwells for the first watch of the night, and in Cithambaram for the midnight watch; but in Veda-giri he is always to be formed.' The name of the hill of the Veda was changed to that of the hill of the Eagle, because two eminent persons, having disputed an order of Civan, were sentenced to perform penance there.  
+This is one of the places which the Sage is said to have visited before seeing Cithambaram. It would appear that here he had some peculiar manifestation of the god, who had revealed himself to him in Perun-turrai. It is open to conjecture that the Guru, whom he regarded as Civan manifested in the flesh, resided there, or at least was a constant visitant. The place itself is a renowned Caiva shrine, and has its own legend, a considerable poem of
+
+ 832 quatrains. This is of recent origin, and, I should suppose, of small authority. It states that the original name of the hill was Veda-giri, or the hill of the Veda. It is said to have four hills clustered together, each being one of the four Vedas, while the central peak, which is of basaltic formation, is Civan Himself in the form of the Lingam. It is curiously stated that 'in Arur the god dwells for the first watch of the night, and in Cithambaram for the midnight watch; but in Veda-giri he is always to be formed.' The name of the hill of the Veda was changed to that of the hill of the Eagle, because two eminent persons, having disputed an order of Civan, were sentenced to perform penance there.  
 
 -----  
 
@@ -6213,4 +6218,6 @@ Even me He took as something worth,- like dog in sumptuous litter borne !
 
 'Twas thus the MOTHER gave me grace: O RAPTURE ! WHO SO BLEST AS I ? (36)  
 
-END OF TIRUVACAGAM.   This webpage was last updated on August 10, 2005
+END OF TIRUVACAGAM.   This webpage was last updated on August 10,
+
+ 2005

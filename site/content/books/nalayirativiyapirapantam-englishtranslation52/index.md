@@ -8,9 +8,12 @@ genres:
   - சமயம்
   - வைணவம், மொழிபெயர்ப்பு
 ---
+
 ### Nālāyira Divya Prabhandam  
 
-Paśurams by Seven Azhvārs, Part 3 (pāsurams 2082 -2970)  
+Paśurams by Seven Azhvārs, Part 3 (pāsurams
+
+ 2082 -2970)  
 
 English Translation by Kausalya Hart  
 
@@ -30,29 +33,41 @@ Berkeley, California. USA
 
 Nālāyira Divya Prabhandam - third thousand pāsurams  
 
-13. 1st Thiruvandādi.- Poyhai Azhvar (2082 – 2181)  
+13. 1st Thiruvandādi.- Poyhai Azhvar (2082 –
+
+ 2181)  
 
 14. 2nd Thiruvanthaathi. Buthaththāzhvar (2182 -2281)  
 
-15. Third Thiruvandādi – Peyāzhvār (2282 – 2381)  
+15. Third Thiruvandādi – Peyāzhvār (2282 –
 
-16. Thirumazhisai Alvar - Nāmuhan Thiruvandāthi. (2382 – 2477)  
+ 2381)  
+
+16. Thirumazhisai Alvar - Nāmuhan Thiruvandāthi. (2382 –
+
+ 2477)  
 
 17. Thiruvirutham. - Nammāzhvar (2478 -2577)  
 
 18. Nammaazhvar - Thiruvāsiriyam (2578 -2584)  
 
-19. Nammāzhvar’s Periya Thiruvanthādi. (2585 – 2671)  
+19. Nammāzhvar’s Periya Thiruvanthādi. (2585 –
+
+ 2671)  
 
 20. Thirumangai Azhvar - Thiruvezukuṛṛirukkai (2672)  
 
-21. Siriya thirumaḍal - Thirumangaiyāzhvār (2673 - 2712)  
+21. Siriya thirumaḍal - Thirumangaiyāzhvār (2673-2712)  
 
 22. Periyathirumaḍal - Thirumangai (2713 -2790)  
 
   
 
-### 13. Mudal Thiruvandādi.- Poyhai Azhvar (2082 – 2181)  
+###
+
+ 13. Mudal Thiruvandādi.- Poyhai Azhvar (2082 –
+
+ 2181)  
 
   
 
@@ -1204,7 +1219,9 @@ Mudal Thiruvanthadi ends.
 
   
 
-### 14. Second Thiruvanthaathi. Buthaththāzhvar (2182 -2281)  
+###
+
+ 14. Second Thiruvanthaathi. Buthaththāzhvar (2182 -2281)  
 
   
 
@@ -2278,7 +2295,11 @@ Bhuththāzhvār pasurams end
 
   
 
-### 15. Third Thiruvandādi – Peyāzhvār (2282 – 2381)  
+###
+
+ 15. Third Thiruvandādi – Peyāzhvār (2282 –
+
+ 2381)  
 
   
 
@@ -3314,7 +3335,11 @@ as he embraces Lakshmi who is on a flower dripping with honey.
 
   
 
-### 16. Thirumazhisai Alvar - Nāmuhan Thiruvandāthi. (2382 – 2477)  
+###
+
+ 16. Thirumazhisai Alvar - Nāmuhan Thiruvandāthi. (2382 –
+
+ 2477)  
 
   
 
@@ -4358,7 +4383,9 @@ Nanmuhan Thiruvandathi ends.
 
   
 
-### 17. Thiruvirutham. - Nammāzhvar (2478 -2577)  
+###
+
+ 17. Thiruvirutham. - Nammāzhvar (2478 -2577)  
 
   
 
@@ -5884,7 +5911,9 @@ Thiruvirutham mutrum. Nammaazhvar Thiruvaḍikaḷee saraṇam
 
   
 
-### 18. Nammaazhvar - Thiruvāsiriyam (2578 -2584)  
+###
+
+ 18. Nammaazhvar - Thiruvāsiriyam (2578 -2584)  
 
   
 
@@ -6056,7 +6085,11 @@ Thiruvāsiriyam. murrum.
 
   
 
-### 19. Nammāzhvar’s Periya Thiruvanthādi. (2585 – 2671)  
+###
+
+ 19. Nammāzhvar’s Periya Thiruvanthādi. (2585 –
+
+ 2671)  
 
   
 
@@ -7094,7 +7127,9 @@ SUBHAM
 
   
 
-### 20. Thirumangai Azhvar - Thiruvezukuṛṛirukkai (2672)  
+###
+
+ 20. Thirumangai Azhvar - Thiruvezukuṛṛirukkai (2672)  
 
   
 
@@ -7230,7 +7265,11 @@ SUBHAM Thiruvezhulirrirukkai ends
 
   
 
-### 21. Siriya thirumaḍal - Thirumangaiyāzhvār (2673 to 2712)  
+###
+
+ 21. Siriya thirumaḍal - Thirumangaiyāzhvār (2673 to
+
+ 2712)  
 
   
 
@@ -7352,7 +7391,9 @@ who can tell you how to remove her sickness.
 
 She may tell you the truth.’  
 
-10, 11, 12. “When my mother summoned her,  
+10, 11,
+
+ 12. “When my mother summoned her,  
 
 the fortune teller with dark, tied-up hair  
 
@@ -7384,7 +7425,9 @@ and protected the cows and the cowherds
 
 from the storm with Govardhana mountain.  
 
-13, 14, 15. “‘He churned the milky ocean to get nectar for the gods,  
+13, 14,
+
+ 15. “‘He churned the milky ocean to get nectar for the gods,  
 
 he grazed the cows,  
 
@@ -7458,7 +7501,9 @@ He fought with Karan, the brother of Surpanaha
 
 with his bow and made him suffer as if he were in hell.  
 
-18, 19, 20. “‘When handsome broad-armed Rāvaṇa  
+18, 19,
+
+ 20. “‘When handsome broad-armed Rāvaṇa  
 
 took Sita whose lovely breasts were tied with a band to Lanka,  
 
@@ -7538,7 +7583,9 @@ because she had become his slave
 
 and was not in love with anyone else.  
 
-26, 28. The daughter says,  
+26,
+
+ 28. The daughter says,  
 
 “I prattle on because I saw his dark cloud-like body.  
 
@@ -7568,7 +7615,7 @@ who has the dark color of the ocean
 
 did not come back and forgot me.  
 
-30.- 33. “I have done bad karma. The villagers are making fun of me  
+30.-33. “I have done bad karma. The villagers are making fun of me  
 
 and there is no one to help me.  
 
@@ -7596,7 +7643,7 @@ The villagers gossiped saying mean things about her.
 
 Here is what I am going to do.  
 
-35 - 40. “I have decided to go to temples to see the dark one.  
+35-40. “I have decided to go to temples to see the dark one.  
 
 I will go to beautiful Thiruvenkaṭam, Thirukkovalur,  
 
@@ -7652,7 +7699,9 @@ SUBHAM
 
   
 
-### 22. Periyathirumaḍal - Thirumangai (2713 -2790)  
+###
+
+ 22. Periyathirumaḍal - Thirumangai (2713 -2790)  
 
   
 
@@ -7737,6 +7786,8 @@ shows that they are ignorant.
 We will talk about them later. (9-10)  
 
 **The sages enter Indra’s world and enjoy it. (11 - 22)**  
+  
+  
 
 Let us look at the life of sages.  
 
@@ -7779,6 +7830,8 @@ and there they listen contentedly to the sweet music
 that the Aparasas play on their yāzhs. (15)  
 
 **Indra’s Palace (16 -22)**  
+  
+  
 
 The sages stay in palaces that shine like lightning  
 
@@ -7836,7 +7889,7 @@ but I don’t want to worry about that.
 
 I haveonly described what the northern tradition says. (22)  
 
-23 - 28. Those who do not want to follow the northern tradition  
+23-28. Those who do not want to follow the northern tradition  
 
 will not know the coolness of the sandal paste  
 
@@ -8149,6 +8202,8 @@ gave me this love sickness.” (53)
 **The heroism of the Lord and how she riding on madal after  
 
 telling the power of Thirumāl. (54 - 78)**  
+  
+  
 
 She says,  
 
@@ -8454,8 +8509,16 @@ of a flourishing palm tree.” (78)
 
 --------------  
 
-**End of part 3 (pasurams 2082 – 2790)**  
+**End of part 3 (pasurams
 
-This file was last updated on 5 Sept. 2018  
+ 2082 –
+
+ 2790)**  
+  
+  
+
+This file was last updated on 5 Sept.
+
+ 2018  
 
 Feel free to send the corrections to the webmaster.

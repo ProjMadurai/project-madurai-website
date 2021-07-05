@@ -7,6 +7,7 @@ authors:
 genres:
   - 
 ---
+
 []()  
 
 [  
@@ -1113,7 +1114,9 @@ genres:
 
 ஏதுசொலி வாழ்த்துவே (47)னின்று.  
 
-(46). சேரும் வண்ணம்; 47. நான்  
+(46). சேரும் வண்ணம்;
+
+ 47. நான்  
 
 101.  
 
@@ -1177,7 +1180,9 @@ So you need to have a TSCII-conformant tamil font to view the Tamil part properl
 
 In case of difficulties send an email request to [kalyan@geocities.com](mailto:kalyan@geocities.com) or [kumar@vt.edu](mailto:kumar@vt.edu)  
 
-ன Project Madurai 1999  
+ன Project Madurai
+
+ 1999  
 
 Project Madurai is an open, voluntary, worldwide initiative devoted to preparation of electronic texts of tamil literary works and to distribute them free on the Internet. Details of Project Madurai are available at the website http://www.tamil.net/projectmadurai  
 
@@ -1207,13 +1212,17 @@ You are welcome to freely distribute this file, provided this header page is kep
 
 பிறப்பிறப் பில்லையென் றுந்தீபற.  
 
-(1). பிண்டத்து 4.(2)இங்ங னிருந்ததென் றெவ்வண்ணஞ் சொல்லுகேன்  
+(1). பிண்டத்து
+
+ 4.(2)இங்ங னிருந்ததென் றெவ்வண்ணஞ் சொல்லுகேன்  
 
 அங்ங னிருந்ததென் றுந்தீபற  
 
 அறிவு மறிவதென் றுந்தீபற.  
 
-(2). எங்ங 5.ஏகனு மாகி யநேகனு மானவன்  
+(2). எங்ங
+
+ 5.ஏகனு மாகி யநேகனு மானவன்  
 
 நாதனு மானானென் றுந்தீபற  
 
@@ -1409,6 +1418,12 @@ You are welcome to freely distribute this file, provided this header page is kep
 
 திருச்சிற்றம்பலம்  
 
-This page was first put up on December 13, 2001 and last revised to TSCII 1.7 version on 14 March 2002  
+This page was first put up on December 13,
+
+ 2001 and last revised to TSCII
+
+ 1.7 version on 14 March
+
+ 2002  
 
 Please send your comments and corrections to the]()[Webmaster(s) of this site](mailto:kalyan@geocities.com, kumar@vt.edu? subject=PM120 :tirukaLiRRupaTiyAr)

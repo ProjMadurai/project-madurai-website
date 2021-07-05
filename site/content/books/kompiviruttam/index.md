@@ -8,6 +8,7 @@ genres:
   - பிரபந்தம்
   - விருத்தம்
 ---
+
 ### கோம்பி விருத்தம் : மூலமும் உரையும்  
 
 வெ.ப. சுப்பிரமணிய முதலியார் இயற்றியது.  
@@ -1206,6 +1207,8 @@ V.P.S.
 
 ---------------------  
 
-This file was last updated on 20 Feb. 2013.  
+This file was last updated on 20 Feb.
+
+ 2013.  
 
 Feel free to send the corrections to the Webmaster.

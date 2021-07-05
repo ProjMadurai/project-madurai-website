@@ -8,6 +8,7 @@ authors:
 genres:
   - ஆங்கில மொழிபெயர்ப்பு
 ---
+
 ### tiruvAcakam of mAnikka vAcakar  
 
 English Translationby Kausalya Hart  
@@ -84,7 +85,9 @@ Part I. The Lord of the Vedas
 
   
 
-### 1. Sivapuranam  
+###
+
+ 1. Sivapuranam  
 
   
 
@@ -350,7 +353,9 @@ where all other devotees will praise them and bow to them. 95
 
   
 
-### 2. Keerthi Thiruvakaval [2]  
+###
+
+ 2. Keerthi Thiruvakaval [2]  
 
   
 
@@ -520,7 +525,7 @@ He, the mountain of grace, knows the qualities and abilities of all
 
 and gives his grace accordingly.  
 
-127- 146  
+127-146  
 
 O lord, I am a dog.  
 
@@ -550,7 +555,9 @@ He, the god of high Kailasa mountain, came to Thiruppuliyur and abides there.
 
   
 
-### 3. Thiruvandappakudi [3]  
+###
+
+ 3. Thiruvandappakudi [3]  
 
   
 
@@ -770,7 +777,9 @@ I feel his flood of joy all over my body.
 
 I do not want this body—I want to join him.  
 
-Omnipresent lord could not be found by devotees. 123 - 132  
+Omnipresent lord could not be found by devotees.
+
+ 123-132  
 
 He is a heap of emeralds and shines brightly.  
 
@@ -790,7 +799,7 @@ Those who thought they could find him in tantras
 
 could not find him even in the sky.  
 
-133 - 141  
+133-141  
 
 He is unique.  
 
@@ -810,7 +819,7 @@ No one knows whether he is or he is not or whether he is one thing.
 
 I, his devotee, finally found that thief who hid himself.  
 
-142 - 145  
+142-145  
 
 He hid himself from all those who worship him saying,  
 
@@ -844,7 +853,7 @@ I was like a mad elephant as I suffered.
 
 I do not enjoy the feelings of five senses.  
 
-158 - 167  
+158-167  
 
 In the cities of his enemies he is like a fire that destroys them,  
 
@@ -864,7 +873,7 @@ and even if I receive it, I do not have enough of it.
 
 Even if I swallow it, it is not enough for me.  
 
-168 - 182  
+168-182  
 
 He filled my heart with nectar from the cool milky ocean roaring with waves.  
 
@@ -888,7 +897,9 @@ He is the lord whom even Brahma could not find.
 
   
 
-### 4. Potritthiruvahaval  
+###
+
+ 4. Potritthiruvahaval  
 
   
 
@@ -1016,7 +1027,7 @@ and you came to the earth, became my dear guru
 
 and gave me your grace.  
 
-78- 85.  
+78-85.  
 
 I do not think of your greatness as a simple thing.  
 
@@ -1070,7 +1081,7 @@ O golden hill, protect me, I praise you.
 
 When I cry you give me your grace and save me, I praise you.  
 
-100 - 130  
+100-130  
 
 You create us all, protect us and give us moksha, I praise you.  
 
@@ -1198,7 +1209,7 @@ You are hard for the gods in the sky to see even in dreams, I praise you.
 
 You give me, a dog, your grace in the day, I praise you.  
 
-145 - 163  
+145-163  
 
 You are the god of Thiruvidaimarudur, I praise you.  
 
@@ -1312,7 +1323,7 @@ You, the precious, stay in Thirukkazhukkundram, I praise you.
 
 You stay in Thiruppuvanam surrounded with mountains, I praise you.  
 
-193 - 206  
+193-206  
 
 You are the mountain of compassion, I praise you.  
 
@@ -1346,7 +1357,7 @@ You stay on mighty Mandira mountain. I praise you.
 
 You make me yours and I will survive, I praise you.  
 
-207 - 211  
+207-211  
 
 You fed the baby tiger I praise you.  
 
@@ -1358,7 +1369,7 @@ You destroyed the desires of my senses, I praise you.
 
 You are the fire on the earth, I praise you.  
 
-212 - 225  
+212-225  
 
 You are the bottom, middle and up, I praise you.  
 
@@ -1384,13 +1395,17 @@ Praise, praise, you are the lord decorated with snake.
 
 Praise, praise, you are the ancient cause of all.  
 
-Praise, praise, jeya, jeya. 225  
+Praise, praise, jeya, jeya.
+
+ 225  
 
 ----------------  
 
   
 
-### 5. Thiruchadagam [5-104]  
+###
+
+ 5. Thiruchadagam [5-104]  
 
   
 
@@ -2840,7 +2855,9 @@ You are the truth for your true devotees. [104]
 
   
 
-### 6. Neethal Vinnappam  
+###
+
+ 6. Neethal Vinnappam  
 
   
 
@@ -3562,7 +3579,9 @@ Subham
 
 15. Thiruthol Nokkam: Pirapanca Cutti [315-328] Girls in a circle hold each other’s shoulders and praise the Lord  
 
-16. Thiruppon Usal: Arut Cutti 329-337] Girls swing and praise the lord  
+16. Thiruppon Usal: Arut Cutti
+
+ 329-337] Girls swing and praise the lord  
 
 17. Annaippathu: Athuma Puranam [338-347] A girl speaks to her mother and the Lord  
 
@@ -3574,7 +3593,9 @@ Subham
 
   
 
-### 7. Thiruvempavai  
+###
+
+ 7. Thiruvempavai  
 
   
 
@@ -3996,7 +4017,9 @@ eeloor empaavaay. [174]
 
   
 
-### 8. Thiruvammanai  
+###
+
+ 8. Thiruvammanai  
 
   
 
@@ -4346,7 +4369,9 @@ Let us feel joy, praise him and sing ammaanai. [194]
 
   
 
-### 9. Thirupporcunnam  
+###
+
+ 9. Thirupporcunnam  
 
   
 
@@ -4666,7 +4691,9 @@ Let us pound the golden powder for his bath. [214]
 
   
 
-### 10. Thirukkothumbi  
+###
+
+ 10. Thirukkothumbi  
 
   
 
@@ -4906,7 +4933,9 @@ O king of bees, fly, hover and worship the lord with a body as red as fire. [234
 
   
 
-### 11. Thiruthellenam  
+###
+
+ 11. Thiruthellenam  
 
   
 
@@ -5148,7 +5177,9 @@ and dance the thellenam. [254]
 
   
 
-### 12. Thiruchazal  
+###
+
+ 12. Thiruchazal  
 
   
 
@@ -5576,7 +5607,9 @@ Don't you see, friend? Sazalo. [274]
 
   
 
-### 13. Thiruppuvalli  
+###
+
+ 13. Thiruppuvalli  
 
   
 
@@ -5808,7 +5841,9 @@ and pluck flowers from the vines to worship him. [294]
 
   
 
-### 14. Thiruvundiyar  
+###
+
+ 14. Thiruvundiyar  
 
   
 
@@ -5994,7 +6029,9 @@ and the gods above the sky. [314]
 
   
 
-### 15. Thiruthol nokkam  
+###
+
+ 15. Thiruthol nokkam  
 
   
 
@@ -6176,7 +6213,9 @@ holding each others’ arms and dancing. [328]
 
   
 
-### 16. Thiruppon usal  
+###
+
+ 16. Thiruppon usal  
 
   
 
@@ -6318,7 +6357,9 @@ and swing on the golden swing. [337]
 
   
 
-### 17. Annaippathu  
+###
+
+ 17. Annaippathu  
 
   
 
@@ -6464,7 +6505,9 @@ why mother? [347]
 
   
 
-### 18. Kuyil Pathu  
+###
+
+ 18. Kuyil Pathu  
 
   
 
@@ -6610,7 +6653,9 @@ Call for the lord with a divine body as red as fire to come. [357]
 
   
 
-### 19. Thiruthasangam  
+###
+
+ 19. Thiruthasangam  
 
   
 
@@ -6732,7 +6777,9 @@ that flies high from the columns of the palaces of his enemies. [367]
 
   
 
-### 20. Thiruppalli ezhuchi  
+###
+
+ 20. Thiruppalli ezhuchi  
 
   
 
@@ -6978,7 +7025,9 @@ Wake up, our sweet lord. [377]
 
   
 
-### 21. Koyil mutha Thiruppadiham  
+###
+
+ 21. Koyil mutha Thiruppadiham  
 
   
 
@@ -7142,7 +7191,9 @@ O lord, you rule me, and you have made me yours. [387]
 
   
 
-### 22. Koyil Thiruppadiham  
+###
+
+ 22. Koyil Thiruppadiham  
 
   
 
@@ -7304,7 +7355,9 @@ and I have nothing to give back. [397]
 
   
 
-### 23. Sethilappathu  
+###
+
+ 23. Sethilappathu  
 
   
 
@@ -7504,7 +7557,9 @@ You are like an ocean and you stay in Kailasa mountain. [407]
 
   
 
-### 24. Adaikkalap pathu  
+###
+
+ 24. Adaikkalap pathu  
 
   
 
@@ -7648,7 +7703,9 @@ I am your slave, you are my refuge. [417]
 
   
 
-### 25. Aasaip pathu  
+###
+
+ 25. Aasaip pathu  
 
   
 
@@ -7808,7 +7865,9 @@ and say, “Do not be afraid!” O father, do you know that! [427]
 
   
 
-### 26. Adisayap pathu  
+###
+
+ 26. Adisayap pathu  
 
   
 
@@ -7962,7 +8021,9 @@ Isn’t it a wonder! [437]
 
   
 
-### 27. Punarchip pathu—Joining the lord  
+###
+
+ 27. Punarchip pathu—Joining the lord  
 
   
 
@@ -8098,7 +8159,9 @@ sprinkle flowers on your lotus feet and join you, O faultless jewel. [447]
 
   
 
-### 28. Vaazaappathu  
+###
+
+ 28. Vaazaappathu  
 
   
 
@@ -8266,7 +8329,9 @@ Call me, give me your grace and make me yours. [457]
 
   
 
-### 29. Arul pathu  
+###
+
+ 29. Arul pathu  
 
   
 
@@ -8434,7 +8499,9 @@ See, this is the way to go to Kailasa. [467]
 
   
 
-### 30. Thirukkazukkundrap padikam  
+###
+
+ 30. Thirukkazukkundrap padikam  
 
   
 
@@ -8532,7 +8599,9 @@ You came to Thirukkazukkundram and appeared before me. [474]
 
   
 
-### 31. Kanda pattu  
+###
+
+ 31. Kanda pattu  
 
   
 
@@ -8662,7 +8731,9 @@ where the Vedas worship and praise him. [484]
 
   
 
-### 32. Pirartthanaip pattu  
+###
+
+ 32. Pirartthanaip pattu  
 
   
 
@@ -8820,7 +8891,9 @@ I want to dance, dance and be happy receiving your grace. [495]
 
   
 
-### 33. Kuzaitha pattu  
+###
+
+ 33. Kuzaitha pattu  
 
   
 
@@ -8960,7 +9033,9 @@ yet you made me love you—is this right? [505]
 
   
 
-### 34. Uyirunnippatthu  
+###
+
+ 34. Uyirunnippatthu  
 
   
 
@@ -9106,7 +9181,9 @@ and take care of them. [515]
 
   
 
-### 35. Accap patthu  
+###
+
+ 35. Accap patthu  
 
   
 
@@ -9244,7 +9321,9 @@ O my lord, I am afraid. [525]
 
   
 
-### 36. Thiruppandip pathiham  
+###
+
+ 36. Thiruppandip pathiham  
 
   
 
@@ -9368,7 +9447,9 @@ O devotees, join his divine feet and hold to them firmly. [535]
 
   
 
-### 37. Piditha patthu  
+###
+
+ 37. Piditha patthu  
 
   
 
@@ -9536,7 +9617,9 @@ Where can you go now leaving me? [545]
 
   
 
-### 38. Thiruvesaravu  
+###
+
+ 38. Thiruvesaravu  
 
   
 
@@ -9664,7 +9747,9 @@ That very day I began to hate this life and this body made of flesh. [555]
 
   
 
-### 39. Thiruppulambal  
+###
+
+ 39. Thiruppulambal  
 
   
 
@@ -9720,7 +9805,9 @@ like a calf seeking its mother. [558]
 
   
 
-### 40. Kulaappatthu  
+###
+
+ 40. Kulaappatthu  
 
   
 
@@ -9844,7 +9931,9 @@ and I made him mine. [568]
 
   
 
-### 41. Arpudappatthu  
+###
+
+ 41. Arpudappatthu  
 
   
 
@@ -10004,7 +10093,9 @@ I do not know how this wonder happened. [578]
 
   
 
-### 42. Chennippatthu  
+###
+
+ 42. Chennippatthu  
 
   
 
@@ -10128,7 +10219,9 @@ He places his feet that make me serve him on my head and makes it shine. [588]
 
   
 
-### 43. Thiruvaarthai  
+###
+
+ 43. Thiruvaarthai  
 
   
 
@@ -10286,7 +10379,9 @@ Devotees who know how he plays and worship him are my masters. [598]
 
   
 
-### 44. Ennap padikam  
+###
+
+ 44. Ennap padikam  
 
   
 
@@ -10378,7 +10473,9 @@ comfort me, and make me yours? [604]
 
   
 
-### 45. Yaathiraip pathu  
+###
+
+ 45. Yaathiraip pathu  
 
   
 
@@ -10506,7 +10603,9 @@ If you do not think of him, you will be sorrowful. [614]
 
   
 
-### 46. Thiruppadai ezuchi.  
+###
+
+ 46. Thiruppadai ezuchi.  
 
   
 
@@ -10534,7 +10633,9 @@ We will conquer the sky and no troubles will come to us. [616]
 
   
 
-### 47. Thiru venba  
+###
+
+ 47. Thiru venba  
 
   
 
@@ -10664,7 +10765,9 @@ entering my heart and happily making it his place. [627]
 
   
 
-### 48. Pandaaya naanmarai  
+###
+
+ 48. Pandaaya naanmarai  
 
   
 
@@ -10740,7 +10843,9 @@ and they take away my future births. [634]
 
   
 
-### 49. Thiruppadai aatchi  
+###
+
+ 49. Thiruppadai aatchi  
 
   
 
@@ -10886,7 +10991,9 @@ and I will reach the god, the highest light, the omnipresent one and sweet necta
 
   
 
-### 50. Aananda maalai  
+###
+
+ 50. Aananda maalai  
 
   
 
@@ -11112,6 +11219,8 @@ Who can receive the grace that the lord has given me? [661]
 
 SUBHAM  
 
-This file was last updated on 24 Feb. 2019  
+This file was last updated on 24 Feb.
+
+ 2019  
 
 Feel free to send the corrections to the webmaster.

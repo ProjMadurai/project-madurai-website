@@ -7,6 +7,7 @@ authors:
 genres:
   - 
 ---
+
 //akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
 weight: 15  
@@ -17,8 +18,7 @@ authors:
 
 genres:  
 
-  -   
-
+  -  
 ---  
 
   
@@ -51,7 +51,9 @@ i). You need to have Unicode fonts containing Tamil Block (Latha,
 
 Arial Unicode MS, TSCu_Inaimathi, Code2000, UniMylai,...) installed on your computer  
 
-and the OS capable of rendering Tamil Scripts (Windows 2000 or Windows XP).  
+and the OS capable of rendering Tamil Scripts (Windows
+
+ 2000 or Windows XP).  
 
 ii)Use a browser that is capable of handling UTF-8 based pages  
 
@@ -59,7 +61,9 @@ ii)Use a browser that is capable of handling UTF-8 based pages
 
 .In case of difficulties send an email request to [kalyan@geocities.com](mailto:kalyan@geocities.com)  
 
-C- Project Madurai 1999  
+C- Project Madurai
+
+ 1999  
 
 Project Madurai is an open, voluntary, worldwide initiative devoted  
 
@@ -3817,4 +3821,6 @@ header page is kept intact.
 
 =================  
 
-This file was last revised on 23 Oct 2018.
+This file was last revised on 23 Oct
+
+ 2018.

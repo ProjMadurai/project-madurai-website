@@ -8,6 +8,7 @@ genres:
   - சமயம்
   - வைணவம், மொழிபெயர்ப்பு
 ---
+
 ### Nālāyira Divya Prabhandam  
 
 Paśurams by Seven Azhvārs, Part 1 (pāsurams 1-947)  
@@ -44,7 +45,9 @@ The Seven Azhvars in this volume are Periyazhvar, Aṇḍal/Thalaivi, Kulasekhar
 
 There is much information about Vaishnavism and the Azhvars’ lives found on the internet. My concern in this book is to provide a good translation of the pasurams. I hope this work will be helpful for academic scholars, students who do research on the Azhvars and anyone who is interested in the Divyaprabandham. This is my own work and if there are any mistakes, they are my responsibility. I hope you will enjoy reading this great work of Azhvars.  
 
-According to Tamil scholars the Vaishnava Bhakthi movement dates from the 5th century CE to the 10th century. 4000 poems (pasurams) were composed by twelve Azhvars who called their god Maal, Neḍumaal, Thirumaal, Kanṇṇan and Nambi. The name Vishnu is not found in the text. (The word Viṭṭu is found in one Pasuram. Does it mean the god is arguable? As much as I know there is no grammar rule for Vishṇu changing to Viṭṭu.).  
+According to Tamil scholars the Vaishnava Bhakthi movement dates from the 5th century CE to the 10th century.
+
+ 4000 poems (pasurams) were composed by twelve Azhvars who called their god Maal, Neḍumaal, Thirumaal, Kanṇṇan and Nambi. The name Vishnu is not found in the text. (The word Viṭṭu is found in one Pasuram. Does it mean the god is arguable? As much as I know there is no grammar rule for Vishṇu changing to Viṭṭu.).  
 
 “The god” in this translation means Thirumaal. “Gods” in the plural refers to other gods. The word Shiva is not used by the Azhvars. Shiva is mentioned as, “the one who has a crescent moon on his jaṭa,” “the one who has Ganges in his jaṭa,” “the one who has three eyes,” “the one who has a dark neck.” etc. This translation uses the word “Shiva” so that the readers will understand who the god is. In a very few places the word Brahma is used, but more often the word “Nanmuhan” is used for Brahma. For Indra the Azhvars use the phrases like, “the king of the gods” and “the thousand-eyed one.” The translation may use “Indra” for clarity. The word Lakshmi is not used in the pasurams, rather, “goddess on the lotus,” “beloved of the god,” “the one who stays on the chest of the god” and similar epithets are used for her. I used the word for this goddess ‘Lakshmi’ for the sake of the readers. Nappinnai, who is considered as Lakshmi, appears in the Pasurams often.  
 
@@ -82,7 +85,13 @@ Names of women: Devaki, Yashoda. Vaidehi.
 
 The 10 avatharams are fish, turtle, boar, Vamanan, man-lion, Rama, Parasuraman, Balaraman, Krishna, and Kalki.  
 
-Divyadesams: The Vaishnavaites believe that the Azhvars praised 108 temples, which are called the Divyadesams. Many of these are also names of cities. In other cases, one city might have two, three or more Divyadesams (temples) in it. The Azhvars also call these Thirupadis. The tradition says Thirumangai Azhvar praises the god Maal in 108 Thirupadis. The internet has a list of all the Divyadesams. 105 of the Divyadesams are in India, one is in Nepal and the last two are Thirupaṛkadal (the ocean of milk) and Sri Vaikuṇṭam (Vishnu’s paradise).  
+Divyadesams: The Vaishnavaites believe that the Azhvars praised
+
+ 108 temples, which are called the Divyadesams. Many of these are also names of cities. In other cases, one city might have two, three or more Divyadesams (temples) in it. The Azhvars also call these Thirupadis. The tradition says Thirumangai Azhvar praises the god Maal in
+
+ 108 Thirupadis. The internet has a list of all the Divyadesams.
+
+ 105 of the Divyadesams are in India, one is in Nepal and the last two are Thirupaṛkadal (the ocean of milk) and Sri Vaikuṇṭam (Vishnu’s paradise).  
 
 Some of the stories of Vishnu in the Divyaprabandham are listed here. There are many others could be found in the Pasurams.  
 
@@ -150,7 +159,7 @@ I would like to thank Mr. Venkataraghavan for putting the Divyaprabandham in Tam
 
 Nālāyira Divya Prabhandam - first thousand pāsurams  
 
-1. Periyazhvar Thiruppallaṇḍu & Thirumozhi (1- 473)  
+1. Periyazhvar Thiruppallaṇḍu & Thirumozhi (1-473)  
 
 2. Aṇḍal.: Thiruppāvai (474 -503)  
 
@@ -170,7 +179,9 @@ Nālāyira Divya Prabhandam - first thousand pāsurams
 
   
 
-### 1. Periyazhvar Thiruppallaṇḍu & Thirumozhi (pāsurams 1- 473)  
+###
+
+ 1. Periyazhvar Thiruppallaṇḍu & Thirumozhi (pāsurams 1-473)  
 
   
 
@@ -1810,7 +1821,11 @@ they will get good children and live happily.
 
 they complain about his mishievousness to Yashoda..  
 
-** 118. The lord with a conch in his left hand  
+**
+
+
+
+ 118. The lord with a conch in his left hand  
 
 that sounds in victory  
 
@@ -7552,7 +7567,9 @@ they will reach him as his shadows.
 
   
 
-### 2. Aṇḍal.: Thiruppāvai (474 -503)  
+###
+
+ 2. Aṇḍal.: Thiruppāvai (474 -503)  
 
   
 
@@ -8280,7 +8297,9 @@ and be happy.
 
   
 
-### 3. Aṇḍal.: Nāchiyār Thirumozhi (504-646)  
+###
+
+ 3. Aṇḍal.: Nāchiyār Thirumozhi (504-646)  
 
   
 
@@ -10496,7 +10515,9 @@ they will live under the divine feet of the lord without leaving him.
 
   
 
-### 4. Perumāl Thirumozhi by Kulasekharazhvar (647 -751)  
+###
+
+ 4. Perumāl Thirumozhi by Kulasekharazhvar (647 -751)  
 
   
 
@@ -12290,7 +12311,9 @@ they will approach the feet of Nāraṇan who shines with goodness.
 
   
 
-### 5. Thirumazhisai Azhvar. Thiruchanda Virutham (752 -871)  
+###
+
+ 5. Thirumazhisai Azhvar. Thiruchanda Virutham (752 -871)  
 
   
 
@@ -13890,7 +13913,9 @@ and has attained moksha, the house of joy.
 
   
 
-### 6. Thirumālai : Thoṇḍaraḍippoḍi Azhvar (872-916)  
+###
+
+ 6. Thirumālai : Thoṇḍaraḍippoḍi Azhvar (872-916)  
 
   
 
@@ -14536,7 +14561,9 @@ they will become his sweet devotees.
 
   
 
-### 7. Thiruppaḷḷi Ezhuchi - Thoṇḍaraḍippoḍi Azhvar (917-926)  
+###
+
+ 7. Thiruppaḷḷi Ezhuchi - Thoṇḍaraḍippoḍi Azhvar (917-926)  
 
   
 
@@ -14712,7 +14739,9 @@ O dear god of Srirangam, wake up and give me your grace.
 
   
 
-### 8. Amalan Aadipirān. - Thiruppāṇāzhvār (927-936)  
+###
+
+ 8. Amalan Aadipirān. - Thiruppāṇāzhvār (927-936)  
 
   
 
@@ -14848,7 +14877,9 @@ my eyes do not wish to see anything else.
 
   
 
-### 9. Kaṇṇiṇuṭchiṛuthāmbu. Madhurakavi Azhvar (937-947)  
+###
+
+ 9. Kaṇṇiṇuṭchiṛuthāmbu. Madhurakavi Azhvar (937-947)  
 
   
 
@@ -14970,10 +15001,12 @@ they will see Vaikuṇṭam and abide there.
 
 --------------  
 
-**End of part 1 covering first thousand verses (pasurams 1 - 947)  
+**End of part 1 covering first thousand verses (pasurams 1-947)  
 
 **  
 
-This file was last updated on 4 Sept. 2018  
+This file was last updated on 4 Sept.
+
+ 2018  
 
 Feel free to send the corrections to the webmaster.

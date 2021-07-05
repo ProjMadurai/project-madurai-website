@@ -7,9 +7,12 @@ authors:
 genres:
   - நீதி நூல்
 ---
+
 ttps://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
-weight: 297  
+weight:
+
+ 297  
 
 authors:  
 
@@ -69,7 +72,9 @@ and the browser set to display webpages with "utf-8" charset.
 
   
 
-© Project Madurai 1998 - 2008  
+© Project Madurai
+
+ 1998-2008  
 
   
 
@@ -2853,6 +2858,8 @@ kept intact
 
   
 
-**அறநெறிச்சாரம் முற்றும்**  This webpage was last updated on 12 February 2008  
+**அறநெறிச்சாரம் முற்றும்**  This webpage was last updated on 12 February
+
+ 2008  
 
 Please send your comments to the webmasters of this website.

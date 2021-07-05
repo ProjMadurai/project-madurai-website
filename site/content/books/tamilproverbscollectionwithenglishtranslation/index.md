@@ -7,6 +7,7 @@ authors:
 genres:
   - பழமொழிகள்
 ---
+
 ### தமிழ் பழமொழிகள் தொகுப்பும்  
 
 ஆங்கில மொழிபெயர்ப்பும், ஆசிரியர் பெர்சிவால்  
@@ -47,7 +48,9 @@ It is hoped that the following collection of Tamil Proverbs may be useful to tho
 
 P. PERCIVAL.  
 
-JAFFNA, Christmas, 1842.  
+JAFFNA, Christmas,
+
+ 1842.  
 
 ---------------  
 
@@ -55,27 +58,45 @@ JAFFNA, Christmas, 1842.
 
 A Few words on the history of the book now offered to the Public in an enlarged form may not be out of place in the Preface to the Second Edition.  
 
-Almost immediately after my arrival in this country in 1826, I entered on my Missionary work among the Tamil people, having acquired the rudiments of their language in England from a gentleman who had spent several years in the South of India and North Ceylon. Intercourse with the natives afforded me ample opportunities of becoming acquainted with their modes of thought and expression, and, noticing their predilection for proverbial sayings, I was led to an early study and use of Tamil proverbs.  
+Almost immediately after my arrival in this country in
 
-In 1830 I was removed to Bengal. There I became acquainted with a clergyman who had, like myself, turned his attention to the proverbs of the people among whom he dwelt. He collected a considerable number of Bengali proverbs, and published them, with an English translation, in a small volume, printed at the Press connected with Bishop's College, Calcutta. When the Mission in Bengal with which I was connected was withdrawn, I returned to my former sphere of labor among the Tamil people. As opportunity offered, I collected and arranged proverbs that I found current among them; and in 1842 printed a collection of nearly nineteen hundred with an English translation.  
+ 1826, I entered on my Missionary work among the Tamil people, having acquired the rudiments of their language in England from a gentleman who had spent several years in the South of India and North Ceylon. Intercourse with the natives afforded me ample opportunities of becoming acquainted with their modes of thought and expression, and, noticing their predilection for proverbial sayings, I was led to an early study and use of Tamil proverbs.  
+
+In
+
+ 1830 I was removed to Bengal. There I became acquainted with a clergyman who had, like myself, turned his attention to the proverbs of the people among whom he dwelt. He collected a considerable number of Bengali proverbs, and published them, with an English translation, in a small volume, printed at the Press connected with Bishop's College, Calcutta. When the Mission in Bengal with which I was connected was withdrawn, I returned to my former sphere of labor among the Tamil people. As opportunity offered, I collected and arranged proverbs that I found current among them; and in
+
+ 1842 printed a collection of nearly nineteen hundred with an English translation.  
 
 **PREFACE.**  
 
-The First Edition having become scarce, I was urged, by many whose judgment I felt bound to respect, to prepare matter for a second and enlarged edition. Various causes prevented me from immediately undertaking the work. For several years all my time was devoted to the revision of the Tamil Scriptures, in conjunction with Messrs. RHENIUS, KNIGHT, SPAULDING, HUTCHINGS, and others, and in passing the “Tentative Bible” through the Press. Subsequently a visit to England caused a further postponement of my plan, but, on my return to Madras in 1854, my attention was again directed to the subject of Tamil proverbs.  
+The First Edition having become scarce, I was urged, by many whose judgment I felt bound to respect, to prepare matter for a second and enlarged edition. Various causes prevented me from immediately undertaking the work. For several years all my time was devoted to the revision of the Tamil Scriptures, in conjunction with Messrs. RHENIUS, KNIGHT, SPAULDING, HUTCHINGS, and others, and in passing the “Tentative Bible” through the Press. Subsequently a visit to England caused a further postponement of my plan, but, on my return to Madras in
 
-In the following year a Committee of gentlemen belonging to the Civil and Military Services of Government, Messrs. STOKES, SIM, CHAMIER, and Colonels BROWN, PEARS, and BELL resolved to start a Journal, for the purpose of diffusing, among the Tamil people, information social, political, and literary. The Committee invited my co-operation as Editor. This labor I at once accepted, the more readily because for several months I had been making arrangements to carry out the same idea, and had visited Calcutta to procure information on the subject, chiefly from Mr. MARSHMAN. In October 1855 the first number of the new journal, the Dinavartamáni, was published. Soon after this I also undertook the editing of a Telugu journal of the same scope, and bearing the same name. The circulation of these papers throughout the Madras Presidency afforded me a good opportunity of inviting the subscribers to assist me in the collection of Tamil and Telugu proverbs. My request was met by contributions from all parts of the country. The former were added to a rapidly increasing collection, while a selection from the latter was published, from week to week, along with an  
+ 1854, my attention was again directed to the subject of Tamil proverbs.  
+
+In the following year a Committee of gentlemen belonging to the Civil and Military Services of Government, Messrs. STOKES, SIM, CHAMIER, and Colonels BROWN, PEARS, and BELL resolved to start a Journal, for the purpose of diffusing, among the Tamil people, information social, political, and literary. The Committee invited my co-operation as Editor. This labor I at once accepted, the more readily because for several months I had been making arrangements to carry out the same idea, and had visited Calcutta to procure information on the subject, chiefly from Mr. MARSHMAN. In October
+
+ 1855 the first number of the new journal, the Dinavartamáni, was published. Soon after this I also undertook the editing of a Telugu journal of the same scope, and bearing the same name. The circulation of these papers throughout the Madras Presidency afforded me a good opportunity of inviting the subscribers to assist me in the collection of Tamil and Telugu proverbs. My request was met by contributions from all parts of the country. The former were added to a rapidly increasing collection, while a selection from the latter was published, from week to week, along with an  
 
 English translation, in the Telugu Dinavartamâni. When the late Major CARR informed me that he was preparing a volume of Telugu proverbs for the Press, I made over to him my collection, a service he thus acknowledged in the Preface to his work “The Translator hns to thank the Rev. P. PERCIVAL, Professor of Vernacular Literature, Presidency College, for kindly placing at his disposal a MS. containing a large number of Telugu proverbs.”  
 
-In the year 1860 my collection of Tamil proverbs contained nearly five thousand examples translated into English and ready for the Press. At that time, however, I was so much engaged in preparing books and maps, in the Vernaculars, for the Director of Public Instruction, that I found it impossible to carry out my design of printing these proverbs, although I had announced it in the Dinavartamâni. Then followed an interval of ten years during which I was engaged in duties absorbing all my time and attention. I had the superintendence of the Public Instruction Press on my hands; and, aided by the Pundits of the Presidency College, and other competent native scholars, had theresponsibility of editing, among the works that issued from the Press during this period, seven dictionaries, some of which have since been re-printed.  
+In the year
 
-At the beginning of 1870, having been relieved from my heavy duties in connexion with the Presidency College and the University, I resolved to print the proverbs as they stood, and soon. after this having met the Rev. G. FRYAR of Manargudi, Tanjore District, I learnt that he had for eight or nine years been also engaged in collecting Tamil proverbs, and that his collection then amounted to five thousand examples, and that he proposed eventually to publish it on the basis of my First Edition. On  
+ 1860 my collection of Tamil proverbs contained nearly five thousand examples translated into English and ready for the Press. At that time, however, I was so much engaged in preparing books and maps, in the Vernaculars, for the Director of Public Instruction, that I found it impossible to carry out my design of printing these proverbs, although I had announced it in the Dinavartamâni. Then followed an interval of ten years during which I was engaged in duties absorbing all my time and attention. I had the superintendence of the Public Instruction Press on my hands; and, aided by the Pundits of the Presidency College, and other competent native scholars, had theresponsibility of editing, among the works that issued from the Press during this period, seven dictionaries, some of which have since been re-printed.  
+
+At the beginning of
+
+ 1870, having been relieved from my heavy duties in connexion with the Presidency College and the University, I resolved to print the proverbs as they stood, and soon. after this having met the Rev. G. FRYAR of Manargudi, Tanjore District, I learnt that he had for eight or nine years been also engaged in collecting Tamil proverbs, and that his collection then amounted to five thousand examples, and that he proposed eventually to publish it on the basis of my First Edition. On  
 
 hearing of my own plan, Mr. FRYAR abandoned this purpose, and very generously placed his valuable MS. at my disposal, from which I obtained several hundred new proverbs.  
 
-Shortly after this, again, one of my compositors brought me an old-looking MS. containing over fifteen hundred examples. A volume printed in 1861 at Vepery, and containing nearly four thousand examples, was also put into my hands. But these collections yielded very few proverbs not already contained in my own MS. A Pundit of the Government Normal School furnished me with about a hundred fresh examples, and a small MS. belonging to a Native Christian lady of Tanjore contained a few curious proverbs that I had not seen before. These related to Christian character, and evidently originated in anything but a benign feeling.  
+Shortly after this, again, one of my compositors brought me an old-looking MS. containing over fifteen hundred examples. A volume printed in
 
-Altogether my collections in 1872 exceeded fifteen thousand, but they only yielded the number contained in this volume. That the outcome of so large a gathering should be comparatively small may easily be accounted for by the fact that the several collections, in very many instances, contained the same proverbs. It must be borne in mind that my own collection, which eventually absorbed the others, was made during a period extending over forty years, and that, through the medium of the Dinavartamâni, I had received contributions from all parts of the Madras Presidency, as well from North Ceylon. Hence it was but natural that I should anticipate collectors who come into the field later.  
+ 1861 at Vepery, and containing nearly four thousand examples, was also put into my hands. But these collections yielded very few proverbs not already contained in my own MS. A Pundit of the Government Normal School furnished me with about a hundred fresh examples, and a small MS. belonging to a Native Christian lady of Tanjore contained a few curious proverbs that I had not seen before. These related to Christian character, and evidently originated in anything but a benign feeling.  
+
+Altogether my collections in
+
+ 1872 exceeded fifteen thousand, but they only yielded the number contained in this volume. That the outcome of so large a gathering should be comparatively small may easily be accounted for by the fact that the several collections, in very many instances, contained the same proverbs. It must be borne in mind that my own collection, which eventually absorbed the others, was made during a period extending over forty years, and that, through the medium of the Dinavartamâni, I had received contributions from all parts of the Madras Presidency, as well from North Ceylon. Hence it was but natural that I should anticipate collectors who come into the field later.  
 
 But for the omission of many of the admired Aphorisms of the ancient Tamil matron, Avveyar, this collection would have been somewhat larger, Though these Aphorisms are compositions of  
 
@@ -103,7 +124,9 @@ In conclusion, any one interested in this work will oblige by sending me proverb
 
 LITTLE BOURNE, MADRAS,  
 
-P. PERCIVAL, February 13, 1874.  
+P. PERCIVAL, February 13,
+
+ 1874.  
 
   
 
@@ -111,7 +134,9 @@ P. PERCIVAL, February 13, 1874.
 
 தமிழ் பழமொழிகள் தொகுப்பும் ஆங்கில மொழிபெயர்ப்பும்  
 
-Part 1 (first 3000 proverbs)  
+Part 1 (first
+
+ 3000 proverbs)  
 
   
 
@@ -2561,7 +2586,17 @@ Fitted to the opportunity.
 
 Three kinds of weather, hot, cold and temperate are included in the six seasons.  
 
-A year is divided into six seasons of two months each, beginning with August. The names of the seasons are 1. கார்,cloudy. 2 கூதிர், cold. 3. முன் பனி, evening dew. 4. பின் பனி, morning dew. 5. இள வேனில், mild heat. 6. முதுவேனில், very hot.  
+A year is divided into six seasons of two months each, beginning with August. The names of the seasons are
+
+ 1. கார்,cloudy. 2 கூதிர், cold.
+
+ 3. முன் பனி, evening dew.
+
+ 4. பின் பனி, morning dew.
+
+ 5. இள வேனில், mild heat.
+
+ 6. முதுவேனில், very hot.  
 
 531. அனுபோகம் தொலைந்தால் அற்ப அவிழ்தமும் பலிக்கும்.  
 
@@ -4787,7 +4822,9 @@ As if an ant had gnawed an iron pillar.
 
 Will the tamarind fruit that has resisted an iron hook shake at a sacred song.  
 
-In illustration of this proverb the following may not be considered irrelevant. In the year 1826 when I went to my first Missionary station, Trincomalee on the Eastern coast of Ceylon, I called on the chief Mudaliar to pay my respects and to urge the claims of Christianity. The old gentleman who remembered the coercive system adopted by the Dutch for the propagation of Christianity, and well knowing too that Missionaries under the wild sway of Great Britain can use no weapon but the Gospel, uttered with great animation the above proverb. In view of the youthful character of his visitor he seemed to feel like Goliath in the presence of David.  
+In illustration of this proverb the following may not be considered irrelevant. In the year
+
+ 1826 when I went to my first Missionary station, Trincomalee on the Eastern coast of Ceylon, I called on the chief Mudaliar to pay my respects and to urge the claims of Christianity. The old gentleman who remembered the coercive system adopted by the Dutch for the propagation of Christianity, and well knowing too that Missionaries under the wild sway of Great Britain can use no weapon but the Gospel, uttered with great animation the above proverb. In view of the youthful character of his visitor he seemed to feel like Goliath in the presence of David.  
 
 1061. இரும்பை எறும்பு அரிக்குமா ?  
 
@@ -7145,7 +7182,9 @@ The கோலம் here mentioned is a floor ornament very commonly formed at t
 
 All the skill in steering centres in the out-rigger.  
 
-Out-rigger boats or canoes are common on the south western coast of Ceylon. They are very swift and most safe. In 1848 when at Colombo duty called me daily to a largo ship at the time out in tho offing anchored in seven fathoms of water. On the occasion under notice I went on board in an ordinary Cingalese out-rigger canoe. In the evening after having completed the berths, for my two daughters who were going home for education, I betook myself to the boat, and soon after we got clear of the ship the boat was struck in the stern, filled, and went down. When I emerged from the waves I found myself near one of the two brackets of the out-rigger. The canoe was submerged but could not sink lower than the ends of the brackets tied to her side. The out-rigger at the other end of the brackets was floating on the surface of the sea, the canoe being suspended by it like a pair of scales from a beam. Aided by one of those brackets, which I pressed to my bosom, and a Chubb's Palanquin box, I gained the rocks soon after sunset and escaped to land.  
+Out-rigger boats or canoes are common on the south western coast of Ceylon. They are very swift and most safe. In
+
+ 1848 when at Colombo duty called me daily to a largo ship at the time out in tho offing anchored in seven fathoms of water. On the occasion under notice I went on board in an ordinary Cingalese out-rigger canoe. In the evening after having completed the berths, for my two daughters who were going home for education, I betook myself to the boat, and soon after we got clear of the ship the boat was struck in the stern, filled, and went down. When I emerged from the waves I found myself near one of the two brackets of the out-rigger. The canoe was submerged but could not sink lower than the ends of the brackets tied to her side. The out-rigger at the other end of the brackets was floating on the surface of the sea, the canoe being suspended by it like a pair of scales from a beam. Aided by one of those brackets, which I pressed to my bosom, and a Chubb's Palanquin box, I gained the rocks soon after sunset and escaped to land.  
 
 1632. எல்லா ஓட்டும் குல்லாவிலே.  
 
@@ -12761,6 +12800,8 @@ Whether they mount a palanquin or a horse, the distance between the vain and rep
 
 That which the sack contained the buffalo carried.  
 
-This file was last updated on 12 July 2019.  
+This file was last updated on 12 July
+
+ 2019.  
 
 Feel free to send the corrections to the Webmaster.

@@ -8,6 +8,7 @@ genres:
   - சமயம்
   - சைவம்
 ---
+
 mbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
 weight: 92  
@@ -58,7 +59,9 @@ i). You need to have Unicode fonts containing Tamil Block (Latha,
 
 Arial Unicode MS, TSCu_Inaimathi, Code2000, UniMylai,...) installed on your computer  
 
-and the OS capable of rendering Tamil Scripts (Windows 2000 or Windows XP).  
+and the OS capable of rendering Tamil Scripts (Windows
+
+ 2000 or Windows XP).  
 
 ii)Use a browser that is capable of handling UTF-8 based pages  
 
@@ -66,7 +69,9 @@ ii)Use a browser that is capable of handling UTF-8 based pages
 
 .In case of difficulties send an email request to [Project Madurai](mailto:pmadurai@gmail.com)  
 
-© Project Madurai 1998-2001  
+© Project Madurai
+
+ 1998-2001  
 
 Project Madurai is an open, voluntary, worldwide initiative devoted  
 
@@ -94,27 +99,29 @@ header page is kept intact.
 
 2. சேந்தனார் அருளிய திருவிசைப்பா (46 =79)  
 
-3. கருவூர்த்தேவர் அருளிய திருவிசைப்பா (80 - 182 )  
+3. கருவூர்த்தேவர் அருளிய திருவிசைப்பா (80-182 )  
 
 4. பூந்துருத்திநம்பி காடநம்பி அருளிய திருவிசைப்பா (183=194)  
 
-5. கண்டராதித்தர் அருளிய திருவிசைப்பா (195 - 204)  
+5. கண்டராதித்தர் அருளிய திருவிசைப்பா (195-204)  
 
-6. வேணாட்டடிகள் அருளிய திருவிசைப்பா (205 - 214)  
+6. வேணாட்டடிகள் அருளிய திருவிசைப்பா (205-214)  
 
-7. திருவாலியமுதனார் அருளிய திருவிசைப்பா (215 - 256)  
+7. திருவாலியமுதனார் அருளிய திருவிசைப்பா (215-256)  
 
-8. புருடோத்தம நம்பி அருளிய திருவிசைப்பா (257 - 278)  
+8. புருடோத்தம நம்பி அருளிய திருவிசைப்பா (257-278)  
 
-9. சேதிராயர் அருளிய திருவிசைப்பா (279 - 288)  
+9. சேதிராயர் அருளிய திருவிசைப்பா (279-288)  
 
-10. சேந்தனார் அருளிய திருப்பல்லாண்டு (289 - 301)  
+10. சேந்தனார் அருளிய திருப்பல்லாண்டு (289-301)  
 
 ஒன்பதாம் திருமுறை : திருவிசைப்பா  
 
   
 
-### 1. திருமாளிகைத்தேவர் அருளிய திருவிசைப்பா  
+###
+
+ 1. திருமாளிகைத்தேவர் அருளிய திருவிசைப்பா  
 
   
 
@@ -854,7 +861,9 @@ header page is kept intact.
 
   
 
-### 2. சேந்தனார் அருளிய திருவிசைப்பா  
+###
+
+ 2. சேந்தனார் அருளிய திருவிசைப்பா  
 
   
 
@@ -1458,7 +1467,9 @@ header page is kept intact.
 
 எழுங்கதிர் ஒளியை ஏத்துவார் கேட்பார்  
 
-இடர்கெடும் மாலுலா மனமே. 122  
+இடர்கெடும் மாலுலா மனமே.
+
+ 122  
 
 திருச்சிற்றம்பலம்  
 
@@ -1466,7 +1477,9 @@ header page is kept intact.
 
   
 
-### 3. கருவூர்த்தேவர் அருளிய திருவிசைப்பா  
+###
+
+ 3. கருவூர்த்தேவர் அருளிய திருவிசைப்பா  
 
   
 
@@ -3262,7 +3275,9 @@ header page is kept intact.
 
   
 
-### 4. பூந்துருத்திநம்பி காடநம்பி அருளிய திருவிசைப்பா  
+###
+
+ 4. பூந்துருத்திநம்பி காடநம்பி அருளிய திருவிசைப்பா  
 
   
 
@@ -3412,7 +3427,9 @@ header page is kept intact.
 
   
 
-### 5. கண்டராதித்தர் அருளிய திருவிசைப்பா  
+###
+
+ 5. கண்டராதித்தர் அருளிய திருவிசைப்பா  
 
   
 
@@ -3524,7 +3541,9 @@ header page is kept intact.
 
   
 
-### 6. வேணாட்டடிகள் அருளிய திருவிசைப்பா  
+###
+
+ 6. வேணாட்டடிகள் அருளிய திருவிசைப்பா  
 
   
 
@@ -3636,7 +3655,9 @@ header page is kept intact.
 
   
 
-### 7. திருவாலியமுதனார் அருளிய திருவிசைப்பா  
+###
+
+ 7. திருவாலியமுதனார் அருளிய திருவிசைப்பா  
 
   
 
@@ -4080,7 +4101,9 @@ header page is kept intact.
 
   
 
-### 8. புருடோத்தம நம்பி அருளிய திருவிசைப்பா  
+###
+
+ 8. புருடோத்தம நம்பி அருளிய திருவிசைப்பா  
 
   
 
@@ -4400,7 +4423,9 @@ header page is kept intact.
 
   
 
-### 9. சேதிராயர் அருளிய திருவிசைப்பா  
+###
+
+ 9. சேதிராயர் அருளிய திருவிசைப்பா  
 
   
 
@@ -4510,7 +4535,9 @@ header page is kept intact.
 
   
 
-### 10. சேந்தனார் அருளிய திருப்பல்லாண்டு  
+###
+
+ 10. சேந்தனார் அருளிய திருப்பல்லாண்டு  
 
   
 
@@ -4660,7 +4687,9 @@ header page is kept intact.
 
 அந்தமில் ஆனந்தச் சேந்தன் எனைப்புகழ் தாண்டுகொண் டாருயிர்மேல்  
 
-பந்தம் பிரியப் பரிந்தவனே என்று பல்லாண்டு கூறுதுமே. 13.  
+பந்தம் பிரியப் பரிந்தவனே என்று பல்லாண்டு கூறுதுமே.
+
+ 13.  
 
 -------  
 
@@ -4668,6 +4697,8 @@ header page is kept intact.
 
 திருவிசைப்பா - 9ம் திருமறை முற்றிற்று  
 
-This page was first put up on Jan 9, 2001  
+This page was first put up on Jan 9,
+
+ 2001  
 
 Please send your comments and corrections to the Webmaster of this site

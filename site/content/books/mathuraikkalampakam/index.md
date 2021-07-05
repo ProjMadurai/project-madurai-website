@@ -8,6 +8,7 @@ genres:
   - பிரபந்தம்
   - மாலை
 ---
+
 nail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
 weight: 50  
@@ -62,7 +63,9 @@ i). You need to have Unicode fonts containing Tamil Block (Latha,
 
 Arial Unicode MS, TSCu_Inaimathi, Code2000, UniMylai,...) installed on your computer  
 
-and the OS capable of rendering Tamil Scripts (Windows 2000 or Windows XP).  
+and the OS capable of rendering Tamil Scripts (Windows
+
+ 2000 or Windows XP).  
 
 ii)Use a browser that is capable of handling UTF-8 based pages  
 
@@ -70,7 +73,9 @@ ii)Use a browser that is capable of handling UTF-8 based pages
 
 .In case of difficulties send an email request to]()[pmadurai@gmail.com](mailto:pmadurai@gmail.com)  
 
-© Project Madurai 1999  
+© Project Madurai
+
+ 1999  
 
 Project Madurai is an open, voluntary, worldwide initiative devotedto preparation of electronic texts of tamil literary works and todistribute them free on the Internet. Details of Project Madurai areavailable at the website http://www.tamil.net/projectmadurai  
 
@@ -106,7 +111,9 @@ You are welcome to freely distribute this file, provided thisheader page is kept
 
 தருவே! நின் தாமரைத் தாளே சரணம், சரணம் கண்டாய்,  
 
-அருவே! அணங்கு அரசே! மதுராபுரி அம்பிகையே! 1.  
+அருவே! அணங்கு அரசே! மதுராபுரி அம்பிகையே!
+
+ 1.  
 
 நாள் கொண்ட கொங்கைத் துணையும், பொன் மேனியும், நஞ்சு அளித்த  
 
@@ -114,7 +121,9 @@ You are welcome to freely distribute this file, provided thisheader page is kept
 
 தோள் கொண்ட செம் பட்டும், முத்து ஆரமும் கொண்டு தோன்றி எனை  
 
-ஆள் கொண்ட நாயகியே! மதுராபுரி அம்பிகையே! 2.  
+ஆள் கொண்ட நாயகியே! மதுராபுரி அம்பிகையே!
+
+ 2.  
 
 கரும்பும், கணை ஐந்தும், பாச அங்குசமும், கைக் கொண்டு அடியேன்  
 
@@ -122,7 +131,9 @@ You are welcome to freely distribute this file, provided thisheader page is kept
 
 சுரும்பு உண்ட காவியும், சோதி நிலாவும், துளிரும் சற்றே  
 
-அரும்பும் கனம் குழலாய்! மதுராபுரி அம்பிகையே! 3.  
+அரும்பும் கனம் குழலாய்! மதுராபுரி அம்பிகையே!
+
+ 3.  
 
 குன்றே எனும் முலையார் தரும் காதல் கொடுமை எல்லாம்  
 
@@ -130,7 +141,9 @@ You are welcome to freely distribute this file, provided thisheader page is kept
 
 என்றே என் சென்னி வைத்தாய், பின்னை யான் செய்யும் ஏவல் எல்லாம்  
 
-அன்றே உன் ஏவல் கண்டாய், மதுராபுரி அம்பிகையே! 4.  
+அன்றே உன் ஏவல் கண்டாய், மதுராபுரி அம்பிகையே!
+
+ 4.  
 
 வடி வைத்த வேல் விழியார் அநுராக மயக்கில் சென்று  
 
@@ -138,7 +151,9 @@ You are welcome to freely distribute this file, provided thisheader page is kept
 
 முடி வைத்தவாறு, என் புலைத் தலை மேல் வைத்த முத்தின் தண்டை  
 
-அடி வைத்த பேர் இன்பமே! மதுராபுரி அம்பிகையே! 5.  
+அடி வைத்த பேர் இன்பமே! மதுராபுரி அம்பிகையே!
+
+ 5.  
 
 வடக் குன்ற மேருவும், மூது அண்டம் எட்டி வளைந்து புறம்  
 
@@ -146,7 +161,9 @@ You are welcome to freely distribute this file, provided thisheader page is kept
 
 தடக் குஞ்சரம் எட்டும், எல்லாம் திரு உந்தித் தாமரையில்  
 
-அடக்கும் பராசக்தியே! மதுராபுரி அம்பிகையே! 6.  
+அடக்கும் பராசக்தியே! மதுராபுரி அம்பிகையே!
+
+ 6.  
 
 ஒளி கொண்ட வெண் பிறைத் தோடும், பொன் ஓலையும், ஊறிய தேன்  
 
@@ -154,7 +171,9 @@ You are welcome to freely distribute this file, provided thisheader page is kept
 
 களி கொண்ட நெஞ்சம் குடி கொண்டவா இசை கக்கு மணி  
 
-அளி கொண்ட பூங்குழலாய்! மதுராபுரி அம்பிகையே! 7.  
+அளி கொண்ட பூங்குழலாய்! மதுராபுரி அம்பிகையே!
+
+ 7.  
 
 மணியும், தரளமும், வெண் நகையோ? வழி மூவர் செயத்  
 
@@ -162,7 +181,9 @@ You are welcome to freely distribute this file, provided thisheader page is kept
 
 பணியும், சுடரும், கடல் ஏழும் நின் கழல் பங்கயத்தில்  
 
-அணியும் திரு உருவே! மதுராபுரி அம்பிகையே! 8.  
+அணியும் திரு உருவே! மதுராபுரி அம்பிகையே!
+
+ 8.  
 
 செழும் துங்கக் கொங்கையும், முத்து ஆரமும், பொன் சிலம்பும், திங்கள்  
 
@@ -170,7 +191,9 @@ You are welcome to freely distribute this file, provided thisheader page is kept
 
 உழும் தும்பை சூடும் திரு மேனியும், உன் உடலும் ஒன்றாய்  
 
-அழுந்தும் பராசக்தியே! மதுராபுரி அம்பிகையே! 9.  
+அழுந்தும் பராசக்தியே! மதுராபுரி அம்பிகையே!
+
+ 9.  
 
 கணையும், குமிழும், இணை நெடும் சாபமும், காரும், வள்ளைத்  
 
@@ -178,7 +201,9 @@ You are welcome to freely distribute this file, provided thisheader page is kept
 
 பணையும், பனித் தடம் காந்தளும், பாந்தளும் பத்தும் ஒன்றாய்  
 
-அணையும் திரு உருவே! மதுராபுரி அம்பிகையே! 10.  
+அணையும் திரு உருவே! மதுராபுரி அம்பிகையே!
+
+ 10.  
 
 இணங்கேன் ஒருவரை; நின் இரு தாள் அன்றி எப்பொழுதும்  
 
@@ -186,7 +211,9 @@ You are welcome to freely distribute this file, provided thisheader page is kept
 
 பிணங்கேன் - அமுதம் பெருகும் செம் பாதிப் பிறை முடித்த  
 
-அணங்கே! சரணம் கண்டாய், மதுராபுரி அம்பிகையே! 11.  
+அணங்கே! சரணம் கண்டாய், மதுராபுரி அம்பிகையே!
+
+ 11.  
 
 முலைக்கே அவசத் துயர் விளைப்பார் இன்ப மோகம் என்னும்  
 
@@ -194,7 +221,9 @@ You are welcome to freely distribute this file, provided thisheader page is kept
 
 தலைக்கே பதம் வைத்த தண் அளியாய்! முத்தம் தத்து திரை  
 
-அலைக்கே விழி துயில்வாய்! மதுராபுரி அம்பிகையே! 12.  
+அலைக்கே விழி துயில்வாய்! மதுராபுரி அம்பிகையே!
+
+ 12.  
 
 கொடிக் கொண்ட சிறு இடையார் மணி நூபுரம் கொஞ்சும் அடிப்  
 
@@ -202,7 +231,9 @@ You are welcome to freely distribute this file, provided thisheader page is kept
 
 முடிக் கொண்ட சொக்கர் அழியா விரதம் முடிக்க என்றே,  
 
-அடிக் கொண்ட பூண் முலையாய்! மதுராபுரி அம்பிகையே! 13.  
+அடிக் கொண்ட பூண் முலையாய்! மதுராபுரி அம்பிகையே!
+
+ 13.  
 
 விளையும் கருக் குழி வீழாமல், என் தன் வினைப் பிறவி  
 
@@ -210,7 +241,9 @@ You are welcome to freely distribute this file, provided thisheader page is kept
 
 வளையும் தரள மணித் தோடு அழுத்திய வள்ளையைச் சென்று  
 
-அளையும் கயல் விழியாய்! மதுராபுரி அம்பிகையே! 14.  
+அளையும் கயல் விழியாய்! மதுராபுரி அம்பிகையே!
+
+ 14.  
 
 ஊடும் பொழுது உன் கருணை விடாமல் உவப்பதற்குக்  
 
@@ -218,7 +251,9 @@ You are welcome to freely distribute this file, provided thisheader page is kept
 
 சூடும் தலைவர் திரு மார்பில், வாரி சொரி தரளம்  
 
-ஆடும் துணை முலையாய்! மதுராபுரி அம்பிகையே! 15.  
+ஆடும் துணை முலையாய்! மதுராபுரி அம்பிகையே!
+
+ 15.  
 
 மழைக் கொந்து அளக மடவார் தம் காதல் வலைத் தலைப்பட்டு  
 
@@ -226,7 +261,9 @@ You are welcome to freely distribute this file, provided thisheader page is kept
 
 குழைக்கும் கலந்த பசுமை எலாம் குழை ஊடு நடந்து  
 
-அழைக்கும் கயல் விழியாய்! மதுராபுரி அம்பிகையே! 16.  
+அழைக்கும் கயல் விழியாய்! மதுராபுரி அம்பிகையே!
+
+ 16.  
 
 இணைக் கும்ப மென் முலையார் விழி வேலுக்கும், எய்யு மதன்  
 
@@ -234,7 +271,9 @@ You are welcome to freely distribute this file, provided thisheader page is kept
 
 துணைக் கும்ப மென் முலையாய்! சொக்கர் மேனி துவளக் கட்டி  
 
-அணைக்கும் கமலம் உள்ளாய்! மதுராபுரி அம்பிகையே! 17.  
+அணைக்கும் கமலம் உள்ளாய்! மதுராபுரி அம்பிகையே!
+
+ 17.  
 
 நும் கேள்வர் பாகத்தும், அந் நான் மறை எனும் நூல் இடத்தும்,  
 
@@ -242,7 +281,9 @@ You are welcome to freely distribute this file, provided thisheader page is kept
 
 எங்கே இருக்கினும் நாய் அடியேனுக்கு இடர் வரும் போது  
 
-அங்கே வெளிப்படுவாய்! மதுராபுரி அம்பிகையே! 18.  
+அங்கே வெளிப்படுவாய்! மதுராபுரி அம்பிகையே!
+
+ 18.  
 
 பொன்னே! நவ மணியே! அமுதே! புவி பூத்து அடங்கா  
 
@@ -250,7 +291,9 @@ You are welcome to freely distribute this file, provided thisheader page is kept
 
 எந் நேரம் காலன் வந்து ஆவி விட்டாலும், எனக்கு அஞ்சேல் என்று  
 
-அந் நேரம் வந்து அருள்வாய்! மதுராபுரி அம்பிகையே! 19.  
+அந் நேரம் வந்து அருள்வாய்! மதுராபுரி அம்பிகையே!
+
+ 19.  
 
 விருந்து உண்டு போகைக்கு நாயேன் சடலத்தை வெம் கழுகும்,  
 
@@ -258,7 +301,9 @@ You are welcome to freely distribute this file, provided thisheader page is kept
 
 திருந்தும் கரம் பற்றி நிற்பார் திரு முகச் செவ்வி எல்லாம்  
 
-அருந்தும் கயல் விழியாய்! மதுராபுரி அம்பிகையே! 20.  
+அருந்தும் கயல் விழியாய்! மதுராபுரி அம்பிகையே!
+
+ 20.  
 
 நாரணன் கொஞ்சும் புகழ் நான்முகற்கும், பொன் நாட்டவர்க்கும்  
 
@@ -266,7 +311,9 @@ You are welcome to freely distribute this file, provided thisheader page is kept
 
 வாரணம் கொஞ்சும் கடம்பு அடவியின் மகிழ்நருடன்  
 
-ஆரணம் கொஞ்சும் அம்மே! மதுராபுரி அம்பிகையே! 21.  
+ஆரணம் கொஞ்சும் அம்மே! மதுராபுரி அம்பிகையே!
+
+ 21.  
 
 நெளிக்கும் புழுவுக்கு இடம் ஆம் குரம்பையின் நின்றும், உயிர்  
 
@@ -274,7 +321,9 @@ You are welcome to freely distribute this file, provided thisheader page is kept
 
 சுளிக்கும் கடலில் சுழலாமல் வாழ்வைத் துறந்து, படைத்து,  
 
-அளிக்கும் பராசக்தியே! மதுராபுரி அம்பிகையே! 22.  
+அளிக்கும் பராசக்தியே! மதுராபுரி அம்பிகையே!
+
+ 22.  
 
 ஒழியாப் பனித் தடம் கண் நீர் சொரிய வந்து, உன் அடிக்கே  
 
@@ -282,7 +331,9 @@ You are welcome to freely distribute this file, provided thisheader page is kept
 
 விழியால் சுரப்ப, அலர்ந்த செம் தாமரை வீடு ஒன்றவே  
 
-அழியாப் பதம் தருவாய், மதுராபுரி அம்பிகையே! 23.  
+அழியாப் பதம் தருவாய், மதுராபுரி அம்பிகையே!
+
+ 23.  
 
 ஏலம் அடங்கும் குழலார் குறு ஏவலில் எய்த்து, அடியேன்  
 
@@ -290,7 +341,9 @@ You are welcome to freely distribute this file, provided thisheader page is kept
 
 கோலம் அடங்கும் அறியாத பச்சைக் குழவியைப் போல்  
 
-ஆலம் அடங்கும் அம்மே! மதுராபுரி அம்பிகையே! 24.  
+ஆலம் அடங்கும் அம்மே! மதுராபுரி அம்பிகையே!
+
+ 24.  
 
 போர்க்கும் கலா மதியும், கொன்றை மாலையும், பொன் முடி மேல்  
 
@@ -298,7 +351,9 @@ You are welcome to freely distribute this file, provided thisheader page is kept
 
 வார்க் குங்குமக் கொங்கை யானைக்கு முன்னம் மணி முரசம்  
 
-ஆர்க்கும் பராசக்தியே! மதுராபுரி அம்பிகையே! 25.  
+ஆர்க்கும் பராசக்தியே! மதுராபுரி அம்பிகையே!
+
+ 25.  
 
 நோக்கும் கருணை விழியால் பொது அற நோக்கி, என்னைக்  
 
@@ -306,7 +361,9 @@ You are welcome to freely distribute this file, provided thisheader page is kept
 
 வீக்கும் சடை அடவியார் உண்ட காள விடத்தை அமுது  
 
-ஆக்கும் சிவ ஆனந்தமே! மதுராபுரி அம்பிகையே! 26.  
+ஆக்கும் சிவ ஆனந்தமே! மதுராபுரி அம்பிகையே!
+
+ 26.  
 
 உலை குதிக்கும் தழல் ஊறிய கானலை உன்னிச் சென்று,  
 
@@ -314,7 +371,9 @@ You are welcome to freely distribute this file, provided thisheader page is kept
 
 வலை குதிக்கும் செம் கழுநீர் உடைந்து வழிந்த செம் தேன்  
 
-அலை குதிக்கும் தடம் சூழ் மதுராபுரி அம்பிகையே! 27.  
+அலை குதிக்கும் தடம் சூழ் மதுராபுரி அம்பிகையே!
+
+ 27.  
 
 பொடி பட்ட பிட்டுக்குத் தோள் கொண்டு கூடை மண் போட்டுப், பொங்கி  
 
@@ -322,7 +381,9 @@ You are welcome to freely distribute this file, provided thisheader page is kept
 
 கொடி பட்ட போது முழு நீலக் கோமள மேனியிலும்  
 
-அடி பட்டதோ? அணங்கே! மதுராபுரி அம்பிகையே! 28.  
+அடி பட்டதோ? அணங்கே! மதுராபுரி அம்பிகையே!
+
+ 28.  
 
 பூண்ட கை வாரிப், புது மலர் தூவி, நின் பொன் அடிக்கே  
 
@@ -330,7 +391,9 @@ You are welcome to freely distribute this file, provided thisheader page is kept
 
 நீண்ட கை வேழப் பிடர் ஏறி, வட்ட நிலம் புரக்கும்  
 
-ஆண் தகையே! அணங்கே! மதுராபுரி அம்பிகையே! 29.  
+ஆண் தகையே! அணங்கே! மதுராபுரி அம்பிகையே!
+
+ 29.  
 
 கொஞ்சும் குதலை மின்னார்க்கு அன்பு பூண்டு குலையும் என் தன்  
 
@@ -338,7 +401,9 @@ You are welcome to freely distribute this file, provided thisheader page is kept
 
 பிஞ்சும், கணை வில்லும், அங்குச பாசமும், பிஞ்சு மலர்  
 
-அஞ்சும் தரித்தவளே! மதுராபுரி அம்பிகையே! 30.  
+அஞ்சும் தரித்தவளே! மதுராபுரி அம்பிகையே!
+
+ 30.  
 
 **நூற்பயன்**  
 

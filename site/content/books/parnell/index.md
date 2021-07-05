@@ -8,6 +8,7 @@ genres:
   - நாவல்; மொழிபெயர்ப்பு
 ---
 
+
 by C. RAMACHANDRA AIYER, B.A.,B.L.  
 
 Pleader, Salem.  
@@ -16,7 +17,9 @@ Published by:
 
 KALYANASUNDARAM PRESS: G.S.MANIYA & Co.  
 
-Tanjore, 1904.  
+Tanjore,
+
+ 1904.  
 
   
 
@@ -36,7 +39,9 @@ Tanjore, 1904.
 
 ஜி.எஸ்.மணியா அண்டு கம்பெனி,  
 
-தஞ்சாவூர்: 1904.  
+தஞ்சாவூர்:
+
+ 1904.  
 
   
 
@@ -628,5 +633,7 @@ And passed a life of piety and peace.
 
 FINIS  
 
-This webpage was last updated on 8 August 2007.  
+This webpage was last updated on 8 August
+
+ 2007.  
 

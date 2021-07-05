@@ -8,9 +8,12 @@ genres:
   - நாவல்
   - புதினம்
 ---
+
 mbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
-weight: 719  
+weight:
+
+ 719  
 
 authors:  
 
@@ -66,7 +69,9 @@ In tamil script, unicode/utf-8 format
 
 கலைமகள் காரியாலயம், மயிலாப்பூர் :: சென்னை  
 
-முதற்பதிப்பு : ஸெப்டம்பர், 1956.  
+முதற்பதிப்பு : ஸெப்டம்பர்,
+
+ 1956.  
 
 உரிமை பதிவு:  
 
@@ -92,17 +97,58 @@ Printed at :The Madras Law Journal Branch press, Tiruvidaimarudur.
 
 -----------  
 
-**பொருள் அடக்கம்**  
+**பொருள் அடக்கம் 
+**  
 
   
 
-1. வேதாந்தி21. குமுறும் ஹிருதயம் 2. மாமியார் நாட்டுப் பெண்22. தங்கத்துடன் ரகுபதி 3. பாடத் தெரியுமா?23. சாலை வழியே 4. அவளுக்கு அவ்வளவு சுதந்தரமா?24. முள்ளின் வேதனை 5. டில்லியிலிருந்து25. மங்களத்தின் நம்பிக்கை 6. வீணாகானம்26. தாய்க்குப் பிறகு தாரம் 7. ரகுபதியின் கடிதம்27. தங்கத்துக்கு அர்ப்பணம் 8. பொறாமை28. மைசூரில் 9. மனித சுபாவம்29. வரவேற்பு 10. 'வானம்பாடி'30. சாவித்திரியின் உள்ளம் 11. வீணையும் கண்ணீரும்31, அழைக்காத விருந்தாளி 12. ரகுபதியின் கோபம்32. நீச மனோபாவம் 13. பிறந்த வீட்டுக்கு33. என்னுடைய குற்றம் 14. சீதாவின் உபதேசம்34. பிரார்த்த னை 15. "மாலே மணி வண்ணா !"35. 'நான் ஏழைப் பெண்' 16. சந்துருவும் சாவித்திரியும்36. கானல் நீர் 17. 'நினைவிருக்கிறதா?'37. 'விமோசனம் உண்டா ?' 18. 'அந்தப் பெண் யார்?'38. 'இன்னும் கோபமா?' 19. 'நந்த கோபாலனோடு நான்'39. கிருகப் பிரவேசம் 20. 'தை பிறந்தால் வழி பிறக்காதா?'40. இருளும் ஒளியும்  
+1. வேதாந்தி21. குமுறும் ஹிருதயம்
+
+ 2. மாமியார் நாட்டுப் பெண்22. தங்கத்துடன் ரகுபதி
+
+ 3. பாடத் தெரியுமா?23. சாலை வழியே
+
+ 4. அவளுக்கு அவ்வளவு சுதந்தரமா?24. முள்ளின் வேதனை
+
+ 5. டில்லியிலிருந்து25. மங்களத்தின் நம்பிக்கை
+
+ 6. வீணாகானம்26. தாய்க்குப் பிறகு தாரம்
+
+ 7. ரகுபதியின் கடிதம்27. தங்கத்துக்கு அர்ப்பணம்
+
+ 8. பொறாமை28. மைசூரில்
+
+ 9. மனித சுபாவம்29. வரவேற்பு
+
+ 10. 'வானம்பாடி'30. சாவித்திரியின் உள்ளம்
+
+ 11. வீணையும் கண்ணீரும்31, அழைக்காத விருந்தாளி
+
+ 12. ரகுபதியின் கோபம்32. நீச மனோபாவம்
+
+ 13. பிறந்த வீட்டுக்கு33. என்னுடைய குற்றம்
+
+ 14. சீதாவின் உபதேசம்34. பிரார்த்த னை
+
+ 15. "மாலே மணி வண்ணா !"35. 'நான் ஏழைப் பெண்'
+
+ 16. சந்துருவும் சாவித்திரியும்36. கானல் நீர்
+
+ 17. 'நினைவிருக்கிறதா?'37. 'விமோசனம் உண்டா ?'
+
+ 18. 'அந்தப் பெண் யார்?'38. 'இன்னும் கோபமா?'
+
+ 19. 'நந்த கோபாலனோடு நான்'39. கிருகப் பிரவேசம்
+
+ 20. 'தை பிறந்தால் வழி பிறக்காதா?'40. இருளும் ஒளியும்  
 
 ----------------------  
 
   
 
-### இருளும் ஒளியும் : 1. வேதாந்தி  
+### இருளும் ஒளியும் :
+
+ 1. வேதாந்தி  
 
   
 
@@ -148,7 +194,9 @@ Printed at :The Madras Law Journal Branch press, Tiruvidaimarudur.
 
   
 
-### 2. மாமியார் நாட்டுப்பெண்  
+###
+
+ 2. மாமியார் நாட்டுப்பெண்  
 
   
 
@@ -208,7 +256,9 @@ Printed at :The Madras Law Journal Branch press, Tiruvidaimarudur.
 
   
 
-### 3. பாடத் தெரியுமா?  
+###
+
+ 3. பாடத் தெரியுமா?  
 
   
 
@@ -262,7 +312,9 @@ Printed at :The Madras Law Journal Branch press, Tiruvidaimarudur.
 
   
 
-### 4. அவளுக்கு அவ்வளவு சுதந்தரமா?  
+###
+
+ 4. அவளுக்கு அவ்வளவு சுதந்தரமா?  
 
   
 
@@ -316,7 +368,9 @@ Printed at :The Madras Law Journal Branch press, Tiruvidaimarudur.
 
   
 
-### 5. டில்லியிலிருந்து  
+###
+
+ 5. டில்லியிலிருந்து  
 
   
 
@@ -374,7 +428,9 @@ Printed at :The Madras Law Journal Branch press, Tiruvidaimarudur.
 
   
 
-### 6. வீணாகானம்  
+###
+
+ 6. வீணாகானம்  
 
   
 
@@ -410,7 +466,9 @@ Printed at :The Madras Law Journal Branch press, Tiruvidaimarudur.
 
   
 
-### 7. ரகுபதியின் கடிதம்  
+###
+
+ 7. ரகுபதியின் கடிதம்  
 
   
 
@@ -466,7 +524,9 @@ Printed at :The Madras Law Journal Branch press, Tiruvidaimarudur.
 
   
 
-### 8. பொறாமை  
+###
+
+ 8. பொறாமை  
 
   
 
@@ -516,7 +576,9 @@ Printed at :The Madras Law Journal Branch press, Tiruvidaimarudur.
 
   
 
-### 9. மனித சுபாவம்  
+###
+
+ 9. மனித சுபாவம்  
 
   
 
@@ -564,7 +626,9 @@ Printed at :The Madras Law Journal Branch press, Tiruvidaimarudur.
 
   
 
-### 10. 'வானம்பாடி'  
+###
+
+ 10. 'வானம்பாடி'  
 
   
 
@@ -616,7 +680,9 @@ Printed at :The Madras Law Journal Branch press, Tiruvidaimarudur.
 
   
 
-### 11. வீணையும் கண்ணீரும்  
+###
+
+ 11. வீணையும் கண்ணீரும்  
 
   
 
@@ -650,7 +716,9 @@ Printed at :The Madras Law Journal Branch press, Tiruvidaimarudur.
 
   
 
-### 12. ரகுபதியின் கோபம்  
+###
+
+ 12. ரகுபதியின் கோபம்  
 
   
 
@@ -712,7 +780,9 @@ Printed at :The Madras Law Journal Branch press, Tiruvidaimarudur.
 
   
 
-### 13. பிறந்த வீட்டுக்கு  
+###
+
+ 13. பிறந்த வீட்டுக்கு  
 
   
 
@@ -764,7 +834,9 @@ Printed at :The Madras Law Journal Branch press, Tiruvidaimarudur.
 
   
 
-### 14. சீதாவின் உபதேசம்  
+###
+
+ 14. சீதாவின் உபதேசம்  
 
   
 
@@ -820,7 +892,9 @@ Printed at :The Madras Law Journal Branch press, Tiruvidaimarudur.
 
   
 
-### 15. 'மாலே மணி வண்ணா !'  
+###
+
+ 15. 'மாலே மணி வண்ணா !'  
 
   
 
@@ -862,7 +936,9 @@ Printed at :The Madras Law Journal Branch press, Tiruvidaimarudur.
 
   
 
-### 16. சந்துருவும் சாவித்திரியும்  
+###
+
+ 16. சந்துருவும் சாவித்திரியும்  
 
   
 
@@ -904,7 +980,9 @@ Printed at :The Madras Law Journal Branch press, Tiruvidaimarudur.
 
   
 
-### 17. 'நினவிருக்கிதா ?'  
+###
+
+ 17. 'நினவிருக்கிதா ?'  
 
   
 
@@ -944,7 +1022,9 @@ Printed at :The Madras Law Journal Branch press, Tiruvidaimarudur.
 
   
 
-### 18. 'அந்தப் பெண் யார்?'  
+###
+
+ 18. 'அந்தப் பெண் யார்?'  
 
   
 
@@ -986,7 +1066,9 @@ Printed at :The Madras Law Journal Branch press, Tiruvidaimarudur.
 
   
 
-### 19. ' நந்தகோபாலனோடு நான்'  
+###
+
+ 19. ' நந்தகோபாலனோடு நான்'  
 
   
 
@@ -1038,7 +1120,9 @@ Printed at :The Madras Law Journal Branch press, Tiruvidaimarudur.
 
   
 
-### 20. 'தை பிறந்தால் வழி பிறக்காதா?  
+###
+
+ 20. 'தை பிறந்தால் வழி பிறக்காதா?  
 
   
 
@@ -1094,7 +1178,9 @@ Printed at :The Madras Law Journal Branch press, Tiruvidaimarudur.
 
   
 
-### 21. குமுறும் ஹிருதயம்  
+###
+
+ 21. குமுறும் ஹிருதயம்  
 
   
 
@@ -1136,7 +1222,9 @@ Printed at :The Madras Law Journal Branch press, Tiruvidaimarudur.
 
   
 
-### 22. தங்கத்துடன் ரகுபதி  
+###
+
+ 22. தங்கத்துடன் ரகுபதி  
 
   
 
@@ -1190,7 +1278,9 @@ Printed at :The Madras Law Journal Branch press, Tiruvidaimarudur.
 
   
 
-### 23. சாலை வழியே  
+###
+
+ 23. சாலை வழியே  
 
   
 
@@ -1224,7 +1314,9 @@ Printed at :The Madras Law Journal Branch press, Tiruvidaimarudur.
 
   
 
-### 24. முள்ளின் வேதனை  
+###
+
+ 24. முள்ளின் வேதனை  
 
   
 
@@ -1272,7 +1364,9 @@ Printed at :The Madras Law Journal Branch press, Tiruvidaimarudur.
 
   
 
-### 25. மங்களத்தின் நம்பிக்கை  
+###
+
+ 25. மங்களத்தின் நம்பிக்கை  
 
   
 
@@ -1314,7 +1408,9 @@ Printed at :The Madras Law Journal Branch press, Tiruvidaimarudur.
 
   
 
-### 26. தாய்க்குப் பிறகு தாரம்  
+###
+
+ 26. தாய்க்குப் பிறகு தாரம்  
 
   
 
@@ -1362,7 +1458,9 @@ Printed at :The Madras Law Journal Branch press, Tiruvidaimarudur.
 
   
 
-### 27. தங்கத்துக்கு அர்ப்பணம்  
+###
+
+ 27. தங்கத்துக்கு அர்ப்பணம்  
 
   
 
@@ -1388,7 +1486,9 @@ Printed at :The Madras Law Journal Branch press, Tiruvidaimarudur.
 
   
 
-### 28. மைசூரில்  
+###
+
+ 28. மைசூரில்  
 
   
 
@@ -1430,7 +1530,9 @@ Printed at :The Madras Law Journal Branch press, Tiruvidaimarudur.
 
   
 
-### 29. வரவேற்பு  
+###
+
+ 29. வரவேற்பு  
 
   
 
@@ -1480,7 +1582,9 @@ Printed at :The Madras Law Journal Branch press, Tiruvidaimarudur.
 
   
 
-### 30. சாவித்திரியின் உள்ளம்  
+###
+
+ 30. சாவித்திரியின் உள்ளம்  
 
   
 
@@ -1512,7 +1616,9 @@ Printed at :The Madras Law Journal Branch press, Tiruvidaimarudur.
 
   
 
-### 31. அழைக்காத விருந்தாளி  
+###
+
+ 31. அழைக்காத விருந்தாளி  
 
   
 
@@ -1548,7 +1654,9 @@ Printed at :The Madras Law Journal Branch press, Tiruvidaimarudur.
 
   
 
-### 32. நீச மனோபாவம்  
+###
+
+ 32. நீச மனோபாவம்  
 
   
 
@@ -1580,7 +1688,9 @@ Printed at :The Madras Law Journal Branch press, Tiruvidaimarudur.
 
   
 
-### 33. என்னுடைய குற்றம்  
+###
+
+ 33. என்னுடைய குற்றம்  
 
   
 
@@ -1636,7 +1746,9 @@ Printed at :The Madras Law Journal Branch press, Tiruvidaimarudur.
 
   
 
-### 34. பிரார்த்தனை  
+###
+
+ 34. பிரார்த்தனை  
 
   
 
@@ -1700,7 +1812,9 @@ Printed at :The Madras Law Journal Branch press, Tiruvidaimarudur.
 
   
 
-### 36. கானல் நீர்  
+###
+
+ 36. கானல் நீர்  
 
   
 
@@ -1746,7 +1860,9 @@ Printed at :The Madras Law Journal Branch press, Tiruvidaimarudur.
 
   
 
-### 37. விமோசனம் உண்டா ?  
+###
+
+ 37. விமோசனம் உண்டா ?  
 
   
 
@@ -1812,7 +1928,9 @@ Printed at :The Madras Law Journal Branch press, Tiruvidaimarudur.
 
   
 
-### 38. 'இன்னும் கோபமா?'  
+###
+
+ 38. 'இன்னும் கோபமா?'  
 
   
 
@@ -1856,7 +1974,9 @@ Printed at :The Madras Law Journal Branch press, Tiruvidaimarudur.
 
   
 
-### 39. கிருகப் பிரவேசம்  
+###
+
+ 39. கிருகப் பிரவேசம்  
 
   
 
@@ -1918,7 +2038,9 @@ Printed at :The Madras Law Journal Branch press, Tiruvidaimarudur.
 
   
 
-### 40. இருளும் ஒளியும்  
+###
+
+ 40. இருளும் ஒளியும்  
 
   
 
@@ -1952,6 +2074,8 @@ Printed at :The Madras Law Journal Branch press, Tiruvidaimarudur.
 
 ----------  
 
-This file was last updated on 22 Nov. 2019  
+This file was last updated on 22 Nov.
+
+ 2019  
 
 Feel free to send the corrections to the webmaster.

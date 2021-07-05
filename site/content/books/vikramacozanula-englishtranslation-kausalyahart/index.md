@@ -8,6 +8,7 @@ genres:
   - உலா; மொழிபெயர்ப்பு
   - பிரபந்தம்
 ---
+
 ### VIKRAMA CHOLAN ULAA  
 
 by OTTAKKUTHAR  
@@ -30,7 +31,9 @@ University of California
 
 Berkeley, California  
 
-September, 2011  
+September,
+
+ 2011  
 
 **Note:** The verses of Vikkiramacōḻaṉ Ulā in Tamil script (Unicode format) has been released earlier as PM release /#116.  
 
@@ -54,15 +57,27 @@ The **Vikkiramacōḻaṉ Ulā**is extraordinarily rich in language, symbolism, 
 
 The **Vikkiramacōḻaṉ Ulā**is a panegyric poem relating the military valor and sexual magnetism of a prominent king of the Chola dynasty, which ruled for four centuries (849-1279 CE) over much of southern India, Sri Lanka and parts of Southeast Asia. The Chola sovereigns were one of the longest-lived imperial lineages in the history of south Asia. They are known for their efficient administrative system, which combined a vigorous central control with a very large measure of local autonomy[1] . The great temples of Tañjāvūr, Gangaikondacōḻapuram, Dārācuram and Tribhuvani as well as the smaller temples in other parts of Tamilnadu, attest to the grandeur and majestic excellence of Chola temple architecture and stone sculpture. As patrons of the arts, the Chola monarchs liberally commissioned other fine arts such as painting, music, poetry, drama, dance and bronze cast sculpture. The Chola dynasty was the dominant culture, artistic, religious and political force in south India from the 9th to the 13th centuries.  
 
-The references to the Chola dynasty are ancient. Northern inscriptions of the Mauryan emperor Ashoka refer to the Cholas, and Sangam literature produced roughly around 300 BCE to 300 CE detail the dominance of three dynasties over the areas of modern day Tamilnadu and Kerala: The Pandyas were based in Madurai to the south, the Cholas in Uṟaiyūr (modern Tiruccirāppaḷḷi) and the Cheras west of the Cholas in Karur and Kerala in the west[2]. The frequent attacks of the Pallavas, Cheras, and the Pandyas diminished the Chola power and it was not until the 8th century CE that their glory began to shine when the Pallavas’ power declined.  
+The references to the Chola dynasty are ancient. Northern inscriptions of the Mauryan emperor Ashoka refer to the Cholas, and Sangam literature produced roughly around
+
+ 300 BCE to
+
+ 300 CE detail the dominance of three dynasties over the areas of modern day Tamilnadu and Kerala: The Pandyas were based in Madurai to the south, the Cholas in Uṟaiyūr (modern Tiruccirāppaḷḷi) and the Cheras west of the Cholas in Karur and Kerala in the west[2]. The frequent attacks of the Pallavas, Cheras, and the Pandyas diminished the Chola power and it was not until the 8th century CE that their glory began to shine when the Pallavas’ power declined.  
 
 -----------  
 
-[1] Stein, Burton. “The Segmentary State in South Indian History” in Realm and Region in India, Robert Fox, editor, Duke University Press, 1977, p. 3-51.  
+[1] Stein, Burton. “The Segmentary State in South Indian History” in Realm and Region in India, Robert Fox, editor, Duke University Press,
 
-[2] Heitzman, James. Gifts of Power: Lordship in an Early Indian State, New Delhi: Oxford University Press, 1997, p. 2.  
+ 1977, p. 3-51.  
 
-Vikrama Chola’s rule dates from 1118 although his father Kulōttuṅga lived for four more years. The seventeen years of his reign are considered a period of relative peace[3]. He is known for regaining the Chola control over the Vengi, an area of constant dispute between the Cholas and Western Chālukyas, and for taking control of a portion of Gangavādi. He made extensive additions to the temple at Cidambaram, a temple of particular attachment for the Chola monarchs, as well as to the shrine of Ranganātha at Śrīrangam.  
+[2] Heitzman, James. Gifts of Power: Lordship in an Early Indian State, New Delhi: Oxford University Press,
+
+ 1997, p.
+
+ 2.  
+
+Vikrama Chola’s rule dates from
+
+ 1118 although his father Kulōttuṅga lived for four more years. The seventeen years of his reign are considered a period of relative peace[3]. He is known for regaining the Chola control over the Vengi, an area of constant dispute between the Cholas and Western Chālukyas, and for taking control of a portion of Gangavādi. He made extensive additions to the temple at Cidambaram, a temple of particular attachment for the Chola monarchs, as well as to the shrine of Ranganātha at Śrīrangam.  
 
 Vikkiramacōḻaṉ Ulā falls in the category of the literary genre called ulā. Ulā means “procession” from the root ulavu, to move. As a genre, the poem is the description of the king’s procession in the street. Its nascent origins appear in the grammar Tolkāppiyam (2-5 century CE?), where it is said to be appropriate for a person to make his appearance in a city in a procession [4]. Subsequently, the idea of a procession was incorporated into three Tamil epics. In Peruṅkatai of the 7th century, a chieftain at the time of his coronation and later during his marriage proceeds in the street for the very purpose of being seen [5] and this kindles feelings of love in the women who rush to see him [6]. In Cīvakacintāmaṇi by Tiruttakkattēvar around the 10th century, a small section in fourteen stanzas describes how the women fall in love and lose their chastity when they behold the king Cīvakaṉ in procession as he returns from a victorious battle [7]. And in Kampaṉ’s Rāmāyaṇa of the 12th century, women swoon as they see king Rāma when he comes on the street in a procession [8]. In all these epics, the procession is a standard feature but is not elaborated in great detail nor is it the primary subject of the literary work.  
 
@@ -70,11 +85,27 @@ What was once a brief and recurrent pattern in these earlier works evolved throu
 
 --------  
 
-[3]. Nilakanta Sastri, K. A. A History of South India from Prehistoric Times to the Fall of Vijayanagar (3rd edition), London: Oxford University Press, 1966, p. 193.  
+[3]. Nilakanta Sastri, K. A. A History of South India from Prehistoric Times to the Fall of Vijayanagar (3rd edition), London: Oxford University Press,
 
-[4]. Kalaikkaḷañciyam. (Tamil Encyclopedia), first edition, volume 2, Madras: Association of Tamil Development, 1955, p. 344.  
+ 1966, p.
 
-[5]. Ibid, p. 345.  
+
+
+ 193.  
+
+[4]. Kalaikkaḷañciyam. (Tamil Encyclopedia), first edition, volume 2, Madras: Association of Tamil Development,
+
+ 1955, p.
+
+
+
+ 344.  
+
+[5]. Ibid, p.
+
+
+
+ 345.  
 
 [6]. This same theme is found in Kalidasa’s Raghuvaṃśa, a Sanskrit poem written during the 4th century C.E. In the seventh book of this work, the ladies of the city crowd to see prince Aja as he passes by from the svayaṃvara where the princess Indumatī has chosen him as her husband.  
 
@@ -82,7 +113,11 @@ What was once a brief and recurrent pattern in these earlier works evolved throu
 
 [8]. Ibid.  
 
-[9] Cutler, Norman. Songs of Experience: The Poetics of Tamil Devotion, Bloomington: Indiana University Press, 1982, p. 81.  
+[9] Cutler, Norman. Songs of Experience: The Poetics of Tamil Devotion, Bloomington: Indiana University Press,
+
+ 1982, p.
+
+ 81.  
 
 The ulā genre has two parts. In the first section are details of the hero’s genealogy, glorious victories, bathing with sandalwood, going in processional grandeur on his vehicle, and escorts. The traditional requirements include the royal hero’s description and ten parts must be acknowledged: the king’s country, his capital city, his city of birth, his mountain, his river, his name, his mode of transportation, his army, his drum, and his garland [10]. In the second section, the poet’s attention shifts from the hero to the feelings and actions of the women in the hero’s kingdom whose hearts were captivated. While the king is specifically mentioned by name, the women remain nameless, a long-established practice seen in the akam (romantic) and puṟam (heroic) poetry of the Tamil Sangam literature belonging to the first three centuries of the Common Era. The emotional responses of the love stricken women in the seven age groups are recounted. The women belong to a conventional division: pētai (5-7 years of age), petumpai (8-11 years), maṅkai (12-13 years), maṭantai (14-19 years), arivai (19-25 years), terivai (26-31 years) and pēriḷampeṇ (31-40 years) [11]. An important aspect of the ulā is the one-sided nature of the love, as the king never reciprocates the undying love the women have for him.  
 
@@ -90,39 +125,91 @@ The first important ulā appeared in the 9th century when Cēramāṉ Perumāḷ
 
 Such is not the case with royal ulās, where the procession of a regal figure speaks of “the symbolic quality of south Indian kingship: the king is there in order to be perceived, and to perceive himself, in highly formalized and emotionally powerful ways.” [13] Poetry has been widely recognized as a power to confer immortality of kings and Oṭṭakkūttar, the court poet popularly known by the epithets of Kaviccakkaravartti or Emperor of Poets, Kavirākṣasan or Giant Poet, Varakavi or Divinely Gifted Poet, was commissioned by Vikrama Cōḻa (1118-1135), his son Kulōttuṅga Cōḻa (1133-1150), and his grandson Raja Raja Cōḻa (1146-1173) for this very purpose.  
 
-Oṭṭakkūttar was born in a poor Ceṅkuntar (weaver) family in Malari, a village in the Chola country. He sought service under Caṅkaraṉ, who was the chieftain of Puduvai as well as the father of Caṭaiyaṉ, the patron of the celebrated poet laureate Kampaṉ. Oṭṭakkūttan had other patrons like Gāngēya whom he praised in Nālāyirakkōvai and Soman of Tribhuvani [14]. When he achieved fame, he was invited to the imperial Chola court and was entertained there as Kaviccakkaravartti (Emperor of Poets) by the three successive monarchs beginning with Vikrama Cōḻa. Erudite in Tamil and Sanskrit, he wrote what is widely considered to be the best of this type of poetry called Muvar Ulā, a collection of three ulās in honor of these three monarchs. Although the ulā genre continued during the Vijayanagara period (1200 to 1650) as a minor literary form and later during the Nāyaka [15] and Maratha periods (1650-1800), the Muvar Ulā is believed to be the finest and the most popular [16]. In addition to the three ulās, he composed a paraṇi [17] on the Kaliṅga war of Vikrama Cōḻa titled Kaliṅgattu-p-paraṇi, and a piḷḷaitamiḻ [18] on Kulōttuṅga Cōḻa II, Vikrama Cōḻa’s son titled Kulōttuṅga-Cōḻan Piḷḷai-t-tamiḻ, which is the oldest extant poem in this genre [19]. He is credited with developing the piḷḷaitamiḻ into a definite literary form [20]. Oṭṭakkuttar also wrote Takka-yāka-p-paraṇi which describes the battle between Śiva’s general and his father-in-law, as well as other poems titled Arumpaittoḷḷāyairam, Kāṅkeyaṉ Nālāyirak Kōvai (which is not extant) and perhaps Īṭṭiyeḻupatu. According to historian K.A. Nilakanta Sastri, the village of Kūttaṉūr located on the banks of the Aricil River in the Tañjāvūr district “keeps the poet’s memory alive,” and has a Sarasvatī temple with a record from the 12th century that mentions the installation of the image of the goddess by Kavipperumāḷ, also known as Ōvātakūttar, the grandson of Oṭṭakkūttar [21].  
+Oṭṭakkūttar was born in a poor Ceṅkuntar (weaver) family in Malari, a village in the Chola country. He sought service under Caṅkaraṉ, who was the chieftain of Puduvai as well as the father of Caṭaiyaṉ, the patron of the celebrated poet laureate Kampaṉ. Oṭṭakkūttan had other patrons like Gāngēya whom he praised in Nālāyirakkōvai and Soman of Tribhuvani [14]. When he achieved fame, he was invited to the imperial Chola court and was entertained there as Kaviccakkaravartti (Emperor of Poets) by the three successive monarchs beginning with Vikrama Cōḻa. Erudite in Tamil and Sanskrit, he wrote what is widely considered to be the best of this type of poetry called Muvar Ulā, a collection of three ulās in honor of these three monarchs. Although the ulā genre continued during the Vijayanagara period (1200 to
+
+ 1650) as a minor literary form and later during the Nāyaka [15] and Maratha periods (1650-1800), the Muvar Ulā is believed to be the finest and the most popular [16]. In addition to the three ulās, he composed a paraṇi [17] on the Kaliṅga war of Vikrama Cōḻa titled Kaliṅgattu-p-paraṇi, and a piḷḷaitamiḻ [18] on Kulōttuṅga Cōḻa II, Vikrama Cōḻa’s son titled Kulōttuṅga-Cōḻan Piḷḷai-t-tamiḻ, which is the oldest extant poem in this genre [19]. He is credited with developing the piḷḷaitamiḻ into a definite literary form [20]. Oṭṭakkuttar also wrote Takka-yāka-p-paraṇi which describes the battle between Śiva’s general and his father-in-law, as well as other poems titled Arumpaittoḷḷāyairam, Kāṅkeyaṉ Nālāyirak Kōvai (which is not extant) and perhaps Īṭṭiyeḻupatu. According to historian K.A. Nilakanta Sastri, the village of Kūttaṉūr located on the banks of the Aricil River in the Tañjāvūr district “keeps the poet’s memory alive,” and has a Sarasvatī temple with a record from the 12th century that mentions the installation of the image of the goddess by Kavipperumāḷ, also known as Ōvātakūttar, the grandson of Oṭṭakkūttar [21].  
 
 ------------  
 
-[10]. Kalaikkaḷañciyam, p. 344.  
+[10]. Kalaikkaḷañciyam, p.
 
-[11]. Zvelebil, Kamil V. Tamil Literature, Wiesbaden, Germany: Otto Harrassowitz, 1974, p. 197.  
 
-[12]. Jesudasan, C. and Hephzibah Jesudan. History of Tamil Literature (Heritage of India series), Calcutta: Y.M.C.A. Publishing House, 1961, p. 92.  
 
-[13] Shulman,David. The King and the Clown in South Indian Myth and Poetry, Princeton University Press, 1985, p. 312.  
+ 344.  
 
-[14]. Nilakanta Sastri, p. 377.  
+[11]. Zvelebil, Kamil V. Tamil Literature, Wiesbaden, Germany: Otto Harrassowitz,
 
-[15]. According to Narayana Rao, Velcheru, David Shulman, and Sanjay Subramaniam (Symbols of Substance: Court and State in Na¯yaka Period Tamilnadu, Delhi: Oxford University Press, 1998) the Nayaka public svari, in which the king would show himself to his people through a procession, is the direct descendant of the Chola period royal ula processions” (p. 60).  
+ 1974, p.
 
-[16]. Meenakshisundaran. P. A History of Tamil Literature, Hyderbad: Marathi Sahitya Parishad, 1965, p.143.  
 
-[17]. Paraṇi is a minor literary form consisting of a war poem that celebrates the victory of a killer of seven hundred elephants (Jesudasan 1961, p. 186).  
 
-[18]. Piḷḷaittamiḻ is a “genre of Tamil devotional poetry to an extraordinary deity or person addressed in the form of a child” Richman, Paula. Extraordinary Child: Poems from a South Indian Devotional Genre, Honolulu: University of Hawai’i Press, 1997, p. ix.  
+ 197.  
 
-[19] Ibid, p. 35.  
+[12]. Jesudasan, C. and Hephzibah Jesudan. History of Tamil Literature (Heritage of India series), Calcutta: Y.M.C.A. Publishing House,
 
-[20]. Jesudasan, p. 192.  
+ 1961, p.
 
-[21]. Nilakanta Sastri, p. 377.  
+ 92.  
 
-Vikkiramacōḻaṉ Ulā is a lengthy poem written in the kaliveṇpā meter consisting of 342 kaṇṇis (couplets), or 684 lines.  
+[13] Shulman,David. The King and the Clown in South Indian Myth and Poetry, Princeton University Press,
+
+ 1985, p.
+
+
+
+ 312.  
+
+[14]. Nilakanta Sastri, p.
+
+
+
+ 377.  
+
+[15]. According to Narayana Rao, Velcheru, David Shulman, and Sanjay Subramaniam (Symbols of Substance: Court and State in Na¯yaka Period Tamilnadu, Delhi: Oxford University Press,
+
+ 1998) the Nayaka public svari, in which the king would show himself to his people through a procession, is the direct descendant of the Chola period royal ula processions” (p. 60).  
+
+[16]. Meenakshisundaran. P. A History of Tamil Literature, Hyderbad: Marathi Sahitya Parishad,
+
+ 1965, p.143.  
+
+[17]. Paraṇi is a minor literary form consisting of a war poem that celebrates the victory of a killer of seven hundred elephants (Jesudasan
+
+ 1961, p.
+
+ 186).  
+
+[18]. Piḷḷaittamiḻ is a “genre of Tamil devotional poetry to an extraordinary deity or person addressed in the form of a child” Richman, Paula. Extraordinary Child: Poems from a South Indian Devotional Genre, Honolulu: University of Hawai’i Press,
+
+ 1997, p. ix.  
+
+[19] Ibid, p.
+
+ 35.  
+
+[20]. Jesudasan, p.
+
+
+
+ 192.  
+
+[21]. Nilakanta Sastri, p.
+
+
+
+ 377.  
+
+Vikkiramacōḻaṉ Ulā is a lengthy poem written in the kaliveṇpā meter consisting of
+
+ 342 kaṇṇis (couplets), or
+
+ 684 lines.  
 
   
 
-Kaṇṇis 1 to 112 form the first section of the poem where primary emphasis is placed on the king:  
+Kaṇṇis 1 to
+
+ 112 form the first section of the poem where primary emphasis is placed on the king:  
 
 Kaṇṇis 1 to 14 describe the accomplishments of the mythological and legendary ancestors of the king to establish the greatness of the hero’s illustrious dynasty, their military conquests, and other achievements. Given that royal ulās represent the king’s duty to present himself to his subjects outside the walls of his palace, it is not surprising that Vikkiramacōḻan Ula begins with this genealogy in the first fourteen couplets.  
 
@@ -138,23 +225,71 @@ Kaṇṇis 53 to 64 give a vivid account of the gallant deeds of the royal eleph
 
 Kaṇṇis 65 to 90 elaborately describe the procession and its participants as well as their exploits. The king’s generals, council of ministers, chieftains, commanders-in-chief, soldiers, priests, treasurer, and elephant trainer who accompany the mighty king are mentioned  
 
-Kaṇṇis 91 to 112 evoke the ulā moving along the street where beautifully bejeweled women wearing effulgent ornaments live. While complimenting the king in this way, these women become thin and they try desperately to prevent their bracelets from falling by folding their hands in worship.  
+Kaṇṇis 91 to
 
-Kaṇṇis 113 to 342 constitute the second section of the poem called peṇ ēḻu nilai where the activities of the women, who become lovesick at the sight of the hero, are described. The origin of ēḻu paruva makaḷir (division of womanhood in seven stages) is unknown and was not present in Sangam poetry:  
+ 112 evoke the ulā moving along the street where beautifully bejeweled women wearing effulgent ornaments live. While complimenting the king in this way, these women become thin and they try desperately to prevent their bracelets from falling by folding their hands in worship.  
 
-Kaṇṇis 113 to 133 describe the reactions of an innocent girl in the pētai stage, ages 5 to 7.  
+Kaṇṇis
 
-Kaṇṇis 134 to 162 depict the reactions of a young girl in the petumpai stage, ages 8 to 11.  
+ 113 to
 
-Kaṇṇis 163 to 192 illustrate the reactions of an adolescent girl in the maṅkai stage ages, 12 to 13.  
+ 342 constitute the second section of the poem called peṇ ēḻu nilai where the activities of the women, who become lovesick at the sight of the hero, are described. The origin of ēḻu paruva makaḷir (division of womanhood in seven stages) is unknown and was not present in Sangam poetry:  
 
-Kaṇṇis 193 to 227 show the reactions of a nubile girl in the maṭantai stage ages, 14 to 19.  
+Kaṇṇis
 
-Kaṇṇis 228 to 262 portray the reactions of a maiden in the arivai stage, ages 20 to 25.  
+ 113 to
 
-Kaṇṇis 263 to 305 display the reactions of a woman in the terivai stage ages, 26 to 31.  
+ 133 describe the reactions of an innocent girl in the pētai stage, ages 5 to
 
-Kaṇṇis 306 to 342 present the reactions of a mature woman in the pēriḷampeṇ stage, ages 32 to 40.  
+ 7.  
+
+Kaṇṇis
+
+ 134 to
+
+ 162 depict the reactions of a young girl in the petumpai stage, ages 8 to
+
+ 11.  
+
+Kaṇṇis
+
+ 163 to
+
+ 192 illustrate the reactions of an adolescent girl in the maṅkai stage ages, 12 to
+
+ 13.  
+
+Kaṇṇis
+
+ 193 to
+
+ 227 show the reactions of a nubile girl in the maṭantai stage ages, 14 to
+
+ 19.  
+
+Kaṇṇis
+
+ 228 to
+
+ 262 portray the reactions of a maiden in the arivai stage, ages 20 to
+
+ 25.  
+
+Kaṇṇis
+
+ 263 to
+
+ 305 display the reactions of a woman in the terivai stage ages, 26 to
+
+ 31.  
+
+Kaṇṇis
+
+ 306 to
+
+ 342 present the reactions of a mature woman in the pēriḷampeṇ stage, ages 32 to
+
+ 40.  
 
   
 
@@ -672,7 +807,7 @@ of other countries who come to fight,
 
 he kills them and feeds their lives to Yama.  
 
-Such is the strength of Airavata, the elephant of the king. (101- 128)  
+Such is the strength of Airavata, the elephant of the king. (101-128)  
 
 The king goes on his procession  
 
@@ -696,7 +831,7 @@ Heroic kings approach him with respect.
 
 His victorious murderous tiger banner is raised.  
 
-Such is the procession of Vikrama Chola. (129- 135)  
+Such is the procession of Vikrama Chola. (129-135)  
 
 The Escort of the king Vikrama Chola  
 
@@ -882,7 +1017,9 @@ all surround the king from front and rear,
 
 as they escort his procession.  
 
-Such is the escort of the king Vikrama Chola. ( 136 - 180)  
+Such is the escort of the king Vikrama Chola. (
+
+ 136-180)  
 
 The beauty of the gathering of women  
 
@@ -1238,7 +1375,7 @@ as it would in the hearts of the other women.
 
 She forgot completely how she wanted to feed  
 
-the play rice of sand to her young friends. (224 - 268.)  
+the play rice of sand to her young friends. (224-268.)  
 
 The beauty of the pethumbai  
 
@@ -1626,7 +1763,7 @@ In her love sickness,
 
 she leans on her friends’ arms and faints.  
 
-Such is the state of the mankai in love. (325 - 384)  
+Such is the state of the mankai in love. (325-384)  
 
 The beauty of the madanthai.  
 
@@ -1884,7 +2021,7 @@ Both her loving heart and soul
 
 go to the king on the noisy street  
 
-yet somehow the innocent woman survives. (385- 454)  
+yet somehow the innocent woman survives. (385-454)  
 
 The beauty of the arivai  
 
@@ -2134,7 +2271,7 @@ not given even by the breasts of the earth goddess,
 
 or the arms of Laksmi  
 
-who lives on a lotus flower. (455 - 524)  
+who lives on a lotus flower. (455-524)  
 
 The beauty of the therivai  
 
@@ -2668,5 +2805,7 @@ the Chola king. (611-681)
 
 murrum.  
 
-This file was last updated on 5 May 2012  
+This file was last updated on 5 May
+
+ 2012  
 

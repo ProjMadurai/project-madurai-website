@@ -7,6 +7,7 @@ authors:
 genres:
   - இலக்கணம்
 ---
+
 ### செய்யுளிலக்கணம் - கத்தியரூபம்.  
 
 பூவை - கலியாணசுந்தர முதலியார்  
@@ -55,7 +56,9 @@ With these words of preface, I leave the book to the judgmeut of the learned and
 
 MADRAS,  
 
-15th Feb. 1893. P. CULLEAUNASUNDROM.  
+15th Feb.
+
+ 1893. P. CULLEAUNASUNDROM.  
 
 ----------  
 
@@ -111,7 +114,9 @@ Late Judge, Chief Court, Pudukota.
 
 Your Cheyyul ilakkanam has been well written. Concise as it is, it gives in plain prose all that is required for a student to know in Prosody with sufficient illustrations, so that the average student can learn it in half the time he may have to devote to get through Karikai, the present popular work on the subject.  
 
-16-1. 93.  
+16-1.
+
+ 93.  
 
 --------  
 
@@ -837,7 +842,9 @@ I have read with very great pleasure your செய்யுளிலக்க�
 
   
 
-### 2. செய்யுளியல்.  
+###
+
+ 2. செய்யுளியல்.  
 
   
 
@@ -2431,7 +2438,9 @@ I have read with very great pleasure your செய்யுளிலக்க�
 
   
 
-### 3. ஒழிபியல்.  
+###
+
+ 3. ஒழிபியல்.  
 
   
 
@@ -2909,7 +2918,9 @@ I have read with very great pleasure your செய்யுளிலக்க�
 
   
 
-### 4. பாட்டியல். [/#]  
+###
+
+ 4. பாட்டியல். [/#]  
 
   
 
@@ -3551,6 +3562,8 @@ I have read with very great pleasure your செய்யுளிலக்க�
 
 ------------  
 
-This file was last updated on 15 Jan. 2020.  
+This file was last updated on 15 Jan.
+
+ 2020.  
 
 Feel free to send the corrections to the webmaster.

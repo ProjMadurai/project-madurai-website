@@ -7,6 +7,7 @@ authors:
 genres:
   - காவியம்
 ---
+
 ## "iruNTa viiTu" by Bharathidaasan in TSCII format  
 
 புரட்சி கவிஞர் பாரதிதாசனின் "இருண்ட வீடு"  
@@ -1831,10 +1832,11 @@ genres:
 
 முற்றும்.  
 
-This page was first put up on October 3, 2000  
+This page was first put up on October 3,
 
-Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com,   
+ 2000  
 
+Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com,  
   
 
 kumar@vt.edu?subject=PM86-iruNTa viiTu)

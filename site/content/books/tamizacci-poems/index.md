@@ -7,6 +7,7 @@ authors:
 genres:
   - கவிதைத் தொகுப்பு
 ---
+
 ### தமிழச்சி (கவிதைகள்)  
 
 கவிஞர் வாணிதாசன்  
@@ -23,7 +24,11 @@ genres:
 
 133. பிராட்வே.. சென்னை - 1  
 
-முதற் பதிப்பு - மார்ச்சு , 1949 இரண்டாம் பதிப்பு- ஆகஸ்ட்டு , 1956  
+முதற் பதிப்பு - மார்ச்சு ,
+
+ 1949 இரண்டாம் பதிப்பு- ஆகஸ்ட்டு ,
+
+ 1956  
 
 உரிமை ஆசிரியர்க்கே.  
 
@@ -1839,7 +1844,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 முன்னிரு கால்கள் தூக்கி  
 
-முகத்து நேர் குரைக்குந் தாவி! 100  
+முகத்து நேர் குரைக்குந் தாவி!
+
+ 100  
 
 களிப்பினில் துள்ளும் நாயைக்  
 
@@ -1855,7 +1862,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 புளிபோல் ஒட்டி நாயின்  
 
-பூட்டினில் இருக்கக் கண்டான். 101  
+பூட்டினில் இருக்கக் கண்டான்.
+
+ 101  
 
 காதல! உம்மைக் காண  
 
@@ -1871,7 +1880,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 வேதனை தருமே யன்றி,  
 
-விருப்பினைத் தரவே இல்லை! 102  
+விருப்பினைத் தரவே இல்லை!
+
+ 102  
 
 "நரகம் ஒன்(று) உண்(டு) அங்(கு)" என்று  
 
@@ -1887,7 +1898,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 பிரிவினை உணர்ந்தி ருந்தால்,  
 
-நரகத்தைப் பெரிதாய்ப் பேசார்! 103  
+நரகத்தைப் பெரிதாய்ப் பேசார்!
+
+ 103  
 
 "பட்டது போதும்! என்னைப்  
 
@@ -1903,7 +1916,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 கொட்டம் நீர் செய்த அந்தக்  
 
-கொல்லையை மறக்க லாமோ? 104  
+கொல்லையை மறக்க லாமோ?
+
+ 104  
 
 "குப்பையைச் சீய்த்துச் சீய்த்துக்  
 
@@ -1919,7 +1934,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 வெப்பத்தைக் கலைக்கு நீக்கும்  
 
-வெஞ்சுரம் எனினும் மானும்!" 105  
+வெஞ்சுரம் எனினும் மானும்!"
+
+ 105  
 
 என்ற அச் சீட்டைக் கண்டான்;  
 
@@ -1935,7 +1952,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 கொன்றிடக் கல்லெ டுத்தான்;  
 
-நாய் வாலைக் குழைக்கப் போட்டான்; 106  
+நாய் வாலைக் குழைக்கப் போட்டான்;
+
+ 106  
 
 முடிவிற்கு வந்தான் போல  
 
@@ -1951,7 +1970,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 கொடியது காதல்!" என்று  
 
-கூவினான்; ஓடி னானே! 107  
+கூவினான்; ஓடி னானே!
+
+ 107  
 
 -------------------  
 
@@ -1975,7 +1996,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 செப்பிடும் காதற் செய்தி;  
 
-சிரித்தணைந் திருக்கும் சிட்டு! 108  
+சிரித்தணைந் திருக்கும் சிட்டு!
+
+ 108  
 
 பாப்பாத்தி எட்டி எட்டிப்  
 
@@ -1991,7 +2014,11 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 வேப்பனும் அரசும் காற்றில் –  
 
-விளையாடும் பின்னிப் பின்னி! 109.  
+விளையாடும் பின்னிப் பின்னி!
+
+
+
+ 109.  
 
 குப்பனின் வரவும், நாளைக்  
 
@@ -2007,7 +2034,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 செப்பிடு வித்தை காட்டும்  
 
-செடி கொடிக் குரைத்தி ருந்தாள். 110  
+செடி கொடிக் குரைத்தி ருந்தாள்.
+
+ 110  
 
 பாப்பாத்தி காணா வண்ணம்  
 
@@ -2023,7 +2052,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 வேப்பனின் மறைவி ருந்து :  
 
-வெடுக்கெனச் சிரித்தான் பொன்னன்! 111  
+வெடுக்கெனச் சிரித்தான் பொன்னன்!
+
+ 111  
 
 "குப்பனும் அதோ பார்!" என்று  
 
@@ -2039,7 +2070,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 அப்பக்கம் இருப்போம்" என்றாள்  
 
-தமிழச்சி; அழகுப் பேழை! 112  
+தமிழச்சி; அழகுப் பேழை!
+
+ 112  
 
 வழிவழி காதல் வெள்ளம்  
 
@@ -2055,7 +2088,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 வழிக் (கு) எனை அடிமை யாக்க  
 
-வா !" என வரைந்திட் டாயோ? 113  
+வா !" என வரைந்திட் டாயோ?
+
+ 113  
 
 "நன்றடி ! உனை நான் இன்று  
 
@@ -2071,7 +2106,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 கொன்(று) உனை அமைதி காண்பேன் ;  
 
-கூறடி உண்மை !" என்றான். 114  
+கூறடி உண்மை !" என்றான்.
+
+ 114  
 
 பதிலொன்றும் பேசி டாது  
 
@@ -2087,7 +2124,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 முதியவர் மணக்கா முன்னம்  
 
-மீட்டேன் ; ஊர் வசவும் ஏற்றேன் !" 115  
+மீட்டேன் ; ஊர் வசவும் ஏற்றேன் !"
+
+ 115  
 
 என்றனன்; ஆனால், குப்பன்  
 
@@ -2103,7 +2142,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 சென்றது திசைகள் நான்கும் !  
 
-சேர்ந்தது கும்பல் ஆங்கே! 116  
+சேர்ந்தது கும்பல் ஆங்கே!
+
+ 116  
 
 ------------  
 
@@ -2127,7 +2168,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 செப்பினர், "சான் (று எங் கட்குத்  
 
-தெய்வமே !" என்(று) அப் பெண்கள் 117  
+தெய்வமே !" என்(று) அப் பெண்கள்
+
+ 117  
 
 குப்பனை ஊர் நாட்டாண்மை  
 
@@ -2143,7 +2186,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 தப்பினை விலக்கச் சான்று  
 
-யாரேனும் உண்டா ?” என்றார். 118  
+யாரேனும் உண்டா ?” என்றார்.
+
+ 118  
 
 தலையினைத் தாழ்த்திக் குப்பன்  
 
@@ -2159,7 +2204,11 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 கொலையினைக் கண்டோம்; நாங்கள்  
 
-கூவினோம்; வந்தார் மக்கள். 119.  
+கூவினோம்; வந்தார் மக்கள்.
+
+
+
+ 119.  
 
 "'பொன்னன்பாப் பாத்தி யோடு  
 
@@ -2175,7 +2224,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 என்றனன். தீர்ப்புச் சொல்வோர்,  
 
-"இருக்கலாம்; உண்மை!" என்றார் ! 120  
+"இருக்கலாம்; உண்மை!" என்றார் !
+
+ 120  
 
 பழிவாங்க வேண்டும் என்று  
 
@@ -2191,7 +2242,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 விழுந்தது! சிறைக்கூ டத்தே  
 
-விலங்கிட்டுத் தள்ளி னார்கள் ! 121  
+விலங்கிட்டுத் தள்ளி னார்கள் !
+
+ 121  
 
 ----------------  
 
@@ -2215,7 +2268,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 ஏய்ப்பாரின் காலம் இன்னும்  
 
-எத்தனை நாளோ? பார்ப்போம்! 122  
+எத்தனை நாளோ? பார்ப்போம்!
+
+ 122  
 
 "ஒன்றுனக்(கு) இன்னும் சொல்வேன் :  
 
@@ -2231,7 +2286,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 பொன்றிய உடைமை எல்லாம்  
 
-பொதுவாகும் நன்னாள் ஆகும்! 123  
+பொதுவாகும் நன்னாள் ஆகும்!
+
+ 123  
 
 "உழைப்பவர் விழித்துக் கொண்டால்  
 
@@ -2247,7 +2304,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 கொழுத்திடு பணக்காரர்கள்  
 
-கூட்டமும் ஓட்டம் தம்பி! 124  
+கூட்டமும் ஓட்டம் தம்பி!
+
+ 124  
 
 "எதிர்ப்புக்குக் கலங்கி டாதே;  
 
@@ -2263,7 +2322,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 மதுவுண்ட உலகம் உன்னை  
 
-வஞ்சிக்கும் ; விழிப்பாய் ; வெல்வாய் !" 125  
+வஞ்சிக்கும் ; விழிப்பாய் ; வெல்வாய் !"
+
+ 125  
 
 என்றனள்; சிறைக்குச் சென்றாள்  
 
@@ -2279,7 +2340,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 பொந்தினில் இந்தத் தீர்ப்பைப்  
 
-பொறுக்காமல் அலறும் ஆந்தை ! 126  
+பொறுக்காமல் அலறும் ஆந்தை !
+
+ 126  
 
 -------------  
 
@@ -2303,7 +2366,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 தான்வந்து தடுக்கும் மேகம் !  
 
-தடுப்பதற்(கு) அதனால் ஆமோ? 127  
+தடுப்பதற்(கு) அதனால் ஆமோ?
+
+ 127  
 
 சேரியில் உள்ள ஆண்கள்  
 
@@ -2319,7 +2384,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 ஓரத்தில் பெண்கள் பாடும்  
 
-கும்மியை உற்றுக் கேளீர்! 128  
+கும்மியை உற்றுக் கேளீர்!
+
+ 128  
 
 **கும்மி**  
 
@@ -2329,7 +2396,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 ஊருக் (கு) உழைப்பவர் "கஞ்சி! கஞ்சி!"- என்று  
 
-ஓலமிடுவது, சால் நன்றோ? 129  
+ஓலமிடுவது, சால் நன்றோ?
+
+ 129  
 
 ”ஆண்டான் அடிமைகள் ஏய்ப்பதற்கே!- நம்மை  
 
@@ -2337,7 +2406,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 ‘தீண்டாமை’ என்றொரு பொய்யுஞ் சொன்னார் - மீளும்  
 
-செய்திரைக் கின்றேன் : கேளுங்களே! 130  
+செய்திரைக் கின்றேன் : கேளுங்களே!
+
+ 130  
 
 ”கட்டாயமாய்க் கல்வி கற்க வேண்டும்!- சாதிக்  
 
@@ -2345,7 +2416,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 கொட்டாவி விட்டிங்குத் தூங்குகின்ற - தொந்திச்  
 
-சோம்பர்களைத் தலை குட்ட வேண்டும்! 131  
+சோம்பர்களைத் தலை குட்ட வேண்டும்!
+
+ 131  
 
 "கடமையாய் ஒவ்வொரு ஆணும் பெண்ணும் –  
 
@@ -2353,7 +2426,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 உடமை பொது செய்து மக்களெல்லாம் - நாட்டில்  
 
-உண்டுகளித்திட வேண்டும் அய்யா!" 132  
+உண்டுகளித்திட வேண்டும் அய்யா!"
+
+ 132  
 
 என்(று) அந்தப் பெண்கள் பாடும்  
 
@@ -2369,7 +2444,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 நின் றெட்டிப் பார்த்திருந்தாள்;  
 
-மழைபட்ட நிலாமு கத்தாள்! 133  
+மழைபட்ட நிலாமு கத்தாள்!
+
+ 133  
 
 வீரனும் அவளைப் பார்த்தான்;  
 
@@ -2385,7 +2462,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 "ஆருக்கென் னதனால்?" என்றான் !  
 
-அவளேனோ தலைகுனிந்தாள்! 134  
+அவளேனோ தலைகுனிந்தாள்!
+
+ 134  
 
 "பாவியென் னாலே பொன்னன்  
 
@@ -2401,7 +2480,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 பாவியேன் பிறந்தேன்?" என்றாள்  
 
-பாப்பாத்தி வீரன் சொல்வான் : 135  
+பாப்பாத்தி வீரன் சொல்வான் :
+
+ 135  
 
 "உன்னைப்போல் கோழைப் பெண்ணை  
 
@@ -2417,7 +2498,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 என்னுயிர் நீங்கும்; சேரி "  
 
-இடர்ப்படும் ; வேண்டாம்!" என்றான். 136  
+இடர்ப்படும் ; வேண்டாம்!" என்றான்.
+
+ 136  
 
 "அப்படியானால் உம்மை  
 
@@ -2433,7 +2516,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 "தப்பில்லை ; என் மேல் காதல்!  
 
-சரிதானே? சொல்வாய்!" என்றாள். 137  
+சரிதானே? சொல்வாய்!" என்றாள்.
+
+ 137  
 
 வீரனோ கண்க ளாலே  
 
@@ -2449,7 +2534,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 ஓரிரு குச்சு வீடும்  
 
-உடன்வெந்து தணிந்த தந்தோ! 138  
+உடன்வெந்து தணிந்த தந்தோ!
+
+ 138  
 
 ------------------  
 
@@ -2473,7 +2560,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 அடியோசை சேரி எங்கும்  
 
-அதிர்ந்தது! வீரன் வந்தான்! 139  
+அதிர்ந்தது! வீரன் வந்தான்!
+
+ 139  
 
 "அப்பாவே! அண்ணன் மாரே!  
 
@@ -2489,7 +2578,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 செப்பினால் விடுவோம் ! இன்றேல்,  
 
-தீக்(கு) இரை செய்வோம்!" என்றான். 140  
+தீக்(கு) இரை செய்வோம்!" என்றான்.
+
+ 140  
 
 ”உண்மையைக் கூறு கின்றேன்;  
 
@@ -2505,7 +2596,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 உண்மையைக் கேட்போம்!" என்று  
 
-புலிபோல் உறுமி னார்கள்! 141  
+புலிபோல் உறுமி னார்கள்!
+
+ 141  
 
 போருக்குப் பழங்கா லத்தே  
 
@@ -2521,7 +2614,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 சேரியை வளைத்துக் கொண்டார்!  
 
-திகைத்தார்கள் சேரி மக்கள்! 142  
+திகைத்தார்கள் சேரி மக்கள்!
+
+ 142  
 
 வீரனோ கொதித்(து)எ ழுந்தான்!  
 
@@ -2537,7 +2632,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 வீரராய் வாழ்வோம்! கிட்டும்  
 
-வெற்றிதான்! புறப்படுங்கள்! 143  
+வெற்றிதான்! புறப்படுங்கள்!
+
+ 143  
 
 "சாதியை வகுத்து நம்மைப்  
 
@@ -2553,7 +2650,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 ஆதலால், புறப்ப டுங்கள்!  
 
-அழித்து நம் வாழ்வைக் காண்போம்! 144  
+அழித்து நம் வாழ்வைக் காண்போம்!
+
+ 144  
 
 ”காற்றினில், மழையில், கோடைக்  
 
@@ -2569,7 +2668,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 ஆற்றினில் புதைக்க எண்ணி  
 
-வந்துள்ளார்; ஆர்த்தெ ழுங்கள்! 145  
+வந்துள்ளார்; ஆர்த்தெ ழுங்கள்!
+
+ 145  
 
 "உற்றாரே! உறவி னோரே!  
 
@@ -2585,7 +2686,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 குற்றமே அறியா நம்மைக்  
 
-கொல்லவும் வந்து விட்டார்! 146  
+கொல்லவும் வந்து விட்டார்!
+
+ 146  
 
 "சேரிக்கு நன்னாள் இன்று!  
 
@@ -2601,7 +2704,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 ஓர் பொது வுடைமை நாடாய்  
 
-உருவாக்கப் புறப்படுங்கள்! 147  
+உருவாக்கப் புறப்படுங்கள்!
+
+ 147  
 
 "நம்மவர் வாழ வேண்டும்;  
 
@@ -2617,7 +2722,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 இம்மியும் கலங்க வேண்டாம்!  
 
-எல்லோரும் புறப்படுங்கள்!" 148  
+எல்லோரும் புறப்படுங்கள்!"
+
+ 148  
 
 என்றனன் மதுரை வீரன்.  
 
@@ -2633,7 +2740,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 "இன்றன்று தீர்ப்பு: நாளை!  
 
-இரும்!" என்றார் சேரி மக்கள்! 149  
+இரும்!" என்றார் சேரி மக்கள்!
+
+ 149  
 
 --------------  
 
@@ -2657,7 +2766,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 "எமதன்னை வாழ்க! வாழ்க!"  
 
-என்றனர் சேரி மக்கள். 150  
+என்றனர் சேரி மக்கள்.
+
+ 150  
 
 தமிழச்சி காலில் வீழ்ந்தாள்  
 
@@ -2673,7 +2784,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 ”அமைதியாய் இருங்கள்" என்று  
 
-தமிழச்சி அன்பாய்ச் சொன்னாள் 151  
+தமிழச்சி அன்பாய்ச் சொன்னாள்
+
+ 151  
 
 ஊரினில் உள்ளோர் எல்லாம்  
 
@@ -2689,7 +2802,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 "சூரர்கள்!" என்றாள்; மற்றோர்  
 
-"தூ" என உமிழ்ந்தார் அந்தோ! 152  
+"தூ" என உமிழ்ந்தார் அந்தோ!
+
+ 152  
 
 "சரியம்மா! இவர்கட் கென்ன  
 
@@ -2705,7 +2820,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 பெரி(து)!" என்றார் சேரி வாழ்நர்!  
 
-தமிழச்சி பேச லானாள்: 153  
+தமிழச்சி பேச லானாள்:
+
+ 153  
 
 "என்னரும் சேரி யாரே!  
 
@@ -2721,7 +2838,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 மன்னிய பசியும் இல்லை!  
 
-வஞ்சமும் கொலையும் இல்லை! 154  
+வஞ்சமும் கொலையும் இல்லை!
+
+ 154  
 
 "நாட்டாண்மைக் காரன் இல்லை!  
 
@@ -2737,7 +2856,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 மூட்டையாய்ப் பணத்தைக் காத்துத்  
 
-தூங்காது விழிப்போன் இல்லை! 155  
+தூங்காது விழிப்போன் இல்லை!
+
+ 155  
 
 "ஆதலால், ஒன்று சொல்வேன்:  
 
@@ -2753,7 +2874,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 யாதொரு குறைவு மின்றி  
 
-யாவரும் உண்ண வேண்டும்! 156  
+யாவரும் உண்ண வேண்டும்!
+
+ 156  
 
 ”ஏரினை வளர்த்து நாட்டில்  
 
@@ -2769,7 +2892,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 வாரணி பெண்ணும் ஆணும்  
 
-மகிழ்ந்தொன்றாய்ச் செய்ய வேண்டும்! 157  
+மகிழ்ந்தொன்றாய்ச் செய்ய வேண்டும்!
+
+ 157  
 
 "ஒல்லாத கருத்தை எல்லாம்  
 
@@ -2785,7 +2910,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 வல்லவர் என்ற பேரை  
 
-நம் மக்கள் வாங்க வேண்டும்! 158  
+நம் மக்கள் வாங்க வேண்டும்!
+
+ 158  
 
 ”அண்டையில் உள்ள சேரி,  
 
@@ -2801,7 +2928,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 பெண்டுகாள்! சீறி அந்தப்  
 
-பித்தரைத் துரத்த வேண்டும்! 159  
+பித்தரைத் துரத்த வேண்டும்!
+
+ 159  
 
 "பிறநாட்டுக் கலையில், வாழ்வில்  
 
@@ -2817,7 +2946,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 பிறநாட்டிற்(கு) உதவி உங்கள்  
 
-பெற்றியை நாட்ட வேண்டும்! 160  
+பெற்றியை நாட்ட வேண்டும்!
+
+ 160  
 
 "காதலைச் செய்து மக்கள்  
 
@@ -2833,7 +2964,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 காதலைச் செய்து நாட்டில்  
 
-அறப்பண்பைக் காட்ட வேண்டும்! 161  
+அறப்பண்பைக் காட்ட வேண்டும்!
+
+ 161  
 
 "சூது, பொய் நிறைந்த யோக  
 
@@ -2849,7 +2982,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 பாதுகாத் திடவே வேண்டும்  
 
-நம்நாடு பண்ப தற்கே!" 162  
+நம்நாடு பண்ப தற்கே!"
+
+ 162  
 
 என்றனள்; சேரி வாழ்நர்,  
 
@@ -2865,7 +3000,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 உன்றன்மேல் சொன்னேன், பாவி!  
 
-ஊரார்கள் பேச்சைக் கேட்டு! 163  
+ஊரார்கள் பேச்சைக் கேட்டு!
+
+ 163  
 
 "நாட்டினைத் திருத்த வந்த  
 
@@ -2881,7 +3018,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 காட்டிடு கருணை இந்தக்  
 
-கயவன் மேல் ; பிழைப்பேன் ஏழை! 164  
+கயவன் மேல் ; பிழைப்பேன் ஏழை!
+
+ 164  
 
 "சேரியைக் கொளுத்தச் சொன்னான்;  
 
@@ -2897,7 +3036,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 வார்த்தைக்குப் பதிலே இல்லை;  
 
-வாய் மூடு; சிறையே!" என்றாள். 165  
+வாய் மூடு; சிறையே!" என்றாள்.
+
+ 165  
 
 -------------------  
 
@@ -2939,7 +3080,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 இமைபோல் வாழ்க நீவிர்  
 
-மக்களைக் கணக்காய் ஈன்றே! 167  
+மக்களைக் கணக்காய் ஈன்றே!
+
+ 167  
 
 "இன் தமிழ் எனது மூச்சு!  
 
@@ -2955,7 +3098,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 பின்னொன்றும் வேண்டேன்; பொன்னன்,  
 
-பிரிவின் மாற்(று) இவையே!" என்றாள். 168  
+பிரிவின் மாற்(று) இவையே!" என்றாள்.
+
+ 168  
 
 பஞ்சாங்கம் பார்க்க வில்லை!  
 
@@ -2971,7 +3116,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 வஞ்சகர், திணித்தார் ! இந்த  
 
-மன்றலை வந்து பாரீர்! 169  
+மன்றலை வந்து பாரீர்!
+
+ 169  
 
 இணை இணை யாக வாழை  
 
@@ -2987,7 +3134,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 மணமக்கள் களித்தி ருந்தார்  
 
-மாந்தழைப் பந்தர்க்(கு) உள்ளே! 170  
+மாந்தழைப் பந்தர்க்(கு) உள்ளே!
+
+ 170  
 
 பிள்ளையைப் பெற்(று)எ டுத்த  
 
@@ -3003,7 +3152,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 உள்ளத்தே மாற்றம் இன்றி,  
 
-"வாழ்ந்திட! உயர்க!" என்றார்! 171  
+"வாழ்ந்திட! உயர்க!" என்றார்!
+
+ 171  
 
 விருந்தினர்க்(கு) எல்லாம் சோறு  
 
@@ -3019,7 +3170,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 விருந்தொன்று செவிக்குத் தந்தார்!  
 
-தமிழ்மணம் வாழ்க மென்மேல்! 172  
+தமிழ்மணம் வாழ்க மென்மேல்!
+
+ 172  
 
 ----------------  
 
@@ -3043,7 +3196,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 திருநாடு காட்டாய் எங்கும்  
 
-திகழுதல் காண வாரீர்! 173  
+திகழுதல் காண வாரீர்!
+
+ 173  
 
 ஆண்டியும் அரசும் இல்லை!  
 
@@ -3059,7 +3214,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 மூண்டிடும் காமம், வஞ்சம்  
 
-முளைப்பதற்(கு) இடமே இல்லை! 174  
+முளைப்பதற்(கு) இடமே இல்லை!
+
+ 174  
 
 மூலைக்கு மூன்று நான்கு  
 
@@ -3075,7 +3232,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 சாலைகள்! மடங்கள் சோறு  
 
-தந்திடும் விடுதி யாகும்! 175  
+தந்திடும் விடுதி யாகும்!
+
+ 175  
 
 படிக்காத மக்கள் இல்லை!  
 
@@ -3091,7 +3250,9 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 உடைமைகள் பொதுவே! எல்லா  
 
-உரிமையும் பொதுவே! வாழ்க! 176  
+உரிமையும் பொதுவே! வாழ்க!
+
+ 176  
 
 வாழ்கவே தமிழிற் பூத்த  
 
@@ -3107,10 +3268,14 @@ Jacket Printed at Commercial Printing & Publishing House, Madras-1.
 
 வாழ்கவே காதல்! மக்கள்  
 
-வலிமையும் வாழ்க! வாழ்க!! 177  
+வலிமையும் வாழ்க! வாழ்க!!
+
+ 177  
 
 -----------------------------  
 
-This file was last updated on 06 Feb. 2018  
+This file was last updated on 06 Feb.
+
+ 2018  
 
 Feel free to send the corrections to the webmaster.

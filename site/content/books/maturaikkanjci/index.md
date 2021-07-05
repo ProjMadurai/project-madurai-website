@@ -8,6 +8,7 @@ genres:
   - சங்ககாலம்
   - பத்துப்பாட்டு
 ---
+
 ### maturaikkAnjci of mangkuTi marutanAr  
 
 (work in pattuppATTu anthologies) (in Tamil Script, TSCII format)  
@@ -32,7 +33,9 @@ genres:
 
 பாவகை :: ஆசிரியப்பா  
 
-மொத்த அடிகள் :: 782  
+மொத்த அடிகள் ::
+
+ 782  
 
 -----------------------  
 
@@ -1606,10 +1609,11 @@ genres:
 
 .----------------------  
 
-This page was first put up on May 3, 2000  
+This page was first put up on May 3,
 
-Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com,   
+ 2000  
 
+Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com,  
   
 
 kumar@vt.edu?subject=PM71-maturaikkAnjci)

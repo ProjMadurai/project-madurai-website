@@ -7,11 +7,16 @@ authors:
 genres:
   - சிறுவர்களுக்கான கதைகள்
 ---
-1) 2. பள்ளிக்குச் சென்ற சிட்டுக்குருவிகள் (684_02)'  
+
+1)
+
+ 2. பள்ளிக்குச் சென்ற சிட்டுக்குருவிகள் (684_02)'  
 
 thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
-weight: 683  
+weight:
+
+ 683  
 
 authors:  
 
@@ -67,9 +72,17 @@ In tamil script, unicode/utf-8 format
 
 நரரா நாச்சியப்பன்  
 
-தமிழாலயம், 137. ஜானி ஜான் கான் தெரு.  
+தமிழாலயம்,
 
-சென்னை - 600 014.  
+
+
+ 137. ஜானி ஜான் கான் தெரு.  
+
+சென்னை-600
+
+
+
+ 014.  
 
 BIBLIOGRAPHICAL DATA  
 
@@ -81,11 +94,21 @@ Language Tamil
 
 Edition Third  
 
-Publication February 1989  
+Publication February
 
-Printers Novel Art Printers Madras-600 014.  
+ 1989  
 
-Publishers THAMIZHALYAM 137, Jani Jan Khan Road Madras-600 014  
+Printers Novel Art Printers Madras-600
+
+
+
+ 014.  
+
+Publishers THAMIZHALYAM
+
+ 137, Jani Jan Khan Road Madras-600
+
+ 014  
 
 Subject : Ten stories For Children each story having a hare as its Hero  
 
@@ -117,13 +140,23 @@ Subject : Ten stories For Children each story having a hare as its Hero
 
   
 
-1. அப்பம் தின்ற முயல்6. ஒரு முயல் குட்டி சாபம் போட்டது 2. ஓநாய் வயிற்றில் ஒரு குட்டி முயல்7. பந்தயத்தில் வெள்ளை முயல் 3. பள்ளிக் கூடத்தில் முயல் குட்டிகள்8. பகைவென்ற சிறு முயல் 4. மரக்கிளையில் ஒரு முயல் குட்டி9. சின்ன முயலும் சங்க அரசனும் 5. பட்டணத்துக்குச் சென்ற குட்டி முயல்கள்10. இரங்கூன் முயலும் யானை வேட்டையும்  
+1. அப்பம் தின்ற முயல்6. ஒரு முயல் குட்டி சாபம் போட்டது
+
+ 2. ஓநாய் வயிற்றில் ஒரு குட்டி முயல்7. பந்தயத்தில் வெள்ளை முயல்
+
+ 3. பள்ளிக் கூடத்தில் முயல் குட்டிகள்8. பகைவென்ற சிறு முயல்
+
+ 4. மரக்கிளையில் ஒரு முயல் குட்டி9. சின்ன முயலும் சங்க அரசனும்
+
+ 5. பட்டணத்துக்குச் சென்ற குட்டி முயல்கள்10. இரங்கூன் முயலும் யானை வேட்டையும்  
 
 ----------------  
 
   
 
-### 1. அப்பம் தின்ற முயல்  
+###
+
+ 1. அப்பம் தின்ற முயல்  
 
   
 
@@ -171,7 +204,9 @@ Subject : Ten stories For Children each story having a hare as its Hero
 
   
 
-### 2. ஓநாய் வயிற்றில் ஒரு குட்டி முயல்  
+###
+
+ 2. ஓநாய் வயிற்றில் ஒரு குட்டி முயல்  
 
   
 
@@ -211,7 +246,9 @@ Subject : Ten stories For Children each story having a hare as its Hero
 
   
 
-### 3. பள்ளிக்கூடத்தில் முயல் குட்டிகள்  
+###
+
+ 3. பள்ளிக்கூடத்தில் முயல் குட்டிகள்  
 
   
 
@@ -265,7 +302,9 @@ Subject : Ten stories For Children each story having a hare as its Hero
 
   
 
-### 4. மரக் கிளையில் ஒரு முயல் குட்டி  
+###
+
+ 4. மரக் கிளையில் ஒரு முயல் குட்டி  
 
   
 
@@ -311,7 +350,9 @@ Subject : Ten stories For Children each story having a hare as its Hero
 
   
 
-### 5. பட்டணத்துக்குச் சென்ற குட்டி முயல்கள்  
+###
+
+ 5. பட்டணத்துக்குச் சென்ற குட்டி முயல்கள்  
 
   
 
@@ -397,7 +438,9 @@ Subject : Ten stories For Children each story having a hare as its Hero
 
   
 
-### 6. ஒரு முயல் குட்டி சாபம் போட்டது  
+###
+
+ 6. ஒரு முயல் குட்டி சாபம் போட்டது  
 
   
 
@@ -441,7 +484,9 @@ Subject : Ten stories For Children each story having a hare as its Hero
 
   
 
-### 7. பந்தயத்தில் வெள்ளை முயல்  
+###
+
+ 7. பந்தயத்தில் வெள்ளை முயல்  
 
   
 
@@ -541,7 +586,9 @@ Subject : Ten stories For Children each story having a hare as its Hero
 
   
 
-### 8. பகைவென்ற சிறு முயல்  
+###
+
+ 8. பகைவென்ற சிறு முயல்  
 
   
 
@@ -643,7 +690,9 @@ Subject : Ten stories For Children each story having a hare as its Hero
 
   
 
-### 9. சின்ன முயலும் சிங்க அரசனும்  
+###
+
+ 9. சின்ன முயலும் சிங்க அரசனும்  
 
   
 
@@ -701,7 +750,9 @@ Subject : Ten stories For Children each story having a hare as its Hero
 
 அடுத்த அமைச்சராகிய பரிப்பெருமாள் என்ற குதிரையார் தம் தொண்டையைக் கனைத்துக் கொண்டு தம் கருத்தைக் கூறலானார்.  
 
-“மன்னருக்கு மன்னனே, மாவீரனே, சிங்க வேந்தே , உன் பொன் அடிக்கு வணக்கம். நம் காட்டில் உள்ள குதிரைகள் எண்ணிக்கை மொத்தம் 925 ஆகும். இவற்றில் சின்னஞ் சிறுசுகள், நோய் நொடி உற்றவை, நொண்டிகள் ஆகியவற்றைத் தள்ளி விட்டால் எண்ணூறுக்குக் குறையாமல் இருக் கின்றன. அத்தனை குதிரைகளும் போர்ப்பயிற்சி மிக்கவை. தாங்கள் உத்தரவிட்டால் இப்பொழுதே நான் சென்று எல்லாக் குதிரைகளையும் அழைத்துக் கொண்டு அடுத்த காட்டின் மீது படையெடுக்கிறேன். வெற்றி நமதே, விடை கொடுங்கள்” என்று கூறியது.  
+“மன்னருக்கு மன்னனே, மாவீரனே, சிங்க வேந்தே , உன் பொன் அடிக்கு வணக்கம். நம் காட்டில் உள்ள குதிரைகள் எண்ணிக்கை மொத்தம்
+
+ 925 ஆகும். இவற்றில் சின்னஞ் சிறுசுகள், நோய் நொடி உற்றவை, நொண்டிகள் ஆகியவற்றைத் தள்ளி விட்டால் எண்ணூறுக்குக் குறையாமல் இருக் கின்றன. அத்தனை குதிரைகளும் போர்ப்பயிற்சி மிக்கவை. தாங்கள் உத்தரவிட்டால் இப்பொழுதே நான் சென்று எல்லாக் குதிரைகளையும் அழைத்துக் கொண்டு அடுத்த காட்டின் மீது படையெடுக்கிறேன். வெற்றி நமதே, விடை கொடுங்கள்” என்று கூறியது.  
 
 அடுத்து சாணக்கியனார் என்ற பெயருடைய அமைச்சர் நரியார் பேசத் தொடங்கினார்.  
 
@@ -801,7 +852,9 @@ Subject : Ten stories For Children each story having a hare as its Hero
 
   
 
-### 10. இரங்கூன் முயலும் யானை வேட்டையும்  
+###
+
+ 10. இரங்கூன் முயலும் யானை வேட்டையும்  
 
   
 
@@ -915,6 +968,8 @@ Subject : Ten stories For Children each story having a hare as its Hero
 
 -----------  
 
-This file was last updated on 14 Nov. 2019  
+This file was last updated on 14 Nov.
+
+ 2019  
 
 Feel free to send the corrections to the webmaster.

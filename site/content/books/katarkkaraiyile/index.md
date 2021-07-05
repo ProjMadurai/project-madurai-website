@@ -7,6 +7,7 @@ authors:
 genres:
   - இலக்கியக் கட்டுரைகள்
 ---
+
 ### கடற்கரையிலே  
 
 (இலக்கியக் கட்டுரைகள்)  
@@ -29,15 +30,15 @@ Source:
 
 சேப்பாக்கம் தெப்பக்குளம்  
 
-சென்னை - 5. திருச்சிராப்பள்ளி  
+சென்னை-5. திருச்சிராப்பள்ளி  
 
 பரமசிவ நிலையம்,  
 
 127, லாயிட்ஸ் ரோட், சென்னை -6.  
 
-முதற் பதிப்பு - 1950  
+முதற் பதிப்பு-1950  
 
-ஐந்தாம் பதிப்பு - 1956  
+ஐந்தாம் பதிப்பு-1956  
 
 Approved by the Madras Text Book Committee. class use Non-detailed Study vide consolidated list F.S.G.G., Page 29, 4-5-'55  
 
@@ -65,7 +66,47 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
 **உள்ளுறை**  
 
-எண்கட்டுரை - பக்கம் 1.திருவள்ளுவர் .... 1 2.இளங்கோவடிகள் .... 4 3.நக்கீரர் .... 8 4.பரணர் .... 12 5.சாத்தனார் .... 16 6.புனிதவதி .... 20 7.திருநாவுக்கரசர் .... 21 8.திருமங்கை மன்னன் .... 29 9.பட்டினத்தார் .... 34 10.பண்டித சோழன் .... 39 11.கண்டி மன்னன் .... 45 12.கம்பர் .... 51 13.தாயுமானவர் .... 56 14.மார்க்கப்போலர் .... 60 15.ஆனந்தரங்கர் .... 64 16.உமறுப் புலவர் .... 73 17.கால்டுவெல் .... 78 18.பரிதிமாற் கலைஞர் .... 83 19.சிதம்பரனார் .... 88 20.பாரதியார் .... 95  
+எண்கட்டுரை - பக்கம்
+
+ 1.திருவள்ளுவர் .... 1
+
+ 2.இளங்கோவடிகள் .... 4
+
+ 3.நக்கீரர் .... 8
+
+ 4.பரணர் .... 12
+
+ 5.சாத்தனார் .... 16
+
+ 6.புனிதவதி .... 20
+
+ 7.திருநாவுக்கரசர் .... 21
+
+ 8.திருமங்கை மன்னன் .... 29
+
+ 9.பட்டினத்தார் .... 34
+
+ 10.பண்டித சோழன் .... 39
+
+ 11.கண்டி மன்னன் .... 45
+
+ 12.கம்பர் .... 51
+
+ 13.தாயுமானவர் .... 56
+
+ 14.மார்க்கப்போலர் .... 60
+
+ 15.ஆனந்தரங்கர் .... 64
+
+ 16.உமறுப் புலவர் .... 73
+
+ 17.கால்டுவெல் .... 78
+
+ 18.பரிதிமாற் கலைஞர் .... 83
+
+ 19.சிதம்பரனார் .... 88
+
+ 20.பாரதியார் .... 95  
 
   
 
@@ -77,7 +118,9 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
   
 
-### 1. திருவள்ளுவர்  
+###
+
+ 1. திருவள்ளுவர்  
 
   
 
@@ -109,7 +152,9 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
   
 
-### 2. இளங்கோவடிகள்  
+###
+
+ 2. இளங்கோவடிகள்  
 
   
 
@@ -155,7 +200,9 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
   
 
-### 3. நக்கீரர்  
+###
+
+ 3. நக்கீரர்  
 
   
 
@@ -181,7 +228,9 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
 வடுவாழ் எக்கர் மணலினும் பலவே."  
 
-- புறநானூறு 55.  
+- புறநானூறு
+
+ 55.  
 
 "காண இனிய கருங்கடலே! அதோ! கிழக்கு வெளுக்கின்றது. நீல வானமும் நீயும் கூடுகின்ற குணதிசையில் செங்கதிரோன் ஒளிவீசி எழுகின்றான். அக் காட்சியைக் கண்டு குயில்கள் பாடுகின்றன; மயில்கள் தோகை விரித்து ஆடுகின்றன. ஆடும் மயில்களின் கோலம் என் கண்ணைக் கவர்கின்றதே! அணி அணியாக இம் மயில்கள் எல்லாம் கிழக்கு நோக்கி ஆடுகின்றனவே! அதன் கருத்தென்ன? செங்கதிர்ச் செல்வன் - ஞாலம் போற்றும் ஞாயிறு - உதிக்கும் அழகைக் கண்டு அவை குதிக்கின்றனவா?  
 
@@ -217,7 +266,9 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
   
 
-### 4. பரணர்  
+###
+
+ 4. பரணர்  
 
   
 
@@ -249,7 +300,9 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
   
 
-### 5. சாத்தனார்  
+###
+
+ 5. சாத்தனார்  
 
   
 
@@ -295,7 +348,9 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
   
 
-### 6. புனிதவதி  
+###
+
+ 6. புனிதவதி  
 
   
 
@@ -329,7 +384,9 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
   
 
-### 7. திருநாவுக்கரசர்  
+###
+
+ 7. திருநாவுக்கரசர்  
 
   
 
@@ -409,7 +466,9 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
   
 
-### 8. திருமங்கை மன்னன்  
+###
+
+ 8. திருமங்கை மன்னன்  
 
   
 
@@ -493,7 +552,9 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
   
 
-### 9. பட்டினத்தார்  
+###
+
+ 9. பட்டினத்தார்  
 
   
 
@@ -577,7 +638,9 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
   
 
-### 10. பண்டித சோழன்  
+###
+
+ 10. பண்டித சோழன்  
 
   
 
@@ -607,7 +670,9 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
   
 
-### 11. கண்டி மன்னன்  
+###
+
+ 11. கண்டி மன்னன்  
 
   
 
@@ -653,7 +718,9 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
 தரும தேவதை வாழவே!"  
 
-- பெருந் தொகை, 1135 .  
+- பெருந் தொகை,
+
+ 1135 .  
 
 "கலைமணக்கும் தலைநகரே! செந்தமிழ் நாட்டுக்கும் இலங்கைக்கும் தொந்தம் மிகவுண்டு. ஈழநாட்டு ஆதியரசருள் ஒருவன் பாண்டி மன்னன் திரு மகளை மணந்து வாழ்ந்தான். சேரநாட்டரசன் வஞ்சிமா நகரில் நடத்திய கண்ணகி விழாவில் இந் நாட்டுக் கஜபாகு மன்னன் கலந்து கொண்டான். அன்று தொட்டு கண்டி முதலாய பல நகரங்களில் பத்தினித் திருநாள் நடைபெற்று வருகின்றது; அன்றியும், இந் நாட்டுக் கடற்கரையிலுள்ள கோணமலையில் திருக்கோயில் அமைத்து அதைத் +திருக்கோணமலை யாக்கியவர் தமிழர் அல்லரோ? கருங்கடலை நோக்கி வளைந்துள்ள மலையைக் கோணமலை என்று பெயரிட் டழைத்த தமிழரின் அறிவு நலம் வியக்கத்தக்க தன்றோ?  
 
@@ -671,7 +738,9 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
   
 
-### 12. கம்பர்  
+###
+
+ 12. கம்பர்  
 
   
 
@@ -735,7 +804,9 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
   
 
-### 13. தாயுமானவர்  
+###
+
+ 13. தாயுமானவர்  
 
   
 
@@ -793,7 +864,9 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
   
 
-### 14. மார்க்கப் போலர்  
+###
+
+ 14. மார்க்கப் போலர்  
 
   
 
@@ -813,7 +886,9 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
   
 
-### 15. ஆனந்த ரங்கர்  
+###
+
+ 15. ஆனந்த ரங்கர்  
 
   
 
@@ -843,7 +918,9 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
 இனிவேண்டும் தனம்கண் டோமே!"  
 
--- பெருந்தொகை, 1357.  
+-- பெருந்தொகை,
+
+ 1357.  
 
 "புதுவைப் பெருங்கடலே! இப்போது புதுச் சேரி புத்துயிர் பெற்று வருகின்றது; வர்த்தகத்தால் வளம் பெருகுகின்றது; குச்சு வீடுகள் மச்சு வீடுகளாகின்றன. புதியவாகப் பல பேட்டைகள் உண்டா கின்றன. ஆங்கிலேயரும் பிரெஞ்சுக்காரரும் வாணிகத் துறையிலே போட்டியிடுகின்றனர். இருதிறத்தா ரும் தங்கள் பெயரை இத் தமிழ் நாட்டில் நிலை நாட்ட ஆசைப்படுகிறார்கள். ஆங்கிலேயரின் வர்த்தக நிலைய மாகிய சென்னையில் 'காலட்' என்பவர் சிறிது காலம் கவர்னராயிருந்தார்; நெசவுத் தொழிலைப் பேணி வளர்ப்பதற்காக நல்ல நீரும் நிழலும் அமைந்த திருவொற்றியூரிலே ஒரு பேட்டையை உண்டாக்கினார்; நூறு குடும்பங்களைக் கொண்ட அக் குடியிருப்புக்குக் 'காலட்பேட்டை' என்ற பெயர் கொடுத்தார். காலட் கவர்னர் கப்பலேறிப் போய் விட்டார். அவர் பெயர் தாங்கிய பேட்டை 'காலாடிப் பேட்டை' என்று இப்போது வழங்குகின்றது. வெள்ளைப் பெயரால் விளையும் விபரீதத்திற்கு வேறு சான்று வேண்டுமா?  
 
@@ -867,7 +944,9 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
   
 
-### 16. உமறுப் புலவர்  
+###
+
+ 16. உமறுப் புலவர்  
 
   
 
@@ -933,7 +1012,9 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
   
 
-### 17. கால்டுவெல் ஐயர்  
+###
+
+ 17. கால்டுவெல் ஐயர்  
 
   
 
@@ -957,7 +1038,9 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
   
 
-### 18. பரிதிமாற் கலைஞர்  
+###
+
+ 18. பரிதிமாற் கலைஞர்  
 
   
 
@@ -1017,7 +1100,9 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
   
 
-### 19. சிதம்பரனார்  
+###
+
+ 19. சிதம்பரனார்  
 
   
 
@@ -1049,7 +1134,9 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
   
 
-### 20. பாரதியார்  
+###
+
+ 20. பாரதியார்  
 
   
 
@@ -1115,5 +1202,7 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
 ---------  
 
-This file was last updated on 27 November 2010  
+This file was last updated on 27 November
+
+ 2010  
 
