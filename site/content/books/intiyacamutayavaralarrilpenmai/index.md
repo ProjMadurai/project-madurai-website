@@ -192,9 +192,7 @@ Printed at:Novena Offset Printing Co., Chennai-5. Tel.
 
   
 
-###
-
- 1. ஆதித் தாய்  
+ ###  . ஆதித் தாய்  
 
   
 
@@ -256,9 +254,7 @@ Printed at:Novena Offset Printing Co., Chennai-5. Tel.
 
   
 
-###
-
- 2.விருந்தோம்பல் பண்பாடு  
+ ###  .விருந்தோம்பல் பண்பாடு  
 
   
 
@@ -338,9 +334,7 @@ Printed at:Novena Offset Printing Co., Chennai-5. Tel.
 
   
 
-###
-
- 3. தாய்மையின் வீழ்ச்சி  
+ ###  . தாய்மையின் வீழ்ச்சி  
 
   
 
@@ -458,9 +452,7 @@ Printed at:Novena Offset Printing Co., Chennai-5. Tel.
 
   
 
-###
-
- 4. ஐவரின் தேவி  
+ ###  . ஐவரின் தேவி  
 
   
 
@@ -606,9 +598,7 @@ Printed at:Novena Offset Printing Co., Chennai-5. Tel.
 
   
 
-###
-
- 5. சீதையின் கதை  
+ ###  . சீதையின் கதை  
 
   
 
@@ -736,9 +726,7 @@ Printed at:Novena Offset Printing Co., Chennai-5. Tel.
 
   
 
-###
-
- 6. கடவுளின் மணவாட்டி  
+ ###  . கடவுளின் மணவாட்டி  
 
   
 
@@ -850,9 +838,7 @@ Printed at:Novena Offset Printing Co., Chennai-5. Tel.
 
   
 
-###
-
- 7. துணை இழப்பும் துறவறமும்  
+ ###  . துணை இழப்பும் துறவறமும்  
 
   
 
@@ -1014,9 +1000,7 @@ Printed at:Novena Offset Printing Co., Chennai-5. Tel.
 
   
 
-###
-
- 8. கவிக் குரல்கள்  
+ ###  . கவிக் குரல்கள்  
 
   
 
@@ -1180,9 +1164,7 @@ Printed at:Novena Offset Printing Co., Chennai-5. Tel.
 
   
 
-###
-
- 9. நாயகரைப் பாடிப் பரவிய நாயகியர்  
+ ###  . நாயகரைப் பாடிப் பரவிய நாயகியர்  
 
   
 
@@ -1536,9 +1518,7 @@ III
 
   
 
-###
-
- 10. இலட்சிய இந்தியப் பெண்மை  
+ ###  0. இலட்சிய இந்தியப் பெண்மை  
 
   
 
@@ -1662,9 +1642,7 @@ III
 
   
 
-###
-
- 11. போராட்டப் பெண்மை  
+ ###  1. போராட்டப் பெண்மை  
 
   
 
@@ -2364,9 +2342,7 @@ III
 
   
 
-###
-
- 12. மனிதத்துவ சமுதாயம்  
+ ###  2. மனிதத்துவ சமுதாயம்  
 
   
 

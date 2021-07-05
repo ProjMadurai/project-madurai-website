@@ -102,9 +102,7 @@ genres:
 
   
 
-###
-
- 1. கடவுள் வாழ்த்து - The Praise of God  
+ ###  . கடவுள் வாழ்த்து - The Praise of God  
 
   
 
@@ -192,9 +190,7 @@ Who clench His feet and cleave to Him. 10
 
   
 
-###
-
- 2. வான் சிறப்பு. - The blessing of Rain  
+ ###  . வான் சிறப்பு. - The blessing of Rain  
 
   
 
@@ -282,9 +278,7 @@ Sans rain our duties go in vain. 20
 
   
 
-###
-
- 3. நீத்தார் பெருமை - The merit of Ascetics  
+ ###  . நீத்தார் பெருமை - The merit of Ascetics  
 
   
 
@@ -372,9 +366,7 @@ The sage fulfils the vitue's call. 30
 
   
 
-###
-
- 4. அறன்வலியுறுத்தல் - The power of virtue  
+ ###  . அறன்வலியுறுத்தல் - The power of virtue  
 
   
 
@@ -462,9 +454,7 @@ Vice is what we ought to shun. 40
 
   
 
-###
-
- 1.2 இல்லறவியல் - DOMESTIC VIRTUE  
+ ###  .2 இல்லறவியல் - DOMESTIC VIRTUE  
 
 5. இல்வாழ்க்கை - Married Life  
 
@@ -554,9 +544,7 @@ Who lives in ideal home on earth. 50
 
   
 
-###
-
- 6. வாழ்க்கைத் துணைநலம் - The worth of a wife  
+ ###  . வாழ்க்கைத் துணைநலம் - The worth of a wife  
 
   
 
@@ -644,9 +632,7 @@ And children good are jewels abright. 60
 
   
 
-###
-
- 7. மக்கட்பேறு - The wealth of children  
+ ###  . மக்கட்பேறு - The wealth of children  
 
   
 
@@ -734,9 +720,7 @@ The son to sire this word is debt
 
   
 
-###
-
- 8. அன்புடைமை - Loving-kindness  
+ ###  . அன்புடைமை - Loving-kindness  
 
   
 
@@ -824,9 +808,7 @@ Or beings are but skin and bone! 80
 
   
 
-###
-
- 9. விருந்தோம்பல் - Hospitality  
+ ###  . விருந்தோம்பல் - Hospitality  
 
   
 
@@ -914,9 +896,7 @@ A wry-faced look withers the guest. 90
 
   
 
-###
-
- 10. இனியவை கூறல் - Sweet words  
+ ###  0. இனியவை கூறல் - Sweet words  
 
   
 
@@ -1006,9 +986,7 @@ Who speaks harsh words when sweet word suits.
 
   
 
-###
-
- 11. செய்ந்நன்றி அறிதல் - Gratitude  
+ ###  1. செய்ந்நன்றி அறிதல் - Gratitude  
 
   
 
@@ -1116,9 +1094,7 @@ Not benefit-killer who is damned.
 
   
 
-###
-
- 12. நடுவுநிலைமை - Equity  
+ ###  2. நடுவுநிலைமை - Equity  
 
   
 
@@ -1226,9 +1202,7 @@ When his dealings are neighbourly.
 
   
 
-###
-
- 13. அடக்கமுடைமை - Self-control  
+ ###  3. அடக்கமுடைமை - Self-control  
 
   
 
@@ -1336,9 +1310,7 @@ Self-controlled savant anger free.
 
   
 
-###
-
- 14. ஒழுக்கமுடைமை - Good decorum  
+ ###  4. ஒழுக்கமுடைமை - Good decorum  
 
   
 
@@ -1446,9 +1418,7 @@ Whose life is not world-accordant.
 
   
 
-###
-
- 15. பிறனில் விழையாமை - Against coveting another's wife  
+ ###  5. பிறனில் விழையாமை - Against coveting another's wife  
 
   
 
@@ -1556,9 +1526,7 @@ Lust not for another's wife at least.
 
   
 
-###
-
- 16. பொறையுடைமை - Forgiveness  
+ ###  6. பொறையுடைமை - Forgiveness  
 
   
 
@@ -1666,9 +1634,7 @@ Greater are they who bear offence.
 
   
 
-###
-
- 17. அழுக்காறாமை - Avoid envy  
+ ###  7. அழுக்காறாமை - Avoid envy  
 
   
 
@@ -1776,9 +1742,7 @@ The envyless prosper ever.
 
   
 
-###
-
- 18. வெஃகாமை - Against covetousness  
+ ###  8. வெஃகாமை - Against covetousness  
 
   
 
@@ -1886,9 +1850,7 @@ Coveting misers ruined fall.
 
   
 
-###
-
- 19. புறங்கூறாமை - Against slander  
+ ###  9. புறங்கூறாமை - Against slander  
 
   
 
@@ -1996,9 +1958,7 @@ If each his own defect could scan.
 
   
 
-###
-
- 20. பயனில சொல்லாமை - Against vain speaking  
+ ###  0. பயனில சொல்லாமை - Against vain speaking  
 
   
 
@@ -2106,9 +2066,7 @@ And never indulge in useless load.
 
   
 
-###
-
- 21. தீவினையச்சம் - Fear of sin  
+ ###  1. தீவினையச்சம் - Fear of sin  
 
   
 
@@ -2216,9 +2174,7 @@ Who slips not right path to do evils.
 
   
 
-###
-
- 22. ஒப்புரவறிதல் - Duty to society  
+ ###  2. ஒப்புரவறிதல் - Duty to society  
 
   
 
@@ -2326,9 +2282,7 @@ Sell yourself to save that loss.
 
   
 
-###
-
- 23. ஈகை - Charity  
+ ###  3. ஈகை - Charity  
 
   
 
@@ -2436,9 +2390,7 @@ Yet more is pain of giftless dearth.
 
   
 
-###
-
- 24. புகழ் - Renown  
+ ###  4. புகழ் - Renown  
 
   
 
@@ -2546,9 +2498,7 @@ The blameful ones do not flourish.
 
   
 
-###
-
- 1.3 துறவறவியல் - ASCETIC VIRTUE  
+ ###  .3 துறவறவியல் - ASCETIC VIRTUE  
 
 25. அருளுடைமை - Compassion  
 
@@ -2658,9 +2608,7 @@ When to the feeble you do wrong.
 
   
 
-###
-
- 26. புலால் மறுத்தல் - Abstinence from flesh  
+ ###  6. புலால் மறுத்தல் - Abstinence from flesh  
 
   
 
@@ -2768,9 +2716,7 @@ Who eats not flesh nor kills with whim.
 
   
 
-###
-
- 27. தவம் - Penance  
+ ###  7. தவம் - Penance  
 
   
 
@@ -2878,9 +2824,7 @@ For they care not for penance much.
 
   
 
-###
-
- 28. கூடாவொழுக்கம் - Imposture  
+ ###  8. கூடாவொழுக்கம் - Imposture  
 
   
 
@@ -2988,9 +2932,7 @@ Abstain from condemned acts with care.
 
   
 
-###
-
- 29. கள்ளாமை - The absence of fraud  
+ ###  9. கள்ளாமை - The absence of fraud  
 
   
 
@@ -3098,9 +3040,7 @@ The honest men, heaven receives.
 
   
 
-###
-
- 30. வாய்மை - Veracity  
+ ###  0. வாய்மை - Veracity  
 
   
 
@@ -3208,9 +3148,7 @@ Nothing surpasses Truth serene !
 
   
 
-###
-
- 31. வெகுளாமை - Restraining anger  
+ ###  1. வெகுளாமை - Restraining anger  
 
   
 
@@ -3318,9 +3256,7 @@ Saints are they from whom wrath has fled.
 
   
 
-###
-
- 32. இன்னா செய்யாமை - non-violence  
+ ###  2. இன்னா செய்யாமை - non-violence  
 
   
 
@@ -3428,9 +3364,7 @@ For pains rebound on pain-givers.
 
   
 
-###
-
- 33. கொல்லாமை - Non-killing  
+ ###  3. கொல்லாமை - Non-killing  
 
   
 
@@ -3538,9 +3472,7 @@ Are killers stained by blood before
 
   
 
-###
-
- 34. நிலையாமை - Instability  
+ ###  4. நிலையாமை - Instability  
 
   
 
@@ -3648,9 +3580,7 @@ A fixed home it never knows.
 
   
 
-###
-
- 35. துறவு - Renunciation  
+ ###  5. துறவு - Renunciation  
 
   
 
@@ -3758,9 +3688,7 @@ That binding breaks all bonds anon.
 
   
 
-###
-
- 36. மெய்யுணர்தல் - Truth consciousness  
+ ###  6. மெய்யுணர்தல் - Truth consciousness  
 
   
 
@@ -3868,9 +3796,7 @@ Expire even to name, fully.
 
   
 
-###
-
- 37. அவா அறுத்தல் - Curbing of desire  
+ ###  7. அவா அறுத்தல் - Curbing of desire  
 
   
 
@@ -3978,9 +3904,7 @@ You gain the native blissful state.
 
   
 
-###
-
- 38. ஊழ் - Destiny  
+ ###  8. ஊழ் - Destiny  
 
   
 
@@ -4088,9 +4012,7 @@ Persists against the human skill.
 
   
 
-###
-
- 2. பொருட்பால்- Part II - WEALTH  
+ ###  . பொருட்பால்- Part II - WEALTH  
 
   
 
@@ -4232,9 +4154,7 @@ Persists against the human skill.
 
   
 
-###
-
- 39. இறைமாட்சி - The grandeur of monarchy  
+ ###  9. இறைமாட்சி - The grandeur of monarchy  
 
   
 
@@ -4342,9 +4262,7 @@ Bounty, justice, care and grace.
 
   
 
-###
-
- 40. கல்வி - Education  
+ ###  0. கல்வி - Education  
 
   
 
@@ -4452,9 +4370,7 @@ Nothing else gives genuine joy.
 
   
 
-###
-
- 41. கல்லாமை - Non-learning  
+ ###  1. கல்லாமை - Non-learning  
 
   
 
@@ -4562,9 +4478,7 @@ Before scholars of shining lore.
 
   
 
-###
-
- 42. கேள்வி - Listening  
+ ###  2. கேள்வி - Listening  
 
   
 
@@ -4672,9 +4586,7 @@ What if they fare ill or well here?
 
   
 
-###
-
- 43. அறிவுடைமை - The possession of knowledge  
+ ###  3. அறிவுடைமை - The possession of knowledge  
 
   
 
@@ -4782,9 +4694,7 @@ Whatev'r they own, misfits are nil.
 
   
 
-###
-
- 44. குற்றங்கடிதல் - Avoiding faults  
+ ###  4. குற்றங்கடிதல் - Avoiding faults  
 
   
 
@@ -4892,9 +4802,7 @@ If one his wishes guards in veil.
 
   
 
-###
-
- 45. பெரியாரைத் துணைக்கோடல் - Gaining great men's help  
+ ###  5. பெரியாரைத் துணைக்கோடல் - Gaining great men's help  
 
   
 
@@ -5002,9 +4910,7 @@ Than being hated by countless foes.
 
   
 
-###
-
- 46. சிற்றினஞ் சேராமை - Avoiding mean company  
+ ###  6. சிற்றினஞ் சேராமை - Avoiding mean company  
 
   
 
@@ -5112,9 +5018,7 @@ The bad to untold anguish leads.
 
   
 
-###
-
- 47. தெரிந்து செயல்வகை - Deliberation before action  
+ ###  7. தெரிந்து செயல்வகை - Deliberation before action  
 
   
 
@@ -5222,9 +5126,7 @@ The world refutes uncomely mess.
 
   
 
-###
-
- 48. வலியறிதல் - Judging strength  
+ ###  8. வலியறிதல் - Judging strength  
 
   
 
@@ -5332,9 +5234,7 @@ Sans level if one lavishes.
 
   
 
-###
-
- 49. காலமறிதல் - Knowing proper time  
+ ###  9. காலமறிதல் - Knowing proper time  
 
   
 
@@ -5442,9 +5342,7 @@ In fighting time strike like its peck.
 
   
 
-###
-
- 50. இடனறிதல் - Judging the place  
+ ###  0. இடனறிதல் - Judging the place  
 
   
 
@@ -5552,9 +5450,7 @@ Fearless with feet in deep quagmire.
 
   
 
-###
-
- 51. தெரிந்து தெளிதல் - Testing of men for confidence  
+ ###  1. தெரிந்து தெளிதல் - Testing of men for confidence  
 
   
 
@@ -5662,9 +5558,7 @@ Both entail troubles in and out.
 
   
 
-###
-
- 52. தெரிந்து வினையாடல் - Testing and entrusting  
+ ###  2. தெரிந்து வினையாடல் - Testing and entrusting  
 
   
 
@@ -5772,9 +5666,7 @@ The king must look to this aright.
 
   
 
-###
-
- 53. சுற்றந்தழால் - Cherishing kinsmen  
+ ###  3. சுற்றந்தழால் - Cherishing kinsmen  
 
   
 
@@ -5882,9 +5774,7 @@ The king should test him and receive.
 
   
 
-###
-
- 54. பொச்சாவாமை - Unforgetfulness  
+ ###  4. பொச்சாவாமை - Unforgetfulness  
 
   
 
@@ -5992,9 +5882,7 @@ When the mind on it is set.
 
   
 
-###
-
- 55. செங்கோன்மை - Just government  
+ ###  5. செங்கோன்மை - Just government  
 
   
 
@@ -6102,9 +5990,7 @@ Weeds removes from cropful field.
 
   
 
-###
-
- 56. கொடுங்கோன்மை - The cruel tyranny  
+ ###  6. கொடுங்கோன்மை - The cruel tyranny  
 
   
 
@@ -6218,9 +6104,7 @@ getting, sacrificing, kindling sacrifice - These are duties of Vedic savants.
 
   
 
-###
-
- 57. வெருவந்த செய்யாமை - Avoiding terrorism  
+ ###  7. வெருவந்த செய்யாமை - Avoiding terrorism  
 
   
 
@@ -6328,9 +6212,7 @@ Is tyrants bound to fools uncouth.
 
   
 
-###
-
- 58. கண்ணோட்டம் - Benign looks  
+ ###  8. கண்ணோட்டம் - Benign looks  
 
   
 
@@ -6438,9 +6320,7 @@ Take hemlock and look cheerfully.
 
   
 
-###
-
- 59. ஒற்றாடல் - Espionage  
+ ###  9. ஒற்றாடல் - Espionage  
 
   
 
@@ -6548,9 +6428,7 @@ It would divulge the secret heard!
 
   
 
-###
-
- 60. ஊக்கமுடைமை - Energy  
+ ###  0. ஊக்கமுடைமை - Energy  
 
   
 
@@ -6658,9 +6536,7 @@ Lacking that man is like a wood
 
   
 
-###
-
- 61. மடியின்மை - Freedom from sloth  
+ ###  1. மடியின்மை - Freedom from sloth  
 
   
 
@@ -6772,9 +6648,7 @@ measured with his feet the three worlds.
 
   
 
-###
-
- 62. ஆள்வினையுடைமை - Manly effort  
+ ###  2. ஆள்வினையுடைமை - Manly effort  
 
   
 
@@ -6884,9 +6758,7 @@ Shall leave even the fate behind.
 
   
 
-###
-
- 63. இடுக்கணழியாமை - Hope in mishap  
+ ###  3. இடுக்கணழியாமை - Hope in mishap  
 
   
 
@@ -6994,9 +6866,7 @@ Who sees weal in wanton woes!
 
   
 
-###
-
- 2.2 அமைச்சியல் - STATE CABINET  
+ ###  .2 அமைச்சியல் - STATE CABINET  
 
 64. அமைச்சு - Ministers  
 
@@ -7106,9 +6976,7 @@ To fulfil an act they have no mind.
 
   
 
-###
-
- 65. சொல்வன்மை - Power of speech  
+ ###  5. சொல்வன்மை - Power of speech  
 
   
 
@@ -7216,9 +7084,7 @@ Are bunch of flowers not fragrant.
 
   
 
-###
-
- 66. வினைத்துய்மை - Purity of action  
+ ###  6. வினைத்துய்மை - Purity of action  
 
   
 
@@ -7326,9 +7192,7 @@ Is water poured in wet clay vase.
 
   
 
-###
-
- 67. வினைத்திட்பம் - Powerful acts  
+ ###  7. வினைத்திட்பம் - Powerful acts  
 
   
 
@@ -7436,9 +7300,7 @@ But strength of will-to-do at length.
 
   
 
-###
-
- 68. வினைசெயல்வகை - Modes of action  
+ ###  8. வினைசெயல்வகை - Modes of action  
 
   
 
@@ -7546,9 +7408,7 @@ Submit to foes superior.
 
   
 
-###
-
- 69. தூது - The embassy  
+ ###  9. தூது - The embassy  
 
   
 
@@ -7656,9 +7516,7 @@ Assures his king's safety and joy.
 
   
 
-###
-
- 70. மன்னரைச் சேர்ந்தொழுகல் - Walk with kings  
+ ###  0. மன்னரைச் சேர்ந்தொழுகல் - Walk with kings  
 
   
 
@@ -7766,9 +7624,7 @@ Shall spell ruin and woe untold.
 
   
 
-###
-
- 71. குறிப்பறிதல் - Divining the mind  
+ ###  1. குறிப்பறிதல் - Divining the mind  
 
   
 
@@ -7876,9 +7732,7 @@ Is eye and eye that secrets finds.
 
   
 
-###
-
- 72. அவையறிதல் - Judging the audience  
+ ###  2. அவையறிதல் - Judging the audience  
 
   
 
@@ -7986,9 +7840,7 @@ Pours ambrosia into gutters.
 
   
 
-###
-
- 73. அவையஞ்சாமை - Courage before councils  
+ ###  3. அவையஞ்சாமை - Courage before councils  
 
   
 
@@ -8096,9 +7948,7 @@ Empress before the wise their art.
 
   
 
-###
-
- 2.3 அரணியல், கூழியல், படையியல் – POLITICS  
+ ###  .3 அரணியல், கூழியல், படையியல் – POLITICS  
 
 74. நாடு - The country  
 
@@ -8208,9 +8058,7 @@ It is worthless without a king.
 
   
 
-###
-
- 75. அரண் - Fortress  
+ ###  5. அரண் - Fortress  
 
   
 
@@ -8318,9 +8166,7 @@ Is nil if heroes do not stand.
 
   
 
-###
-
- 76. பொருள் செயல்வகை - Way of making wealth  
+ ###  6. பொருள் செயல்வகை - Way of making wealth  
 
   
 
@@ -8428,9 +8274,7 @@ Who acquire treasures abundant.
 
   
 
-###
-
- 77. படைமாட்சி - The glory of army  
+ ###  7. படைமாட்சி - The glory of army  
 
   
 
@@ -8538,9 +8382,7 @@ Army can't march missing gen'rals.
 
   
 
-###
-
- 78. படைச்செருக்கு - Military pride  
+ ###  8. படைச்செருக்கு - Military pride  
 
   
 
@@ -8648,9 +8490,7 @@ Which draws the tears of the ruler.
 
   
 
-###
-
- 2.4 நட்பியல் – ALLIANCE  
+ ###  .4 நட்பியல் – ALLIANCE  
 
 79. நட்பு - Friendship  
 
@@ -8760,9 +8600,7 @@ Ev'n this boast will friendship mar.
 
   
 
-###
-
- 80. நட்பாராய்தல் - Testing friendship  
+ ###  0. நட்பாராய்தல் - Testing friendship  
 
   
 
@@ -8870,9 +8708,7 @@ Give something and give up the base.
 
   
 
-###
-
- 81. பழைமை - Intimacy  
+ ###  1. பழைமை - Intimacy  
 
   
 
@@ -8980,9 +8816,7 @@ Those who leave not long-standing friends.
 
   
 
-###
-
- 82. தீநட்பு - Bad friendship  
+ ###  2. தீநட்பு - Bad friendship  
 
   
 
@@ -9090,9 +8924,7 @@ At home and in public revile.
 
   
 
-###
-
- 83. கூடாநட்பு - False friendship  
+ ###  3. கூடாநட்பு - False friendship  
 
   
 
@@ -9200,9 +9032,7 @@ Feign love on face but not in heart.
 
   
 
-###
-
- 84. பேதைமை - Folly  
+ ###  4. பேதைமை - Folly  
 
   
 
@@ -9310,9 +9140,7 @@ Looks like couch trod by unclean feet.
 
   
 
-###
-
- 85. புல்லறிவாண்மை - Petty conceit  
+ ###  5. புல்லறிவாண்மை - Petty conceit  
 
   
 
@@ -9420,9 +9248,7 @@ Deemed as ghouls on earth they go.
 
   
 
-###
-
- 86. இகல் - Hatred  
+ ###  6. இகல் - Hatred  
 
   
 
@@ -9530,9 +9356,7 @@ All goodness flow from amity.
 
   
 
-###
-
- 87. பகைமாட்சி - Noble hostility  
+ ###  7. பகைமாட்சி - Noble hostility  
 
   
 
@@ -9640,9 +9464,7 @@ Who fails to fight a fool and win.
 
   
 
-###
-
- 88. பகைத்திறந் தெரிதல் - Apparising enemies  
+ ###  8. பகைத்திறந் தெரிதல் - Apparising enemies  
 
   
 
@@ -9750,9 +9572,7 @@ Defying foes who don't defeat.
 
   
 
-###
-
- 89. உட்பகை - Secret foe  
+ ###  9. உட்பகை - Secret foe  
 
   
 
@@ -9860,9 +9680,7 @@ Is dwelling with snake in selfsame hut.
 
   
 
-###
-
- 90. பெரியாரைப் பிழையாமை - Offend not the great  
+ ###  0. பெரியாரைப் பிழையாமை - Offend not the great  
 
   
 
@@ -9970,9 +9788,7 @@ If the enraged holy seers will.
 
   
 
-###
-
- 91. பெண்வழிச்சேறல் - Being led by women  
+ ###  1. பெண்வழிச்சேறல் - Being led by women  
 
   
 
@@ -10080,9 +9896,7 @@ By folly on fair sex do not dote.
 
   
 
-###
-
- 92. வரைவின் மகளிர் - Wanton women  
+ ###  2. வரைவின் மகளிர் - Wanton women  
 
   
 
@@ -10192,9 +10006,7 @@ Are lures of those whom fortune flies.
 
   
 
-###
-
- 93. கள்ளுண்ணாமை - Not drinking liquor  
+ ###  3. கள்ளுண்ணாமை - Not drinking liquor  
 
   
 
@@ -10302,9 +10114,7 @@ On selves can't they feel same effect?
 
   
 
-###
-
- 94. சூது - Gambling  
+ ###  4. சூது - Gambling  
 
   
 
@@ -10412,9 +10222,7 @@ As love for life with sorrows grows.
 
   
 
-###
-
- 95. மருந்து - Medicine  
+ ###  5. மருந்து - Medicine  
 
   
 
@@ -10522,9 +10330,7 @@ Are four-fold codes of treating course.
 
   
 
-###
-
- 96. குடி - Nobility  
+ ###  6. குடி - Nobility  
 
   
 
@@ -10632,9 +10438,7 @@ Nobility by humility.
 
   
 
-###
-
- 2.5 ஒழிபியல் – MISCELLANEOUS  
+ ###  .5 ஒழிபியல் – MISCELLANEOUS  
 
 97. மானம் - Honour  
 
@@ -10744,9 +10548,7 @@ Who will not live when honour fails.
 
   
 
-###
-
- 98. பெருமை - Greatness  
+ ###  8. பெருமை - Greatness  
 
   
 
@@ -10854,9 +10656,7 @@ Smallness defects alone proclaims.
 
   
 
-###
-
- 99. சான்றாண்மை - Sublimity  
+ ###  9. சான்றாண்மை - Sublimity  
 
   
 
@@ -11978,9 +11778,7 @@ From doom to flit and nothing else.
 
   
 
-###
-
- 3. இன்பத்துப்பால்- Part III - NATURE OF LOVE  
+ ###  . இன்பத்துப்பால்- Part III - NATURE OF LOVE  
 
   
 

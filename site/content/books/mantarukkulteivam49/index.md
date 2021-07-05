@@ -192,9 +192,7 @@ Printed by R. Surianarayanan, at Gnanodaya Press
 
   
 
-###
-
- 2. கல்வியும் கல்யாணமும்  
+ ###  . கல்வியும் கல்யாணமும்  
 
   
 
@@ -226,9 +224,7 @@ Printed by R. Surianarayanan, at Gnanodaya Press
 
   
 
-###
-
- 3. சத்தியம் காத்தது  
+ ###  . சத்தியம் காத்தது  
 
   
 
@@ -252,9 +248,7 @@ Printed by R. Surianarayanan, at Gnanodaya Press
 
   
 
-###
-
- 4. அஹிம்சை உதயம்  
+ ###  . அஹிம்சை உதயம்  
 
   
 
@@ -274,9 +268,7 @@ Printed by R. Surianarayanan, at Gnanodaya Press
 
   
 
-###
-
- 5. பயத்துக்கு மருந்து  
+ ###  . பயத்துக்கு மருந்து  
 
   
 
@@ -334,9 +326,7 @@ Printed by R. Surianarayanan, at Gnanodaya Press
 
   
 
-###
-
- 6. கடல் பிரயாணம்  
+ ###  . கடல் பிரயாணம்  
 
   
 
@@ -394,9 +384,7 @@ Printed by R. Surianarayanan, at Gnanodaya Press
 
   
 
-###
-
- 7. லண்டன் வாழ்க்கை  
+ ###  . லண்டன் வாழ்க்கை  
 
   
 
@@ -466,9 +454,7 @@ Printed by R. Surianarayanan, at Gnanodaya Press
 
   
 
-###
-
- 8. நாஸ்திகத்தில் வெறுப்பு  
+ ###  . நாஸ்திகத்தில் வெறுப்பு  
 
   
 
@@ -516,9 +502,7 @@ Printed by R. Surianarayanan, at Gnanodaya Press
 
   
 
-###
-
- 9. பாரிஸ்டர் ஆனார்  
+ ###  . பாரிஸ்டர் ஆனார்  
 
   
 
@@ -576,9 +560,7 @@ Printed by R. Surianarayanan, at Gnanodaya Press
 
   
 
-###
-
- 10. கவலைக் கடல்  
+ ###  0. கவலைக் கடல்  
 
   
 
@@ -600,9 +582,7 @@ Printed by R. Surianarayanan, at Gnanodaya Press
 
   
 
-###
-
- 11. கோர்ட்டில் முதல் வழக்கு  
+ ###  1. கோர்ட்டில் முதல் வழக்கு  
 
   
 
@@ -644,9 +624,7 @@ Printed by R. Surianarayanan, at Gnanodaya Press
 
   
 
-###
-
- 12. வாழ்வில் முதல் அதிர்ச்சி  
+ ###  2. வாழ்வில் முதல் அதிர்ச்சி  
 
   
 
@@ -720,9 +698,7 @@ Printed by R. Surianarayanan, at Gnanodaya Press
 
   
 
-###
-
- 13. அதிர்ஷ்டப் பிரயாணம்  
+ ###  3. அதிர்ஷ்டப் பிரயாணம்  
 
   
 
@@ -772,9 +748,7 @@ Printed by R. Surianarayanan, at Gnanodaya Press
 
   
 
-###
-
- 14. தலைப்பாகைத் தகராறு  
+ ###  4. தலைப்பாகைத் தகராறு  
 
   
 
@@ -818,9 +792,7 @@ Printed by R. Surianarayanan, at Gnanodaya Press
 
   
 
-###
-
- 15. வழியில் நேர்ந்த விபத்து  
+ ###  5. வழியில் நேர்ந்த விபத்து  
 
   
 
@@ -880,9 +852,7 @@ Printed by R. Surianarayanan, at Gnanodaya Press
 
   
 
-###
-
- 16. மேலும் சோதனைகள்  
+ ###  6. மேலும் சோதனைகள்  
 
   
 
@@ -940,9 +910,7 @@ Printed by R. Surianarayanan, at Gnanodaya Press
 
   
 
-###
-
- 17. பிரிட்டோரியாவில்  
+ ###  7. பிரிட்டோரியாவில்  
 
   
 
@@ -1012,9 +980,7 @@ Printed by R. Surianarayanan, at Gnanodaya Press
 
   
 
-###
-
- 18. சமூகத் தொண்டு  
+ ###  8. சமூகத் தொண்டு  
 
   
 
@@ -1056,9 +1022,7 @@ Printed by R. Surianarayanan, at Gnanodaya Press
 
   
 
-###
-
- 19. வழக்கின் முடிவு  
+ ###  9. வழக்கின் முடிவு  
 
   
 
@@ -1092,9 +1056,7 @@ Printed by R. Surianarayanan, at Gnanodaya Press
 
   
 
-###
-
- 20. ஏசுவின் போதனை  
+ ###  0. ஏசுவின் போதனை  
 
   
 
@@ -1158,9 +1120,7 @@ Printed by R. Surianarayanan, at Gnanodaya Press
 
   
 
-###
-
- 21. "காந்தியை நிறுத்துங்கள்"  
+ ###  1. "காந்தியை நிறுத்துங்கள்"  
 
   
 
@@ -1200,9 +1160,7 @@ Printed by R. Surianarayanan, at Gnanodaya Press
 
   
 
-###
-
- 22. வாக்குரிமைப் போர்  
+ ###  2. வாக்குரிமைப் போர்  
 
   
 
@@ -1264,9 +1222,7 @@ Printed by R. Surianarayanan, at Gnanodaya Press
 
   
 
-###
-
- 23. நேட்டால் இந்தியக் காங்கிரஸ்  
+ ###  3. நேட்டால் இந்தியக் காங்கிரஸ்  
 
   
 
@@ -1300,9 +1256,7 @@ Printed by R. Surianarayanan, at Gnanodaya Press
 
   
 
-###
-
- 24. பாலசுந்தரம்  
+ ###  4. பாலசுந்தரம்  
 
   
 
@@ -1366,9 +1320,7 @@ Printed by R. Surianarayanan, at Gnanodaya Press
 
   
 
-###
-
- 25. மூன்று பவுன் தலைவரி  
+ ###  5. மூன்று பவுன் தலைவரி  
 
   
 
@@ -1406,9 +1358,7 @@ Printed by R. Surianarayanan, at Gnanodaya Press
 
   
 
-###
-
- 26. தாய் நாட்டில்  
+ ###  6. தாய் நாட்டில்  
 
   
 
@@ -1446,9 +1396,7 @@ Printed by R. Surianarayanan, at Gnanodaya Press
 
   
 
-###
-
- 27. பிரசார யாத்திரை  
+ ###  7. பிரசார யாத்திரை  
 
   
 
@@ -1528,9 +1476,7 @@ Printed by R. Surianarayanan, at Gnanodaya Press
 
   
 
-###
-
- 28. கடலில் அபாயம்  
+ ###  8. கடலில் அபாயம்  
 
   
 
@@ -1602,9 +1548,7 @@ Printed by R. Surianarayanan, at Gnanodaya Press
 
   
 
-###
-
- 29. கரையில் ஆபத்து  
+ ###  9. கரையில் ஆபத்து  
 
   
 
@@ -1676,9 +1620,7 @@ Printed by R. Surianarayanan, at Gnanodaya Press
 
   
 
-###
-
- 30. வழக்கு வேண்டாம்  
+ ###  0. வழக்கு வேண்டாம்  
 
   
 
@@ -1712,9 +1654,7 @@ Printed by R. Surianarayanan, at Gnanodaya Press
 
   
 
-###
-
- 31. எளிய வாழ்க்கை  
+ ###  1. எளிய வாழ்க்கை  
 
   
 
@@ -1758,9 +1698,7 @@ Printed by R. Surianarayanan, at Gnanodaya Press
 
   
 
-###
-
- 32. போயர் யுத்தம்  
+ ###  2. போயர் யுத்தம்  
 
   
 
@@ -1798,9 +1736,7 @@ Printed by R. Surianarayanan, at Gnanodaya Press
 
   
 
-###
-
- 33. கஸ்தூரிபாயும் கண்டஹாரமும்  
+ ###  3. கஸ்தூரிபாயும் கண்டஹாரமும்  
 
   
 

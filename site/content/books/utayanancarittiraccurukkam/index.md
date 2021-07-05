@@ -1418,9 +1418,7 @@ Printed at: The Madras Law Journal Press, Mylapore, Madras
 
   
 
-###
-
- 2. இலாவாண காண்டம்  
+ ###  . இலாவாண காண்டம்  
 
   
 
@@ -1616,9 +1614,7 @@ Printed at: The Madras Law Journal Press, Mylapore, Madras
 
   
 
-###
-
- 3. மகத காண்டம்  
+ ###  . மகத காண்டம்  
 
   
 
@@ -2030,9 +2026,7 @@ Printed at: The Madras Law Journal Press, Mylapore, Madras
 
   
 
-###
-
- 4. வத்தவ காண்டம்  
+ ###  . வத்தவ காண்டம்  
 
   
 
@@ -2426,9 +2420,7 @@ Printed at: The Madras Law Journal Press, Mylapore, Madras
 
   
 
-###
-
- 5. நரவாண காண்டம்  
+ ###  . நரவாண காண்டம்  
 
   
 
@@ -2596,9 +2588,7 @@ Printed at: The Madras Law Journal Press, Mylapore, Madras
 
   
 
-###
-
- 6. துறவுக் காண்டம்  
+ ###  . துறவுக் காண்டம்  
 
   
 

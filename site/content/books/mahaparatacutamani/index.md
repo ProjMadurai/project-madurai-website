@@ -496,9 +496,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 1. சிரோபேதப் பிரகரணம்  
+ ###  . சிரோபேதப் பிரகரணம்  
 
   
 
@@ -646,9 +644,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 2. நயன பேதப் பிரகரணம்  
+ ###  . நயன பேதப் பிரகரணம்  
 
   
 
@@ -1022,9 +1018,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 3. புருவபேதப் பிரகரணம்  
+ ###  . புருவபேதப் பிரகரணம்  
 
   
 
@@ -1064,9 +1058,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 4. நாசிபேதப் பிரகரணம்  
+ ###  . நாசிபேதப் பிரகரணம்  
 
   
 
@@ -1116,9 +1108,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 5. அதரபேதப் பிரகரணம்.  
+ ###  . அதரபேதப் பிரகரணம்.  
 
   
 
@@ -1148,9 +1138,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 6. முகராகப் பிரகரணம்  
+ ###  . முகராகப் பிரகரணம்  
 
   
 
@@ -1180,9 +1168,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 7.கண்டபேதப் பிரகரணம்  
+ ###  .கண்டபேதப் பிரகரணம்  
 
   
 
@@ -1242,9 +1228,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 8. புஜபேதப் பிரகரணம்  
+ ###  . புஜபேதப் பிரகரணம்  
 
   
 
@@ -1264,9 +1248,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 9. மார்புபேதப் பிரகரணம்.  
+ ###  . மார்புபேதப் பிரகரணம்.  
 
   
 
@@ -1322,9 +1304,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 11. பிருஷ்டபேதப் பிரகரணம்  
+ ###  1. பிருஷ்டபேதப் பிரகரணம்  
 
   
 
@@ -1350,9 +1330,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 12. இடுப்புப் பேதப் பிரகரணம்  
+ ###  2. இடுப்புப் பேதப் பிரகரணம்  
 
   
 
@@ -1380,9 +1358,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 13. பார்சுவ பேதப் பிரகரணம்  
+ ###  3. பார்சுவ பேதப் பிரகரணம்  
 
   
 
@@ -1410,9 +1386,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 14. கரகேத்திரமென்னும் பாணித்தானப் பிரகரணம்  
+ ###  4. கரகேத்திரமென்னும் பாணித்தானப் பிரகரணம்  
 
   
 
@@ -1426,9 +1400,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 15. சிரக்கர கருமமென்னும்சிரப்பாணி கர்மப் பிரகரணம்  
+ ###  5. சிரக்கர கருமமென்னும்சிரப்பாணி கர்மப் பிரகரணம்  
 
   
 
@@ -1448,9 +1420,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 16. கரப்பிரசாரமென்னும் அஸ்ததுவாதச ப்ராணப் பிரகரணம்  
+ ###  6. கரப்பிரசாரமென்னும் அஸ்ததுவாதச ப்ராணப் பிரகரணம்  
 
   
 
@@ -1576,9 +1546,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 17. அசம்யுத அஸ்தலக்ஷணமாகிய கரகரணமென்னும்  
+ ###  7. அசம்யுத அஸ்தலக்ஷணமாகிய கரகரணமென்னும்  
 
 ஒற்றைக்கை லக்ஷணம்  
 
@@ -3052,9 +3020,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 18. சம்யுத அஸ்தலக்ஷணம்  
+ ###  8. சம்யுத அஸ்தலக்ஷணம்  
 
   
 
@@ -3696,9 +3662,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 19. நிர்த்த அஸ்த லக்ஷணம்  
+ ###  9. நிர்த்த அஸ்த லக்ஷணம்  
 
   
 
@@ -3920,9 +3884,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 20. முத்திராஹஸ்த லக்ஷணம்  
+ ###  0. முத்திராஹஸ்த லக்ஷணம்  
 
   
 
@@ -4168,9 +4130,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 21. பாதபோதப் பிரகணம்  
+ ###  1. பாதபோதப் பிரகணம்  
 
   
 
@@ -4384,9 +4344,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 22. நவரச பேதப் பிரகணம்  
+ ###  2. நவரச பேதப் பிரகணம்  
 
   
 
@@ -4862,9 +4820,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 11. கரணங்களின் அபிநயம்  
+ ###  1. கரணங்களின் அபிநயம்  
 
   
 
@@ -4890,9 +4846,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 12. லக்னங்களினபிநயம்  
+ ###  2. லக்னங்களினபிநயம்  
 
   
 
@@ -4918,9 +4872,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 13. நவக்கோள்களினபிநயம்.  
+ ###  3. நவக்கோள்களினபிநயம்.  
 
   
 
@@ -4960,9 +4912,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 2. ஸ்தாவராதி அபிநயம்  
+ ###  . ஸ்தாவராதி அபிநயம்  
 
 1. உலகங்கள்  
 
@@ -5020,9 +4970,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 2. மலைகள்  
+ ###  . மலைகள்  
 
   
 
@@ -5078,9 +5026,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 3. கடல்கள்  
+ ###  . கடல்கள்  
 
   
 
@@ -5118,9 +5064,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 4. நதிகள்  
+ ###  . நதிகள்  
 
   
 
@@ -5200,9 +5144,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 5. குளம், படி, கிணறு  
+ ###  . குளம், படி, கிணறு  
 
   
 
@@ -5222,9 +5164,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 6. சுரப்பிறப்புத்தீவுகள்  
+ ###  . சுரப்பிறப்புத்தீவுகள்  
 
   
 
@@ -5248,9 +5188,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 7. விருக்ஷங்கள்  
+ ###  . விருக்ஷங்கள்  
 
   
 
@@ -5364,9 +5302,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 8. தேசங்கள்  
+ ###  . தேசங்கள்  
 
   
 
@@ -5438,9 +5374,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 9. பட்டணம், ஊர், கிராமம்  
+ ###  . பட்டணம், ஊர், கிராமம்  
 
   
 
@@ -5454,9 +5388,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 10. வீடுகளும் அவற்றின் பகுதிகளும்  
+ ###  0. வீடுகளும் அவற்றின் பகுதிகளும்  
 
   
 
@@ -5488,9 +5420,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 11. சாலைகள்  
+ ###  1. சாலைகள்  
 
   
 
@@ -5572,9 +5502,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 12. ஜலஜந்துக்கள்  
+ ###  2. ஜலஜந்துக்கள்  
 
   
 
@@ -5598,9 +5526,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 13. ஊர்வன  
+ ###  3. ஊர்வன  
 
   
 
@@ -5614,9 +5540,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 14. பறவைகள்  
+ ###  4. பறவைகள்  
 
   
 
@@ -5688,9 +5612,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 15. விலங்குகள்  
+ ###  5. விலங்குகள்  
 
   
 
@@ -5816,9 +5738,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 4. மனிதப்பகுதி  
+ ###  . மனிதப்பகுதி  
 
 16. மானிடர் - பொது  
 
@@ -5834,9 +5754,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 17. ஜாதிகள்  
+ ###  7. ஜாதிகள்  
 
   
 
@@ -5902,9 +5820,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 18. நாயகிகள்  
+ ###  8. நாயகிகள்  
 
   
 
@@ -6036,9 +5952,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 19. நால்வகை முதல்வர்  
+ ###  9. நால்வகை முதல்வர்  
 
   
 
@@ -6062,9 +5976,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 20. மூவித நாயகர்கள்  
+ ###  0. மூவித நாயகர்கள்  
 
   
 
@@ -6088,9 +6000,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 21. பாந்தவ்யம்  
+ ###  1. பாந்தவ்யம்  
 
   
 
@@ -6162,9 +6072,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 22. அரசர்கள்  
+ ###  2. அரசர்கள்  
 
   
 
@@ -6280,9 +6188,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 23. சங்கீதம்  
+ ###  3. சங்கீதம்  
 
   
 
@@ -6304,9 +6210,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 24. இராகங்கள்  
+ ###  4. இராகங்கள்  
 
   
 
@@ -6418,9 +6322,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 25. நவரசம்  
+ ###  5. நவரசம்  
 
   
 
@@ -6444,9 +6346,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 26. புணர்ச்சி முதலியன  
+ ###  6. புணர்ச்சி முதலியன  
 
   
 
@@ -6470,9 +6370,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 27. பாந்தவ்ய அபிநயம்  
+ ###  7. பாந்தவ்ய அபிநயம்  
 
   
 
@@ -6510,9 +6408,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 28. சர்வாங்க அபிநயம்  
+ ###  8. சர்வாங்க அபிநயம்  
 
   
 
@@ -6582,9 +6478,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 29. இரத்தினங்கள்  
+ ###  9. இரத்தினங்கள்  
 
   
 
@@ -6622,9 +6516,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 30. நவ உலோகங்கள்  
+ ###  0. நவ உலோகங்கள்  
 
   
 
@@ -6646,9 +6538,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 31. நவரசாபிநயம்  
+ ###  1. நவரசாபிநயம்  
 
   
 
@@ -6670,9 +6560,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 32. எண்கள்  
+ ###  2. எண்கள்  
 
   
 
@@ -6694,9 +6582,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 33. சாஸ்திரம்  
+ ###  3. சாஸ்திரம்  
 
   
 
@@ -6714,9 +6600,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 7. தேவர் முதலியோர்  
+ ###  . தேவர் முதலியோர்  
 
 34. தேவர்  
 
@@ -6790,9 +6674,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 35. சிவகணங்கள்  
+ ###  5. சிவகணங்கள்  
 
   
 
@@ -6848,9 +6730,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 36. தேவியர்  
+ ###  6. தேவியர்  
 
   
 
@@ -6938,9 +6818,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 37. பிறதேவர் முதலியோர்  
+ ###  7. பிறதேவர் முதலியோர்  
 
   
 
@@ -7062,9 +6940,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 35. அசுரர் முதலியோர்  
+ ###  5. அசுரர் முதலியோர்  
 
   
 
@@ -7178,9 +7054,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 36. இருடிகள்  
+ ###  6. இருடிகள்  
 
   
 
@@ -7372,9 +7246,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 37. காமதேனு முதலியன  
+ ###  7. காமதேனு முதலியன  
 
   
 
@@ -7430,9 +7302,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 38. தசாவதாரம்  
+ ###  8. தசாவதாரம்  
 
   
 
@@ -8138,9 +8008,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 2. துளைக்கருவி  
+ ###  . துளைக்கருவி  
 
   
 
@@ -8412,9 +8280,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 3. கஞ்சக்கருவி  
+ ###  . கஞ்சக்கருவி  
 
   
 
@@ -8444,9 +8310,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 4. தான வகைகள்  
+ ###  . தான வகைகள்  
 
   
 
@@ -8480,9 +8344,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 5. பாடகன் முதலியோர் லக்ஷணம்  
+ ###  . பாடகன் முதலியோர் லக்ஷணம்  
 
   
 
@@ -8600,9 +8462,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 6. நட்டுவன்  
+ ###  . நட்டுவன்  
 
   
 
@@ -8688,9 +8548,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 7. பாத்திர லக்ஷணம்  
+ ###  . பாத்திர லக்ஷணம்  
 
   
 
@@ -8924,9 +8782,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 8. தண்ட லக்ஷணம்  
+ ###  . தண்ட லக்ஷணம்  
 
   
 
@@ -9024,9 +8880,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 9. தேங்காய் லக்ஷணம்  
+ ###  . தேங்காய் லக்ஷணம்  
 
   
 
@@ -9166,9 +9020,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 10. பிரம்பு லக்ஷணம்  
+ ###  0. பிரம்பு லக்ஷணம்  
 
   
 
@@ -9226,9 +9078,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 11. உடைக்கச்சை லக்ஷணம்  
+ ###  1. உடைக்கச்சை லக்ஷணம்  
 
   
 
@@ -9242,9 +9092,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 12. நாடக அரங்கம் முதலியன  
+ ###  2. நாடக அரங்கம் முதலியன  
 
   
 
@@ -9730,9 +9578,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 13. நாட்டியக்கிரமம்  
+ ###  3. நாட்டியக்கிரமம்  
 
   
 
@@ -9788,9 +9634,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 14. பெண்ணின் வகை  
+ ###  4. பெண்ணின் வகை  
 
   
 
@@ -9838,9 +9682,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 15. சில நாட்டிய வகைகள் முதலியன  
+ ###  5. சில நாட்டிய வகைகள் முதலியன  
 
   
 
@@ -10002,9 +9844,7 @@ As indicated above, the first three chapters form the present work. The fourth c
 
   
 
-###
-
- 16. விருது லக்ஷணம் முதலியன  
+ ###  6. விருது லக்ஷணம் முதலியன  
 
   
 

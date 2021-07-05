@@ -111,9 +111,7 @@ Printed at MULLAI PRINTERS, MADRAS-6
 
   
 
-###
-
- 1. சென்னையில் ஜூடி  
+ ###  . சென்னையில் ஜூடி  
 
   
 
@@ -169,9 +167,7 @@ Printed at MULLAI PRINTERS, MADRAS-6
 
   
 
-###
-
- 2. வேலியிலே சந்து  
+ ###  . வேலியிலே சந்து  
 
   
 
@@ -267,9 +263,7 @@ Printed at MULLAI PRINTERS, MADRAS-6
 
   
 
-###
-
- 3. ஆலமரத்தடியில்  
+ ###  . ஆலமரத்தடியில்  
 
   
 
@@ -351,9 +345,7 @@ Printed at MULLAI PRINTERS, MADRAS-6
 
   
 
-###
-
- 4. சுதந்திர தினம்  
+ ###  . சுதந்திர தினம்  
 
   
 
@@ -421,9 +413,7 @@ Printed at MULLAI PRINTERS, MADRAS-6
 
   
 
-###
-
- 5. காஞ்சிபுரம்  
+ ###  . காஞ்சிபுரம்  
 
   
 
@@ -489,9 +479,7 @@ Printed at MULLAI PRINTERS, MADRAS-6
 
   
 
-###
-
- 6. தீபாவளி  
+ ###  . தீபாவளி  
 
   
 
@@ -565,9 +553,7 @@ Printed at MULLAI PRINTERS, MADRAS-6
 
   
 
-###
-
- 7. மழை  
+ ###  . மழை  
 
   
 
@@ -633,9 +619,7 @@ Printed at MULLAI PRINTERS, MADRAS-6
 
   
 
-###
-
- 8. வெள்ளம்  
+ ###  . வெள்ளம்  
 
   
 
@@ -705,9 +689,7 @@ Printed at MULLAI PRINTERS, MADRAS-6
 
   
 
-###
-
- 9. தேசீய வளர்ச்சித் திட்டப்பிரதேசம்  
+ ###  . தேசீய வளர்ச்சித் திட்டப்பிரதேசம்  
 
   
 
@@ -787,9 +769,7 @@ Printed at MULLAI PRINTERS, MADRAS-6
 
   
 
-###
-
- 10. பொன்னேரியில் லட்சுமி  
+ ###  0. பொன்னேரியில் லட்சுமி  
 
   
 
@@ -821,9 +801,7 @@ Printed at MULLAI PRINTERS, MADRAS-6
 
   
 
-###
-
- 11. ஜூடியும் லட்சுமியும்  
+ ###  1. ஜூடியும் லட்சுமியும்  
 
   
 
@@ -963,9 +941,7 @@ Printed at MULLAI PRINTERS, MADRAS-6
 
   
 
-###
-
- 12. கிறிஸ்துமஸமாம்‌ பொங்கலும்  
+ ###  2. கிறிஸ்துமஸமாம்‌ பொங்கலும்  
 
   
 
@@ -1049,9 +1025,7 @@ Printed at MULLAI PRINTERS, MADRAS-6
 
   
 
-###
-
- 13. வட இந்தியா  
+ ###  3. வட இந்தியா  
 
   
 
@@ -1125,9 +1099,7 @@ Printed at MULLAI PRINTERS, MADRAS-6
 
   
 
-###
-
- 14. சென்று வருகிறேன்‌  
+ ###  4. சென்று வருகிறேன்‌  
 
   
 

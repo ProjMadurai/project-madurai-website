@@ -322,9 +322,7 @@ Reader in English. Tagore Government Arts College, Pudhucherry
 
   
 
-###
-
- 1. Fame  
+ ###  . Fame  
 
   
 
@@ -478,9 +476,7 @@ the conjugal bliss."
 
   
 
-###
-
- 3. Temptation  
+ ###  . Temptation  
 
   
 
@@ -542,9 +538,7 @@ The Indo-Ceylon Express started scuttling away from Cuddalore.
 
   
 
-###
-
- 4. The Dancer  
+ ###  . The Dancer  
 
   
 
@@ -664,9 +658,7 @@ Kandan finished reading the letter. As if an alagu had pierced his eyes, he writ
 
   
 
-###
-
- 5. The Bin  
+ ###  . The Bin  
 
   
 
@@ -730,9 +722,7 @@ Its neck is twisted. Yes! She is the child's mother. She is going to fling the c
 
   
 
-###
-
- 6. Sandal Paste Cup  
+ ###  . Sandal Paste Cup  
 
   
 
@@ -1022,9 +1012,7 @@ Yet Kandan is prepared to retrieve the silver cup. When? Some time later in a fu
 
   
 
-###
-
- 7. Godman  
+ ###  . Godman  
 
   
 
@@ -1280,9 +1268,7 @@ What was lost was silver worth the weight of only two thousand rupees. But what 
 
   
 
-###
-
- 8. Love Life of Ganga  
+ ###  . Love Life of Ganga  
 
   
 
@@ -1348,9 +1334,7 @@ Chandran and Ganga disappeared. A little later Shiva woke up with a start. Parva
 
   
 
-###
-
- 9. Mother's Love  
+ ###  . Mother's Love  
 
   
 
@@ -1604,9 +1588,7 @@ Both of them made their great escape from the torture of the society.
 
   
 
-###
-
- 11. No Escape  
+ ###  1. No Escape  
 
   
 
@@ -1706,9 +1688,7 @@ He was craving to know the result of his appeal. The jailor entered a lonely pri
 
   
 
-###
-
- 12. Supporter  
+ ###  2. Supporter  
 
   
 
@@ -1790,9 +1770,7 @@ Punniyakodi enjoys popularity among the public. His secretary goes about boastin
 
   
 
-###
-
- 13. Secret  
+ ###  3. Secret  
 
   
 
@@ -1848,9 +1826,7 @@ Everyone's doubt got cleared as to why he chose to die.
 
   
 
-###
-
- 14. Three Hundred Rupees  
+ ###  4. Three Hundred Rupees  
 
   
 
@@ -1886,9 +1862,7 @@ Lakshmi Narayanan opened his eyes, when the train pulled up at Trichy at about f
 
   
 
-###
-
- 15. The Poor  
+ ###  5. The Poor  
 
   
 
@@ -1932,9 +1906,7 @@ Under the same tree another being opened her eyes. “Alas! My darling husband!"
 
   
 
-###
-
- 16. As Is in the Original  
+ ###  6. As Is in the Original  
 
   
 
@@ -2046,9 +2018,7 @@ Chettiyar and the manager had no other go but look askance at each other.
 
   
 
-###
-
- 17. A Bunch of Palmyra Fruit  
+ ###  7. A Bunch of Palmyra Fruit  
 
   
 
@@ -2276,9 +2246,7 @@ Then Hanuman with his tail burnt South Lanka; My wife burnt her modesty. And I s
 
   
 
-###
-
- 19. Inquest  
+ ###  9. Inquest  
 
   
 
@@ -2360,9 +2328,7 @@ The dead body of Karuppayi who had drowned herself in the temple pond was brough
 
   
 
-###
-
- 20. Doves of a Banyan Tree  
+ ###  0. Doves of a Banyan Tree  
 
   
 
@@ -2430,9 +2396,7 @@ This story made the birds of the forest to laugh. They seemed to be wonderstruck
 
   
 
-###
-
- 21. Birds of Passage  
+ ###  1. Birds of Passage  
 
   
 
@@ -2480,9 +2444,7 @@ Before his minds' eye stood Bharathidasan, the revolutionary poet of Puducherry,
 
   
 
-###
-
- 22. Love Letter  
+ ###  2. Love Letter  
 
   
 
@@ -2538,9 +2500,7 @@ After listening to Balan, I felt that the world war had not yet come to an end. 
 
   
 
-###
-
- 23. A Rose in the Desert  
+ ###  3. A Rose in the Desert  
 
   
 
@@ -2604,9 +2564,7 @@ When I was a student I didn't like the ideal of Kandaiah. But when I saw him in 
 
   
 
-###
-
- 24. The Last Phase  
+ ###  4. The Last Phase  
 
   
 

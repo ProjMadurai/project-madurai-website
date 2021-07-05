@@ -31,9 +31,7 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
   
 
-###
-
- 1. பாலகாண்டம் (பாடல்கள் 9-472 )  
+ ###  . பாலகாண்டம் (பாடல்கள் 9-472 )  
 
   
 
@@ -81,9 +79,7 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
   
 
-###
-
- 2. அயோத்தியா காண்டம் (பாடல்கள்
+ ###  . அயோத்தியா காண்டம் (பாடல்கள்
 
  473-866 )  
 
@@ -133,9 +129,7 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
   
 
-###
-
- 3. ஆரணிய காண்டம் (பாடல்கள்
+ ###  . ஆரணிய காண்டம் (பாடல்கள்
 
  877 -1408 )  
 
@@ -203,9 +197,7 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
   
 
-###
-
- 4. கிட்கிந்தா காண்டம் (பாடல்கள்
+ ###  . கிட்கிந்தா காண்டம் (பாடல்கள்
 
  1409-1853 )  
 
@@ -447,9 +439,7 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-###
-
- 1.1. திரு அவதாரப் படலம்  
+ ###  .1. திரு அவதாரப் படலம்  
 
   
 
@@ -859,9 +849,7 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-###
-
- 1.2. கையடைப் படலம்  
+ ###  .2. கையடைப் படலம்  
 
   
 
@@ -953,9 +941,7 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-###
-
- 1.3. தாடகை வதைப் படலம்  
+ ###  .3. தாடகை வதைப் படலம்  
 
   
 
@@ -1253,9 +1239,7 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-###
-
- 1.4. வேள்விப் படலம்  
+ ###  .4. வேள்விப் படலம்  
 
   
 
@@ -1617,9 +1601,7 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-###
-
- 1.5. மிதிலைக் காட்சிப் படலம்  
+ ###  .5. மிதிலைக் காட்சிப் படலம்  
 
   
 
@@ -2817,9 +2799,7 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-###
-
- 1.6. தனு இறுத்த படலம்  
+ ###  .6. தனு இறுத்த படலம்  
 
   
 
@@ -3695,9 +3675,7 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-###
-
- 1.7. கடிமணப் படலம்  
+ ###  .7. கடிமணப் படலம்  
 
   
 
@@ -4275,9 +4253,7 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-###
-
- 2.1. மந்திரப் படலம்  
+ ###  .1. மந்திரப் படலம்  
 
   
 
@@ -4663,9 +4639,7 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-###
-
- 2.2. கைகேசி சூழ்வினைப் படலம்  
+ ###  .2. கைகேசி சூழ்வினைப் படலம்  
 
   
 
@@ -5147,9 +5121,7 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-###
-
- 2.3. நகர் நீங்கு படலம்  
+ ###  .3. நகர் நீங்கு படலம்  
 
   
 
@@ -5535,9 +5507,7 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-###
-
- 2.4. தைல மாட்டு படலம்  
+ ###  .4. தைல மாட்டு படலம்  
 
   
 
@@ -5763,9 +5733,7 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-###
-
- 2.5. கங்கைப் படலம்  
+ ###  .5. கங்கைப் படலம்  
 
   
 
@@ -6071,9 +6039,7 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-###
-
- 2.6. சித்திர கூடப் படலம்  
+ ###  .6. சித்திர கூடப் படலம்  
 
   
 
@@ -6315,9 +6281,7 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-###
-
- 2.7. கிளைகண்டு நீங்கு படலம்.  
+ ###  .7. கிளைகண்டு நீங்கு படலம்.  
 
   
 
@@ -7521,9 +7485,7 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-###
-
- 3.1. விராதன் வதைப் படலம்  
+ ###  .1. விராதன் வதைப் படலம்  
 
   
 
@@ -7805,9 +7767,7 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-###
-
- 3.2. சாபங்கர் முத்தி யருள் படலம்  
+ ###  .2. சாபங்கர் முத்தி யருள் படலம்  
 
   
 
@@ -8057,9 +8017,7 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-###
-
- 3.3. அகத்தியப் படலம்.  
+ ###  .3. அகத்தியப் படலம்.  
 
   
 
@@ -8357,9 +8315,7 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-###
-
- 3.4. சடாயுகாண் படலம்  
+ ###  .4. சடாயுகாண் படலம்  
 
   
 
@@ -8609,9 +8565,7 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-###
-
- 3.5. சூர்ப்பனகைப் படலம்  
+ ###  .5. சூர்ப்பனகைப் படலம்  
 
   
 
@@ -9101,9 +9055,7 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-###
-
- 3.6. கரன் வதைப் படலம்  
+ ###  .6. கரன் வதைப் படலம்  
 
   
 
@@ -9673,9 +9625,7 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-###
-
- 3.7. மாரீசன் வதைப் படலம்  
+ ###  .7. மாரீசன் வதைப் படலம்  
 
   
 
@@ -10533,9 +10483,7 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-###
-
- 3.8. சடாயு வதைப் படலம்  
+ ###  .8. சடாயு வதைப் படலம்  
 
   
 
@@ -11425,9 +11373,7 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-###
-
- 3.9. அயோமுகிப் படலம்  
+ ###  .9. அயோமுகிப் படலம்  
 
   
 
@@ -11693,9 +11639,7 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-###
-
- 3.10. கவந்தன் வதைப் படலம்  
+ ###  .10. கவந்தன் வதைப் படலம்  
 
   
 
@@ -11985,9 +11929,7 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-###
-
- 4.1. பம்பைப் படலம்  
+ ###  .1. பம்பைப் படலம்  
 
   
 
@@ -12229,9 +12171,7 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-###
-
- 4.2. அனுமப் படலம்  
+ ###  .2. அனுமப் படலம்  
 
   
 
@@ -12393,9 +12333,7 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-###
-
- 4.3. நட்புக் கொள் படலம்  
+ ###  .3. நட்புக் கொள் படலம்  
 
   
 
@@ -12685,9 +12623,7 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-###
-
- 4.4. துந்துபிப் படலம்  
+ ###  .4. துந்துபிப் படலம்  
 
   
 
@@ -12825,9 +12761,7 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-###
-
- 4.5. வாலி வதைப் படலம்  
+ ###  .5. வாலி வதைப் படலம்  
 
   
 
@@ -13621,9 +13555,7 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-###
-
- 4.6. அரசியற் படலம்  
+ ###  .6. அரசியற் படலம்  
 
   
 
@@ -13905,9 +13837,7 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-###
-
- 4.7. கார்காலப் படலம்  
+ ###  .7. கார்காலப் படலம்  
 
   
 
@@ -14085,9 +14015,7 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-###
-
- 4.8. கிட்கிந்தைப் படலம்  
+ ###  .8. கிட்கிந்தைப் படலம்  
 
   
 
@@ -14577,9 +14505,7 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-###
-
- 4.9. நாட விட்ட படலம்  
+ ###  .9. நாட விட்ட படலம்  
 
   
 
@@ -14997,9 +14923,7 @@ Madurakavi Srinivasa Ayyangar is the author of this work. He lived in a small vi
 
 [  
 
-###
-
- 4.10. மகேந்திரப் படலம்  
+ ###  .10. மகேந்திரப் படலம்  
 
   
 

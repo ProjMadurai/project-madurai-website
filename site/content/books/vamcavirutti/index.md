@@ -390,9 +390,7 @@ The king is seated on the golden throne. Shakuntala raises her eyes and sees her
 
   
 
-###
-
- 2. 'ஒரு சாதம்'  
+ ###  . 'ஒரு சாதம்'  
 
   
 
@@ -622,9 +620,7 @@ The king is seated on the golden throne. Shakuntala raises her eyes and sees her
 
   
 
-###
-
- 3. கிரகணம்  
+ ###  . கிரகணம்  
 
   
 
@@ -808,9 +804,7 @@ The king is seated on the golden throne. Shakuntala raises her eyes and sees her
 
   
 
-###
-
- 4. விழுக்காடு  
+ ###  . விழுக்காடு  
 
   
 
@@ -890,9 +884,7 @@ The king is seated on the golden throne. Shakuntala raises her eyes and sees her
 
   
 
-###
-
- 5. பீஃனிக்ஸ் பறவை  
+ ###  . பீஃனிக்ஸ் பறவை  
 
   
 
@@ -1100,9 +1092,7 @@ The king is seated on the golden throne. Shakuntala raises her eyes and sees her
 
   
 
-###
-
- 6. முழுவிலக்கு  
+ ###  . முழுவிலக்கு  
 
   
 
@@ -1290,9 +1280,7 @@ The king is seated on the golden throne. Shakuntala raises her eyes and sees her
 
   
 
-###
-
- 7. முடிச்சு  
+ ###  . முடிச்சு  
 
   
 
@@ -1430,9 +1418,7 @@ The king is seated on the golden throne. Shakuntala raises her eyes and sees her
 
   
 
-###
-
- 8. ஞானம்  
+ ###  . ஞானம்  
 
   
 
@@ -1506,9 +1492,7 @@ PIT என்றால் Passive Integrated Transponders. குரங்கு
 
   
 
-###
-
- 9. 'சிலம்பு' செல்லப்பா  
+ ###  . 'சிலம்பு' செல்லப்பா  
 
   
 
@@ -1696,9 +1680,7 @@ My dear Thangaratinam, When your father and mother went to see saparam (சப�
 
   
 
-###
-
- 10. வம்ச விருத்தி  
+ ###  0. வம்ச விருத்தி  
 
   
 
@@ -1872,9 +1854,7 @@ My dear Thangaratinam, When your father and mother went to see saparam (சப�
 
   
 
-###
-
- 11. பருத்திப் பூ  
+ ###  1. பருத்திப் பூ  
 
   
 

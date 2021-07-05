@@ -179,9 +179,7 @@ Nālāyira Divya Prabhandam - first thousand pāsurams
 
   
 
-###
-
- 1. Periyazhvar Thiruppallaṇḍu & Thirumozhi (pāsurams 1-473)  
+ ###  . Periyazhvar Thiruppallaṇḍu & Thirumozhi (pāsurams 1-473)  
 
   
 
@@ -7567,9 +7565,7 @@ they will reach him as his shadows.
 
   
 
-###
-
- 2. Aṇḍal.: Thiruppāvai (474 -503)  
+ ###  . Aṇḍal.: Thiruppāvai (474 -503)  
 
   
 
@@ -8297,9 +8293,7 @@ and be happy.
 
   
 
-###
-
- 3. Aṇḍal.: Nāchiyār Thirumozhi (504-646)  
+ ###  . Aṇḍal.: Nāchiyār Thirumozhi (504-646)  
 
   
 
@@ -10515,9 +10509,7 @@ they will live under the divine feet of the lord without leaving him.
 
   
 
-###
-
- 4. Perumāl Thirumozhi by Kulasekharazhvar (647 -751)  
+ ###  . Perumāl Thirumozhi by Kulasekharazhvar (647 -751)  
 
   
 
@@ -12311,9 +12303,7 @@ they will approach the feet of Nāraṇan who shines with goodness.
 
   
 
-###
-
- 5. Thirumazhisai Azhvar. Thiruchanda Virutham (752 -871)  
+ ###  . Thirumazhisai Azhvar. Thiruchanda Virutham (752 -871)  
 
   
 
@@ -13913,9 +13903,7 @@ and has attained moksha, the house of joy.
 
   
 
-###
-
- 6. Thirumālai : Thoṇḍaraḍippoḍi Azhvar (872-916)  
+ ###  . Thirumālai : Thoṇḍaraḍippoḍi Azhvar (872-916)  
 
   
 
@@ -14561,9 +14549,7 @@ they will become his sweet devotees.
 
   
 
-###
-
- 7. Thiruppaḷḷi Ezhuchi - Thoṇḍaraḍippoḍi Azhvar (917-926)  
+ ###  . Thiruppaḷḷi Ezhuchi - Thoṇḍaraḍippoḍi Azhvar (917-926)  
 
   
 
@@ -14739,9 +14725,7 @@ O dear god of Srirangam, wake up and give me your grace.
 
   
 
-###
-
- 8. Amalan Aadipirān. - Thiruppāṇāzhvār (927-936)  
+ ###  . Amalan Aadipirān. - Thiruppāṇāzhvār (927-936)  
 
   
 
@@ -14877,9 +14861,7 @@ my eyes do not wish to see anything else.
 
   
 
-###
-
- 9. Kaṇṇiṇuṭchiṛuthāmbu. Madhurakavi Azhvar (937-947)  
+ ###  . Kaṇṇiṇuṭchiṛuthāmbu. Madhurakavi Azhvar (937-947)  
 
   
 

@@ -2742,9 +2742,7 @@ Honorary Secretary, Tanjore Maharaja Sarfoji's Saraswathi Mahal Library Committe
 
   
 
-###
-
- 2. பாண்டிய கேளீவிலாச நாடகம்  
+ ###  . பாண்டிய கேளீவிலாச நாடகம்  
 
 நாராயண கவி  
 
@@ -3850,9 +3848,7 @@ Honorary Secretary, Tanjore Maharaja Sarfoji's Saraswathi Mahal Library Committe
 
   
 
-###
-
- 3. புரூரவ நாடகம்  
+ ###  . புரூரவ நாடகம்  
 
   
 

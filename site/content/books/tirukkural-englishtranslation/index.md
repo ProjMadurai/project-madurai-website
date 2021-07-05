@@ -488,9 +488,7 @@ by Ramachandra Dikshitar
 
   
 
-###
-
- 1. aṟattuppāl /
+ ###  . aṟattuppāl /
 
  1.1 pāyiraviyal  
 
@@ -830,9 +828,7 @@ uyaṟpālatu ōrum paḻi.
 
   
 
-###
-
- 1.2. illaṟaviyal II. ON DOMESTIC VIRTUE  
+ ###  .2. illaṟaviyal II. ON DOMESTIC VIRTUE  
 
   
 
@@ -2482,9 +2478,7 @@ vāḻvārē vāḻātavar.
 
   
 
-###
-
- 1.3. tuṟavaṟaviyal - III. ON RENUNCIATION  
+ ###  .3. tuṟavaṟaviyal - III. ON RENUNCIATION  
 
   
 
@@ -3642,9 +3636,7 @@ cūḻiṉum, tāṉ muntuṟum.
 
   
 
-###
-
- 2. poruṭpāl  
+ ###  . poruṭpāl  
 
 2.1 araciyal - SECTION I. THE STATE  
 

@@ -85,9 +85,7 @@ Part I. The Lord of the Vedas
 
   
 
-###
-
- 1. Sivapuranam  
+ ###  . Sivapuranam  
 
   
 
@@ -353,9 +351,7 @@ where all other devotees will praise them and bow to them. 95
 
   
 
-###
-
- 2. Keerthi Thiruvakaval [2]  
+ ###  . Keerthi Thiruvakaval [2]  
 
   
 
@@ -555,9 +551,7 @@ He, the god of high Kailasa mountain, came to Thiruppuliyur and abides there.
 
   
 
-###
-
- 3. Thiruvandappakudi [3]  
+ ###  . Thiruvandappakudi [3]  
 
   
 
@@ -897,9 +891,7 @@ He is the lord whom even Brahma could not find.
 
   
 
-###
-
- 4. Potritthiruvahaval  
+ ###  . Potritthiruvahaval  
 
   
 
@@ -1403,9 +1395,7 @@ Praise, praise, jeya, jeya.
 
   
 
-###
-
- 5. Thiruchadagam [5-104]  
+ ###  . Thiruchadagam [5-104]  
 
   
 
@@ -2855,9 +2845,7 @@ You are the truth for your true devotees. [104]
 
   
 
-###
-
- 6. Neethal Vinnappam  
+ ###  . Neethal Vinnappam  
 
   
 
@@ -3593,9 +3581,7 @@ Subham
 
   
 
-###
-
- 7. Thiruvempavai  
+ ###  . Thiruvempavai  
 
   
 
@@ -4017,9 +4003,7 @@ eeloor empaavaay. [174]
 
   
 
-###
-
- 8. Thiruvammanai  
+ ###  . Thiruvammanai  
 
   
 
@@ -4369,9 +4353,7 @@ Let us feel joy, praise him and sing ammaanai. [194]
 
   
 
-###
-
- 9. Thirupporcunnam  
+ ###  . Thirupporcunnam  
 
   
 
@@ -4691,9 +4673,7 @@ Let us pound the golden powder for his bath. [214]
 
   
 
-###
-
- 10. Thirukkothumbi  
+ ###  0. Thirukkothumbi  
 
   
 
@@ -4933,9 +4913,7 @@ O king of bees, fly, hover and worship the lord with a body as red as fire. [234
 
   
 
-###
-
- 11. Thiruthellenam  
+ ###  1. Thiruthellenam  
 
   
 
@@ -5177,9 +5155,7 @@ and dance the thellenam. [254]
 
   
 
-###
-
- 12. Thiruchazal  
+ ###  2. Thiruchazal  
 
   
 
@@ -5607,9 +5583,7 @@ Don't you see, friend? Sazalo. [274]
 
   
 
-###
-
- 13. Thiruppuvalli  
+ ###  3. Thiruppuvalli  
 
   
 
@@ -5841,9 +5815,7 @@ and pluck flowers from the vines to worship him. [294]
 
   
 
-###
-
- 14. Thiruvundiyar  
+ ###  4. Thiruvundiyar  
 
   
 
@@ -6029,9 +6001,7 @@ and the gods above the sky. [314]
 
   
 
-###
-
- 15. Thiruthol nokkam  
+ ###  5. Thiruthol nokkam  
 
   
 
@@ -6213,9 +6183,7 @@ holding each others’ arms and dancing. [328]
 
   
 
-###
-
- 16. Thiruppon usal  
+ ###  6. Thiruppon usal  
 
   
 
@@ -6357,9 +6325,7 @@ and swing on the golden swing. [337]
 
   
 
-###
-
- 17. Annaippathu  
+ ###  7. Annaippathu  
 
   
 
@@ -6505,9 +6471,7 @@ why mother? [347]
 
   
 
-###
-
- 18. Kuyil Pathu  
+ ###  8. Kuyil Pathu  
 
   
 
@@ -6653,9 +6617,7 @@ Call for the lord with a divine body as red as fire to come. [357]
 
   
 
-###
-
- 19. Thiruthasangam  
+ ###  9. Thiruthasangam  
 
   
 
@@ -6777,9 +6739,7 @@ that flies high from the columns of the palaces of his enemies. [367]
 
   
 
-###
-
- 20. Thiruppalli ezhuchi  
+ ###  0. Thiruppalli ezhuchi  
 
   
 
@@ -7025,9 +6985,7 @@ Wake up, our sweet lord. [377]
 
   
 
-###
-
- 21. Koyil mutha Thiruppadiham  
+ ###  1. Koyil mutha Thiruppadiham  
 
   
 
@@ -7191,9 +7149,7 @@ O lord, you rule me, and you have made me yours. [387]
 
   
 
-###
-
- 22. Koyil Thiruppadiham  
+ ###  2. Koyil Thiruppadiham  
 
   
 
@@ -7355,9 +7311,7 @@ and I have nothing to give back. [397]
 
   
 
-###
-
- 23. Sethilappathu  
+ ###  3. Sethilappathu  
 
   
 
@@ -7557,9 +7511,7 @@ You are like an ocean and you stay in Kailasa mountain. [407]
 
   
 
-###
-
- 24. Adaikkalap pathu  
+ ###  4. Adaikkalap pathu  
 
   
 
@@ -7703,9 +7655,7 @@ I am your slave, you are my refuge. [417]
 
   
 
-###
-
- 25. Aasaip pathu  
+ ###  5. Aasaip pathu  
 
   
 
@@ -7865,9 +7815,7 @@ and say, “Do not be afraid!” O father, do you know that! [427]
 
   
 
-###
-
- 26. Adisayap pathu  
+ ###  6. Adisayap pathu  
 
   
 
@@ -8021,9 +7969,7 @@ Isn’t it a wonder! [437]
 
   
 
-###
-
- 27. Punarchip pathu—Joining the lord  
+ ###  7. Punarchip pathu—Joining the lord  
 
   
 
@@ -8159,9 +8105,7 @@ sprinkle flowers on your lotus feet and join you, O faultless jewel. [447]
 
   
 
-###
-
- 28. Vaazaappathu  
+ ###  8. Vaazaappathu  
 
   
 
@@ -8329,9 +8273,7 @@ Call me, give me your grace and make me yours. [457]
 
   
 
-###
-
- 29. Arul pathu  
+ ###  9. Arul pathu  
 
   
 
@@ -8499,9 +8441,7 @@ See, this is the way to go to Kailasa. [467]
 
   
 
-###
-
- 30. Thirukkazukkundrap padikam  
+ ###  0. Thirukkazukkundrap padikam  
 
   
 
@@ -8599,9 +8539,7 @@ You came to Thirukkazukkundram and appeared before me. [474]
 
   
 
-###
-
- 31. Kanda pattu  
+ ###  1. Kanda pattu  
 
   
 
@@ -8731,9 +8669,7 @@ where the Vedas worship and praise him. [484]
 
   
 
-###
-
- 32. Pirartthanaip pattu  
+ ###  2. Pirartthanaip pattu  
 
   
 
@@ -8891,9 +8827,7 @@ I want to dance, dance and be happy receiving your grace. [495]
 
   
 
-###
-
- 33. Kuzaitha pattu  
+ ###  3. Kuzaitha pattu  
 
   
 
@@ -9033,9 +8967,7 @@ yet you made me love you—is this right? [505]
 
   
 
-###
-
- 34. Uyirunnippatthu  
+ ###  4. Uyirunnippatthu  
 
   
 
@@ -9181,9 +9113,7 @@ and take care of them. [515]
 
   
 
-###
-
- 35. Accap patthu  
+ ###  5. Accap patthu  
 
   
 
@@ -9321,9 +9251,7 @@ O my lord, I am afraid. [525]
 
   
 
-###
-
- 36. Thiruppandip pathiham  
+ ###  6. Thiruppandip pathiham  
 
   
 
@@ -9447,9 +9375,7 @@ O devotees, join his divine feet and hold to them firmly. [535]
 
   
 
-###
-
- 37. Piditha patthu  
+ ###  7. Piditha patthu  
 
   
 
@@ -9617,9 +9543,7 @@ Where can you go now leaving me? [545]
 
   
 
-###
-
- 38. Thiruvesaravu  
+ ###  8. Thiruvesaravu  
 
   
 
@@ -9747,9 +9671,7 @@ That very day I began to hate this life and this body made of flesh. [555]
 
   
 
-###
-
- 39. Thiruppulambal  
+ ###  9. Thiruppulambal  
 
   
 
@@ -9805,9 +9727,7 @@ like a calf seeking its mother. [558]
 
   
 
-###
-
- 40. Kulaappatthu  
+ ###  0. Kulaappatthu  
 
   
 
@@ -9931,9 +9851,7 @@ and I made him mine. [568]
 
   
 
-###
-
- 41. Arpudappatthu  
+ ###  1. Arpudappatthu  
 
   
 
@@ -10093,9 +10011,7 @@ I do not know how this wonder happened. [578]
 
   
 
-###
-
- 42. Chennippatthu  
+ ###  2. Chennippatthu  
 
   
 
@@ -10219,9 +10135,7 @@ He places his feet that make me serve him on my head and makes it shine. [588]
 
   
 
-###
-
- 43. Thiruvaarthai  
+ ###  3. Thiruvaarthai  
 
   
 
@@ -10379,9 +10293,7 @@ Devotees who know how he plays and worship him are my masters. [598]
 
   
 
-###
-
- 44. Ennap padikam  
+ ###  4. Ennap padikam  
 
   
 
@@ -10473,9 +10385,7 @@ comfort me, and make me yours? [604]
 
   
 
-###
-
- 45. Yaathiraip pathu  
+ ###  5. Yaathiraip pathu  
 
   
 
@@ -10603,9 +10513,7 @@ If you do not think of him, you will be sorrowful. [614]
 
   
 
-###
-
- 46. Thiruppadai ezuchi.  
+ ###  6. Thiruppadai ezuchi.  
 
   
 
@@ -10633,9 +10541,7 @@ We will conquer the sky and no troubles will come to us. [616]
 
   
 
-###
-
- 47. Thiru venba  
+ ###  7. Thiru venba  
 
   
 
@@ -10765,9 +10671,7 @@ entering my heart and happily making it his place. [627]
 
   
 
-###
-
- 48. Pandaaya naanmarai  
+ ###  8. Pandaaya naanmarai  
 
   
 
@@ -10843,9 +10747,7 @@ and they take away my future births. [634]
 
   
 
-###
-
- 49. Thiruppadai aatchi  
+ ###  9. Thiruppadai aatchi  
 
   
 
@@ -10991,9 +10893,7 @@ and I will reach the god, the highest light, the omnipresent one and sweet necta
 
   
 
-###
-
- 50. Aananda maalai  
+ ###  0. Aananda maalai  
 
   
 

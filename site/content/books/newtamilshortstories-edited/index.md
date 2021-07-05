@@ -136,9 +136,7 @@ printed at Sree Seva Mandir, 32, Bazullah Road, T.Nagar, Madras-17.
 
   
 
-###
-
- 1. கிருஷ்ணன் நம்பி : மருமகள் வாக்கு  
+ ###  . கிருஷ்ணன் நம்பி : மருமகள் வாக்கு  
 
   
 
@@ -198,9 +196,7 @@ printed at Sree Seva Mandir, 32, Bazullah Road, T.Nagar, Madras-17.
 
   
 
-###
-
- 2. அம்பை: மிலேச்சன்  
+ ###  . அம்பை: மிலேச்சன்  
 
   
 
@@ -742,9 +738,7 @@ printed at Sree Seva Mandir, 32, Bazullah Road, T.Nagar, Madras-17.
 
   
 
-###
-
- 4. வண்ண நிலவன் : எஸ்தர்  
+ ###  . வண்ண நிலவன் : எஸ்தர்  
 
   
 
@@ -884,9 +878,7 @@ printed at Sree Seva Mandir, 32, Bazullah Road, T.Nagar, Madras-17.
 
   
 
-###
-
- 5. சார்வாகன் : உத்தியோக ரேகை  
+ ###  . சார்வாகன் : உத்தியோக ரேகை  
 
   
 
@@ -1056,9 +1048,7 @@ printed at Sree Seva Mandir, 32, Bazullah Road, T.Nagar, Madras-17.
 
   
 
-###
-
- 6. இந்திரா பார்த்தசாரதி : தொலைவு  
+ ###  . இந்திரா பார்த்தசாரதி : தொலைவு  
 
   
 
@@ -1232,9 +1222,7 @@ printed at Sree Seva Mandir, 32, Bazullah Road, T.Nagar, Madras-17.
 
   
 
-###
-
- 7. நீல. பத்மநாபன்: : சண்டையும் சமாதானமும்  
+ ###  . நீல. பத்மநாபன்: : சண்டையும் சமாதானமும்  
 
   
 
@@ -1384,9 +1372,7 @@ printed at Sree Seva Mandir, 32, Bazullah Road, T.Nagar, Madras-17.
 
   
 
-###
-
- 8. ஆ. மாதவன் : நாயனம்  
+ ###  . ஆ. மாதவன் : நாயனம்  
 
   
 
@@ -1526,9 +1512,7 @@ printed at Sree Seva Mandir, 32, Bazullah Road, T.Nagar, Madras-17.
 
   
 
-###
-
- 9. சுஜாதா : நகரம்  
+ ###  . சுஜாதா : நகரம்  
 
   
 
@@ -1694,9 +1678,7 @@ printed at Sree Seva Mandir, 32, Bazullah Road, T.Nagar, Madras-17.
 
   
 
-###
-
- 10. சா. கந்தசாமி : ஒரு வருடம் சென்றது  
+ ###  0. சா. கந்தசாமி : ஒரு வருடம் சென்றது  
 
   
 
@@ -1980,9 +1962,7 @@ printed at Sree Seva Mandir, 32, Bazullah Road, T.Nagar, Madras-17.
 
   
 
-###
-
- 11. நாஞ்சில் நாடன் : ஒரு 'இந்நாட்டு மன்னர்'  
+ ###  1. நாஞ்சில் நாடன் : ஒரு 'இந்நாட்டு மன்னர்'  
 
   
 
@@ -2134,9 +2114,7 @@ printed at Sree Seva Mandir, 32, Bazullah Road, T.Nagar, Madras-17.
 
   
 
-###
-
- 12. வண்ணதாசன் : தனுமை  
+ ###  2. வண்ணதாசன் : தனுமை  
 
   
 
@@ -2256,9 +2234,7 @@ printed at Sree Seva Mandir, 32, Bazullah Road, T.Nagar, Madras-17.
 
   
 
-###
-
- 13. கி. ராஜநாராயணன் : நாற்காலி  
+ ###  3. கி. ராஜநாராயணன் : நாற்காலி  
 
   
 
@@ -2416,9 +2392,7 @@ printed at Sree Seva Mandir, 32, Bazullah Road, T.Nagar, Madras-17.
 
   
 
-###
-
- 14. ஆர்.சூடாமணி : அந்நியர்கள்  
+ ###  4. ஆர்.சூடாமணி : அந்நியர்கள்  
 
   
 
@@ -2682,9 +2656,7 @@ printed at Sree Seva Mandir, 32, Bazullah Road, T.Nagar, Madras-17.
 
   
 
-###
-
- 15. ஜெயந்தன் : பகல் உறவுகள்  
+ ###  5. ஜெயந்தன் : பகல் உறவுகள்  
 
   
 
@@ -2836,9 +2808,7 @@ printed at Sree Seva Mandir, 32, Bazullah Road, T.Nagar, Madras-17.
 
   
 
-###
-
- 16. அசோக மித்திரன் : காலமும் ஐந்து குழந்தைகளும்  
+ ###  6. அசோக மித்திரன் : காலமும் ஐந்து குழந்தைகளும்  
 
   
 

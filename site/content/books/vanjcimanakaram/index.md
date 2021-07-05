@@ -150,9 +150,7 @@ email: tamilputhakalayam@yahoo.com
 
   
 
-###
-
- 2. கொடுங்கோளுர்க் குமரன்  
+ ###  . கொடுங்கோளுர்க் குமரன்  
 
   
 
@@ -220,9 +218,7 @@ email: tamilputhakalayam@yahoo.com
 
   
 
-###
-
- 3. ஆந்தைக் கண்ணன்  
+ ###  . ஆந்தைக் கண்ணன்  
 
   
 
@@ -250,9 +246,7 @@ email: tamilputhakalayam@yahoo.com
 
   
 
-###
-
- 4. அமைச்சர் கூறிய செய்தி  
+ ###  . அமைச்சர் கூறிய செய்தி  
 
   
 
@@ -316,9 +310,7 @@ email: tamilputhakalayam@yahoo.com
 
   
 
-###
-
- 5. குமரனின் சீற்றம்  
+ ###  . குமரனின் சீற்றம்  
 
   
 
@@ -362,9 +354,7 @@ email: tamilputhakalayam@yahoo.com
 
   
 
-###
-
- 6. நள்ளிரவில் நிகழ்ந்தது  
+ ###  . நள்ளிரவில் நிகழ்ந்தது  
 
   
 
@@ -408,9 +398,7 @@ email: tamilputhakalayam@yahoo.com
 
   
 
-###
-
- 7. குமரன்நம்பியின் திட்டம்  
+ ###  . குமரன்நம்பியின் திட்டம்  
 
   
 
@@ -448,9 +436,7 @@ email: tamilputhakalayam@yahoo.com
 
   
 
-###
-
- 8. மரக்கலங்கள் எங்கே?  
+ ###  . மரக்கலங்கள் எங்கே?  
 
   
 
@@ -480,9 +466,7 @@ email: tamilputhakalayam@yahoo.com
 
   
 
-###
-
- 9. கடம்பர் சூழ்ச்சி  
+ ###  . கடம்பர் சூழ்ச்சி  
 
   
 
@@ -532,9 +516,7 @@ email: tamilputhakalayam@yahoo.com
 
   
 
-###
-
- 10. ஒரே ஒர் இரவு  
+ ###  0. ஒரே ஒர் இரவு  
 
   
 
@@ -580,9 +562,7 @@ email: tamilputhakalayam@yahoo.com
 
   
 
-###
-
- 11. அமைச்சரின் சிந்தனைகள்  
+ ###  1. அமைச்சரின் சிந்தனைகள்  
 
   
 
@@ -612,9 +592,7 @@ email: tamilputhakalayam@yahoo.com
 
   
 
-###
-
- 12. குமரன் திரும்புகிறான்  
+ ###  2. குமரன் திரும்புகிறான்  
 
   
 
@@ -684,9 +662,7 @@ email: tamilputhakalayam@yahoo.com
 
   
 
-###
-
- 13. ஒற்றன் ஒருவன்  
+ ###  3. ஒற்றன் ஒருவன்  
 
   
 
@@ -718,9 +694,7 @@ email: tamilputhakalayam@yahoo.com
 
   
 
-###
-
- 14. கடம்பன் ஏமாறினான்  
+ ###  4. கடம்பன் ஏமாறினான்  
 
   
 
@@ -764,9 +738,7 @@ email: tamilputhakalayam@yahoo.com
 
   
 
-###
-
- 15. நம்பியின் நாடகம்  
+ ###  5. நம்பியின் நாடகம்  
 
   
 
@@ -834,9 +806,7 @@ email: tamilputhakalayam@yahoo.com
 
   
 
-###
-
- 16. மீண்டும் வேளாவிக்கோ மாளிகை  
+ ###  6. மீண்டும் வேளாவிக்கோ மாளிகை  
 
   
 
@@ -888,9 +858,7 @@ email: tamilputhakalayam@yahoo.com
 
   
 
-###
-
- 17. அமுதவல்லியைத் தேடி..  
+ ###  7. அமுதவல்லியைத் தேடி..  
 
   
 
@@ -940,9 +908,7 @@ email: tamilputhakalayam@yahoo.com
 
   
 
-###
-
- 18. கடம்பர் மரக்கலங்களில்  
+ ###  8. கடம்பர் மரக்கலங்களில்  
 
   
 
@@ -1006,9 +972,7 @@ email: tamilputhakalayam@yahoo.com
 
   
 
-###
-
- 19. குமரனின் கோபம்  
+ ###  9. குமரனின் கோபம்  
 
   
 
@@ -1074,9 +1038,7 @@ email: tamilputhakalayam@yahoo.com
 
   
 
-###
-
- 20. மன்னர் வருகிறார்  
+ ###  0. மன்னர் வருகிறார்  
 
   
 
@@ -1128,9 +1090,7 @@ email: tamilputhakalayam@yahoo.com
 
   
 
-###
-
- 21. வெற்றி மங்கலம்  
+ ###  1. வெற்றி மங்கலம்  
 
   
 
@@ -1200,9 +1160,7 @@ email: tamilputhakalayam@yahoo.com
 
   
 
-###
-
- 22. படைத்தலைவனுக்குப் பரிசு  
+ ###  2. படைத்தலைவனுக்குப் பரிசு  
 
   
 

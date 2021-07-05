@@ -145,9 +145,7 @@ Printed on Double Crown White Printing Paper 10-9 kg.
 
   
 
-###
-
- 2. அதிகமானும் ஒளவையாரும்  
+ ###  . அதிகமானும் ஒளவையாரும்  
 
   
 
@@ -219,9 +217,7 @@ Printed on Double Crown White Printing Paper 10-9 kg.
 
   
 
-###
-
- 3. வீரமும் ஈகையும்  
+ ###  . வீரமும் ஈகையும்  
 
   
 
@@ -329,9 +325,7 @@ Printed on Double Crown White Printing Paper 10-9 kg.
 
   
 
-###
-
- 4. அமுதக் கனி  
+ ###  . அமுதக் கனி  
 
   
 
@@ -445,9 +439,7 @@ Printed on Double Crown White Printing Paper 10-9 kg.
 
   
 
-###
-
- 5. படர்ந்த புகழ்  
+ ###  . படர்ந்த புகழ்  
 
   
 
@@ -601,9 +593,7 @@ Printed on Double Crown White Printing Paper 10-9 kg.
 
   
 
-###
-
- 6. ஒளவையார் தாது  
+ ###  . ஒளவையார் தாது  
 
   
 
@@ -713,9 +703,7 @@ Printed on Double Crown White Printing Paper 10-9 kg.
 
   
 
-###
-
- 7. கோவலூர்ப் போரும் குமரன் பிறப்பும்  
+ ###  . கோவலூர்ப் போரும் குமரன் பிறப்பும்  
 
   
 
@@ -847,9 +835,7 @@ Printed on Double Crown White Printing Paper 10-9 kg.
 
   
 
-###
-
- 8. இயலும் இசையும்  
+ ###  . இயலும் இசையும்  
 
   
 
@@ -905,9 +891,7 @@ Printed on Double Crown White Printing Paper 10-9 kg.
 
   
 
-###
-
- 9. சேரமான் செய்த முடிவு  
+ ###  . சேரமான் செய்த முடிவு  
 
   
 
@@ -991,9 +975,7 @@ Printed on Double Crown White Printing Paper 10-9 kg.
 
   
 
-###
-
- 10. போரின் தொடக்கம்  
+ ###  0. போரின் தொடக்கம்  
 
   
 
@@ -1069,9 +1051,7 @@ Printed on Double Crown White Printing Paper 10-9 kg.
 
   
 
-###
-
- 11. முற்றுகை  
+ ###  1. முற்றுகை  
 
   
 
@@ -1191,9 +1171,7 @@ Printed on Double Crown White Printing Paper 10-9 kg.
 
   
 
-###
-
- 12. அந்தப்புர நிகழ்ச்சி  
+ ###  2. அந்தப்புர நிகழ்ச்சி  
 
   
 
@@ -1287,9 +1265,7 @@ Printed on Double Crown White Printing Paper 10-9 kg.
 
   
 
-###
-
- 13. வஞ்சமகள் செயல்  
+ ###  3. வஞ்சமகள் செயல்  
 
   
 
@@ -1429,9 +1405,7 @@ Printed on Double Crown White Printing Paper 10-9 kg.
 
   
 
-###
-
- 14. போர் மூளுதல்  
+ ###  4. போர் மூளுதல்  
 
   
 
@@ -1575,9 +1549,7 @@ Printed on Double Crown White Printing Paper 10-9 kg.
 
   
 
-###
-
- 15. முடிவு  
+ ###  5. முடிவு  
 
   
 

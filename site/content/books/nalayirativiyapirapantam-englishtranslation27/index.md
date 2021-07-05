@@ -41,9 +41,7 @@ Nālāyira Divya Prabhandam - third thousand pāsurams
 
   
 
-###
-
- 23. Thiruvāymozhi - Nammāzhvār (2791 –
+ ###  3. Thiruvāymozhi - Nammāzhvār (2791 –
 
  3892)  
 
@@ -15913,9 +15911,7 @@ SUBHAM - Nammāzhvare saraṇam.
 
   
 
-###
-
- 24. Rāmānujanutrandadi /Thiruvarangathamudanār (3893 -4000)  
+ ###  4. Rāmānujanutrandadi /Thiruvarangathamudanār (3893 -4000)  
 
   
 

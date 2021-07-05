@@ -228,9 +228,7 @@ Printed at Sakthi Printers Chennai-21.
 
   
 
-###
-
- 2. மனம் வெளுக்க.  
+ ###  . மனம் வெளுக்க.  
 
   
 
@@ -324,9 +322,7 @@ Printed at Sakthi Printers Chennai-21.
 
   
 
-###
-
- 3. மூக்கபிள்ளை வீட்டு விருந்து  
+ ###  . மூக்கபிள்ளை வீட்டு விருந்து  
 
   
 
@@ -494,9 +490,7 @@ Printed at Sakthi Printers Chennai-21.
 
   
 
-###
-
- 4. உள்ளூர் ஹீரோ  
+ ###  . உள்ளூர் ஹீரோ  
 
   
 
@@ -656,9 +650,7 @@ Printed at Sakthi Printers Chennai-21.
 
   
 
-###
-
- 5. மனம் செய்யும் வேலை!  
+ ###  . மனம் செய்யும் வேலை!  
 
   
 
@@ -752,9 +744,7 @@ Printed at Sakthi Printers Chennai-21.
 
   
 
-###
-
- 6. காதலுக்குத் தேவை  
+ ###  . காதலுக்குத் தேவை  
 
   
 
@@ -858,9 +848,7 @@ Printed at Sakthi Printers Chennai-21.
 
   
 
-###
-
- 7. நினைத்ததை முடிக்காதவர்  
+ ###  . நினைத்ததை முடிக்காதவர்  
 
   
 
@@ -952,9 +940,7 @@ Printed at Sakthi Printers Chennai-21.
 
   
 
-###
-
- 8. வானத்தை வெல்பவன்  
+ ###  . வானத்தை வெல்பவன்  
 
   
 
@@ -1030,9 +1016,7 @@ Printed at Sakthi Printers Chennai-21.
 
   
 
-###
-
- 9. ஊரும் ஒருத்தியும்  
+ ###  . ஊரும் ஒருத்தியும்  
 
   
 
@@ -1124,9 +1108,7 @@ Printed at Sakthi Printers Chennai-21.
 
   
 
-###
-
- 10. புது விழிப்பு  
+ ###  0. புது விழிப்பு  
 
   
 
@@ -1212,9 +1194,7 @@ Printed at Sakthi Printers Chennai-21.
 
   
 
-###
-
- 11. ஒரு முகம்  
+ ###  1. ஒரு முகம்  
 
   
 
@@ -1314,9 +1294,7 @@ Printed at Sakthi Printers Chennai-21.
 
   
 
-###
-
- 12. தோழி நல்ல தோழிதான்!  
+ ###  2. தோழி நல்ல தோழிதான்!  
 
   
 
@@ -1440,9 +1418,7 @@ Printed at Sakthi Printers Chennai-21.
 
   
 
-###
-
- 13. சொல்ல முடியாத அனுபவம்  
+ ###  3. சொல்ல முடியாத அனுபவம்  
 
   
 
@@ -1588,9 +1564,7 @@ Printed at Sakthi Printers Chennai-21.
 
   
 
-###
-
- 14. நண்பர்கள்  
+ ###  4. நண்பர்கள்  
 
   
 
@@ -1686,9 +1660,7 @@ Printed at Sakthi Printers Chennai-21.
 
   
 
-###
-
- 15. வாழ விரும்பியவள்  
+ ###  5. வாழ விரும்பியவள்  
 
   
 
@@ -1806,9 +1778,7 @@ Printed at Sakthi Printers Chennai-21.
 
   
 
-###
-
- 16. ஒரு காதல் கதை  
+ ###  6. ஒரு காதல் கதை  
 
   
 
@@ -1930,9 +1900,7 @@ Printed at Sakthi Printers Chennai-21.
 
   
 
-###
-
- 17. பேபி  
+ ###  7. பேபி  
 
   
 
@@ -2164,9 +2132,7 @@ Printed at Sakthi Printers Chennai-21.
 
   
 
-###
-
- 18. காதல் போயின்?  
+ ###  8. காதல் போயின்?  
 
   
 
@@ -2282,9 +2248,7 @@ Printed at Sakthi Printers Chennai-21.
 
   
 
-###
-
- 19. கொடுத்து வைக்காதவர்  
+ ###  9. கொடுத்து வைக்காதவர்  
 
   
 
@@ -2354,9 +2318,7 @@ Printed at Sakthi Printers Chennai-21.
 
   
 
-###
-
- 20. வெயிலும் மழையும்  
+ ###  0. வெயிலும் மழையும்  
 
   
 
@@ -2492,9 +2454,7 @@ Printed at Sakthi Printers Chennai-21.
 
   
 
-###
-
- 21. யாரைக் காதலித்தான்?  
+ ###  1. யாரைக் காதலித்தான்?  
 
   
 

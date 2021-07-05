@@ -63,9 +63,7 @@ Nālāyira Divya Prabhandam - third thousand pāsurams
 
   
 
-###
-
- 13. Mudal Thiruvandādi.- Poyhai Azhvar (2082 –
+ ###  3. Mudal Thiruvandādi.- Poyhai Azhvar (2082 –
 
  2181)  
 
@@ -1219,9 +1217,7 @@ Mudal Thiruvanthadi ends.
 
   
 
-###
-
- 14. Second Thiruvanthaathi. Buthaththāzhvar (2182 -2281)  
+ ###  4. Second Thiruvanthaathi. Buthaththāzhvar (2182 -2281)  
 
   
 
@@ -2295,9 +2291,7 @@ Bhuththāzhvār pasurams end
 
   
 
-###
-
- 15. Third Thiruvandādi – Peyāzhvār (2282 –
+ ###  5. Third Thiruvandādi – Peyāzhvār (2282 –
 
  2381)  
 
@@ -3335,9 +3329,7 @@ as he embraces Lakshmi who is on a flower dripping with honey.
 
   
 
-###
-
- 16. Thirumazhisai Alvar - Nāmuhan Thiruvandāthi. (2382 –
+ ###  6. Thirumazhisai Alvar - Nāmuhan Thiruvandāthi. (2382 –
 
  2477)  
 
@@ -4383,9 +4375,7 @@ Nanmuhan Thiruvandathi ends.
 
   
 
-###
-
- 17. Thiruvirutham. - Nammāzhvar (2478 -2577)  
+ ###  7. Thiruvirutham. - Nammāzhvar (2478 -2577)  
 
   
 
@@ -5911,9 +5901,7 @@ Thiruvirutham mutrum. Nammaazhvar Thiruvaḍikaḷee saraṇam
 
   
 
-###
-
- 18. Nammaazhvar - Thiruvāsiriyam (2578 -2584)  
+ ###  8. Nammaazhvar - Thiruvāsiriyam (2578 -2584)  
 
   
 
@@ -6085,9 +6073,7 @@ Thiruvāsiriyam. murrum.
 
   
 
-###
-
- 19. Nammāzhvar’s Periya Thiruvanthādi. (2585 –
+ ###  9. Nammāzhvar’s Periya Thiruvanthādi. (2585 –
 
  2671)  
 
@@ -7127,9 +7113,7 @@ SUBHAM
 
   
 
-###
-
- 20. Thirumangai Azhvar - Thiruvezukuṛṛirukkai (2672)  
+ ###  0. Thirumangai Azhvar - Thiruvezukuṛṛirukkai (2672)  
 
   
 
@@ -7265,9 +7249,7 @@ SUBHAM Thiruvezhulirrirukkai ends
 
   
 
-###
-
- 21. Siriya thirumaḍal - Thirumangaiyāzhvār (2673 to
+ ###  1. Siriya thirumaḍal - Thirumangaiyāzhvār (2673 to
 
  2712)  
 
@@ -7699,9 +7681,7 @@ SUBHAM
 
   
 
-###
-
- 22. Periyathirumaḍal - Thirumangai (2713 -2790)  
+ ###  2. Periyathirumaḍal - Thirumangai (2713 -2790)  
 
   
 

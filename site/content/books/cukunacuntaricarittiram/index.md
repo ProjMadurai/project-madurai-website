@@ -393,9 +393,7 @@ I refrain from saying more in this preface, bearing in mind the maxim, 'That Sil
 
   
 
-###
-
- 2. மதுரேசனும் புவனேந்திரனும்  
+ ###  . மதுரேசனும் புவனேந்திரனும்  
 
   
 
@@ -429,9 +427,7 @@ I refrain from saying more in this preface, bearing in mind the maxim, 'That Sil
 
   
 
-###
-
- 3. பொறாமையும் சூழ்ச்சியும்  
+ ###  . பொறாமையும் சூழ்ச்சியும்  
 
   
 
@@ -475,9 +471,7 @@ I refrain from saying more in this preface, bearing in mind the maxim, 'That Sil
 
   
 
-###
-
- 4. சூழ்ச்சியும் கலக்கமும்  
+ ###  . சூழ்ச்சியும் கலக்கமும்  
 
   
 
@@ -519,9 +513,7 @@ I refrain from saying more in this preface, bearing in mind the maxim, 'That Sil
 
   
 
-###
-
- 5. புறங்கூறலும் கதைகளும்  
+ ###  . புறங்கூறலும் கதைகளும்  
 
   
 
@@ -569,9 +561,7 @@ I refrain from saying more in this preface, bearing in mind the maxim, 'That Sil
 
   
 
-###
-
- 6. புன்மையும் பொய்ம்மையும்  
+ ###  . புன்மையும் பொய்ம்மையும்  
 
   
 
@@ -627,9 +617,7 @@ I refrain from saying more in this preface, bearing in mind the maxim, 'That Sil
 
   
 
-###
-
- 7. உடல்நலம் ஓம்பல்  
+ ###  . உடல்நலம் ஓம்பல்  
 
   
 
@@ -683,9 +671,7 @@ I refrain from saying more in this preface, bearing in mind the maxim, 'That Sil
 
   
 
-###
-
- 8. புவனேந்திரன் பொன் மொழிகள்  
+ ###  . புவனேந்திரன் பொன் மொழிகள்  
 
   
 
@@ -711,9 +697,7 @@ I refrain from saying more in this preface, bearing in mind the maxim, 'That Sil
 
   
 
-###
-
- 9. திருமணப் பேச்சுகள்  
+ ###  . திருமணப் பேச்சுகள்  
 
   
 
@@ -757,9 +741,7 @@ I refrain from saying more in this preface, bearing in mind the maxim, 'That Sil
 
   
 
-###
-
- 10. எதிர்பாராத நிகழ்ச்சிகள்  
+ ###  0. எதிர்பாராத நிகழ்ச்சிகள்  
 
   
 
@@ -791,9 +773,7 @@ I refrain from saying more in this preface, bearing in mind the maxim, 'That Sil
 
   
 
-###
-
- 11. மண மறுப்பும் சிறை இருப்பும்  
+ ###  1. மண மறுப்பும் சிறை இருப்பும்  
 
   
 
@@ -825,9 +805,7 @@ I refrain from saying more in this preface, bearing in mind the maxim, 'That Sil
 
   
 
-###
-
- 12. பழியும் சூழ்ச்சியும்  
+ ###  2. பழியும் சூழ்ச்சியும்  
 
   
 
@@ -857,9 +835,7 @@ I refrain from saying more in this preface, bearing in mind the maxim, 'That Sil
 
   
 
-###
-
- 13. முயற்சியும் சூழ்ச்சியும்  
+ ###  3. முயற்சியும் சூழ்ச்சியும்  
 
   
 
@@ -895,9 +871,7 @@ I refrain from saying more in this preface, bearing in mind the maxim, 'That Sil
 
   
 
-###
-
- 14. சுகுணசுந்தரியின் சொற்பொழிவு  
+ ###  4. சுகுணசுந்தரியின் சொற்பொழிவு  
 
   
 
@@ -991,9 +965,7 @@ I refrain from saying more in this preface, bearing in mind the maxim, 'That Sil
 
   
 
-###
-
- 15. சூழ்ச்சியின் வெற்றி  
+ ###  5. சூழ்ச்சியின் வெற்றி  
 
   
 
@@ -1041,9 +1013,7 @@ I refrain from saying more in this preface, bearing in mind the maxim, 'That Sil
 
   
 
-###
-
- 16. இன்பமும் துன்பமும்  
+ ###  6. இன்பமும் துன்பமும்  
 
   
 
@@ -1079,9 +1049,7 @@ I refrain from saying more in this preface, bearing in mind the maxim, 'That Sil
 
   
 
-###
-
- 17. துன்பம் வந்தால் தொடர்ந்துவரும்  
+ ###  7. துன்பம் வந்தால் தொடர்ந்துவரும்  
 
   
 
@@ -1109,9 +1077,7 @@ I refrain from saying more in this preface, bearing in mind the maxim, 'That Sil
 
   
 
-###
-
- 18. பெருமக்கள் குழுவின் முடிவு  
+ ###  8. பெருமக்கள் குழுவின் முடிவு  
 
   
 
@@ -1135,9 +1101,7 @@ I refrain from saying more in this preface, bearing in mind the maxim, 'That Sil
 
   
 
-###
-
- 19. போரும் வெற்றியும்  
+ ###  9. போரும் வெற்றியும்  
 
   
 
@@ -1171,9 +1135,7 @@ I refrain from saying more in this preface, bearing in mind the maxim, 'That Sil
 
   
 
-###
-
- 20. ஆரிய நாட்டு அரசர்  
+ ###  0. ஆரிய நாட்டு அரசர்  
 
   
 
@@ -1209,9 +1171,7 @@ I refrain from saying more in this preface, bearing in mind the maxim, 'That Sil
 
   
 
-###
-
- 21. முடிசூட்டு விழாவும் திருமணமும்  
+ ###  1. முடிசூட்டு விழாவும் திருமணமும்  
 
   
 

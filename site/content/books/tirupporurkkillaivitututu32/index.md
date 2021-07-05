@@ -81,9 +81,7 @@ You are welcome to freely distribute this file, provided this header part is kep
 
   
 
-###
-
- 1. நேரிசை வெண்பாக்கள்  
+ ###  . நேரிசை வெண்பாக்கள்  
 
   
 
@@ -167,9 +165,7 @@ You are welcome to freely distribute this file, provided this header part is kep
 
   
 
-###
-
- 2. ஆசிரிய விருத்தங்கள்  
+ ###  . ஆசிரிய விருத்தங்கள்  
 
   
 
@@ -253,9 +249,7 @@ VIII /#97, பக். 50-51 (AR /#
 
   
 
-###
-
- 3. கட்டளைக் கலித்துறைகள்  
+ ###  . கட்டளைக் கலித்துறைகள்  
 
   
 

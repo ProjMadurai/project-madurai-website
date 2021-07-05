@@ -195,9 +195,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
   
 
-###
-
- 2. கடை திறப்பு  
+ ###  . கடை திறப்பு  
 
   
 
@@ -855,9 +853,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
   
 
-###
-
- 4. கோயில் பாடியது  
+ ###  . கோயில் பாடியது  
 
   
 
@@ -1071,9 +1067,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
   
 
-###
-
- 5. தேவியைப் பாடியது  
+ ###  . தேவியைப் பாடியது  
 
   
 
@@ -1223,9 +1217,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
   
 
-###
-
- 6. பேய்களைப் பாடியது  
+ ###  . பேய்களைப் பாடியது  
 
   
 
@@ -1383,9 +1375,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
   
 
-###
-
- 7. இந்திர சாலம்  
+ ###  . இந்திர சாலம்  
 
   
 
@@ -1587,9 +1577,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
   
 
-###
-
- 8. இராச பாரம்பரியம்  
+ ###  . இராச பாரம்பரியம்  
 
   
 
@@ -1937,9 +1925,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
   
 
-###
-
- 9. பேய் முறைப்பாடு  
+ ###  . பேய் முறைப்பாடு  
 
   
 
@@ -2113,9 +2099,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
   
 
-###
-
- 10. அவதாரம்  
+ ###  0. அவதாரம்  
 
   
 
@@ -2823,9 +2807,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
   
 
-###
-
- 11.காளிக்குக் கூளி கூறியது  
+ ###  1.காளிக்குக் கூளி கூறியது  
 
   
 
@@ -4163,9 +4145,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
   
 
-###
-
- 13. களம் பாடியது  
+ ###  3. களம் பாடியது  
 
   
 

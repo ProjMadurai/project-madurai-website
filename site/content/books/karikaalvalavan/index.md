@@ -80,9 +80,7 @@ Printed on Double Crown White Printing Paper-10. 9 Kg.
 
   
 
-###
-
- 1. வளவன் பிறந்தான்  
+ ###  . வளவன் பிறந்தான்  
 
   
 
@@ -172,9 +170,7 @@ Printed on Double Crown White Printing Paper-10. 9 Kg.
 
   
 
-###
-
- 2. கரிகாலன்  
+ ###  . கரிகாலன்  
 
   
 
@@ -278,9 +274,7 @@ Printed on Double Crown White Printing Paper-10. 9 Kg.
 
   
 
-###
-
- 3. ஏற்றிய விளக்கு  
+ ###  . ஏற்றிய விளக்கு  
 
   
 
@@ -346,9 +340,7 @@ Printed on Double Crown White Printing Paper-10. 9 Kg.
 
   
 
-###
-
- 4. வெண்ணிப் போர்  
+ ###  . வெண்ணிப் போர்  
 
   
 
@@ -406,9 +398,7 @@ Printed on Double Crown White Printing Paper-10. 9 Kg.
 
   
 
-###
-
- 5. இமயத்தில் புலி  
+ ###  . இமயத்தில் புலி  
 
   
 
@@ -450,9 +440,7 @@ Printed on Double Crown White Printing Paper-10. 9 Kg.
 
   
 
-###
-
- 6. உறையூரின் தோற்றம்  
+ ###  . உறையூரின் தோற்றம்  
 
   
 
@@ -494,9 +482,7 @@ Printed on Double Crown White Printing Paper-10. 9 Kg.
 
   
 
-###
-
- 7. கிழக் கோலம்  
+ ###  . கிழக் கோலம்  
 
   
 
@@ -538,9 +524,7 @@ Printed on Double Crown White Printing Paper-10. 9 Kg.
 
   
 
-###
-
- 8. நாட்டு வளம் பாடிய நங்கை.  
+ ###  . நாட்டு வளம் பாடிய நங்கை.  
 
   
 
@@ -624,9 +608,7 @@ Printed on Double Crown White Printing Paper-10. 9 Kg.
 
   
 
-###
-
- 9. பாட்டும் பரிசும்  
+ ###  . பாட்டும் பரிசும்  
 
   
 
@@ -702,9 +684,7 @@ Printed on Double Crown White Printing Paper-10. 9 Kg.
 
   
 
-###
-
- 10. இழந்து பெற்ற காதலன்.  
+ ###  0. இழந்து பெற்ற காதலன்.  
 
   
 

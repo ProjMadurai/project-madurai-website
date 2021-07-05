@@ -106,9 +106,7 @@ The quality of the scanned image version of this literary work of
 
   
 
-###
-
- 1. உறுப்பியல்  
+ ###  . உறுப்பியல்  
 
   
 

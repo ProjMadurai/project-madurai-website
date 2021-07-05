@@ -43,9 +43,7 @@ Nālāyira Divya Prabhandam - second thousand pāsurams
 
   
 
-###
-
- 10. Periya Thirumozhi, Thirumangai Azhvar (pāsurams
+ ###  0. Periya Thirumozhi, Thirumangai Azhvar (pāsurams
 
  948 -2031)  
 
@@ -17101,9 +17099,7 @@ they will never experience the results of their karma. (1083)
 
   
 
-###
-
- 11. Thirukkurundānḍagam -- Thirumangaiyāzhvār (2032 -2051)  
+ ###  1. Thirukkurundānḍagam -- Thirumangaiyāzhvār (2032 -2051)  
 
   
 
@@ -17383,9 +17379,7 @@ they will go to the bright sky and rule there.
 
   
 
-###
-
- 12. Thiruneḍunthāṇḍagam - Thirumangaiyāzhvār (2052 –
+ ###  2. Thiruneḍunthāṇḍagam - Thirumangaiyāzhvār (2052 –
 
  2081)  
 

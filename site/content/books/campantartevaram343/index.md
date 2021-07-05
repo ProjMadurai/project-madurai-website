@@ -21,9 +21,7 @@ genres:
 
 [3.001]()கோயில்(1-11)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3001)[3.002]()திருப்பூந்தராய்(12-22)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3002)[3.003]()திருப்புகலி(23-33)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3003)[3.004]()திருஆவடுதுறை(34-44)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3004)[3.005]()திருப்பூந்தராய்(45-55)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3005)[3.006]()திருக்கொள்ளம்பூதூர்(56-66)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3006)[3.007]()திருப்புகலி(67-77)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3007)[3.008]()திருக்கடவூர்வீரட்டம்(78-88)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3008)[3.009]()திருவீழிமிழலை(89-99)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3009)[3.010]()திருஇராமேச்சுரம்(100-109)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3010)[3.011]()திருப்புனவாயில்(110-120)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3011)[3.012]()திருக்கோட்டாறு(121-131)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3012)[3.013]()திருப்பூந்தராய்(132-142)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3013)[3.014]()திருப்பைஞ்ஞீலி(143-153)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3014)[3.015]()திருவெண்காடு(154-164)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3015)[3.016]()திருக்கொள்ளிக்காடு(165-175)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3016)[3.017]()திருவிசயமங்கை(176-186)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3017)[3.018]()திருவைகல்மாடக்கோயில்(187-197)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3018)[3.019]()திருஅம்பர்ப்பெருந்திருக்கோயில்(198-208)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3019)[3.020]()திருப்பூவணம்(209-219)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3020)[3.021]()திருக்கருக்குடி(220-230)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3021)[3.022]()திருப்பஞ்சாக்கரப்பதிகம்(231-241)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3022)[3.023]()திருவிற்கோலம்(242-251)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3023)[3.024]()திருக்கழுமலம்(252-262)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3024)[3.025]()திருந்துதேவன்குடி(263-273)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3025)[3.026]()திருக்கானப்பேர்(274-284)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3026)[3.027]()திருச்சக்கரப்பள்ளி(285-295)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3027)[3.028]()திருமழபாடி(296-306)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3028)[3.029]()மேலைத்திருக்காட்டுப்பள்ளி(307-317)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3029)[3.030]()திருஅரதைப்பெரும்பாழி(318-328)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3030)[3.031]()திருமயேந்திரப்பள்ளி(329-339)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3031)[3.032]()திருஏடகம்(340-349)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3032)[3.033]()திருஉசாத்தானம்(350-358)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3033)[3.034]()திருமுதுகுன்றம்(359-369)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3034)[3.035]()திருத்தென்குடித்திட்டை(370-380)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3035)[3.036]()திருக்காளத்தி(381-389)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3036)[3.037]()திருப்பிரமபுரம்(390-399)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3037)[3.038]()திருக்கண்டியூர்வீரட்டம்(400-410)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3038)[3.039]()திருஆலவாய்(411-421)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3039)[3.040]()தனித்திருவிருக்குக்குறள்(422-432)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3040)[3.041]()திருவேகம்பம்(433-443)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3041)[3.042]()திருச்சிற்றேமம்(444-454)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3042)[3.043]()சீகாழி(455-465)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3043)[3.044]()திருக்கழிப்பாலை(466-476)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3044)[3.045]()திருவாரூர்(477-487)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3045)[3.046]()திருக்கருகாவூர்(488-497)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3046)[3.047]()திருஆலவாய்(498-508)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3047)[3.048]()திருமழபாடி(509-519)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3048)[3.049]()நமச்சிவாயத்திருப்பதிகம்(520-530)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3049)[3.050]()திருத்தண்டலைநீணெறி(531-538)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3050)[3.051]()திருஆலவாய்(539-549)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3051)[3.052]()திருஆலவாய் - திருவிராகம்(550-560)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3052)[3.053]()திருவானைக்கா - திருவிராகம்(561-571)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3053)[3.054]()திருப்பாசுரம்(572-583)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3054)[3.055]()திருவான்மியூர்(584-593)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3055)[3.056]()திருப்பிரமபுரம்(594-604)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3056)[3.057]()திருவொற்றியூர்(605-615)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3057)[3.058]()திருச்சாத்தமங்கை(616-626)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3058)[3.059]()திருக்குடமூக்கு(627-637)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3059)[3.060]()திருவக்கரை(638-648)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3060)[3.061]()திருவெண்டுறை(649-659)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3061)[3.062]()திருப்பனந்தாள்(660-670)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3062)[3.063]()திருச்செங்காட்டங்குடி(671-681)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3063)[3.064]()திருப்பெருவேளூர்(682-691)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3064)[3.065]()திருக்கச்சிநெறிக்காரைக்காடு(692-702)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3065)[3.066]()திருவேட்டக்குடி(703-713)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0173.html#dt3066)  [  
 
-###
-
- 3.001. கோயில்  
+ ###  .001. கோயில்  
 
   
 
@@ -169,9 +167,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  002 திருப்பூந்தராய்  
 
@@ -321,9 +317,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  003 திருப்புகலி  
 
@@ -475,9 +469,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  004 திருவாவடுதுறை  
 
@@ -629,9 +621,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  005 திருப்பூந்தராய்  
 
@@ -739,9 +729,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  006 திருக்கொள்ளம்பூதூர்  
 
@@ -855,9 +843,7 @@ genres:
 
 [  
 
-###
-
- 3.007 திருப்புகலி  
+ ###  .007 திருப்புகலி  
 
   
 
@@ -961,9 +947,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  008 திருக்கடவூர்வீரட்டம்  
 
@@ -1069,9 +1053,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  009 திருவீழிமிழலை  
 
@@ -1177,9 +1159,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  010 திருஇராமேச்சுரம்  
 
@@ -1295,9 +1275,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  011 திருப்புனவாயில்  
 
@@ -1427,9 +1405,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  012 திருக்கோட்டாறு  
 
@@ -1559,9 +1535,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  013 திருப்பூந்தராய்  
 
@@ -1687,9 +1661,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  014 திருப்பைஞ்ஞீலி  
 
@@ -1817,9 +1789,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  015 திருவெண்காடு  
 
@@ -1945,9 +1915,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  016 திருக்கொள்ளிக்காடு  
 
@@ -2075,9 +2043,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  017 திருவிசயமங்கை  
 
@@ -2205,9 +2171,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  018 திருவைகன்மாடக்கோயில்  
 
@@ -2335,9 +2299,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  019 திருஅம்பர்ப்பெருந்திருக்கோயில்  
 
@@ -2465,9 +2427,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  020 திருப்பூவணம்  
 
@@ -2593,9 +2553,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  021 திருக்கருக்குடி  
 
@@ -2723,9 +2681,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  022 திருப்பஞ்சாக்கரப்பதிகம்  
 
@@ -2849,9 +2805,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  023 திருவிற்கோலம்  
 
@@ -2971,9 +2925,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  024 திருக்கழுமலம்  
 
@@ -3097,9 +3049,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  025 திருந்துதேவன்குடி  
 
@@ -3227,9 +3177,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  026 திருக்கானப்பேர்  
 
@@ -3359,9 +3307,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  027 திருச்சக்கரப்பள்ளி  
 
@@ -3495,9 +3441,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  028 திருமழபாடி  
 
@@ -3621,9 +3565,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  029 மேலைத்திருக்காட்டுப்பள்ளி  
 
@@ -3753,9 +3695,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  030 திருஅரதைப்பெரும்பாழி  
 
@@ -3885,9 +3825,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  031 திருமயேந்திரப்பள்ளி  
 
@@ -4015,9 +3953,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  032 திருஏடகம்  
 
@@ -4131,9 +4067,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  033 திருஉசாத்தானம்  
 
@@ -4241,9 +4175,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  034 திருமுதுகுன்றம்  
 
@@ -4367,9 +4299,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  035 திருத்தென்குடித்திட்டை  
 
@@ -4497,9 +4427,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  036 திருக்காளத்தி  
 
@@ -4603,9 +4531,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  037 திருப்பிரமபுரம்  
 
@@ -4799,9 +4725,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  038 திருக்கண்டியூர்வீரட்டம் - வினாவுரை  
 
@@ -5019,9 +4943,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  039 திருஆலவாய்  
 
@@ -5245,9 +5167,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  040 தனித்திருவிருக்குக்குறள்  
 
@@ -5333,9 +5253,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  041 திருவேகம்பம் - திருவிருக்குக்குறள்  
 
@@ -5415,9 +5333,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  042 திருச்சிற்றேமம்  
 
@@ -5545,9 +5461,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  043 சீகாழி  
 
@@ -5671,9 +5585,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  044 திருக்கழிப்பாலை  
 
@@ -5797,9 +5709,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  045 திருவாரூர்  
 
@@ -5923,9 +5833,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  046 திருக்கருகாவூர்  
 
@@ -6043,9 +5951,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  047 திருஆலவாய்  
 
@@ -6169,9 +6075,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  048 திருமழபாடி  
 
@@ -6295,9 +6199,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  049 நமச்சிவாயத் திருப்பதிகம்  
 
@@ -6421,9 +6323,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  050 திருத்தண்டலைநீணெறி  
 
@@ -6521,9 +6421,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  051 திருஆலவாய்  
 
@@ -6647,9 +6545,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  052 திருஆலவாய் - திருவிராகம்  
 
@@ -6773,9 +6669,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  053 திருவானைக்கா - திருவிராகம்  
 
@@ -6899,9 +6793,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  054 திருப்பாசுரம்  
 
@@ -7035,9 +6927,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  055 திருவான்மியூர்  
 
@@ -7151,9 +7041,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  056 திருப்பிரமபுரம்  
 
@@ -7277,9 +7165,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  057 திருவொற்றியூர்  
 
@@ -7407,9 +7293,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  058 திருச்சாத்தமங்கை  
 
@@ -7539,9 +7423,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  059 திருக்குடமூக்கு  
 
@@ -7669,9 +7551,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  060 திருவக்கரை  
 
@@ -7799,9 +7679,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  061 திருவெண்டுறை  
 
@@ -7929,9 +7807,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  062 திருப்பனந்தாள்  
 
@@ -8059,9 +7935,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  063 திருச்செங்காட்டங்குடி  
 
@@ -8175,9 +8049,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  064 திருப்பெருவேளூர்  
 
@@ -8305,9 +8177,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  065 திருக்கச்சிநெறிக்காரைக்காடு  
 
@@ -8435,9 +8305,7 @@ genres:
 
 [  
 
-###
-
- 3.
+ ###  .
 
  066 திருவேட்டக்குடி  
 

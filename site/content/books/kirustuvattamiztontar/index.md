@@ -219,9 +219,7 @@ Constantine Joseph Beschi (1680 -1747)
 
   
 
-###
-
- 2. போப்பையர்  
+ ###  . போப்பையர்  
 
 George Uglow Pope (1820 -1908)  
 
@@ -313,9 +311,7 @@ George Uglow Pope (1820 -1908)
 
   
 
-###
-
- 3. கால்டுவெல் ஐயர்  
+ ###  . கால்டுவெல் ஐயர்  
 
 Robert Caldwell (1814-1891)  
 
@@ -439,9 +435,7 @@ Robert Caldwell (1814-1891)
 
   
 
-###
-
- 4. எல்லீசர்  
+ ###  . எல்லீசர்  
 
 Francis Whyte Ellis (1777–1819)  
 
@@ -545,9 +539,7 @@ Francis Whyte Ellis (1777–1819)
 
   
 
-###
-
- 5. ரேனியஸ் ஐயர்  
+ ###  . ரேனியஸ் ஐயர்  
 
 Carl Theophilus Ewald Rhenius (1790-1838)  
 
@@ -599,9 +591,7 @@ Carl Theophilus Ewald Rhenius (1790-1838)
 
   
 
-###
-
- 6. வேதநாயகம் பிள்ளை  
+ ###  . வேதநாயகம் பிள்ளை  
 
 Samuel Vedanayagam Pillai (1826–1889)  
 
@@ -729,9 +719,7 @@ Samuel Vedanayagam Pillai (1826–1889)
 
   
 
-###
-
- 7. H. A. கிருஷ்ண பிள்ளை[1]  
+ ###  . H. A. கிருஷ்ண பிள்ளை[1]  
 
 Henry Alfred Krishnapillai (1827–1900)  
 
@@ -803,9 +791,7 @@ Henry Alfred Krishnapillai (1827–1900)
 
   
 
-###
-
- 8. வேதநாயக சாஸ்திரியார்[1]  
+ ###  . வேதநாயக சாஸ்திரியார்[1]  
 
 Vedanayagam Sastriyar (1774 -1864)  
 
@@ -929,9 +915,7 @@ Vedanayagam Sastriyar (1774 -1864)
 
   
 
-###
-
- 9. அகராதி ஆசிரியர்  
+ ###  . அகராதி ஆசிரியர்  
 
   
 

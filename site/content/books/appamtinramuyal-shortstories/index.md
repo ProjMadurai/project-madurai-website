@@ -154,9 +154,7 @@ Subject : Ten stories For Children each story having a hare as its Hero
 
   
 
-###
-
- 1. அப்பம் தின்ற முயல்  
+ ###  . அப்பம் தின்ற முயல்  
 
   
 
@@ -204,9 +202,7 @@ Subject : Ten stories For Children each story having a hare as its Hero
 
   
 
-###
-
- 2. ஓநாய் வயிற்றில் ஒரு குட்டி முயல்  
+ ###  . ஓநாய் வயிற்றில் ஒரு குட்டி முயல்  
 
   
 
@@ -246,9 +242,7 @@ Subject : Ten stories For Children each story having a hare as its Hero
 
   
 
-###
-
- 3. பள்ளிக்கூடத்தில் முயல் குட்டிகள்  
+ ###  . பள்ளிக்கூடத்தில் முயல் குட்டிகள்  
 
   
 
@@ -302,9 +296,7 @@ Subject : Ten stories For Children each story having a hare as its Hero
 
   
 
-###
-
- 4. மரக் கிளையில் ஒரு முயல் குட்டி  
+ ###  . மரக் கிளையில் ஒரு முயல் குட்டி  
 
   
 
@@ -350,9 +342,7 @@ Subject : Ten stories For Children each story having a hare as its Hero
 
   
 
-###
-
- 5. பட்டணத்துக்குச் சென்ற குட்டி முயல்கள்  
+ ###  . பட்டணத்துக்குச் சென்ற குட்டி முயல்கள்  
 
   
 
@@ -438,9 +428,7 @@ Subject : Ten stories For Children each story having a hare as its Hero
 
   
 
-###
-
- 6. ஒரு முயல் குட்டி சாபம் போட்டது  
+ ###  . ஒரு முயல் குட்டி சாபம் போட்டது  
 
   
 
@@ -484,9 +472,7 @@ Subject : Ten stories For Children each story having a hare as its Hero
 
   
 
-###
-
- 7. பந்தயத்தில் வெள்ளை முயல்  
+ ###  . பந்தயத்தில் வெள்ளை முயல்  
 
   
 
@@ -586,9 +572,7 @@ Subject : Ten stories For Children each story having a hare as its Hero
 
   
 
-###
-
- 8. பகைவென்ற சிறு முயல்  
+ ###  . பகைவென்ற சிறு முயல்  
 
   
 
@@ -690,9 +674,7 @@ Subject : Ten stories For Children each story having a hare as its Hero
 
   
 
-###
-
- 9. சின்ன முயலும் சிங்க அரசனும்  
+ ###  . சின்ன முயலும் சிங்க அரசனும்  
 
   
 
@@ -852,9 +834,7 @@ Subject : Ten stories For Children each story having a hare as its Hero
 
   
 
-###
-
- 10. இரங்கூன் முயலும் யானை வேட்டையும்  
+ ###  0. இரங்கூன் முயலும் யானை வேட்டையும்  
 
   
 

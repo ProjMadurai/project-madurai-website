@@ -326,9 +326,7 @@ Marquis De Barrique Fontainieu
 
   
 
-###
-
- 2. மணிமேகலையும் மும்மணியும்  
+ ###  . மணிமேகலையும் மும்மணியும்  
 
   
 
@@ -424,9 +422,7 @@ Marquis De Barrique Fontainieu
 
   
 
-###
-
- 3. செண்டலங்காரர்  
+ ###  . செண்டலங்காரர்  
 
   
 
@@ -490,9 +486,7 @@ Marquis De Barrique Fontainieu
 
   
 
-###
-
- 4. 'இடையன் எறிந்த மரம்'  
+ ###  . 'இடையன் எறிந்த மரம்'  
 
   
 
@@ -582,9 +576,7 @@ Marquis De Barrique Fontainieu
 
   
 
-###
-
- 5. மாவிந்த புராணம்  
+ ###  . மாவிந்த புராணம்  
 
   
 
@@ -668,9 +660,7 @@ Marquis De Barrique Fontainieu
 
   
 
-###
-
- 6. உத்தம சம்பாவனை  
+ ###  . உத்தம சம்பாவனை  
 
   
 
@@ -762,9 +752,7 @@ Marquis De Barrique Fontainieu
 
   
 
-###
-
- 7. "அந்தத் தொடிசு"  
+ ###  . "அந்தத் தொடிசு"  
 
   
 
@@ -822,9 +810,7 @@ Marquis De Barrique Fontainieu
 
   
 
-###
-
- 8. 'அடுத்த குறள்'  
+ ###  . 'அடுத்த குறள்'  
 
   
 
@@ -898,9 +884,7 @@ Marquis De Barrique Fontainieu
 
   
 
-###
-
- 9. மணி ஐயர்  
+ ###  . மணி ஐயர்  
 
   
 
@@ -1174,9 +1158,7 @@ Marquis De Barrique Fontainieu
 
   
 
-###
-
- 10. வி. கிருஷ்ணசாமி ஐயர்  
+ ###  0. வி. கிருஷ்ணசாமி ஐயர்  
 
   
 
@@ -1382,9 +1364,7 @@ Marquis De Barrique Fontainieu
 
   
 
-###
-
- 11. பெற்ற மனம்  
+ ###  1. பெற்ற மனம்  
 
   
 
@@ -1424,9 +1404,7 @@ Marquis De Barrique Fontainieu
 
   
 
-###
-
- 12. மல்லரை வென்ற‌ மாங்குடியார்  
+ ###  2. மல்லரை வென்ற‌ மாங்குடியார்  
 
   
 
@@ -1588,9 +1566,7 @@ Marquis De Barrique Fontainieu
 
   
 
-###
-
- 13. மன்னார்சாமி  
+ ###  3. மன்னார்சாமி  
 
   
 
@@ -1662,9 +1638,7 @@ Marquis De Barrique Fontainieu
 
   
 
-###
-
- 14. ஆவலும் அதிர்ஷ்டமும்  
+ ###  4. ஆவலும் அதிர்ஷ்டமும்  
 
   
 
@@ -1726,9 +1700,7 @@ Marquis De Barrique Fontainieu
 
   
 
-###
-
- 15. பெரிய திருக்குன்றம் சுப்பராமையர்  
+ ###  5. பெரிய திருக்குன்றம் சுப்பராமையர்  
 
   
 
@@ -1794,9 +1766,7 @@ Marquis De Barrique Fontainieu
 
   
 
-###
-
- 16. "கிர்ர்ர்ரனி"  
+ ###  6. "கிர்ர்ர்ரனி"  
 
   
 
@@ -1846,9 +1816,7 @@ Marquis De Barrique Fontainieu
 
   
 
-###
-
- 17. அன்னமும் சொன்னமும்  
+ ###  7. அன்னமும் சொன்னமும்  
 
   
 
@@ -1948,9 +1916,7 @@ Marquis De Barrique Fontainieu
 
   
 
-###
-
- 18. பூசைத் தாயார்  
+ ###  8. பூசைத் தாயார்  
 
   
 
@@ -2042,9 +2008,7 @@ Marquis De Barrique Fontainieu
 
   
 
-###
-
- 19. நாயகர் மீட்சி  
+ ###  9. நாயகர் மீட்சி  
 
   
 
@@ -2194,9 +2158,7 @@ Marquis De Barrique Fontainieu
 
   
 
-###
-
- 20. பொன்னம்பலம் பிள்ளையின் திருப்பணி  
+ ###  0. பொன்னம்பலம் பிள்ளையின் திருப்பணி  
 
   
 
@@ -2306,9 +2268,7 @@ Marquis De Barrique Fontainieu
 
   
 
-###
-
- 21. "எங்கள் பாவம்!"  
+ ###  1. "எங்கள் பாவம்!"  
 
   
 
@@ -2380,9 +2340,7 @@ Marquis De Barrique Fontainieu
 
   
 
-###
-
- 22. ஒருவன் தானா?  
+ ###  2. ஒருவன் தானா?  
 
   
 
@@ -2442,9 +2400,7 @@ Marquis De Barrique Fontainieu
 
   
 
-###
-
- 23. உயிர் மீட்சி  
+ ###  3. உயிர் மீட்சி  
 
   
 
@@ -2500,9 +2456,7 @@ Marquis De Barrique Fontainieu
 
   
 
-###
-
- 24. தாய் நாடு  
+ ###  4. தாய் நாடு  
 
   
 

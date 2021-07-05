@@ -968,9 +968,7 @@ Printed at the Rajen Electric Press, Madras.
 
   
 
-###
-
- 1. நூன்மரபு (1-33 )  
+ ###  . நூன்மரபு (1-33 )  
 
 [எழுத்தின் இலக்கணம் என்பது இதன் பொருள்; ஆடைக்கு நூல் உறுப்பாதல்  
 
@@ -1220,9 +1218,7 @@ Printed at the Rajen Electric Press, Madras.
 
   
 
-###
-
- 1.2. மாத்திரை  
+ ###  .2. மாத்திரை  
 
   
 
@@ -1394,9 +1390,7 @@ Printed at the Rajen Electric Press, Madras.
 
   
 
-###
-
- 1.3. எண் - பன்னீருயிர்  
+ ###  .3. எண் - பன்னீருயிர்  
 
   
 
@@ -1514,9 +1508,7 @@ Printed at the Rajen Electric Press, Madras.
 
   
 
-###
-
- 1.4. வடிவு.  
+ ###  .4. வடிவு.  
 
   
 
@@ -1660,9 +1652,7 @@ Printed at the Rajen Electric Press, Madras.
 
   
 
-###
-
- 1.5. மயக்கம்  
+ ###  .5. மயக்கம்  
 
   
 
@@ -1846,9 +1836,7 @@ Printed at the Rajen Electric Press, Madras.
 
   
 
-###
-
- 1.6. எழுத்துக்களின் பிற மரபுகள்  
+ ###  .6. எழுத்துக்களின் பிற மரபுகள்  
 
   
 
@@ -1952,9 +1940,7 @@ Printed at the Rajen Electric Press, Madras.
 
   
 
-###
-
- 2. மொழிமரபு  
+ ###  . மொழிமரபு  
 
 (மொழிக்கண் நின்ற எழுத்தின் இலக்கணம் உணர்த்துவது)  
 
@@ -2106,9 +2092,7 @@ Printed at the Rajen Electric Press, Madras.
 
   
 
-###
-
- 2.2. அளபெடை  
+ ###  .2. அளபெடை  
 
   
 
@@ -2156,9 +2140,7 @@ Printed at the Rajen Electric Press, Madras.
 
   
 
-###
-
- 2.3. எழுத்துக்கள் தொடர்ந்து மொழியாதல்  
+ ###  .3. எழுத்துக்கள் தொடர்ந்து மொழியாதல்  
 
   
 
@@ -2232,9 +2214,7 @@ Printed at the Rajen Electric Press, Madras.
 
   
 
-###
-
- 2.4. எழுத்துக்களின் இயக்கம்  
+ ###  .4. எழுத்துக்களின் இயக்கம்  
 
   
 
@@ -2422,9 +2402,7 @@ Printed at the Rajen Electric Press, Madras.
 
   
 
-###
-
- 2.5. போலி  
+ ###  .5. போலி  
 
   
 
@@ -2542,9 +2520,7 @@ Printed at the Rajen Electric Press, Madras.
 
   
 
-###
-
- 2.6. மொழிமுதல் எழுத்துக்கள்  
+ ###  .6. மொழிமுதல் எழுத்துக்கள்  
 
   
 
@@ -2738,9 +2714,7 @@ Printed at the Rajen Electric Press, Madras.
 
   
 
-###
-
- 2.7. மொழியிறுதி எழுத்துக்கள்  
+ ###  .7. மொழியிறுதி எழுத்துக்கள்  
 
   
 
@@ -3008,9 +2982,7 @@ Printed at the Rajen Electric Press, Madras.
 
   
 
-###
-
- 3. பிறப்பியல்  
+ ###  . பிறப்பியல்  
 
 [எழுத்துக்களின் பிறப்பிலக்கணம் உணர்த்துவது.]  
 
@@ -3054,9 +3026,7 @@ Printed at the Rajen Electric Press, Madras.
 
   
 
-###
-
- 3.2. உயிரெழுத்துக்கள் பிறக்குமாறு எல்லா உயிர்களும் பொதுவாகப் பிறக்கும் வகை  
+ ###  .2. உயிரெழுத்துக்கள் பிறக்குமாறு எல்லா உயிர்களும் பொதுவாகப் பிறக்கும் வகை  
 
   
 
@@ -3154,9 +3124,7 @@ Printed at the Rajen Electric Press, Madras.
 
   
 
-###
-
- 3.3. மெய்யெழுத்துக்கள் பிறக்குமாறு.  
+ ###  .3. மெய்யெழுத்துக்கள் பிறக்குமாறு.  
 
   
 
@@ -3380,9 +3348,7 @@ Printed at the Rajen Electric Press, Madras.
 
   
 
-###
-
- 3.2. பள்ளி - இடம்.  
+ ###  .2. பள்ளி - இடம்.  
 
   
 
@@ -3458,9 +3424,7 @@ Printed at the Rajen Electric Press, Madras.
 
   
 
-###
-
- 4. புணரியல்  
+ ###  . புணரியல்  
 
 (எழுத்துக்களின் புணர்ச்சி யிலக்கணம் உணர்த்துவது.)  
 
@@ -3576,9 +3540,7 @@ Printed at the Rajen Electric Press, Madras.
 
   
 
-###
-
- 4.2. புணர்தலின் இயல்பு  
+ ###  .2. புணர்தலின் இயல்பு  
 
   
 
@@ -3790,9 +3752,7 @@ Printed at the Rajen Electric Press, Madras.
 
   
 
-###
-
- 4.3. உருபு புணர்ச்சி  
+ ###  .3. உருபு புணர்ச்சி  
 
   
 
@@ -3898,9 +3858,7 @@ Printed at the Rajen Electric Press, Madras.
 
   
 
-###
-
- 4.3. சாரியைப்புணர்ச்சி.  
+ ###  .3. சாரியைப்புணர்ச்சி.  
 
   
 
@@ -4244,9 +4202,7 @@ Printed at the Rajen Electric Press, Madras.
 
   
 
-###
-
- 4.
+ ###  .
 
  5. எழுத்துச் சாரியை  
 
@@ -4316,9 +4272,7 @@ Printed at the Rajen Electric Press, Madras.
 
   
 
-###
-
- 4.6. உயிரெழுத்தின் புணர்ச்சி யியல்புகள்  
+ ###  .6. உயிரெழுத்தின் புணர்ச்சி யியல்புகள்  
 
   
 
@@ -4416,9 +4370,7 @@ Printed at the Rajen Electric Press, Madras.
 
   
 
-###
-
- 4.
+ ###  .
 
  7. புணர்ச்சியிற் பொருள் வேறுபடுமிடம்  
 
@@ -4468,9 +4420,7 @@ Printed at the Rajen Electric Press, Madras.
 
   
 
-###
-
- 5. தொகைமரபு  
+ ###  . தொகைமரபு  
 
 (எழுத்துப் புணர்ச்சியுள், தொகுத்துக் கூறுதற்குரிய புணர்ச்சி யிலக்கணங்களை உணர்த்துவது)  
 
@@ -4654,9 +4604,7 @@ Printed at the Rajen Electric Press, Madras.
 
   
 
-###
-
- 5.2. உயிரீறு மெய்யீறுகளின் சிறப்புப் புணர்ச்சி  
+ ###  .2. உயிரீறு மெய்யீறுகளின் சிறப்புப் புணர்ச்சி  
 
   
 
@@ -5148,9 +5096,7 @@ Printed at the Rajen Electric Press, Madras.
 
   
 
-###
-
- 5.3 புறனடை  
+ ###  .3 புறனடை  
 
   
 
@@ -5202,9 +5148,7 @@ Printed at the Rajen Electric Press, Madras.
 
   
 
-###
-
- 6. உருபியல்  
+ ###  . உருபியல்  
 
 (உருபெழுத்துக்களின் புணர்ச்சி யிலக்கணம் உணர்த்துவது)  
 
@@ -5388,9 +5332,7 @@ Printed at the Rajen Electric Press, Madras.
 
   
 
-###
-
- 6.2. மெய்யீறுகள்  
+ ###  .2. மெய்யீறுகள்  
 
   
 
@@ -5646,9 +5588,7 @@ Printed at the Rajen Electric Press, Madras.
 
   
 
-###
-
- 6.3. முற்றுகர குற்றுகர ஈறுகள்  
+ ###  .3. முற்றுகர குற்றுகர ஈறுகள்  
 
   
 
@@ -5822,9 +5762,7 @@ Printed at the Rajen Electric Press, Madras.
 
   
 
-###
-
- 6.4. புறனடை  
+ ###  .4. புறனடை  
 
   
 

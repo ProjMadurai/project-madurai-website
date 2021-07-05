@@ -118,9 +118,7 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
   
 
-###
-
- 1. திருவள்ளுவர்  
+ ###  . திருவள்ளுவர்  
 
   
 
@@ -152,9 +150,7 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
   
 
-###
-
- 2. இளங்கோவடிகள்  
+ ###  . இளங்கோவடிகள்  
 
   
 
@@ -200,9 +196,7 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
   
 
-###
-
- 3. நக்கீரர்  
+ ###  . நக்கீரர்  
 
   
 
@@ -266,9 +260,7 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
   
 
-###
-
- 4. பரணர்  
+ ###  . பரணர்  
 
   
 
@@ -300,9 +292,7 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
   
 
-###
-
- 5. சாத்தனார்  
+ ###  . சாத்தனார்  
 
   
 
@@ -348,9 +338,7 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
   
 
-###
-
- 6. புனிதவதி  
+ ###  . புனிதவதி  
 
   
 
@@ -384,9 +372,7 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
   
 
-###
-
- 7. திருநாவுக்கரசர்  
+ ###  . திருநாவுக்கரசர்  
 
   
 
@@ -466,9 +452,7 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
   
 
-###
-
- 8. திருமங்கை மன்னன்  
+ ###  . திருமங்கை மன்னன்  
 
   
 
@@ -552,9 +536,7 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
   
 
-###
-
- 9. பட்டினத்தார்  
+ ###  . பட்டினத்தார்  
 
   
 
@@ -638,9 +620,7 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
   
 
-###
-
- 10. பண்டித சோழன்  
+ ###  0. பண்டித சோழன்  
 
   
 
@@ -670,9 +650,7 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
   
 
-###
-
- 11. கண்டி மன்னன்  
+ ###  1. கண்டி மன்னன்  
 
   
 
@@ -738,9 +716,7 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
   
 
-###
-
- 12. கம்பர்  
+ ###  2. கம்பர்  
 
   
 
@@ -804,9 +780,7 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
   
 
-###
-
- 13. தாயுமானவர்  
+ ###  3. தாயுமானவர்  
 
   
 
@@ -864,9 +838,7 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
   
 
-###
-
- 14. மார்க்கப் போலர்  
+ ###  4. மார்க்கப் போலர்  
 
   
 
@@ -886,9 +858,7 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
   
 
-###
-
- 15. ஆனந்த ரங்கர்  
+ ###  5. ஆனந்த ரங்கர்  
 
   
 
@@ -944,9 +914,7 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
   
 
-###
-
- 16. உமறுப் புலவர்  
+ ###  6. உமறுப் புலவர்  
 
   
 
@@ -1012,9 +980,7 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
   
 
-###
-
- 17. கால்டுவெல் ஐயர்  
+ ###  7. கால்டுவெல் ஐயர்  
 
   
 
@@ -1038,9 +1004,7 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
   
 
-###
-
- 18. பரிதிமாற் கலைஞர்  
+ ###  8. பரிதிமாற் கலைஞர்  
 
   
 
@@ -1100,9 +1064,7 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
   
 
-###
-
- 19. சிதம்பரனார்  
+ ###  9. சிதம்பரனார்  
 
   
 
@@ -1134,9 +1096,7 @@ Approved by the Madras Text Book Committee. class use Non-detailed Study vide co
 
   
 
-###
-
- 20. பாரதியார்  
+ ###  0. பாரதியார்  
 
   
 

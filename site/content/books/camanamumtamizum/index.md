@@ -310,9 +310,7 @@ Printed at: Appar Achakam, 2/140 Broadway, Madras-1
 
   
 
-###
-
- 2. சமணசமய தத்துவம்  
+ ###  . சமணசமய தத்துவம்  
 
   
 
@@ -472,9 +470,7 @@ Printed at: Appar Achakam, 2/140 Broadway, Madras-1
 
   
 
-###
-
- 3. சமணமுனிவர் ஒழுக்கம்  
+ ###  . சமணமுனிவர் ஒழுக்கம்  
 
   
 
@@ -696,9 +692,7 @@ Printed at: Appar Achakam, 2/140 Broadway, Madras-1
 
   
 
-###
-
- 4. ஆருகதரின் இல்லற ஒழுக்கம்  
+ ###  . ஆருகதரின் இல்லற ஒழுக்கம்  
 
   
 
@@ -840,9 +834,7 @@ Printed at: Appar Achakam, 2/140 Broadway, Madras-1
 
   
 
-###
-
- 5. சமணசமயம் தமிழ்நாடு வந்த வரலாறு  
+ ###  . சமணசமயம் தமிழ்நாடு வந்த வரலாறு  
 
   
 
@@ -940,9 +932,7 @@ Printed at: Appar Achakam, 2/140 Broadway, Madras-1
 
   
 
-###
-
- 6. சமணசமயம் சிறப்படைந்த வரலாறு  
+ ###  . சமணசமயம் சிறப்படைந்த வரலாறு  
 
   
 
@@ -1130,9 +1120,7 @@ Printed at: Appar Achakam, 2/140 Broadway, Madras-1
 
   
 
-###
-
- 7. சமயப்போர்  
+ ###  . சமயப்போர்  
 
   
 
@@ -1218,9 +1206,7 @@ Printed at: Appar Achakam, 2/140 Broadway, Madras-1
 
   
 
-###
-
- 8. சமணசமயம் குன்றிய வரலாறு  
+ ###  . சமணசமயம் குன்றிய வரலாறு  
 
   
 
@@ -1456,9 +1442,7 @@ Printed at: Appar Achakam, 2/140 Broadway, Madras-1
 
   
 
-###
-
- 9. இந்துமதத்தில் சமணக் கொள்கைகள்  
+ ###  . இந்துமதத்தில் சமணக் கொள்கைகள்  
 
   
 
@@ -1834,9 +1818,7 @@ insert komukayakshakan figure here
 
   
 
-###
-
- 10. சமணத் திருப்பதிகள்  
+ ###  0. சமணத் திருப்பதிகள்  
 
   
 
@@ -3126,9 +3108,7 @@ insert komukayakshakan figure here
 
   
 
-###
-
- 9. மதுரை மாவட்டம்  
+ ###  . மதுரை மாவட்டம்  
 
   
 
@@ -3604,9 +3584,7 @@ insert komukayakshakan figure here
 
   
 
-###
-
- 11. தற்போதுள்ள சமண ஊர்களும் சமணரும்  
+ ###  1. தற்போதுள்ள சமண ஊர்களும் சமணரும்  
 
   
 
