@@ -8,6 +8,8 @@ genres:
   - இலக்கணம்
 ---
 
+
+
 ## பரஞ்சோதியார் எழுதிய "சிதம்பரப்பாட்டியல்"  
 
 மு. இராகவையங்கார் உரையுடன்  
@@ -40,7 +42,7 @@ Source:
 
 The quality of the scanned image version of this literary work of
 
- 1911 is not adequate to identify unambiguously the Tamil text in several verses. These are indicated with (/*) sign at relevant places.  
+1911 is not adequate to identify unambiguously the Tamil text in several verses. These are indicated with (/*) sign at relevant places.  
 
 ------------------  
 
@@ -106,7 +108,7 @@ The quality of the scanned image version of this literary work of
 
   
 
- ###  . உறுப்பியல்  
+###  . உறுப்பியல்  
 
   
 
@@ -3908,6 +3910,6 @@ The quality of the scanned image version of this literary work of
 
 This file was last updated on 4 April
 
- 2012  
+2012  
 
 Feel free to send corrections to the webmaster

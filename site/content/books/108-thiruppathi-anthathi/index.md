@@ -10,6 +10,8 @@ genres:
 ---
 
 
+
+
 ### அழகிய மணவாள தாசர் எனப்படும்  
 
 திவ்யகவி பிள்ளைப் பெருமாள் ஐயங்கார் எழுதிய  
@@ -28,7 +30,7 @@ genres:
 
 கலாரத்நாகர அச்சுக்கூடம்,
 
- 1889, 22 pages  
+1889, 22 pages  
 
 ஸ்ரீ:  
 
@@ -1282,6 +1284,6 @@ ___________
 
 This file was last updated on 20 May
 
- 2014.  
+2014.  
 
 Feel free to send corrections to the Webmaster.

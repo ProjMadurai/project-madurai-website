@@ -8,6 +8,8 @@ genres:
   - இலக்கணம்
 ---
 
+
+
 ## நேமிநாதம்  
 
   
@@ -40,7 +42,7 @@ genres:
 
   
 
- ###  . எழுத்ததிகாரம்  
+###  . எழுத்ததிகாரம்  
 
   
 
@@ -240,7 +242,7 @@ genres:
 
   
 
- ###  . சொல்லதிகாரம்  
+###  . சொல்லதிகாரம்  
 
   
 
@@ -700,7 +702,7 @@ genres:
 
 2.
 
- 7. இடைச்சொல் மரபு  
+7. இடைச்சொல் மரபு  
 
   
 
@@ -892,7 +894,7 @@ genres:
 
 This page was first put up on Feb. 2,
 
- 2001  
+2001  
 
 Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com,  
 kumar@vt.edu?subject=PM101: neminatam)

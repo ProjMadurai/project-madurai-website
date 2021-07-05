@@ -8,18 +8,20 @@ genres:
   - சங்ககாலம் – எட்டுத்தொகை
 ---
 
+
+
 /akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
 weight:
 
- 296  
+296  
 
 authors:  
 
-  -  
+-  
 genres:  
 
-  - சங்ககாலம் – எட்டுத்தொகை  
+- சங்ககாலம் – எட்டுத்தொகை  
 
 ---  
 
@@ -59,7 +61,7 @@ You need to have Unicode Tamil font installed on your computer and the browser s
 
 © Project Madurai
 
- 1998-2008  
+1998-2008  
 
   
 
@@ -89,7 +91,7 @@ You are welcome to freely distribute this file, provided this header page is kep
 
 ஏனையவற்றின் ஆசிரியர்கள்
 
- 192  
+192  
 
 திணைக்குறிப்புகள் நூல் பதிப்பித்தோரால் அகம், கலி,  
 
@@ -7653,7 +7655,7 @@ You are welcome to freely distribute this file, provided this header page is kep
 
 அவர்கள் பக்கம்
 
- 129 ல் நற்றிணை ஆகலாம் என இதனை  
+129 ல் நற்றிணை ஆகலாம் என இதனை  
 
 குறித்துள்ளார். இறையனார் அகப் பொருளுரை சூத்திரம்  
 
@@ -13115,6 +13117,6 @@ You are welcome to freely distribute this file, provided this header page is kep
 
 This webpage was last updated on 24 February
 
- 2008  
+2008  
 
 Please send your comments to the webmasters of this website.

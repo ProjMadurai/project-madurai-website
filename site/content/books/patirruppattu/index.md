@@ -8,17 +8,19 @@ genres:
   - சங்ககாலம் – எட்டுத்தொகை
 ---
 
+
+
 https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
 weight: 38  
 
 authors:  
 
-  - பல ஆசிரியர்கள்  
+- பல ஆசிரியர்கள்  
 
 genres:  
 
-  - சங்ககாலம் – எட்டுத்தொகை  
+- சங்ககாலம் – எட்டுத்தொகை  
 
 ---  
 
@@ -68,7 +70,7 @@ Arial Unicode MS, TSCu_Inaimathi, Code2000, UniMylai,...) installed on your comp
 
 and the OS capable of rendering Tamil Scripts (Windows
 
- 2000 or Windows XP).  
+2000 or Windows XP).  
 
 ii)Use a browser that is capable of handling UTF-8 based pages  
 
@@ -78,7 +80,7 @@ ii)Use a browser that is capable of handling UTF-8 based pages
 
 C: Project Madurai
 
- 2000  
+2000  
 
 Project Madurai is an open, voluntary, worldwide initiative devoted  
 
@@ -4972,7 +4974,7 @@ header page is kept intact.
 
 இளம். 8; ந. மேற். அடி க:சீவக.
 
- 339, ந. மேற்.)  
+339, ந. மேற்.)  
 
 **(2)**  
   
@@ -5068,4 +5070,4 @@ header page is kept intact.
 
 This file was first put up on 4 Jan
 
- 2000.
+2000.

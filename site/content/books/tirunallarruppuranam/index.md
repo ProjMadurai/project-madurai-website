@@ -8,6 +8,8 @@ genres:
   - புராணம்
 ---
 
+
+
 உ  
 
 நமசிவய  
@@ -18,9 +20,9 @@ genres:
 
 திருநள்ளாறு
 
- 274 தேவாரப்பாடல் பெற்ற தலங்களில் சோழநாட்டு காவிரி தென்கரைத் தலங்கள்
+274 தேவாரப்பாடல் பெற்ற தலங்களில் சோழநாட்டு காவிரி தென்கரைத் தலங்கள்
 
- 127 இல் 52 வது தலம்  
+127 இல் 52 வது தலம்  
 
   
 
@@ -4544,6 +4546,6 @@ genres:
 
 திருநள்ளாற்றுப் புராணம் முடிவுற்றது [![](https://www.projectmadurai.org/pm_etexts/utf8/up.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0290.html#nuladai)   This webpage was last updated on 23 October
 
- 2007  
+2007  
 
 Please send your comments to the webmaster of this website.

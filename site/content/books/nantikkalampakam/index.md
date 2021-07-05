@@ -9,20 +9,22 @@ genres:
   - பிரபந்தம்
 ---
 
+
+
 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
 weight:
 
- 142  
+142  
 
 authors:  
 
-  -  
+-  
 genres:  
 
-  - கலம்பகம்  
+- கலம்பகம்  
 
-  - பிரபந்தம்  
+- பிரபந்தம்  
 
 ---  
 
@@ -64,7 +66,7 @@ Arial Unicode MS, TSCu_Inaimathi, Code2000, UniMylai,...) installed on your comp
 
 and the OS capable of rendering Tamil Scripts (Windows
 
- 2000 or Windows XP).  
+2000 or Windows XP).  
 
 ii)Use a browser that is capable of handling UTF-8 based pages  
 
@@ -74,7 +76,7 @@ ii)Use a browser that is capable of handling UTF-8 based pages
 
 © Project Madurai
 
- 1999-2003  
+1999-2003  
 
 Project Madurai is an open, voluntary, worldwide initiative devoted  
 
@@ -2182,6 +2184,6 @@ header page is kept intact.
 
 This file was last revised on 25 Feb.
 
- 2002  
+2002  
 
 Please send your comments to the [webmasters of this website](mailto:kalyan@geocities.com, kumar@vt.edu?subject=PM143 nantikkalamapakam).

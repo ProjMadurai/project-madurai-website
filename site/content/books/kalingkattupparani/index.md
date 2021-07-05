@@ -9,6 +9,8 @@ genres:
   - பிரபந்தம்
 ---
 
+
+
 ## சயங்கொண்டார் இயற்றிய கலிங்கத்துப் பரணி  
 
 kalingkattup paraNi of CeyangkoNTAr  
@@ -195,7 +197,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
   
 
- ###  . கடை திறப்பு  
+###  . கடை திறப்பு  
 
   
 
@@ -853,7 +855,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
   
 
- ###  . கோயில் பாடியது  
+###  . கோயில் பாடியது  
 
   
 
@@ -1067,7 +1069,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
   
 
- ###  . தேவியைப் பாடியது  
+###  . தேவியைப் பாடியது  
 
   
 
@@ -1217,7 +1219,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
   
 
- ###  . பேய்களைப் பாடியது  
+###  . பேய்களைப் பாடியது  
 
   
 
@@ -1375,7 +1377,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
   
 
- ###  . இந்திர சாலம்  
+###  . இந்திர சாலம்  
 
   
 
@@ -1577,7 +1579,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
   
 
- ###  . இராச பாரம்பரியம்  
+###  . இராச பாரம்பரியம்  
 
   
 
@@ -1925,7 +1927,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
   
 
- ###  . பேய் முறைப்பாடு  
+###  . பேய் முறைப்பாடு  
 
   
 
@@ -2099,7 +2101,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
   
 
- ###  0. அவதாரம்  
+###  0. அவதாரம்  
 
   
 
@@ -2807,7 +2809,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
   
 
- ###  1.காளிக்குக் கூளி கூறியது  
+###  1.காளிக்குக் கூளி கூறியது  
 
   
 
@@ -4145,7 +4147,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
   
 
- ###  3. களம் பாடியது  
+###  3. களம் பாடியது  
 
   
 
@@ -5033,7 +5035,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
 துடைத்து நக்கிச் சுவைகாணுஞ் சூற்பேய்க் கின்னுஞ் சொரியீரே.
 
- 100  
+100  
 
 மூடப்பேய்க்குக் கூழ் வார்த்தல்  
 
@@ -5043,7 +5045,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
 தெல்லாங் கவிழ்த்துத் திகைத்திருக்கும் இழுதைப் பேய்க்கு வாரீரே.
 
- 101  
+101  
 
 நோக்கப் பேய்க்குக் கூழ் வார்த்தல்  
 
@@ -5053,7 +5055,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
 நுதிக்கே கூழை வாரென்னும் நோக்கப் பேய்க்கு வாரீரே.
 
- 102  
+102  
 
 கூத்திப் பேய்க்குக் கூழ் வார்த்தல்  
 
@@ -5063,7 +5065,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
 குடியா னென்று தான்குடிக்குங் கூத்திப் பேய்க்கு வாரீரே.
 
- 103  
+103  
 
 விருந்துப் பேய்க்கும் ஊர்ப்பேய்க்கும் கூழ் வார்த்தல்  
 
@@ -5073,7 +5075,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
 ஒருகூழ்ப் பரணி நாமிருக்கும் ஊர்க்கட் பேய்க்கு வாரீரே.
 
- 104  
+104  
 
 கனாக்கண்டு உரைத்த பேய்க்குக் கூழ் வார்த்தல்  
 
@@ -5083,7 +5085,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
 புரவி யுரித்தோற் பட்டைக்கே கூழைப் பொதிந்து வையீரே.
 
- 105  
+105  
 
 கணக்கப் பேய்க்குக் கூழ் வார்த்தல்  
 
@@ -5093,7 +5095,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
 கணக்கப் பேய்க்கு மகங்களிக்கக் கையா லெடுத்து வாரீரே.
 
- 106  
+106  
 
 பேய்கள் உண்ணல்  
 
@@ -5103,7 +5105,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
 முன்கை யெலும்பினை மெல்லீரே மூளையை வாரி விழுங்கீரே.
 
- 107  
+107  
 
 579  
 
@@ -5111,7 +5113,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
 உள்ளி கறித்துக்கொண் டுண்ணீரே ஊதி வரன்றிக்கொண் டுண்ணீரே.
 
- 108  
+108  
 
 580  
 
@@ -5119,7 +5121,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
 நமக்கொரு வாய்தந்த நான்முகனார் நாணும் படிகளித் துண்ணீரே.
 
- 109  
+109  
 
 581  
 
@@ -5127,7 +5129,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
 ஆடி யசைந்தசைந் துண்ணீரே அற்ற தறவறிந் துண்ணீரே.
 
- 110  
+110  
 
 வாய் கழுவல்  
 
@@ -5137,7 +5139,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
 பொதுத்த தொளையாற் புகமடுத்துப் புசித்த வாயைப் பூசீரே.
 
- 111  
+111  
 
 வெற்றிலை போடுதல்  
 
@@ -5147,7 +5149,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
 கண்ணின் மணியிற் சுண்ணாம்புங் கலந்து மடித்துத் தின்னீரே.
 
- 112  
+112  
 
 புரையேற்றம் நீங்குவதற்கு மருந்து  
 
@@ -5157,7 +5159,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
 செருக்கும் பேய்காள் பூதத்தின் சிரத்தின் மயிரை மோவீரே.
 
- 113  
+113  
 
 பேய்கள் களிப்பு மிகுதியால் கூத்தாடல்  
 
@@ -5167,7 +5169,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
 குன்று குனிப்பன போற்களத்துக் கும்பிட் டேநட மிட்டனவே.
 
- 114  
+114  
 
 பாடி நின்று ஆடின  
 
@@ -5177,7 +5179,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
 தூசி யெழுந்தமை பாடிநின்று தூசியு மிட்டுநின் றாடினவே.
 
- 115  
+115  
 
 வென்றி பாடி ஆடின  
 
@@ -5187,7 +5189,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
 இருகையும் வென்றதொர் வென்றிபாடி இருகையும் வீசிநின் றாடினவே.
 
- 116  
+116  
 
 பேய்கள் களிப்பு மிகுதியால் விளையாடல்  
 
@@ -5197,7 +5199,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
 எழுதிய சிலையவர் செறிகடல் விழுமவை இதுவென வழிகுரு தியின்விழு வனசில.
 
- 117  
+117  
 
 உருள்வன சில மறிவன சில  
 
@@ -5207,7 +5209,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
 வெருவிய வடுநர்த முடைவடி விதுவென விரிதலை யதனொடு மறிவன சிலசில.
 
- 118  
+118  
 
 பேய்கள் குலோத்துங்கனை வாழ்த்துதல்  
 
@@ -5217,7 +5219,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
 அபய னருளினைப் பாடினவே அணிசெறி தோளினை வாழ்த்தினவே.
 
- 119  
+119  
 
 வயப் புகழ் வாழ்த்தின  
 
@@ -5227,7 +5229,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
 வசையில் வயப்புழ் வாழ்த்தினவே மனுகுல தீபனை வாழ்த்தினவே.
 
- 120  
+120  
 
 பொன்னித் துறைவனை வாழ்த்தின  
 
@@ -5237,7 +5239,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
 கன்னிக் கொழுநனை வாழ்த்தினவே கங்கை மணாளனை வாழ்த்தினவே.
 
- 121  
+121  
 
 உலகுய்ய வந்தானை வாழ்த்தின  
 
@@ -5247,7 +5249,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
 ஊழிதொ றூழியுங் காத்தளிக்கும் உலகுய்ய வந்தானை வாழ்த்தினவே.
 
- 122  
+122  
 
 கரிகாலனோடு ஒப்பிட்டு வாழ்த்தின  
 
@@ -5257,7 +5259,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
 காப்பது மென்கட னென்றுகாத்த கரிகாலச் சோழனை வாழ்த்தினவே.
 
- 123  
+123  
 
 வாழ்த்து  
 
@@ -5267,7 +5269,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
 தேவ ரின்னருள் தழைக்க வேமுனிவர் செய்த வப்பயன்வி ளைக்கவே.
 
- 124  
+124  
 
 596  
 
@@ -5275,7 +5277,7 @@ kalingkattup paraNi of CeyangkoNTAr
 
 பூத லம்புகழ்ப ரக்க வேபுவி நிலைக்க வேபுயல்சு ரக்கவே.
 
- 125  
+125  
 
   
 
@@ -5285,12 +5287,12 @@ kalingkattup paraNi of CeyangkoNTAr
 
 This page was first put up on November 28,
 
- 2001 and last revised to TSCII
+2001 and last revised to TSCII
 
- 1.7 version on 14 March
+1.7 version on 14 March
 
- 2002  
+2002  
 
 Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, kumar@vt.edu?  
 
-  subject=PM123 : kalingkattupparaNi)
+subject=PM123 : kalingkattupparaNi)

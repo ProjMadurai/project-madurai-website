@@ -8,6 +8,8 @@ genres:
   - ஆங்கில மொழிபெயர்ப்பு
 ---
 
+
+
 ### "tirukkuRaL" English translation  
 
 by Ramachandra dikshitar  
@@ -32,7 +34,7 @@ Sir A. Ramaswami Mudaliar, Dewan of Mysore
 
 The Adyar Library,
 
- 1949  
+1949  
 
 (The Adyar Library Series Nr. 67)  
 
@@ -58,7 +60,7 @@ CARLTON HOUSE,
 
 Bangalore, 15th May
 
- 1949  
+1949  
 
 -----------------  
 
@@ -66,11 +68,11 @@ PREFATORY NOTE
 
 This is the first time that the Adyar Library has included a Tamil text in its Series. The name of Prof. V. R. Ramachandra Dikshitar, the editor and translator of the Tirukkural now published, is already well-known as a great Tamil scholar by his book on The Studies in Tamil Literature and History. He is the well known Translator of that difficult Tamil classic the Silappadikaram. A smaller book of his, The Origin and spread of the Tamils, has already been published in this Series as No. 58 in
 
- 1947. It is a matter of gratification to the Library to be able to publish one of the most important Tamil Classics with an English translation by such a great scholar in the Library Series.  
+1947. It is a matter of gratification to the Library to be able to publish one of the most important Tamil Classics with an English translation by such a great scholar in the Library Series.  
 
 There may be many students who would be able to read and to study this text if it could be made available in a script with which they are familiar. And the Roman script is now fairly well spread over in the whole world; that is why the text has been given in the Roman script, with the English translation. But we cannot ignore the big population that knows the Tamil script, and the text in the Roman script may not be known to them to the same extent, if at all they know it. So there is given a parallel volume of the text in Tamil script with the same English translation as No.
 
- 68.  
+68.  
 
 The Tirukkural is in three parts, dealing with the three "Aims" in life, namely, Dharma, Artha and Kama, so well-known in Hindu thought. We hear more now-a-days about the Varnasramadharma, as the foundation of Hindu life. But the real basis of Hindu life is the Trivarga, the three-fold objects of life, dealt with in this text. Perhaps the expression Puruşarthacatuştaya, (the four-fold objects of life) is more popular, with Moksa or final release as the fourth. But the truth is that according to the true Hindu view the objects of life are only three, and the fourth comes as a natural sequence. The three objects of life are not mutually exclusive; it is only a question of importance according to the different tendencies of the individuals.  
 
@@ -80,7 +82,7 @@ ADYAR LIBRARY C. KUNHAN RAJA
 
 13th April,
 
- 1949  
+1949  
 
 (New Year Day)  
 
@@ -96,7 +98,7 @@ Madras, V. R. R. DIKSHITAR
 
 6th May,
 
- 1949  
+1949  
 
 -------------  
 
@@ -116,231 +118,231 @@ Note on Transliteration and Diacritical Marks
 
 1. Kaḑavuļ VāḻttuIn Praise of God
 
- 2. Vāṉ SirappuIn Praise of Rain
+2. Vāṉ SirappuIn Praise of Rain
 
- 3. Nīttār PerumaiOn the Greatness of Renunciation
+3. Nīttār PerumaiOn the Greatness of Renunciation
 
- 4. AŗaṉvaliyuŗuttalOn Dharma
+4. AŗaṉvaliyuŗuttalOn Dharma
 
- 5. IlvāḻkkaiOn Family Life
+5. IlvāḻkkaiOn Family Life
 
- 6. VāḻkkaittuṇainalamOn Wives
+6. VāḻkkaittuṇainalamOn Wives
 
- 7. Putalvaraip PeŗutalOn Sons
+7. Putalvaraip PeŗutalOn Sons
 
- 8. AṉbuḑaimaiLoving-Kindness
+8. AṉbuḑaimaiLoving-Kindness
 
- 9. ViruntõmbalOn Hospitality
+9. ViruntõmbalOn Hospitality
 
- 10. Iṉiyavai KūŗalOn Sweet Words
+10. Iṉiyavai KūŗalOn Sweet Words
 
- 11. Seynnaṉŗi YaŗidalOn Gratitude
+11. Seynnaṉŗi YaŗidalOn Gratitude
 
- 12. Naḑuvu NilaimaiOn Equity.
+12. Naḑuvu NilaimaiOn Equity.
 
- 13. AțakkamuḑaimaiOn Self-Control
+13. AțakkamuḑaimaiOn Self-Control
 
- 14. OḻukkamuḑaimaiOn Right Conduct
+14. OḻukkamuḑaimaiOn Right Conduct
 
- 15. Piŗaṉil ViḻaiyāmaiOn Adultery
+15. Piŗaṉil ViḻaiyāmaiOn Adultery
 
- 16. PoŗaiyuḑaimaiOn Patience
+16. PoŗaiyuḑaimaiOn Patience
 
- 17. AḻukkāŗāmaiOn Envy
+17. AḻukkāŗāmaiOn Envy
 
- 18. VehkāmaiOn Non-Coveting
+18. VehkāmaiOn Non-Coveting
 
- 19. PuŗankūŗāmaiOn Not Back-Biting
+19. PuŗankūŗāmaiOn Not Back-Biting
 
- 20. Payaṉila SollāmaiOn Frivolity of Speech21. TīviṉaiyaccaṁOn Fear of Evil Deeds
+20. Payaṉila SollāmaiOn Frivolity of Speech21. TīviṉaiyaccaṁOn Fear of Evil Deeds
 
- 22. OppuravaŗitalOn Decorum
+22. OppuravaŗitalOn Decorum
 
- 23. ĪkaiOn Liberality
+23. ĪkaiOn Liberality
 
- 24. PugaḻOn Renown
+24. PugaḻOn Renown
 
- 25. AruļuḑaimaiOn Compassion
+25. AruļuḑaimaiOn Compassion
 
- 26. Pulāl MaŗuttalOn Abstaining from Meat
+26. Pulāl MaŗuttalOn Abstaining from Meat
 
- 27. TavamOn Penance
+27. TavamOn Penance
 
- 28. Kūḑā OḻukkamOn Improper Conduct
+28. Kūḑā OḻukkamOn Improper Conduct
 
- 29. KaļļāmaiOn Non-Stealing
+29. KaļļāmaiOn Non-Stealing
 
- 30. VāymaiOn Truth
+30. VāymaiOn Truth
 
- 31. VekuļāmaiOn Not Getting Angry
+31. VekuļāmaiOn Not Getting Angry
 
- 32. IṉṉāśeyyāmaiOn Not Doing Evil
+32. IṉṉāśeyyāmaiOn Not Doing Evil
 
- 33. KollāmaiOn Not Killing
+33. KollāmaiOn Not Killing
 
- 34. NilaiyāmaiOn Instability
+34. NilaiyāmaiOn Instability
 
- 35. TuŗavuOn Renunciation
+35. TuŗavuOn Renunciation
 
- 36. MeyyuņartalOn True Knowledge
+36. MeyyuņartalOn True Knowledge
 
- 37. AvāvaŗuttalOn the Destruction of Desire
+37. AvāvaŗuttalOn the Destruction of Desire
 
- 38. ŪḻOn Fate--------------  
+38. ŪḻOn Fate--------------  
 
 PORUȚPĀL  
 
 39. IŗaimāṭciOn Majesty
 
- 40. KalviOn Learning
+40. KalviOn Learning
 
- 41. KallāmaiOn Non-Learning
+41. KallāmaiOn Non-Learning
 
- 42. KēļviOn Hearing
+42. KēļviOn Hearing
 
- 43. AŗivuḑaimaiOn Knowledge
+43. AŗivuḑaimaiOn Knowledge
 
- 44. Kuŗŗam KaţitalOn Restraining Faults
+44. Kuŗŗam KaţitalOn Restraining Faults
 
- 45. Periyārait TuņaikkõṭalOn Association with Elders
+45. Periyārait TuņaikkõṭalOn Association with Elders
 
- 46. Śiŗŗinañ cērāmaiOn Avoiding Low Company
+46. Śiŗŗinañ cērāmaiOn Avoiding Low Company
 
- 47. Terindu Śeyal VakaiOn Action after Due Deliberation
+47. Terindu Śeyal VakaiOn Action after Due Deliberation
 
- 48. ValiyaŗitalOn Knowing the Enemy's Strength
+48. ValiyaŗitalOn Knowing the Enemy's Strength
 
- 49. Kālam AŗitalOn Knowing the Time
+49. Kālam AŗitalOn Knowing the Time
 
- 50. Iḑan AŗitalOn Knowing the Place
+50. Iḑan AŗitalOn Knowing the Place
 
- 51. Terindu TeļitalEngaging Servants After Test
+51. Terindu TeļitalEngaging Servants After Test
 
- 52. Terindu ViṉaiyāṭalOn Appointment According to Merit
+52. Terindu ViṉaiyāṭalOn Appointment According to Merit
 
- 53. ŚuŗŗantaḻālOn Cherishing One's Kindred
+53. ŚuŗŗantaḻālOn Cherishing One's Kindred
 
- 54. PoccāvāmaiAgainst Forgetfulness
+54. PoccāvāmaiAgainst Forgetfulness
 
- 55. ŚenkōṉmaiOn Righteous Sceptre
+55. ŚenkōṉmaiOn Righteous Sceptre
 
- 56. KoḑunkōṉmaiOn Unrighteous Rule
+56. KoḑunkōṉmaiOn Unrighteous Rule
 
- 57. Veruvanta ŚeyyāmaiOn Tyranny
+57. Veruvanta ŚeyyāmaiOn Tyranny
 
- 58. KaṇṇōttamOn Kindliness
+58. KaṇṇōttamOn Kindliness
 
- 59. OŗŗāṭalOn Spies
+59. OŗŗāṭalOn Spies
 
- 60. ŪkkamuḑaimaiOn Exertion61. MaţiyiṉmaiAgainst Sloth
+60. ŪkkamuḑaimaiOn Exertion61. MaţiyiṉmaiAgainst Sloth
 
- 62. AļaviṉaiyuḑaimaiOn Perseverance
+62. AļaviṉaiyuḑaimaiOn Perseverance
 
- 63. IḑukkaṉaḻiyāmaiOn Courage
+63. IḑukkaṉaḻiyāmaiOn Courage
 
- 64. AmaiccuOn Ministers
+64. AmaiccuOn Ministers
 
- 65. ŚolvaṉmaiOn Good Speech
+65. ŚolvaṉmaiOn Good Speech
 
- 66. ViṉaittūymaiOn Purity in Action
+66. ViṉaittūymaiOn Purity in Action
 
- 67. ViṉaittiṭpamOn Resoluteness
+67. ViṉaittiṭpamOn Resoluteness
 
- 68. Viṉaiśeyal VakaiOn the Means of Action
+68. Viṉaiśeyal VakaiOn the Means of Action
 
- 69. TūtuOn Embassy
+69. TūtuOn Embassy
 
- 70. Maṉṉaraic CērndoḻukalOn Co-operation with King
+70. Maṉṉaraic CērndoḻukalOn Co-operation with King
 
- 71. KuŗippaŗitalOn Reading One's Intentions
+71. KuŗippaŗitalOn Reading One's Intentions
 
- 72. AvaiyaŗitalOn Knowing the Assembly
+72. AvaiyaŗitalOn Knowing the Assembly
 
- 73. AvaiyañjāmaiNot to be Afraid of Assembly
+73. AvaiyañjāmaiNot to be Afraid of Assembly
 
- 74. NāḑuOn the Kingdom
+74. NāḑuOn the Kingdom
 
- 75. AraṇOn Fortress
+75. AraṇOn Fortress
 
- 76. Poruļ Śeyal VakaiOn Acquisition of Wealth
+76. Poruļ Śeyal VakaiOn Acquisition of Wealth
 
- 77. Paḑai MāțciOn the Value of an Army
+77. Paḑai MāțciOn the Value of an Army
 
- 78. PaḑaiccerukkuOn Courage of the Army
+78. PaḑaiccerukkuOn Courage of the Army
 
- 79. NațpuOn Friendship
+79. NațpuOn Friendship
 
- 80. NațpārāytalOn True Friendship81. PaḻamaiOn Old Friendship
+80. NațpārāytalOn True Friendship81. PaḻamaiOn Old Friendship
 
- 82. TīnațpuOn Base Alliance
+82. TīnațpuOn Base Alliance
 
- 83. KūḑānațpuOn False Alliance
+83. KūḑānațpuOn False Alliance
 
- 84. PēdaimaiOn Stupidity
+84. PēdaimaiOn Stupidity
 
- 85. PullaŗivāņmaiOn Ignorance
+85. PullaŗivāņmaiOn Ignorance
 
- 86. ĪkalOn Discord
+86. ĪkalOn Discord
 
- 87. Pakai MāṭciOn Enmity
+87. Pakai MāṭciOn Enmity
 
- 88. PakaittiŗanteritalOn Knowing the Enemy's Strength
+88. PakaittiŗanteritalOn Knowing the Enemy's Strength
 
- 89. UṭpakaiInternal Foes
+89. UṭpakaiInternal Foes
 
- 90. PeriyāraippiḻaiyāmaiNot Censuring the Great
+90. PeriyāraippiḻaiyāmaiNot Censuring the Great
 
- 91. PeņvaḻiccēŗalOn Following Women's Advice
+91. PeņvaḻiccēŗalOn Following Women's Advice
 
- 92. VaraiviṉmakaļirOn Public Women
+92. VaraiviṉmakaļirOn Public Women
 
- 93. KaļļuņņāmaiOn Avoiding Wine
+93. KaļļuņņāmaiOn Avoiding Wine
 
- 94. ŚūtuOn Gambling95. MarunduOn Medicine
+94. ŚūtuOn Gambling95. MarunduOn Medicine
 
- 96. KuḑimaiOn Noble Lineage
+96. KuḑimaiOn Noble Lineage
 
- 97. MāṉamOn Honour
+97. MāṉamOn Honour
 
- 98. PerumaiOn Greatness
+98. PerumaiOn Greatness
 
- 99. ŚāṉŗāņmaiOn Good Conduct
+99. ŚāṉŗāņmaiOn Good Conduct
 
 
 
- 100. PaņbuḑaimaiOn Courtesy
+100. PaņbuḑaimaiOn Courtesy
 
 
 
- 101. Naṉŗiyil ŚelvamOn Unprofitable Wealth
+101. Naṉŗiyil ŚelvamOn Unprofitable Wealth
 
 
 
- 102. NāņuḑaimaiOn Modesty
+102. NāņuḑaimaiOn Modesty
 
 
 
- 103. Kuḑi ŚeyalvakaiOn Exalting One's Family
+103. Kuḑi ŚeyalvakaiOn Exalting One's Family
 
 
 
- 104. UḻavuOn Agriculture
+104. UḻavuOn Agriculture
 
 
 
- 105. NalkuravuOn Poverty
+105. NalkuravuOn Poverty
 
 
 
- 106. IravuOn Begging
+106. IravuOn Begging
 
 
 
- 107. IravaccamOn Fear of Begging
+107. IravaccamOn Fear of Begging
 
 
 
- 108. KayamaiOn Meanness-----------  
+108. KayamaiOn Meanness-----------  
 
 **KĀMATTUPPĀL**  
 
@@ -348,99 +350,99 @@ PORUȚPĀL
 
 
 
- 110. KuŗippaŗitalReading Love's Signs
+110. KuŗippaŗitalReading Love's Signs
 
 
 
- 111. Puņarcci MakiḻtalThe Ecstasy of Love's Union
+111. Puņarcci MakiḻtalThe Ecstasy of Love's Union
 
 
 
- 112. NalampuṉainduraittalOn His Lady
+112. NalampuṉainduraittalOn His Lady
 
 
 
- 113. Kādaŗ ŚiŗappuraittalOn the Affirmation of Love
+113. Kādaŗ ŚiŗappuraittalOn the Affirmation of Love
 
 
 
- 114. NāņuttaŗavuraittalSpeaking Out Unabashed
+114. NāņuttaŗavuraittalSpeaking Out Unabashed
 
 
 
- 115. AlaraŗivuŗuttalRumours of Secret Love
+115. AlaraŗivuŗuttalRumours of Secret Love
 
 
 
- 116. PirivāŗŗāmaiThe Pangs of Separation
+116. PirivāŗŗāmaiThe Pangs of Separation
 
 
 
- 117. PaḑarmelindirangalThe Cry of the Separated
+117. PaḑarmelindirangalThe Cry of the Separated
 
 
 
- 118. KaņviduppaḻidalOn Eyes That Languish
+118. KaņviduppaḻidalOn Eyes That Languish
 
 
 
- 119. Pacappuŗu ParuvaralGrieving Over Love's Pallor
+119. Pacappuŗu ParuvaralGrieving Over Love's Pallor
 
 
 
- 120. Taṉippaḑar MikutiFeeling All Alone
+120. Taṉippaḑar MikutiFeeling All Alone
 
 
 
- 121. Ninaindavar PulambalRecollecting the Pleasures of Love
+121. Ninaindavar PulambalRecollecting the Pleasures of Love
 
 
 
- 122. Kaṉavunilai UraittalDreams of Love
+122. Kaṉavunilai UraittalDreams of Love
 
 
 
- 123. Poḻutu KaṇḑirangalSunset and Sorrow
+123. Poḻutu KaṇḑirangalSunset and Sorrow
 
 
 
- 124. Uŗuppunalaṉ AḻitalWasting Away
+124. Uŗuppunalaṉ AḻitalWasting Away
 
 
 
- 125. Neñcoḑu KiļattalSoliloquy of the Lady Love
+125. Neñcoḑu KiļattalSoliloquy of the Lady Love
 
 
 
- 126. Niŗai AḻitalOn the Loss of Modesty
+126. Niŗai AḻitalOn the Loss of Modesty
 
 
 
- 127. Avarvayiṉ VidumbalOn the Distress of each Towards the Other
+127. Avarvayiṉ VidumbalOn the Distress of each Towards the Other
 
 
 
- 128. KuŗipaŗivuŗuttalOn Speaking on the Signs
+128. KuŗipaŗivuŗuttalOn Speaking on the Signs
 
 
 
- 129. Puņarcci VidumbalOn Yearning After Union
+129. Puņarcci VidumbalOn Yearning After Union
 
 
 
- 130. Neñcoḑu PulattalOn Speaking with the Mind
+130. Neñcoḑu PulattalOn Speaking with the Mind
 
 
 
- 131. PulaviOn Lovers' Misunderstanding
+131. PulaviOn Lovers' Misunderstanding
 
 
 
- 132. Pulavi NuņukkamOn Subtlety of Lovers' Misunderstanding
+132. Pulavi NuņukkamOn Subtlety of Lovers' Misunderstanding
 
 
 
- 133. ŪḑaluvakaiOn the Pleasures of Lovers' Misunderstanding  
+133. ŪḑaluvakaiOn the Pleasures of Lovers' Misunderstanding  
 
 ------------------  
 
@@ -478,19 +480,19 @@ by Ramachandra Dikshitar
 
 3.1 kaḷaviyal (atikāram
 
- 109-115)  
+109-115)  
 
 3.2 kaṟpiyal (atikāram
 
- 116-133)  
+116-133)  
 
 -----------  
 
   
 
- ###  . aṟattuppāl /
+###  . aṟattuppāl /
 
- 1.1 pāyiraviyal  
+1.1 pāyiraviyal  
 
   
 
@@ -828,7 +830,7 @@ uyaṟpālatu ōrum paḻi.
 
   
 
- ###  .2. illaṟaviyal II. ON DOMESTIC VIRTUE  
+###  .2. illaṟaviyal II. ON DOMESTIC VIRTUE  
 
   
 
@@ -2478,7 +2480,7 @@ vāḻvārē vāḻātavar.
 
   
 
- ###  .3. tuṟavaṟaviyal - III. ON RENUNCIATION  
+###  .3. tuṟavaṟaviyal - III. ON RENUNCIATION  
 
   
 
@@ -3636,7 +3638,7 @@ cūḻiṉum, tāṉ muntuṟum.
 
   
 
- ###  . poruṭpāl  
+###  . poruṭpāl  
 
 2.1 araciyal - SECTION I. THE STATE  
 
@@ -8586,7 +8588,7 @@ tāṅkātu maṉṉō poṟai.
 
 **100. paṇpu uṭaimai - CHAPTER
 
- 100— ON COURTESY**  
+100— ON COURTESY**  
 
 991 eṇpatattāl eytal eḷiteṉpa yārmāṭṭum  
 
@@ -8670,7 +8672,7 @@ kalantīmai yāltirintu aṟṟu.
 
 **101. naṉṟiyil celvam - CHAPTER
 
- 101— ON UNPROFITABLE WEALTH**  
+101— ON UNPROFITABLE WEALTH**  
 
 1001 vaittāṉvāy cāṉṟa perumporuL aḵtuṇṇāṉ  
 
@@ -8754,7 +8756,7 @@ vaṟaṅkūrn taṉaiyatu uṭaittu.
 
 **102. nāṇ uṭaimai - CHAPTER
 
- 102— ON MODESTY**  
+102— ON MODESTY**  
 
 1011 karumattāl nāṇutal nāṇut tirunutal  
 
@@ -8838,7 +8840,7 @@ nāṇāl uyirmaruṭṭi aṟṟu.
 
 **103. kuṭi ceyalvakai - CHAPTER
 
- 103— ON EXALTING ONE’S FAMILY**  
+103— ON EXALTING ONE’S FAMILY**  
 
 1021 karumam ceyaoruvaṉ kaitūvēṉ eṉṉum  
 
@@ -8922,7 +8924,7 @@ nallāḷ ilāta kuṭi.
 
 **104. uḻavu - CHAPTER
 
- 104— ON AGRICULTURE**  
+104— ON AGRICULTURE**  
 
 1031 cuḻaṉṟumērp piṉṉatu ulakam ataṉāl  
 
@@ -9006,7 +9008,7 @@ nilameṉṉum nallāḷ nakum.
 
 **105. nalkuravu - CHAPTER
 
- 105— ON POVERTY**  
+105— ON POVERTY**  
 
 1041 iṉmaiyiṉ iṉṉātatu yāteṉiṉ iṉmaiyiṉ  
 
@@ -9090,7 +9092,7 @@ uppiṟkum kāṭikkum kūṟṟu.
 
 **106. iravu - CHAPTER
 
- 106— ON BEGGING**  
+106— ON BEGGING**  
 
 1051 irakka irattakkārk kāṇiṉ karappiṉ  
 
@@ -9174,7 +9176,7 @@ tāṉēyum cālum kari.
 
 **107. iravu accam - CHAPTER
 
- 107— ON FEAR OF BEGGING**  
+107— ON FEAR OF BEGGING**  
 
 1061 karavātu uvantīyum kaṇṇaṉṉār kaṇṇum  
 
@@ -9258,7 +9260,7 @@ collāṭap pōom uyir.
 
 **108. kayamai - CHAPTER
 
- 108— ON MEANNESS**  
+108— ON MEANNESS**  
 
 1071 makkaḷē pōlvar kayavar avaraṉṉa  
 
@@ -9352,7 +9354,7 @@ SECTION I. THE SECRET UNION
 
 **109. takai aṇaṅku uṟuttal - CHAPTER
 
- 109— ON LOVER’S DISTRACTION**  
+109— ON LOVER’S DISTRACTION**  
 
 1081 aṇaṅkukol āymayil kollō kaṉaṅkuḻai  
 
@@ -9436,7 +9438,7 @@ kaṇṭār makiḻceytal iṉṟu.
 
 **110. kuṟippaṟital - CHAPTER
 
- 110— READING LOVE’S SIGNS**  
+110— READING LOVE’S SIGNS**  
 
 1091 irunōkku ivaḷuṇkaṇ uḷḷatu orunōkku  
 
@@ -9520,7 +9522,7 @@ eṉṉa payaṉum ila.
 
 **111. puṇarcci makiḻtal - CHAPTER
 
- 111— THE ECSTACY OF LOVE'S UNION**  
+111— THE ECSTACY OF LOVE'S UNION**  
 
 1101 kaṇṭukēṭṭu uṇṭuuyirttu uṟṟaṟiyum aimpulaṉum  
 
@@ -9604,7 +9606,7 @@ ceṟitōṟum cēyiḻai māṭṭu.
 
 **112. nalam puṉaintu uraittal - CHAPTER
 
- 112— ON HIS LADY**  
+112— ON HIS LADY**  
 
 1111 naṉṉīrai vāḻi aṉiccamē niṉṉiṉum  
 
@@ -9688,7 +9690,7 @@ aṭikku neruñcip paḻam.
 
 **113. kātaṟ ciṟappu uraittal - CHAPTER
 
- 113— ON THE AFFIRMATION OF LOVE**  
+113— ON THE AFFIRMATION OF LOVE**  
 
 1121 pāloṭu tēṉkalan taṟṟē paṇimoḻi  
 
@@ -9772,7 +9774,7 @@ añcutum vēpākku aṟintu.
 
 **114. nāṇuttuṟavu uraittal - CHAPTER
 
- 114— SPEAKING OUT UNABASHED**  
+114— SPEAKING OUT UNABASHED**  
 
 1131 kāmam uḻantu varuntiṉārkku ēmam  
 
@@ -9858,7 +9860,7 @@ yāmpaṭṭa tāmpaṭā vāṟu.
 
 **115. alar aṟivuṟuttal - CHAPTER
 
- 115— RUMOURS OF SECRET LOVE**  
+115— RUMOURS OF SECRET LOVE**  
 
 1141 alaraḻa āruyir niṟkum ataṉaip  
 
@@ -9950,7 +9952,7 @@ End of the Secret Union
 
 **116. pirivu āṟṟāmai - CHAPTER
 
- 116— THE PANGS OF SEPARAITON**  
+116— THE PANGS OF SEPARAITON**  
 
 1151 cellāmai uṇṭēl eṉakkuurai maṟṟuniṉ  
 
@@ -10034,7 +10036,7 @@ piṉiruntu vāḻvār palar.
 
 **117. paṭar melintu iraṅkal - CHAPTER
 
- 117— THE CRY OF THE SEPARATED**  
+117— THE CRY OF THE SEPARATED**  
 
 1161 maṟaippēṉmaṉ yāṉiḵtō nōyai iṟaippavarkku  
 
@@ -10118,7 +10120,7 @@ nīntala maṉṉōeṉ kaṇ.
 
 **118. kaṇ vituppu aḻital - CHAPTER
 
- 118— ON EYES THAT LANGUISH**  
+118— ON EYES THAT LANGUISH**  
 
 1171 kaṇtām kaluḻvatu evaṉkolō taṇṭānōy  
 
@@ -10202,7 +10204,7 @@ aṟaipaṟai kaṇṇār akattu.
 
 **119. pacappuṟu paruvaral - CHAPTER
 
- 119— GRIEVING OVER LOVE’S PALLOR**  
+119— GRIEVING OVER LOVE’S PALLOR**  
 
 1181 nayantavarkku nalkāmai nērntēṉ pacantaveṉ  
 
@@ -10286,7 +10288,7 @@ nalkāmai tūṟṟār eṉiṉ.
 
 **120. taṉippaṭar mikuti - CHAPTER
 
- 120— FEELING ALL ALONE**  
+120— FEELING ALL ALONE**  
 
 1191 tāmvīḻvār tamvīḻap peṟṟavar peṟṟārē  
 
@@ -10370,7 +10372,7 @@ ceṟāaay vāḻiya neñcu.
 
 **121. niṉaintavar pulampal - CHAPTER
 
- 121— RECOLLECTING THE PLEASURES OF LOVE**  
+121— RECOLLECTING THE PLEASURES OF LOVE**  
 
 1201 uḷḷiṉum tīrāp perumakiḻ ceytalāl  
 
@@ -10454,7 +10456,7 @@ paṭāati vāḻi mati.
 
 **122. kaṉavunilai uraittal - CHAPTER
 
- 122— DREAMS OF LOVE**  
+122— DREAMS OF LOVE**  
 
 1211 kātalar tūtoṭu vanta kaṉaviṉukku  
 
@@ -10538,7 +10540,7 @@ kāṇārkol ivvū ravar.
 
 **123. poḻutukaṇṭu iraṅkal - CHAPTER
 
- 123— SUNSET AND SORROW**  
+123— SUNSET AND SORROW**  
 
 1221 mālaiyō allai maṇantār uyiruṇṇum  
 
@@ -10622,7 +10624,7 @@ māyumeṉ māyā uyir.
 
 **124. uṟuppu nalaṉ aḻital - CHAPTER
 
- 124— WASTING AWAY**  
+124— WASTING AWAY**  
 
 1231 ciṟumai namakkoḻiyac cēṇceṉṟār uḷḷi  
 
@@ -10708,7 +10710,7 @@ oṇṇutal ceytatu kaṇṭu.
 
 **125. neñcoṭu kiḷattal - CHAPTER
 
- 125— SOLILOQUY OF THE LADY-LOVE**  
+125— SOLILOQUY OF THE LADY-LOVE**  
 
 1241 niṉaittuoṉṟu collāyō neñcē eṉaittoṉṟum  
 
@@ -10792,7 +10794,7 @@ iṉṉum iḻantum kaviṉ.
 
 **126. niṟai aḻital - CHAPTER
 
- 126— ON LOSS OF MODESTY**  
+126— ON LOSS OF MODESTY**  
 
 1251 kāmak kaṇicci uṭaikkum niṟaiyeṉṉum  
 
@@ -10876,7 +10878,7 @@ puṇarntatuūṭi niṟpōm eṉal.
 
 **127. avarvayiṉ vitumpal - CHAPTER
 
- 127— ON DISTRESS OF EACH TOWARDS THE OTHER**  
+127— ON DISTRESS OF EACH TOWARDS THE OTHER**  
 
 1261 vāḷaṟṟup puṟkeṉṟa kaṇṇum avarceṉṟa  
 
@@ -10960,7 +10962,7 @@ uḷḷam uṭaintuukkak kāl.
 
 **128. kuṟippu aṟivuṟuttal - CHAPTER
 
- 128— ON SPEAKING ON THE SIGNS**  
+128— ON SPEAKING ON THE SIGNS**  
 
 1271 karappiṉum kaiyikantu ollāniṉ uṇkaṇ  
 
@@ -11044,7 +11046,7 @@ kāmanōy colli iravu.
 
 **129. puṇarcci vitumpal - CHAPTER
 
- 129— ON YEARNING AFTER UNION**  
+129— ON YEARNING AFTER UNION**  
 
 1281 uḷḷak kaḷittalum kāṇa makiḻtalum  
 
@@ -11128,7 +11130,7 @@ eṉṉiṉum tāṉvitup puṟṟu.
 
 **130. neñcoṭu pulattal - CHAPTER
 
- 130— ON SPEAKING WITH THE MIND**  
+130— ON SPEAKING WITH THE MIND**  
 
 1291 avarneñcu avarkkātal kaṇṭum evaṉneñcē  
 
@@ -11212,7 +11214,7 @@ neñcam tamaral vaḻi. tiṟaṉ kāṭṭuka
 
 **131. pulavi - CHAPTER
 
- 131— ON LOVERS’ MISUNDERSTANDING**  
+131— ON LOVERS’ MISUNDERSTANDING**  
 
 1301 pullātu irāap pulattai avaruṟum  
 
@@ -11296,7 +11298,7 @@ kūṭuvēm eṉpatu avā.
 
 **132. pulavi nuṇukkam - CHAPTER
 
- 132— ON SUBTLETY OF LOVERS’ MISUNDERSTANDING**  
+132— ON SUBTLETY OF LOVERS’ MISUNDERSTANDING**  
 
 1311 peṇiyalār ellārum kaṇṇiṉ potuuṇpar  
 
@@ -11380,7 +11382,7 @@ yāruḷḷi nōkkiṉīr eṉṟu.
 
 **133. ūṭal uvakai - CHAPTER
 
- 133— ON THE PLEASURES OF LOVERS’ MISUNDERSTANDING**  
+133— ON THE PLEASURES OF LOVERS’ MISUNDERSTANDING**  
 
 1321 illai tavaṟuavarkku āyiṉum ūṭutal  
 
@@ -11468,6 +11470,6 @@ End of Tirukkural** -------
 
 This file was last updated on 2 May
 
- 2019.  
+2019.  
 
 Feel free to send the corrections to the webmaster.

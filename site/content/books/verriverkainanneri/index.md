@@ -8,19 +8,21 @@ genres:
   - நீதி நூல்கள்
 ---
 
+
+
 /akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
 weight:
 
- 139  
+139  
 
 authors:  
 
-  - துரைமங்கலம் சிவப்பிரகாச முனிவர்  
+- துரைமங்கலம் சிவப்பிரகாச முனிவர்  
 
 genres:  
 
-  - நீதி நூல்கள்  
+- நீதி நூல்கள்  
 
 ---  
 
@@ -64,7 +66,7 @@ Arial Unicode MS, TSCu_Inaimathi, Code2000, UniMylai,...) installed on your comp
 
 and the OS capable of rendering Tamil Scripts (Windows
 
- 2000 or Windows XP).  
+2000 or Windows XP).  
 
 ii)Use a browser that is capable of handling UTF-8 based pages  
 
@@ -74,7 +76,7 @@ ii)Use a browser that is capable of handling UTF-8 based pages
 
 © Project Madurai
 
- 1999-2003  
+1999-2003  
 
 Project Madurai is an open, voluntary, worldwide initiative devoted  
 
@@ -104,7 +106,7 @@ header page is kept intact.
 
 அதிவீரராம பாண்டியர் என்பார் பாண்டிய நாட்டு கொற்கையை பகுதியை
 
- 450 ஆண்டுகளுக்கு முன் ஆண்டசிற்றரசனன் ஆவார். வரதுங்கபாண்டியர்கு இளவல். நைடதம், கூர்ம புராணம், இலிங்க புராணம், காசி காண்டம், வாயு சங்கிதை, திருக்கருவை அந்தாதி முதலிய பிற நூற்களையும் இயற்றியுள்ளார்.  
+450 ஆண்டுகளுக்கு முன் ஆண்டசிற்றரசனன் ஆவார். வரதுங்கபாண்டியர்கு இளவல். நைடதம், கூர்ம புராணம், இலிங்க புராணம், காசி காண்டம், வாயு சங்கிதை, திருக்கருவை அந்தாதி முதலிய பிற நூற்களையும் இயற்றியுள்ளார்.  
 
   
 
@@ -1086,6 +1088,6 @@ header page is kept intact.
 
 This file was last revised on 21 Feb.
 
- 2002  
+2002  
 
 Please send your comments to the [webmasters of this website](mailto:kalyan@geocities.com, kumar@vt.edu?subject=PM139 nIti veNpA).

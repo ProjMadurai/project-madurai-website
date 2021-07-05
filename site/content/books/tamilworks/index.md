@@ -9,7 +9,9 @@ genres:
   - மாலை
 ---
 
- ###  . திருச்செந்தூர் கந்தர் கலிவெண்பா  
+
+
+###  . திருச்செந்தூர் கந்தர் கலிவெண்பா  
 
 (ஸ்ரீகுமரகுருபர சுவாமிகள் அருளியது)  
 
@@ -393,7 +395,7 @@ genres:
 
   
 
- ###  . சகலகலாவல்லிமாலை  
+###  . சகலகலாவல்லிமாலை  
 
 (ஸரீகுமரகுருபர சுவாமிகள் அருளியது)  
 
@@ -467,7 +469,7 @@ genres:
 
   
 
- ###  . நீதிநெறி விளக்கம்  
+###  . நீதிநெறி விளக்கம்  
 
 (ஸரீகுமரகுருபர சுவாமிகள் அருளியது)  
 
@@ -1097,7 +1099,7 @@ genres:
 
 This page was first put up on March 5,
 
- 2002  
+2002  
 
 Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com,  
 kumar@vt.edu?subject=PM144-kumarakuruparar works II)

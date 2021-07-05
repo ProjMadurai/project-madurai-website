@@ -8,6 +8,8 @@ genres:
   - கட்டுரைகள்
 ---
 
+
+
 ## "தம்பிக்கு"  
 
 மு. வரதராசனார் கடிதங்கள்  
@@ -28,7 +30,7 @@ Source:
 
 59, பிராட்வே, சென்னை – 1 அணா 12 /மூன்றாம் பதிப்பு: அக்டோபர்
 
- 1954  
+1954  
 
 உரிமை ஆசிரியர்க்கு  
 
@@ -410,6 +412,6 @@ Source:
 
 This file was last updated on 4 May
 
- 2009.  
+2009.  
 
 Feel free to send corrections and comments to the Webmaster.

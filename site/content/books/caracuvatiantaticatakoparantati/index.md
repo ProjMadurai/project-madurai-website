@@ -9,19 +9,21 @@ genres:
   - பிரபந்தம்
 ---
 
+
+
 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
 weight: 52  
 
 authors:  
 
-  - கம்பர்  
+- கம்பர்  
 
 genres:  
 
-  - அந்தாதி  
+- அந்தாதி  
 
-  - பிரபந்தம்  
+- பிரபந்தம்  
 
 ---  
 
@@ -59,7 +61,7 @@ Arial Unicode MS, TSCu_Inaimathi, Code2000, UniMylai,...) installed on your comp
 
 and the OS capable of rendering Tamil Scripts (Windows
 
- 2000 or Windows XP).  
+2000 or Windows XP).  
 
 ii)Use a browser that is capable of handling UTF-8 based pages  
 
@@ -69,7 +71,7 @@ ii)Use a browser that is capable of handling UTF-8 based pages
 
 © Project Madurai
 
- 1999-2000  
+1999-2000  
 
 Project Madurai is an open, voluntary, worldwide initiative devoted  
 
@@ -487,7 +489,7 @@ header page is kept intact.
 
 ஐயோ அறிதும் என்றே உபகாரத்தின் ஆற்றலையே. ..
 
- 10.  
+10.  
 
 ஆற்றில பொதிந்த மணலின தொகை அரு மாமறைகள்  
 
@@ -505,7 +507,7 @@ header page is kept intact.
 
 சலவேல்களும் உளவே அது காண்என் தனியுயிரே. ..
 
- 12.  
+12.  
 
 உயிர்உருக்கும் புக்கு உணர்வு உருக்கும் உடலத்தினுள்ள  
 
@@ -587,7 +589,7 @@ header page is kept intact.
 
 தலையார் எவர் அவரே எம்மை ஆளும் தபோதனரே. ..
 
- 22.  
+22.  
 
 போந்து ஏறுக என்று இமையோர் புகலினும், பூந்தொழுவின்  
 
@@ -733,7 +735,7 @@ header page is kept intact.
 
 முலத்திலே செல்ல மூட்டிய ஞானத்து எம்ய்முர்த்தியே. ..
 
- 40.  
+40.  
 
 முர்த்தத்தினை இம் முழு ஏழ் உலகு முழுகுகின்ற  
 
@@ -799,7 +801,7 @@ header page is kept intact.
 
 இவள் திறந்து ஒன்றும் படர் அந்தி வானம் இருள்கின்றதே. ..
 
- 48.  
+48.  
 
 இருளாய்ப் பரந்த உலகங்களை விளிக்கும் இரவி  
 
@@ -841,7 +843,7 @@ header page is kept intact.
 
 வென்றான் குருகைப்பிரான் மகிழேயன்றி வேறில்லையே. ..
 
- 53.  
+53.  
 
 வேறே நமக்கிவன் அன்புடை மெய்யடியான் என்றுள்ளம்  
 
@@ -923,7 +925,7 @@ header page is kept intact.
 
 சுரிக்கின்ற நுண்மணல் ஊற்றொக்கும் தோண்டச் சுரத்தலினே. ..
 
- 63.  
+63.  
 
 சுரக்கும் திருவும் வறுமையும் தீரும் தொடக்கு விட்டுக்  
 
@@ -1157,7 +1159,7 @@ header page is kept intact.
 
 இருமையும் தீர்த்த பிரான் சடகோபன் தன் இன்னருளே. ..
 
- 92.  
+92.  
 
 அருளில் சிலமகிழ் ஆயிழைக்கு ஈவர்கொல் அந்திவந்த  
 
@@ -1215,7 +1217,7 @@ header page is kept intact.
 
 வழுதி நன்னாடன் திருவாய்மொழி எம் மனத்தனவே. ..
 
- 99.  
+99.  
 
 மனையும் பெரும்சேல்வமும் மக்களும் மற்றை வாழ்வும் தன்னை  
 
@@ -1225,10 +1227,10 @@ header page is kept intact.
 
 வினையும் திரிவுற்றன குற்றம் நீங்கின வேதங்களே. ..
 
- 100  
+100  
 
 This page was first put up on Feb. 9,
 
- 2000  
+2000  
 
 Please send your comments and corrections to the [Webmaster of this site](mailto:kalyan@geocities.com, kumar@vt.edu?subject=PM-kampar -1)

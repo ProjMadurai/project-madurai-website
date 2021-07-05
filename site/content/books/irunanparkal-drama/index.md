@@ -8,6 +8,8 @@ genres:
   - நாடகம்
 ---
 
+
+
 ### பம்மல் சம்பந்த முதலியார் எழுதிய  
 
 இரண்டு நண்பர்கள் (நாடகம்)  
@@ -30,9 +32,9 @@ genres:
 
 All rights reserved.}
 
- 1906. {விலை அணா
+1906. {விலை அணா
 
- 12.  
+12.  
 
 Printed By  
 
@@ -66,7 +68,7 @@ P.S.
 
 An English preface to a Tamil drama though rather incongruous has become herein a necessity, for more reasons than one. The more than favourable opinion with which my previously published Tamil dramas have been received both by the play-going critics and the Tamil-reading public, has induced me to think that there is a real demand for other compositions of a similar nature from my humble pen. To prevent any misapprehension, I must state here that the plot of this drama is drawn from my own imagination. This drama was written in
 
- 1896, and was staged successfully a number of times, by the Suguna Vilasa SAbha of Madras. I venture to think that in this drama I have done something more than mere character delineation.  
+1896, and was staged successfully a number of times, by the Suguna Vilasa SAbha of Madras. I venture to think that in this drama I have done something more than mere character delineation.  
 
 A common mistake made by Societies, Amateur and professional, in staging my previously published drama, The Two Sisters, necessitates my giving publicity to the following opinion of mine. I do not think it essential in staging the drama that the whole of it should be put on the stage. Portions here and there, can and might be conveniently cut down, so as to reduce the size of the drama and finish the performance thereof in four hours. Things which are essential to a drama in- trinsically when studied in our library, are not and need not be essential to a performance of the same on the stage. As to what portions are essential for a performance of the drama I would leave the matter entirely in the hands of the Stage Manager and the leading actors.  
 
@@ -8372,6 +8374,6 @@ The Author.
 
 This file was last updated on 2 April
 
- 2012.  
+2012.  
 
 Feel free to send corrections to the Webmaster.

@@ -8,6 +8,8 @@ genres:
   - ஆங்கில மொழிபெயர்ப்பு
 ---
 
+
+
 ### Kalingathupparani (The War of Kalingam) -English Translation  
 
 by Dr. Kausalya Hart  
@@ -82,33 +84,33 @@ This English translation of Kalingathup parani is divided into 7 Parts to make i
 
 Part.
 
- 1. Praising Gods (Poems 1-20)  
+1. Praising Gods (Poems 1-20)  
 
 Part
 
- 2. Warriors and Women (Poems 21-74)  
+2. Warriors and Women (Poems 21-74)  
 
 Part
 
- 3. The description of Anangu’s Forest, temple and her body and ornaments. (Poems75 -133)  
+3. The description of Anangu’s Forest, temple and her body and ornaments. (Poems75 -133)  
 
 Part
 
- 4. The description of the peys. Their emaciated bodies and poverty.  
+4. The description of the peys. Their emaciated bodies and poverty.  
 
 The pey from the Himalayas, his magic, the history of the Chola dynasty.  
 
 Part
 
- 5. Complaints of the peys. King Kulothungan’s birth and youth  
+5. Complaints of the peys. King Kulothungan’s birth and youth  
 
 Part
 
- 6. The Kalinga war and a description of the battlefield.  
+6. The Kalinga war and a description of the battlefield.  
 
 Part
 
- 7. The peys cook porridge  
+7. The peys cook porridge  
 
 ------------  
 
@@ -118,17 +120,17 @@ Part
 
 PART
 
- 1. Praising the gods. (Poems 1-20)  
+1. Praising the gods. (Poems 1-20)  
 
 Chapter
 
- 1. Kadavul vāzhthu. Praising the gods.  
+1. Kadavul vāzhthu. Praising the gods.  
 
   
 
 1,
 
- 2. To make this world flourish  
+2. To make this world flourish  
 
 and give good lives to all,  
 
@@ -162,7 +164,7 @@ created by Brahma.
 
 3,
 
- 4. Let us praise the divine name of Vishnu  
+4. Let us praise the divine name of Vishnu  
 
 the omnipresent god.  
 
@@ -182,7 +184,7 @@ may prosper, protecting the wide world.
 
 5,
 
- 6. Let us praise four-faced Brahma,  
+6. Let us praise four-faced Brahma,  
 
 the origin of the world and creator of the four tracts of land—  
 
@@ -208,7 +210,7 @@ the wide four oceans, and the four castes.
 
 7,
 
- 8. Let us worship the sun god  
+8. Let us worship the sun god  
 
 who brightens the whole world surrounded by wide oceans,  
 
@@ -230,7 +232,7 @@ and spreads his fame everywhere.
 
 9,
 
- 10. Let us worship Ganesa,  
+10. Let us worship Ganesa,  
 
 the five-armed elephant god,  
 
@@ -394,11 +396,11 @@ May his hands that give generously prosper.
 
 ### PART
 
- 2. Waiting for the Warriors. (Poems 21-74)  
+2. Waiting for the Warriors. (Poems 21-74)  
 
 Chapter
 
- 2. Kadaithirappu - Women and Warriors.  
+2. Kadaithirappu - Women and Warriors.  
 
   
 
@@ -1126,13 +1128,13 @@ Open your beautiful golden doors.
 
 ### PART
 
- 3. Kādu, Kovil and Devi (75 -133)  
+3. Kādu, Kovil and Devi (75 -133)  
 
 The Forest and The Temple of the Goddess and the description of her. Kādu, Kovil and Devi.  
 
 Chapter
 
- 3. Kādu pādiyadu. Song of the Forest (75 -96)  
+3. Kādu pādiyadu. Song of the Forest (75 -96)  
 
   
 
@@ -1388,7 +1390,7 @@ and cannot build a bridge.
 
 **Chapter
 
- 4. Koyil Pādiyadu. Song of the Temple - poems (97 -120)**  
+4. Koyil Pādiyadu. Song of the Temple - poems (97 -120)**  
   
   
 
@@ -1660,9 +1662,9 @@ and fighting foxes.
 
 **Chapter
 
- 5. Deviyaip pādiyadu. Song of Praise of the Goddess. (poems
+5. Deviyaip pādiyadu. Song of Praise of the Goddess. (poems
 
- 121-132 )**  
+121-132 )**  
   
   
 
@@ -1866,7 +1868,7 @@ as it was described by Narada to him. (Chapters 6, 7 and 8)
 
 Chapter
 
- 6. Peyhalaip pādiyadu. Song of the Peys (134 -152)  
+6. Peyhalaip pādiyadu. Song of the Peys (134 -152)  
 
   
 
@@ -2086,9 +2088,9 @@ and conquered Lanka and the southern Pandiyan country.
 
 **Chapter
 
- 7. Indira jālam - The Magic show by a Pey. (poems
+7. Indira jālam - The Magic show by a Pey. (poems
 
- 153-177)**  
+153-177)**  
   
   
 
@@ -2146,7 +2148,7 @@ of warriors that had died in the war.
 
 
 
- 158. The chief pey of the temple said,  
+158. The chief pey of the temple said,  
 
 “A messenger was sent  
 
@@ -2398,7 +2400,7 @@ Tell us where have you learned all your tricks.”
 
 
 
- 176. The pey from the Himalayas said.  
+176. The pey from the Himalayas said.  
 
 “When you and the king Suraguru became angry at me,  
 
@@ -2426,9 +2428,9 @@ And so I spent some time there learning magic.”
 
 **Chapter
 
- 8. irāca pārampariyam (Poems
+8. irāca pārampariyam (Poems
 
- 178-211)**  
+178-211)**  
   
   
 
@@ -2872,7 +2874,7 @@ could never vanish or be destroyed.”
 
 
 
- 210. The pey from the Himalayas finished saying,  
+210. The pey from the Himalayas finished saying,  
 
 “When Karikālan finished writing,  
 
@@ -2910,9 +2912,9 @@ said, “The king will certainly protect this earth.”
 
 Chapter
 
- 9. Pey muraippādu. The complaints of the peys (poems
+9. Pey muraippādu. The complaints of the peys (poems
 
- 212-231)  
+212-231)  
 
   
 
@@ -3156,9 +3158,9 @@ as the war in Lanka that is surrounded by the ocean.”
 
 **Chapter
 
- 10. Avathāram Prince Kulothungan’s Birth and Youth (Poems
+10. Avathāram Prince Kulothungan’s Birth and Youth (Poems
 
- 232-311 ).**  
+232-311 ).**  
 
 The goddess tells the peys of the birth and the youth of prince Abhayan. At the end of the chapter  
 
@@ -4050,9 +4052,9 @@ and said, “Describe the war as it happened.”
 
 **Chapter
 
- 11. Kālikku kūli Kūriyadu. (poems
+11. Kālikku kūli Kūriyadu. (poems
 
- 312-403)**  
+312-403)**  
   
   
 
@@ -5080,9 +5082,9 @@ Let us take their lives!”
 
 **Chapter
 
- 12. Por Padiyadu. The song of the War. (Poems
+12. Por Padiyadu. The song of the War. (Poems
 
- 404-471)**  
+404-471)**  
   
   
 
@@ -5776,9 +5778,9 @@ He bowed to the king and received his grace. (404 -471)
 
 **Chapter
 
- 13. Kalam padiyadu. The song of the battlefield (Poems
+13. Kalam padiyadu. The song of the battlefield (Poems
 
- 472-502)**  
+472-502)**  
   
   
 
@@ -6176,9 +6178,9 @@ See those warriors. See those warriors!”
 
 **Chapter
 
- 14. Kuzh aduthal. The song of cooking the porridge (Poems
+14. Kuzh aduthal. The song of cooking the porridge (Poems
 
- 503-596 )**  
+503-596 )**  
   
   
 
@@ -7108,7 +7110,7 @@ SUBHAM
 
 After
 
- 133:  
+133:  
 
 The goddess is never separated from Shiva.  
 
@@ -7120,7 +7122,7 @@ as the inner meaning of “om.”
 
 After
 
- 589:  
+589:  
 
 Some of the peys pretended they were chieftains,  
 
@@ -7158,29 +7160,29 @@ Let us praise his limitless fame.”
 
 1. கடவுள் வாழ்த்து20 ( 1 - 20)
 
- 2. கடை திறப்பு54 ( 21 - 74)
+2. கடை திறப்பு54 ( 21 - 74)
 
- 3. காடு பாடியது22 ( 75 - 96)
+3. காடு பாடியது22 ( 75 - 96)
 
- 4. கோயில் பாடியது24 ( 97-120)
+4. கோயில் பாடியது24 ( 97-120)
 
- 5. தேவியைப் பாடியது13 (121-133)
+5. தேவியைப் பாடியது13 (121-133)
 
- 6. பேய்களைப் பாடியது19 (134-152)
+6. பேய்களைப் பாடியது19 (134-152)
 
- 7. இந்திர சாலம்25 (153-177)
+7. இந்திர சாலம்25 (153-177)
 
- 8. இராச பாரம்பரியம்34 (178-211)
+8. இராச பாரம்பரியம்34 (178-211)
 
- 9. பேய் முறைப்பாடு20 (212-231)
+9. பேய் முறைப்பாடு20 (212-231)
 
- 10. அவதாரம்80 (232-311)
+10. அவதாரம்80 (232-311)
 
- 11. காளிக்குக் கூளி கூறியது92 (312-403)
+11. காளிக்குக் கூளி கூறியது92 (312-403)
 
- 12. போர் பாடியது68 (404-471)
+12. போர் பாடியது68 (404-471)
 
- 13. களம் பாடியது125 (472-596) -------------  
+13. களம் பாடியது125 (472-596) -------------  
 
 **1. கடவுள் வாழ்த்து (1-20)**  
   
@@ -13080,6 +13082,6 @@ Let us praise his limitless fame.”
 
 This file was last updated on 12 June
 
- 2020.  
+2020.  
 
 Feel free to send the corrections to the webmaster.

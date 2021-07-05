@@ -9,19 +9,21 @@ genres:
   - சைவம்
 ---
 
+
+
 mbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
 weight: 92  
 
 authors:  
 
-  - சேந்தனார்  
+- சேந்தனார்  
 
 genres:  
 
-  - சமயம்  
+- சமயம்  
 
-  - சைவம்  
+- சைவம்  
 
 ---  
 
@@ -61,7 +63,7 @@ Arial Unicode MS, TSCu_Inaimathi, Code2000, UniMylai,...) installed on your comp
 
 and the OS capable of rendering Tamil Scripts (Windows
 
- 2000 or Windows XP).  
+2000 or Windows XP).  
 
 ii)Use a browser that is capable of handling UTF-8 based pages  
 
@@ -71,7 +73,7 @@ ii)Use a browser that is capable of handling UTF-8 based pages
 
 © Project Madurai
 
- 1998-2001  
+1998-2001  
 
 Project Madurai is an open, voluntary, worldwide initiative devoted  
 
@@ -119,7 +121,7 @@ header page is kept intact.
 
   
 
- ###  . திருமாளிகைத்தேவர் அருளிய திருவிசைப்பா  
+###  . திருமாளிகைத்தேவர் அருளிய திருவிசைப்பா  
 
   
 
@@ -859,7 +861,7 @@ header page is kept intact.
 
   
 
- ###  . சேந்தனார் அருளிய திருவிசைப்பா  
+###  . சேந்தனார் அருளிய திருவிசைப்பா  
 
   
 
@@ -1465,7 +1467,7 @@ header page is kept intact.
 
 இடர்கெடும் மாலுலா மனமே.
 
- 122  
+122  
 
 திருச்சிற்றம்பலம்  
 
@@ -1473,7 +1475,7 @@ header page is kept intact.
 
   
 
- ###  . கருவூர்த்தேவர் அருளிய திருவிசைப்பா  
+###  . கருவூர்த்தேவர் அருளிய திருவிசைப்பா  
 
   
 
@@ -3269,7 +3271,7 @@ header page is kept intact.
 
   
 
- ###  . பூந்துருத்திநம்பி காடநம்பி அருளிய திருவிசைப்பா  
+###  . பூந்துருத்திநம்பி காடநம்பி அருளிய திருவிசைப்பா  
 
   
 
@@ -3419,7 +3421,7 @@ header page is kept intact.
 
   
 
- ###  . கண்டராதித்தர் அருளிய திருவிசைப்பா  
+###  . கண்டராதித்தர் அருளிய திருவிசைப்பா  
 
   
 
@@ -3531,7 +3533,7 @@ header page is kept intact.
 
   
 
- ###  . வேணாட்டடிகள் அருளிய திருவிசைப்பா  
+###  . வேணாட்டடிகள் அருளிய திருவிசைப்பா  
 
   
 
@@ -3643,7 +3645,7 @@ header page is kept intact.
 
   
 
- ###  . திருவாலியமுதனார் அருளிய திருவிசைப்பா  
+###  . திருவாலியமுதனார் அருளிய திருவிசைப்பா  
 
   
 
@@ -4087,7 +4089,7 @@ header page is kept intact.
 
   
 
- ###  . புருடோத்தம நம்பி அருளிய திருவிசைப்பா  
+###  . புருடோத்தம நம்பி அருளிய திருவிசைப்பா  
 
   
 
@@ -4407,7 +4409,7 @@ header page is kept intact.
 
   
 
- ###  . சேதிராயர் அருளிய திருவிசைப்பா  
+###  . சேதிராயர் அருளிய திருவிசைப்பா  
 
   
 
@@ -4517,7 +4519,7 @@ header page is kept intact.
 
   
 
- ###  0. சேந்தனார் அருளிய திருப்பல்லாண்டு  
+###  0. சேந்தனார் அருளிய திருப்பல்லாண்டு  
 
   
 
@@ -4669,7 +4671,7 @@ header page is kept intact.
 
 பந்தம் பிரியப் பரிந்தவனே என்று பல்லாண்டு கூறுதுமே.
 
- 13.  
+13.  
 
 -------  
 
@@ -4679,6 +4681,6 @@ header page is kept intact.
 
 This page was first put up on Jan 9,
 
- 2001  
+2001  
 
 Please send your comments and corrections to the Webmaster of this site

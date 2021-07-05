@@ -8,17 +8,19 @@ genres:
   - நீதிநெறி – பதினெண்கீழ்க்கணக்கு
 ---
 
+
+
 ttps://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
 weight: 25  
 
 authors:  
 
-  - கபிலர்  
+- கபிலர்  
 
 genres:  
 
-  - நீதிநெறி – பதினெண்கீழ்க்கணக்கு  
+- நீதிநெறி – பதினெண்கீழ்க்கணக்கு  
 
 ---  
 
@@ -66,7 +68,7 @@ Arial Unicode MS, TSCu_Inaimathi, Code2000, UniMylai,...) installed on your comp
 
 and the OS capable of rendering Tamil Scripts (Windows
 
- 2000 or Windows XP).  
+2000 or Windows XP).  
 
 ii)Use a browser that is capable of handling UTF-8 based pages  
 
@@ -76,7 +78,7 @@ ii)Use a browser that is capable of handling UTF-8 based pages
 
 ன Project Madurai
 
- 1999  
+1999  
 
 Project Madurai is an open, voluntary, worldwide initiative devoted  
 

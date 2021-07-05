@@ -8,6 +8,8 @@ genres:
   - சமூக நாவல்
 ---
 
+
+
 ### வனதேவியின் மைந்தர்கள்  
 
 ராஜம் கிருஷ்ணன்  
@@ -24,13 +26,13 @@ genres:
 
 34, சாரங்கபாணித் தெரு, தி. நகர், சென்னை -600
 
- 017  
+017  
 
 முதல் பதிப்பு ஆகஸ்டு
 
- 2001, இரண்டாம் பதிப்பு ஜனவரி
+2001, இரண்டாம் பதிப்பு ஜனவரி
 
- 2007  
+2007  
 
 Vanadeviyin maindargal ( Tamil Social Novel)  
 
@@ -38,17 +40,17 @@ By Rajam Krishnan
 
 Second Edition Jan.
 
- 2007, pages
+2007, pages
 
- 264  
+264  
 
 Dhagam, 34 Sarangapani Street, T. Nagar, Chennai-600
 
- 017  
+017  
 
 Price Rs.
 
- 90.00  
+90.00  
 
 ------------  
 
@@ -4692,6 +4694,6 @@ Price Rs.
 
 This file was last updated on 20 Oct.
 
- 2019  
+2019  
 
 Feel free to send the corrections to the webmaster.

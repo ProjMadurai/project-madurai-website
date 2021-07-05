@@ -9,6 +9,8 @@ genres:
   - பிரபந்தம்
 ---
 
+
+
 ### திருத்துறையூர் சாந்தலிங்க சுவாமிகள்  
 
 அருளிச் செய்த "வைராக்கிய சதகம்"  
@@ -2049,7 +2051,7 @@ genres:
 
 
 
- 100.  
+100.  
 
 வைராக்கிய சதக முற்றிற்று.**  
 
@@ -2067,6 +2069,6 @@ genres:
 
 This file was last updated on 20 March
 
- 2019.  
+2019.  
 
 Feel free to send the corrections to the Webmaster.

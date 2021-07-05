@@ -8,6 +8,8 @@ genres:
   - இலக்கணம்
 ---
 
+
+
 ## சூடாமணி நிகண்டு  
 
 மூலம் : மண்டல புருடர்  
@@ -3814,8 +3816,8 @@ genres:
 
 This page was first put up on September 21,
 
- 2001  
+2001  
 
 Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, kumar@vt.edu?  
 
-  subject=PM118 : cutamani nikantu)
+subject=PM118 : cutamani nikantu)

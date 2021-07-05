@@ -9,6 +9,8 @@ genres:
   - புதினம்
 ---
 
+
+
 ### முத்துச் சிப்பி (நாவல்)  
 
 சரோஜா ராமமூர்த்தி  
@@ -29,7 +31,7 @@ genres:
 
 முதற்பதிப்பு அக்டோபர்.
 
- 1986  
+1986  
 
 விலை ரூ.21-00  
 
@@ -119,9 +121,9 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .
+###  .
 
- 2. பொழுது விடிந்தது  
+2. பொழுது விடிந்தது  
 
   
 
@@ -165,7 +167,7 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .3. கருகும் எண்ணங்கள்து  
+###  .3. கருகும் எண்ணங்கள்து  
 
   
 
@@ -227,7 +229,7 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .4. அண்ணனும் தங்கையும்  
+###  .4. அண்ணனும் தங்கையும்  
 
   
 
@@ -287,7 +289,7 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .5. அழைப்பு ........!  
+###  .5. அழைப்பு ........!  
 
   
 
@@ -343,7 +345,7 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .6. கொம்பும் கொடியும்  
+###  .6. கொம்பும் கொடியும்  
 
   
 
@@ -399,7 +401,7 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .7. மூர்த்தி வருகிறான்!  
+###  .7. மூர்த்தி வருகிறான்!  
 
   
 
@@ -459,7 +461,7 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .8. பசுமலையும் பம்பாயும்  
+###  .8. பசுமலையும் பம்பாயும்  
 
   
 
@@ -575,7 +577,7 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .9. மொட்டைக் கடிதம்....!  
+###  .9. மொட்டைக் கடிதம்....!  
 
   
 
@@ -651,7 +653,7 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .10. விசிறிக் காம்பு  
+###  .10. விசிறிக் காம்பு  
 
   
 
@@ -687,7 +689,7 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .11. புதுப் பள்ளிக்கூடம்  
+###  .11. புதுப் பள்ளிக்கூடம்  
 
   
 
@@ -761,9 +763,9 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .
+###  .
 
- 12. பெண்களின் சம உரிமை!  
+12. பெண்களின் சம உரிமை!  
 
   
 
@@ -811,7 +813,7 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .13. அம்பலத்தரசன்  
+###  .13. அம்பலத்தரசன்  
 
   
 
@@ -857,7 +859,7 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .14. அன்னையும் ஆண்டவனும்  
+###  .14. அன்னையும் ஆண்டவனும்  
 
   
 
@@ -929,7 +931,7 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .15. குற்றமுள்ள நெஞ்சு  
+###  .15. குற்றமுள்ள நெஞ்சு  
 
   
 
@@ -975,7 +977,7 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .16. டவுன் பஸ்  
+###  .16. டவுன் பஸ்  
 
   
 
@@ -1059,9 +1061,9 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .
+###  .
 
- 17. பஸ் நகர்ந்தது  
+17. பஸ் நகர்ந்தது  
 
   
 
@@ -1095,9 +1097,9 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .
+###  .
 
- 18. சீர்திருத்தவாதி .....!  
+18. சீர்திருத்தவாதி .....!  
 
   
 
@@ -1189,7 +1191,7 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .19. தந்தி வந்தது  
+###  .19. தந்தி வந்தது  
 
   
 
@@ -1257,9 +1259,9 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .
+###  .
 
- 20. மூர்த்தியின் ஏமாற்றம்  
+20. மூர்த்தியின் ஏமாற்றம்  
 
   
 
@@ -1427,9 +1429,9 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .
+###  .
 
- 2. டாக்டர் ஸ்ரீதரன்  
+2. டாக்டர் ஸ்ரீதரன்  
 
   
 
@@ -1487,9 +1489,9 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .
+###  .
 
- 3. உடலும் உள்ளமும்  
+3. உடலும் உள்ளமும்  
 
   
 
@@ -1561,9 +1563,9 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .
+###  .
 
- 4. கிழவரின் கண்ணீர்  
+4. கிழவரின் கண்ணீர்  
 
   
 
@@ -1613,9 +1615,9 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .
+###  .
 
- 5. குரங்கு மூஞ்சி பாலு....!  
+5. குரங்கு மூஞ்சி பாலு....!  
 
   
 
@@ -1667,9 +1669,9 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .
+###  .
 
- 6. பழிக்குப் பழி  
+6. பழிக்குப் பழி  
 
   
 
@@ -1727,9 +1729,9 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .
+###  .
 
- 7. சென்னையில் மூர்த்தி  
+7. சென்னையில் மூர்த்தி  
 
   
 
@@ -1815,9 +1817,9 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .
+###  .
 
- 8. சந்திப்பு  
+8. சந்திப்பு  
 
   
 
@@ -1861,9 +1863,9 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .
+###  .
 
- 9. கோமதியின் குறை  
+9. கோமதியின் குறை  
 
   
 
@@ -1903,9 +1905,9 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .
+###  .
 
- 10. கண்டான் ராதாவை .....  
+10. கண்டான் ராதாவை .....  
 
   
 
@@ -1955,9 +1957,9 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .
+###  .
 
- 11. கண்ணீர் சுரந்தது  
+11. கண்ணீர் சுரந்தது  
 
   
 
@@ -2011,9 +2013,9 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .
+###  .
 
- 12. வக்கீல் வேதாந்தம்  
+12. வக்கீல் வேதாந்தம்  
 
   
 
@@ -2073,9 +2075,9 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .
+###  .
 
- 13. ராதாவுக்குத் தெரிந்தவர்  
+13. ராதாவுக்குத் தெரிந்தவர்  
 
   
 
@@ -2175,7 +2177,7 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .14 டாக்டர் வீட்டில் பவானி  
+###  .14 டாக்டர் வீட்டில் பவானி  
 
   
 
@@ -2225,9 +2227,9 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .
+###  .
 
- 15. காதல் வேகம் ...!  
+15. காதல் வேகம் ...!  
 
   
 
@@ -2291,9 +2293,9 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .
+###  .
 
- 16. செல்வப்பெண் ராதா  
+16. செல்வப்பெண் ராதா  
 
   
 
@@ -2377,9 +2379,9 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .
+###  .
 
- 17. கபடச் சிரிப்பு  
+17. கபடச் சிரிப்பு  
 
   
 
@@ -2455,9 +2457,9 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .
+###  .
 
- 18. ராதாவின் கல்யாணம்  
+18. ராதாவின் கல்யாணம்  
 
   
 
@@ -2527,7 +2529,7 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  . 19 கல்யாணம் முடிந்தது  
+###  . 19 கல்யாணம் முடிந்தது  
 
   
 
@@ -2555,9 +2557,9 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .
+###  .
 
- 20. மாமரமும் மாங்கனியும்  
+20. மாமரமும் மாங்கனியும்  
 
   
 
@@ -2617,9 +2619,9 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .
+###  .
 
- 21. பணமேதான் ஜீவநாடி  
+21. பணமேதான் ஜீவநாடி  
 
   
 
@@ -2703,9 +2705,9 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .
+###  .
 
- 22. ஆண்டவனின் குரல்  
+22. ஆண்டவனின் குரல்  
 
   
 
@@ -2741,9 +2743,9 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .
+###  .
 
- 23. பெண்மையின் பலஹீனம்  
+23. பெண்மையின் பலஹீனம்  
 
   
 
@@ -2809,9 +2811,9 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .
+###  .
 
- 24. உண்மைச் சொரூபம்  
+24. உண்மைச் சொரூபம்  
 
   
 
@@ -2893,9 +2895,9 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .
+###  .
 
- 25. பொம்மைக் குதிரை  
+25. பொம்மைக் குதிரை  
 
   
 
@@ -2957,9 +2959,9 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .
+###  .
 
- 26. அவசர முடிவு  
+26. அவசர முடிவு  
 
   
 
@@ -3001,9 +3003,9 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .
+###  .
 
- 27. முக்கியமான விஷயம்  
+27. முக்கியமான விஷயம்  
 
   
 
@@ -3047,9 +3049,9 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .
+###  .
 
- 28. சலனம்  
+28. சலனம்  
 
   
 
@@ -3075,9 +3077,9 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .
+###  .
 
- 29. குழந்தையின் குரல்  
+29. குழந்தையின் குரல்  
 
   
 
@@ -3171,9 +3173,9 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .
+###  .
 
- 30. காதல் அரும்பியது  
+30. காதல் அரும்பியது  
 
   
 
@@ -3221,9 +3223,9 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .
+###  .
 
- 31. உள்ளத்துக்கு வைத்தியன்!  
+31. உள்ளத்துக்கு வைத்தியன்!  
 
   
 
@@ -3285,9 +3287,9 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .
+###  .
 
- 32. குற்றச்சாட்டு  
+32. குற்றச்சாட்டு  
 
   
 
@@ -3339,9 +3341,9 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .
+###  .
 
- 33. அவள் செய்த பாக்கியம்  
+33. அவள் செய்த பாக்கியம்  
 
   
 
@@ -3371,9 +3373,9 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .
+###  .
 
- 34. தொழிலும் கடமையும்  
+34. தொழிலும் கடமையும்  
 
   
 
@@ -3421,9 +3423,9 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .
+###  .
 
- 35. இருளுக்குப் பின் ஒளி  
+35. இருளுக்குப் பின் ஒளி  
 
   
 
@@ -3453,9 +3455,9 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .
+###  .
 
- 36. நம்பிக்கை  
+36. நம்பிக்கை  
 
   
 
@@ -3521,9 +3523,9 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .
+###  .
 
- 37. மகிழ்ச்சி வெள்ளம்  
+37. மகிழ்ச்சி வெள்ளம்  
 
   
 
@@ -3587,9 +3589,9 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .
+###  .
 
- 38. கல்யாணப் பேச்சு  
+38. கல்யாணப் பேச்சு  
 
   
 
@@ -3641,9 +3643,9 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
   
 
- ###  .
+###  .
 
- 39. முத்துச்சிப்பி  
+39. முத்துச்சிப்பி  
 
   
 
@@ -3705,6 +3707,6 @@ Wrapper Printed at Eskay Art Printers, Madras-5
 
 This file was last updated on 18 April
 
- 2020.  
+2020.  
 
 Feel free to send the corrections to the Webmaster.

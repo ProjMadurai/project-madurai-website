@@ -9,6 +9,8 @@ genres:
   - பிரபந்தம்
 ---
 
+
+
 ## திருமலையாண்டவர் குறவஞ்சி  
 
 (ஆசிரியர் யார் என தெரியவில்லை)  
@@ -17,7 +19,7 @@ genres:
 
 This text has been entered from
 
- 1995 edition (second edition) of the book by this name published by U.Ve. Swaminatha Aiyar Library. This contains only the verse (moolam) and not the meaning / commentary in the book.  
+1995 edition (second edition) of the book by this name published by U.Ve. Swaminatha Aiyar Library. This contains only the verse (moolam) and not the meaning / commentary in the book.  
 
 It is not known who is the author of this work. The deity on whom this poem has been sung is Muruga situated on the hill in the town PANPULI in Tirunelveli district. Last few verses are missing.  
 
@@ -2647,8 +2649,8 @@ It is not known who is the author of this work. The deity on whom this poem has 
 
 This page was first put up on May 11,
 
- 2001  
+2001  
 
 Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, kumar@vt.edu?  
 
-  subject=PM110 : kuRuntokai)
+subject=PM110 : kuRuntokai)

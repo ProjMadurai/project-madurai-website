@@ -8,6 +8,8 @@ genres:
   - பாடல்கள் தொகுப்பு
 ---
 
+
+
 source acknowledgement:  
 
 தாயுமான சுவாமிகள் திருவாய்மலர்ந்தருளிய  
@@ -34,7 +36,7 @@ source acknowledgement:
 
   
 
- ###  5. எனக்கெனச்செயல்.  
+###  5. எனக்கெனச்செயல்.  
 
   
 
@@ -210,7 +212,7 @@ source acknowledgement:
 
   
 
- ###  6. மண்டலத்தின்  
+###  6. மண்டலத்தின்  
 
   
 
@@ -372,7 +374,7 @@ source acknowledgement:
 
   
 
- ###  7. பாயப்புலி  
+###  7. பாயப்புலி  
 
   
 
@@ -734,7 +736,7 @@ source acknowledgement:
 
   
 
- ###  8. உடல்பொய்யுறவு  
+###  8. உடல்பொய்யுறவு  
 
   
 
@@ -1240,7 +1242,7 @@ source acknowledgement:
 
   
 
- ###  9. ஏசற்றவந்நிலை.  
+###  9. ஏசற்றவந்நிலை.  
 
   
 
@@ -1310,7 +1312,7 @@ source acknowledgement:
 
   
 
- ###  0. காடுங்கரையும்  
+###  0. காடுங்கரையும்  
 
   
 
@@ -1344,7 +1346,7 @@ source acknowledgement:
 
   
 
- ###  1. எடுத்ததேகம்  
+###  1. எடுத்ததேகம்  
 
   
 
@@ -1382,7 +1384,7 @@ source acknowledgement:
 
   
 
- ###  2. முகமெலாம்.  
+###  2. முகமெலாம்.  
 
   
 
@@ -1396,7 +1398,7 @@ source acknowledgement:
 
   
 
- ###  3. திடமுறவே  
+###  3. திடமுறவே  
 
   
 
@@ -1466,7 +1468,7 @@ source acknowledgement:
 
   
 
- ###  4. தன்னை  
+###  4. தன்னை  
 
   
 
@@ -1482,7 +1484,7 @@ source acknowledgement:
 
   
 
- ###  5. ஆக்குவை  
+###  5. ஆக்குவை  
 
   
 
@@ -1496,7 +1498,7 @@ source acknowledgement:
 
   
 
- ###  6. கற்புறுசிந்தை  
+###  6. கற்புறுசிந்தை  
 
   
 
@@ -1546,7 +1548,7 @@ source acknowledgement:
 
   
 
- ###  7. மலைவளர்காதலி  
+###  7. மலைவளர்காதலி  
 
   
 
@@ -1794,7 +1796,7 @@ source acknowledgement:
 
   
 
- ###  8. அகிலாண்டநாயகி  
+###  8. அகிலாண்டநாயகி  
 
   
 
@@ -1834,7 +1836,7 @@ source acknowledgement:
 
   
 
- ###  9. பெரியநாயகி  
+###  9. பெரியநாயகி  
 
   
 
@@ -1874,7 +1876,7 @@ source acknowledgement:
 
   
 
- ###  0. தந்தைதாய்  
+###  0. தந்தைதாய்  
 
   
 
@@ -1924,7 +1926,7 @@ source acknowledgement:
 
   
 
- ###  1. பெற்றவட்கே  
+###  1. பெற்றவட்கே  
 
   
 
@@ -1998,7 +2000,7 @@ source acknowledgement:
 
   
 
- ###  2. கல்லாலின்  
+###  2. கல்லாலின்  
 
   
 
@@ -2184,5 +2186,4 @@ source acknowledgement:
 
 This file was last updated on 10 August
 
- 2008  
-
+2008  

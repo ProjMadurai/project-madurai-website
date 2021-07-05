@@ -8,17 +8,19 @@ genres:
   - சமயம்
 ---
 
+
+
 thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
 weight: 54  
 
 authors:  
 
-  - மாணிக்க வாசகர்  
+- மாணிக்க வாசகர்  
 
 genres:  
 
-  - சமயம்  
+- சமயம்  
 
 ---  
 
@@ -58,7 +60,7 @@ Arial Unicode MS, TSCu_Inaimathi, Code2000, UniMylai,...) installed on your comp
 
 and the OS capable of rendering Tamil Scripts (Windows
 
- 2000 or Windows XP).  
+2000 or Windows XP).  
 
 ii)Use a browser that is capable of handling UTF-8 based pages  
 
@@ -68,7 +70,7 @@ ii)Use a browser that is capable of handling UTF-8 based pages
 
 © Project Madurai
 
- 1999-2000  
+1999-2000  
 
 Project Madurai is an open, voluntary, worldwide initiative devoted  
 
@@ -1834,7 +1836,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 சிங்கம் திரிதரு சீறூர்ச் சிறுமிஎம் தேமொழியே. ..
 
- 100  
+100  
 
 கொளு  
 
@@ -1852,7 +1854,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 கொலையென்று திண்ணிய வா(று)ஐயர் கையிற் கொடுஞ்சிலையே. ..
 
- 101  
+101  
 
 கொளு  
 
@@ -1870,7 +1872,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 பித்தழை யாநிற்ப ரால்என்ன பாவம் பெரியவரே. ..
 
- 102  
+102  
 
 கொளு  
 
@@ -1886,7 +1888,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 இக்குன்றில் என்றும் மலர்ந்தறி யாத இயல்பினவே. ..
 
- 103  
+103  
 
 கொளு  
 
@@ -1902,7 +1904,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 ஒருகு தலைச்சின் மழலைக் கென் னோஐய ஓதுவதே. ..
 
- 104  
+104  
 
 கொளு  
 
@@ -1918,7 +1920,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 கண்டால் இயலும் கடனில்லை கொல்லோ கருதியதே. ..
 
- 105  
+105  
 
 கொளு  
 
@@ -1936,7 +1938,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 வித்தகம் சேர்மெல்லென் நோக்கமன்றோஎன் விழுத்துணையே. ..
 
- 106  
+106  
 
 கொளு  
 
@@ -1954,7 +1956,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 எண்இறந் தார்அவர் யார்கண்ண தோமன்ன நின்னருளே. ..
 
- 107  
+107  
 
 கொளு  
 
@@ -1972,7 +1974,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 உவவின நாள்மதி போன்றொளிர் கின்ற(து) ஒளிமுகமே. ..
 
- 108  
+108  
 
 கொளு  
 
@@ -1988,7 +1990,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 பே(சு)அத் திருவார்த்தை யிற்பெரு நீளம் பெருங்கண்களே. ..
 
- 109  
+109  
 
 கொளு  
 
@@ -2004,7 +2006,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 கோலாப் பிரசம் அன் னாட்(கு)ஐய நீதந்த கொய் தழையே. ..
 
- 110  
+110  
 
 கொளு  
 
@@ -2020,7 +2022,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 இழைகாண் பணைமுலை யாய்அறி யேன்சொல்லும் ஈடவற்கே. ..
 
- 111  
+111  
 
 கொளு  
 
@@ -2038,7 +2040,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 துவளத் தகுவன வோசுரும் பார்குழல் தூமொழியே. ..
 
- 112  
+112  
 
 கொளு  
 
@@ -2054,7 +2056,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 ஏறும் மலைதொலைத் தாற்(கு)என்னை யாம்செய்வ(து) ஏந்திழையே. ..
 
- 113  
+113  
 
 கொளு  
 
@@ -2072,7 +2074,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 இவ்வரை மேற்சிலம் பன்எளி தில்தந்த ஈர்ந்தழையே. ..
 
- 114  
+114  
 
 கொளு  
 
@@ -2090,7 +2092,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 பூசிற் றிலள்அன்றிச் செய்யா தனஇல்லை பூந்தழையே. ..
 
- 115  
+115  
 
 கொளு  
 
@@ -2120,7 +2122,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 கானுழை வாழ்வுபெற் றாங்கெழில் காட்டுமொர் கார்ப்பொழிலே. ..
 
- 116  
+116  
 
 கொளு  
 
@@ -2138,7 +2140,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 தயல்வளர் மேனியன் அம்பலத் தான்வரைத் தண்புனத்தே. ..
 
- 117  
+117  
 
 கொளு  
 
@@ -2156,7 +2158,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 புனைவளர் கொம்பர்அன் னாய்அன்ன காண்டும் புனமயிலே. ..
 
- 118  
+118  
 
 கொளு  
 
@@ -2174,7 +2176,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 குரல்வேய் அளிமுரல் கொங்கார் தடமலர் கொண்டுவந்தே. ..
 
- 119  
+119  
 
 கொளு  
 
@@ -2192,7 +2194,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 வடமார் முலைமட வாய்வந்து வைஇற்றுஇவ் வார்பொழிற்கே. ..
 
- 120  
+120  
 
 கொளு  
 
@@ -2210,7 +2212,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 பித்தீர் பணைமுலை காள்என்னுக்கு இன்னும் பெருக்கின்றதே. ..
 
- 121  
+121  
 
 கொளு  
 
@@ -2228,7 +2230,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 தெளிநீ அனையபொன் னேபண்ணு கோலம் திருநுதலே. ..
 
- 122  
+122  
 
 கொளு  
 
@@ -2244,7 +2246,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 கொழுநீர் நறப்பரு கும்பெரு நீர்மை அளிகுவமே. ..
 
- 123  
+123  
 
 கொளு  
 
@@ -2262,7 +2264,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 செழுந்தா(து) அவிழ்பொழில் ஆயத்துச் சேர்க் திருத்தகவே. ..
 
- 124  
+124  
 
 கொளு  
 
@@ -2280,7 +2282,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 இன்னன யான்கொணர்ந் தேன்மணந் தாழ்குழற்(கு) ஏய்வனவே. ..
 
- 125  
+125  
 
 கொளு  
 
@@ -2298,7 +2300,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 உறுகால் பிறர்க்(கு)அரி யோன்புலி யூரன்ன ஒண்ணுதலே. ..
 
- 126  
+126  
 
 கொளு  
 
@@ -2316,7 +2318,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 வழங்கும் பிரான்எரி யாடிதென் தில்லை மணிநகர்க்கே. ..
 
- 127  
+127  
 
 கொளு  
 
@@ -2334,7 +2336,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 வள்ளி மருங்குல் வருத்துவ போன்ற வனமுலையே. ..
 
- 128  
+128  
 
 கொளு  
 
@@ -2352,7 +2354,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 கூடஞ்செய் சாரல் கொடிச்சியென் றோநின்று கூறுவதே. ..
 
- 129  
+129  
 
 கொளு  
 
@@ -2370,7 +2372,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 தாய்தந்தை கானவர் ஏனல்எங் காவல்இத் தாழ்வரையே. ..
 
- 130  
+130  
 
 கொளு  
 
@@ -2388,7 +2390,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 பொன்னங் கழல்வழுத் தார்புலன் என்னப் புலம்புவனே. ..
 
- 131  
+131  
 
 கொளு  
 
@@ -2406,7 +2408,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 இனிக்கண் டிலம்பற்றுச் சிற்றிடைக்(கு) என்றஞ்சும் எம்அனையே. ..
 
- 132  
+132  
 
 கொளு  
 
@@ -2424,7 +2426,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 தீவிளை யாட நின் றேவிளை யாடி திருமலைக்கே. ..
 
- 133  
+133  
 
 கொளு  
 
@@ -2440,7 +2442,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 மற்றும் சிலபல சீறூர் பகர்பெரு வார்த்தைகளே. ..
 
- 134  
+134  
 
 கொளு  
 
@@ -2458,7 +2460,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 கெழி உம்ம வேபணைத் தோள்பல என்னோ கிளக்கின்றதே. ..
 
- 135  
+135  
 
 கொளு  
 
@@ -2476,7 +2478,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 உடையார் கடவி வருவது போலும் உருவினதே. ..
 
- 136  
+136  
 
 கொளு  
 
@@ -2492,7 +2494,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 பொருப்பனை முன்னின்(று) என் னோவினை யேன்யான் புகல்வதுவே. ..
 
- 137  
+137  
 
 கொளு  
 
@@ -2508,7 +2510,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 சோதிடம் கொண்(டு)இதுஎம் மைக்கெடு வித்தது தூமொழியே. ..
 
- 138  
+138  
 
 கொளு  
 
@@ -2526,7 +2528,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 தடிவார் தினைஎமர் காவேம் பெருமஇத் தண்புனமே. ..
 
- 139  
+139  
 
 கொளு  
 
@@ -2542,7 +2544,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 வினைவித்திக் காத்து விளைவுண்ட தாகி விளைந்ததுவே. ..
 
- 140  
+140  
 
 கொளு  
 
@@ -2560,7 +2562,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 தினைகெடச் செய்திடு மாறும்உண் டோஇத் திருக்கணியே. ..
 
- 141  
+141  
 
 கொளு  
 
@@ -2578,7 +2580,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 தொழுவார் வினைநிற்கி லேநிற்ப தாவ(து)இத் தொல்புனத்தே. ..
 
- 142  
+142  
 
 கொளு  
 
@@ -2594,7 +2596,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 கருப்பற்று விட்டெனக் கொய்தற்ற தின்றிக் கடிப்பினமே. ..
 
- 143  
+143  
 
 கொளு  
 
@@ -2612,7 +2614,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 இருவிசெய் தாளின் இருந்(து)இன்று காட்டும் இளங்கிளியே. ..
 
- 144  
+144  
 
 கொளு  
 
@@ -2628,7 +2630,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 துணியா தனதுணிந் தார்என்னும் நீர்மைகள் சொல்லுமினே. ..
 
- 145  
+145  
 
 கொளு  
 
@@ -2646,7 +2648,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 மதுவினில் கைப்புவைத் தாலொத்த வாமற்(று)இவ் வான்புனமே. ..
 
- 146  
+146  
 
 கொளு  
 
@@ -2664,7 +2666,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 நானுந் தளர்ந்தனன் நீயும் தளர்ந்தனை நன்னெஞ்சமே. ..
 
- 147  
+147  
 
 கொளு  
 
@@ -2698,7 +2700,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 விருந்தின் யான்உங்கள் சீறூர் அதனுக்கு வெள்வளையே. ..
 
- 148  
+148  
 
 கொளு  
 
@@ -2716,7 +2718,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 பசும்பனிக் கோடு மிலைந்தான் மலயத்(து)எம் வாழ்பதியே ..
 
- 149  
+149  
 
 கொளு  
 
@@ -2734,7 +2736,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 ஆற்றேன் அரிய அரிவைக்கு நீவைத்த அன்பினுக்கே. ..
 
- 150  
+150  
 
 கொளு  
 
@@ -2752,7 +2754,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 மீளி யுரைத்தி வினையேன் உரைப்பதென் மெல்லியற்கே. ..
 
- 151  
+151  
 
 கொளு  
 
@@ -2770,7 +2772,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 உரையென்ன வோசிலம் பாநலம் பாவி ஒளிர்வனவே. ..
 
- 152  
+152  
 
 கொளு  
 
@@ -2788,7 +2790,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 அம்மலர் வாட்கண்நல் லாய்எல்லி வாய்நுமர் ஆடுவதே. ..
 
- 153  
+153  
 
 கொளு  
 
@@ -2806,7 +2808,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 சினைவளர் வேங்கைகள் யாங்கள்நின்(று) ஆடும் செழும்பொழிலே. ..
 
- 154  
+154  
 
 கொளு  
 
@@ -2824,7 +2826,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 செலஅந்தி வாய்க்கண் டனன்என்ன(து) ஆங்கொல்மன் சேர்துயிலே. ..
 
- 155  
+155  
 
 கொளு  
 
@@ -2842,7 +2844,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 வேட்டம் திரிசரி வாய்வரு வான்சொல்லு மெல்லியலே. ..
 
- 156  
+156  
 
 கொளு  
 
@@ -2858,7 +2860,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 வழங்கா அதரின் வழங்கென்று மோஇன்(று)எம் வள்ளலையே. ..
 
- 157  
+157  
 
 கொளு  
 
@@ -2876,7 +2878,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 வாங்கும் அவர்க்(கு)அறி யேன்சிறி யேன்சொல்லும் வாசகமே. ..
 
- 158  
+158  
 
 கொளு  
 
@@ -2894,7 +2896,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 தேனக்க கொன்றையன் தில்லை யுறார்செல்லும் செல்லல்களே. ..
 
- 159  
+159  
 
 கொளு  
 
@@ -2912,7 +2914,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 மன்னும் அரவத்த வாய்த்துயில் பேரும் மயிலினமே. ..
 
- 160  
+160  
 
 கொளு  
 
@@ -2930,7 +2932,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 தோடார் மதுமலர் நாகத்தை நூக்குநம் சூழ்பொழிற்கே. ..
 
- 161  
+161  
 
 கொளு  
 
@@ -2948,7 +2950,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 கண்ணோர்க்கு மேற்கண்டு காண்வண்டு வாழும் கருங்குழலே. ..
 
- 162  
+162  
 
 கொளு  
 
@@ -2966,7 +2968,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 சந்தீ வரமுறி யும்வெறி வீயும் தருகுவனே. ..
 
- 163  
+163  
 
 கொளு  
 
@@ -2984,7 +2986,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 நாமரை யாமத்(து)என் னோவந்து வைகி நயந்ததுவே. ..
 
- 164  
+164  
 
 கொளு  
 
@@ -3002,7 +3004,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 புகலும் மிகஇங்ங னேயிறு மாக்கும் புணர்முலையே. ..
 
- 165  
+165  
 
 கொளு  
 
@@ -3020,7 +3022,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 எழுந்(து)ஆங் கதுமலர்த் தும்உயர் வானத்(து) இளமதியே. ..
 
- 166  
+166  
 
 கொளு  
 
@@ -3038,7 +3040,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 துரும்புறச் செற்றகொற் றத்(து)எம் பிரான்தில்லைச் சூழ்பொழிற்கே. ..
 
- 167  
+167  
 
 கொளு  
 
@@ -3056,7 +3058,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 கற்பகச் சோலை கதுவுங்கல் நாடஇக் கல்லதரே. ..
 
- 168  
+168  
 
 கொளு  
 
@@ -3074,7 +3076,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 இவ்வா(று) இருக்கும்என் றேநிற்ப(து) என்றும்என் இன்னுயிரே. ..
 
- 169  
+169  
 
 கொளு  
 
@@ -3092,7 +3094,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 மைவார் குவளை விடும்மன்ன நீண்முத்த மாலைகளே. ..
 
- 170  
+170  
 
 கொளு  
 
@@ -3110,7 +3112,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 நாகம் மலிபொழில் வாயெழில் வாய்த்தநின் நாயகமே. ..
 
- 171  
+171  
 
 கொளு  
 
@@ -3128,7 +3130,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 அன்னம் புலரும் அளவும் துயிலா(து) அழுங்கினவே. ..
 
- 172  
+172  
 
 கொளு  
 
@@ -3146,7 +3148,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 பேர்த்தும் இரைப்பொழி யாய்பழி நோக்காய் பெருங்கடலே. ..
 
- 173  
+173  
 
 கொளு  
 
@@ -3164,7 +3166,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 தீதுற்ற(து) என்னுக்(கு)என் னீர்இது வோநன்மை செப்புமினே. ..
 
- 174  
+174  
 
 கொளு  
 
@@ -3182,7 +3184,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 கொன்னிற வேலொடு வந்திடின் ஞாளி குரை தருமே. ..
 
- 175  
+175  
 
 கொளு  
 
@@ -3198,7 +3200,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 சூருறு சோலையின் வாய்வரற் பாற்றன்று தூங்கிருளே. ..
 
- 176  
+176  
 
 கொளு  
 
@@ -3216,7 +3218,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 மண்டல மேபணி யாய்தமி யேற்கொரு வாசகமே. ..
 
- 177  
+177  
 
 கொளு  
 
@@ -3234,7 +3236,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 மற்றொன்று சிந்திப்ப ரேல்வல்ல ளோமங்கை வாழ்வகையே. ..
 
- 178  
+178  
 
 கொளு  
 
@@ -3252,7 +3254,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 ஆங்கணைந் தார்நின்னை யும்உள ரோசென்(று) அகன்றவரே. ..
 
- 179  
+179  
 
 கொளு  
 
@@ -3270,7 +3272,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 அலராய் விளைகின்ற(து) அம்பல்கைம் மிக்(கு)ஐய மெய்யருளே. ..
 
- 180  
+180  
 
 கொளு  
 
@@ -3300,7 +3302,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 திகழும் அவர்செல்லல் போலில்லை யாம்பழி சின்மொழிக்கே. ..
 
- 181  
+181  
 
 கொளு  
 
@@ -3316,7 +3318,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 சீரம்பல் சுற்றி எற்றிச் சிறந்தார்க்கும் செறிகடலே. ..
 
- 182  
+182  
 
 கொளு  
 
@@ -3334,7 +3336,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 பூணிகர் வாளர வன்புலி யூர்சுற்றும் போர்க்கடலே. ..
 
- 183  
+183  
 
 கொளு  
 
@@ -3350,7 +3352,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 அகன்றார் அகன்றே ஒழிவர்கொல் லோநம் அகன்துறையே. ..
 
- 184  
+184  
 
 கொளு  
 
@@ -3366,7 +3368,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 புள்ளும் திரையும் பொரச்சங்கம் ஆர்க்கும் பொருகடலே. ..
 
- 185  
+185  
 
 கொளு  
 
@@ -3384,7 +3386,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 வாழி திருத்தித் தரக்கிற்றி யோஉள்ளம் வள்ளலையே. ..
 
- 186  
+186  
 
 கொளு  
 
@@ -3400,7 +3402,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 ஆர்த்தர் அங் கம்செய்யு மால்உய்யு மா(று)என்கொல் ஆழ்சுடரே. ..
 
- 187  
+187  
 
 கொளு  
 
@@ -3418,7 +3420,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 அகலோங்(கு) இருங்கழி வாய்க்கொழு மீனுண்ட அன்னங்களே. ..
 
- 188  
+188  
 
 கொளு  
 
@@ -3436,7 +3438,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 மன்னும் பகலே மகிழ்ந்திரை தேரும்வண் டானங்களே. ..
 
- 189  
+189  
 
 கொளு  
 
@@ -3454,7 +3456,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 வருங்கழி காதல் வனசங்கள் கூப்பும் மலர்க்கைகளே. ..
 
- 190  
+190  
 
 கொளு  
 
@@ -3470,7 +3472,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 காவல் தழீஇயவர்க்(கு) ஓதா(து) அளிய களியன்னமே. ..
 
- 191  
+191  
 
 கொளு  
 
@@ -3488,7 +3490,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 எல்லார் மதியே இதுநின்னை யான்இன்(று) இரக்கின்றதே. ..
 
- 192  
+192  
 
 கொளு  
 
@@ -3506,7 +3508,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 ஒளிரும் சடைமுடி யோன்புலி யூர்அன்ன ஒண்ணுதலே. ..
 
- 193  
+193  
 
 கொளு  
 
@@ -3538,7 +3540,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 இராகங்கண் டால்வள்ள லேஇல்லை யேஎமர் எண்ணுவதே. ..
 
- 194  
+194  
 
 கொளு  
 
@@ -3556,7 +3558,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 அணியக் கருதுநின் றார்பலர் மேன்மேல் அயலவரே. ..
 
- 195  
+195  
 
 கொளு  
 
@@ -3574,7 +3576,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 மாப்பணி லங்கள் முழுங்கத் தழங்கும் மணமுரசே. ..
 
- 196  
+196  
 
 கொளு  
 
@@ -3592,7 +3594,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 கலம்பா வியமுலை யின்விலை என்நீ கருதுவதே. ..
 
- 197  
+197  
 
 கொளு  
 
@@ -3610,7 +3612,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 நயம்பற்றி நின்று நடுங்கித் தளர்கின்ற நன்னெஞ்சமே. ..
 
- 198  
+198  
 
 கொளு  
 
@@ -3626,7 +3628,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 பைதயங் கும்அர வம்புரை யும்அல்குல் பைந்தொடியே. ..
 
- 199  
+199  
 
 கொளு  
 
@@ -3642,7 +3644,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 பாவைதந் தாள்பைங் கிளியளித் தாள்இன்றென் பைந்தொடியே. ..
 
- 200  
+200  
 
 கொளு  
 
@@ -3658,7 +3660,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 அல்லியங் கோதைநல் லாய்எல்லை சேய்த்துஎம் அகல்நகரே. ..
 
- 201  
+201  
 
 கொளு  
 
@@ -3676,7 +3678,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 பணையும் தடமும்அன் றேநின்னோ(டு) ஏகின்எம் பைந்தொடிக்கே. ..
 
- 202  
+202  
 
 கொளு  
 
@@ -3694,7 +3696,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 செங்கயல் அன்றே கருங்கயல் கண்ணித் திருநுதலே. ..
 
- 203  
+203  
 
 கொளு  
 
@@ -3712,7 +3714,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 வாயில் சிறந்த மதியில் சிறந்த மதிநுதலே. ..
 
- 204  
+204  
 
 கொளு  
 
@@ -3730,7 +3732,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 பிறப்பான் அடுப்பினும் பின்னும்துன் னத்தகும் பெற்றியரே. ..
 
- 205  
+205  
 
 கொளு  
 
@@ -3748,7 +3750,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 குழல்தலைச் சொல்லிசெல் லக்குறிப் பாகும் நம்கொற்றவர்க்கே. ..
 
- 206  
+206  
 
 கொளு  
 
@@ -3766,7 +3768,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 தோயமும் நாடும்இல் லாச்சுரம் போக்குத் துணிவித்தவே. ..
 
- 207  
+207  
 
 கொளு  
 
@@ -3784,7 +3786,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 இற்பாற் பிறவற்க ஏழையர் வாழி எழுமையுமே. ..
 
- 208  
+208  
 
 கொளு  
 
@@ -3802,7 +3804,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 செம்பஞ்சி யின்மிதிக் கிற்பதைக் கும்மலர்ச் சீறடிக்கே. ..
 
- 209  
+209  
 
 கொளு  
 
@@ -3820,7 +3822,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 பொன்னார் மணிமகிழ்ப் பூவிழ யாம்விழை பொங்கிருளே. ..
 
- 210  
+210  
 
 கொளு  
 
@@ -3838,7 +3840,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 இனிச் சந்த மேகலை யாட்(கு)என்கொ லாம்புகுந்(து) எய்துவதே. ..
 
- 211  
+211  
 
 கொளு  
 
@@ -3856,7 +3858,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 மொய்வந்த வாவி தெளியும் துயிலும்இம் முதெயிலே. ..
 
- 212  
+212  
 
 கொளு  
 
@@ -3872,7 +3874,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 திறம்திரிந் தார்கலி யும்முற்றும் வற்றும்இச் சேணிலத்தே. ..
 
- 213  
+213  
 
 கொளு  
 
@@ -3888,7 +3890,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 சேண்தில்லை மாநகர் வாய்ச்சென்று சேர்க திருத்தகவே. ..
 
- 214  
+214  
 
 கொளு  
 
@@ -3906,7 +3908,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 காணத் திருத்திய போலும் முன் னாமன்னு கானங்களே. ..
 
- 215  
+215  
 
 கொளு  
 
@@ -3924,7 +3926,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 கடித்தேர் குழன்மங்கை கண்டி(டு)இவ் விண்தோய் கனவரையே. ..
 
- 216  
+216  
 
 கொளு  
 
@@ -3942,7 +3944,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 தென்னா எனஉடை யான்நட மாடுசிற் றம்பலமே. ..
 
- 217  
+217  
 
 கொளு  
 
@@ -3960,7 +3962,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 கடலையுற் றான்கடப் பாரில்லை இன்றிக் கடுஞ்சுரமே. ..
 
- 218  
+218  
 
 கொளு  
 
@@ -3978,7 +3980,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 நன்பணைத் தண்ணற(வு) உண்அளி போன்றொளிர் நாடகமே. ..
 
- 219  
+219  
 
 கொளு  
 
@@ -3994,7 +3996,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 தண்கடம் பைத்தடம் போற்கடுங் கானகம் தண்ணெனவே. ..
 
- 220  
+220  
 
 கொளு  
 
@@ -4012,7 +4014,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 சென்(று)அங்(கு) அடைதட மும்புடை சூழ்தரு சேண்நகரே. ..
 
- 221  
+221  
 
 கொளு  
 
@@ -4028,7 +4030,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 நின்போல் நடைஅன்னம் துன்னிமுன் தோன்றும்நல் நீள்நகரே. ..
 
- 222  
+222  
 
 கொளு  
 
@@ -4046,7 +4048,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 எய்குன்ற வார்சிலை அம்பல வற்(கு)இடம் ஏந்திழையே. ..
 
- 223  
+223  
 
 கொளு  
 
@@ -4064,7 +4066,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 அயிலெனப் பேருங்கண் ணாய்என் கொலாம்இன்(று) அயர்கின்றதே. ..
 
- 224  
+224  
 
 கொளு  
 
@@ -4082,7 +4084,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 வாளரிக் கண்ணிகொண் டாள்வண்டல் ஆயத்(து)எம் வாணுதலே. ..
 
- 225  
+225  
 
 கொளு  
 
@@ -4100,7 +4102,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 எடுத்தாற்(கு) இனியன வேயினி யாவன எம்மனைக்கே. ..
 
- 226  
+226  
 
 கொளு  
 
@@ -4118,7 +4120,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 உறுவலக் கானகம் தான்படர் வானாம் ஒளியிழையே. ..
 
- 227  
+227  
 
 கொளு  
 
@@ -4134,7 +4136,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 ஆமே நடக்க அருவினை யேன்பெற்ற அம்மனைக்கே. ..
 
- 228  
+228  
 
 கொளு  
 
@@ -4152,7 +4154,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 செழுவின தாள்பணி யார்பிணி யாலுற்றுத் தேய்வித்ததே. ..
 
- 229  
+229  
 
 கொளு  
 
@@ -4170,7 +4172,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 ஆழிதந் தான்அம் பலம்பணி யாரின் அருஞ்சுரமே. ..
 
- 230  
+230  
 
 கொளு  
 
@@ -4186,7 +4188,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 என்னனை போக்கன்றிக் கிள்ளைஎன் உள்ளத்தை ஈர்க்கின்றதே. ..
 
- 231  
+231  
 
 கொளு  
 
@@ -4204,7 +4206,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 மற்றேன் மலரின் மலர்த்(து)இரந் தேன்சுடர் வானவனே. ..
 
- 232  
+232  
 
 கொளு  
 
@@ -4222,7 +4224,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 கைம்மல ரால்கண் புதைத்துப் பதைக்கும்எம் கார்மயிலே. ..
 
- 233  
+233  
 
 கொளு  
 
@@ -4238,7 +4240,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 போயின எல்லையெல் லாம்புக்கு நாடுவன் பொன்னினையே. ..
 
- 234  
+234  
 
 கொளு  
 
@@ -4254,7 +4256,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 குணங்கள்அஞ் சாற்பொலி யும்நல சேட்டைக் குலக்கொடியே. ..
 
- 235  
+235  
 
 கொளு  
 
@@ -4270,7 +4272,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 உன்னுங்கள் தீதின்றி ஓதுங்கள் நான்மறை உத்தமரே. ..
 
- 236  
+236  
 
 கொளு  
 
@@ -4288,7 +4290,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 கள்வன் பகட்டுர வோன்அடி யென்று கருதுவனே. ..
 
- 237  
+237  
 
 கொளு  
 
@@ -4304,7 +4306,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 காலொத் தனவினை யேன்பெற்ற மாணிழை கால்மலரே. ..
 
- 238  
+238  
 
 கொளு  
 
@@ -4322,7 +4324,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 போதிற் பொலியும் தொழிற்புலிப் பல்குரல் பொற்றொடியே. ..
 
- 239  
+239  
 
 கொளு  
 
@@ -4340,7 +4342,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 இயலன்(று) எனக்கிற் றிலைமற்று வாழி எழிற்புறவே. ..
 
- 240  
+240  
 
 கொளு  
 
@@ -4356,7 +4358,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 நீயும்நின் பாவையும் நின்று நிலாவிடும் நீள்குரவே. ..
 
- 241  
+241  
 
 கொளு  
 
@@ -4374,7 +4376,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 பித்திதன் பின்வர முன்வரு மோஓர் பெருந்தகையே. ..
 
- 242  
+242  
 
 கொளு  
 
@@ -4392,7 +4394,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 எதிரே வருமே சுரமே வெறுப்பவொர் ஏந்தலோடே. ..
 
- 243  
+243  
 
 கொளு  
 
@@ -4408,7 +4410,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 தூண்டா விளக்கனை யாய்என்னை யோஅன்னை சொல்லியதே. ..
 
- 244  
+244  
 
 கொளு  
 
@@ -4426,7 +4428,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 ஆங்(கு)அயி லாற்பணி கொண்டது திண்திறல் ஆண்தகையே. ..
 
- 245  
+245  
 
 கொளு  
 
@@ -4444,7 +4446,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 குன்றத் திடைக்கண் டனம்அன்னை நீசொன்ன கொள்கையரே. ..
 
- 246  
+246  
 
 கொளு  
 
@@ -4462,7 +4464,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 ஆள்வது செய்தவன் தில்லையின் எல்லை அணுகுவரே. ..
 
- 247  
+247  
 
 கொளு  
 
@@ -4480,7 +4482,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 கரும்பன மென்மொழி யாரும்அந் நீர்மையர் காணுநர்க்கே. ..
 
- 248  
+248  
 
 கொளு  
 
@@ -4498,7 +4500,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 பாண்டில் எடுத்தபல் தாமரை கீழும் பழனங்களே. ..
 
- 249  
+249  
 
 கொளு  
 
@@ -4530,7 +4532,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 அழுங்குலை வேலன்ன கண்ணிக்(கு)என் னோநின் னருள் வகையே. ..
 
- 250  
+250  
 
 கொளு  
 
@@ -4548,7 +4550,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 குரம்பையர் தம்மிட மோஇடம் தோன்றும்இக் குன்றிடத்தே. ..
 
- 251  
+251  
 
 கொளு  
 
@@ -4564,7 +4566,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 பெறாஅருள் அம்பல வன்மலைக் காத்தும் பெரும்புனமே. ..
 
- 252  
+252  
 
 கொளு  
 
@@ -4582,7 +4584,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 தொடர்ந்தொறும் துன்(பு)என் பதேஅன்ப நின்னருள் தோன்றுவதே. ..
 
- 253  
+253  
 
 கொளு  
 
@@ -4600,7 +4602,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 வெளிறுற்ற வான்பழி யாம்பகல் நீசெய்யும் மெய்யருளே. ..
 
- 254  
+254  
 
 கொளு  
 
@@ -4618,7 +4620,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 பொழிகட் புயலின் மயிலில் துவளும் இவள்பொருட்டே. ..
 
- 255  
+255  
 
 கொளு  
 
@@ -4636,7 +4638,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 கண்ணும் சிவந்தன்னை என்னையும் நோக்கினள் கார்மயிலே. ..
 
- 256  
+256  
 
 கொளு  
 
@@ -4654,7 +4656,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 வான்தோய் மதில்தில்லை மாநகர் போலும் வரிவளையே. ..
 
- 257  
+257  
 
 கொளு  
 
@@ -4672,7 +4674,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 கறைக்கண் மலிகதிர் வேற்கண் படாது கலங்கினவே. ..
 
- 258  
+258  
 
 கொளு  
 
@@ -4688,7 +4690,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 மலரா வரும்மருந் தும்இல்லை யோநும் வரையிடத்தே. ..
 
- 259  
+259  
 
 கொளு  
 
@@ -4704,7 +4706,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 உறவரை மேகலை யாட்(கு)அலராம்பகல் உள்ளருளே. ..
 
- 260  
+260  
 
 கொளு  
 
@@ -4720,7 +4722,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 பழியாம் பகல்வரில் நீயிர(வு) ஏதும் பயனில்லையே. ..
 
- 261  
+261  
 
 கொளு  
 
@@ -4736,7 +4738,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 மொய்யார் வளரிள வேங்கைபொன் மாலையின் முன்னினவே. ..
 
- 262  
+262  
 
 கொளு  
 
@@ -4754,7 +4756,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 தாமா அறிகில ராயின்என்னாம் சொல்லும் தன்மைகளே. ..
 
- 263  
+263  
 
 கொளு  
 
@@ -4772,7 +4774,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 கல்லதர் என்வந்த வாறென் பவர்ப்பெறின் கார்மயிலே. ..
 
- 264  
+264  
 
 கொளு  
 
@@ -4790,7 +4792,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 ஏரிக் களிக்கரு மஞ்ஞைஇந் நீர்மைஎன் எய்துவதே. ..
 
- 265  
+265  
 
 கொளு  
 
@@ -4826,7 +4828,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 உறைவிற் குலாநுத லாள்விலை யோமெய்ம்மை யோதுநர்க்கே. ..
 
- 266  
+266  
 
 கொளு  
 
@@ -4842,7 +4844,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 அடுத்தன தாம்வரின் பொல்லா(து) இரவின்நின் ஆரருளே. ..
 
- 267  
+267  
 
 கொளு  
 
@@ -4860,7 +4862,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 சென்(று)அங்(கு) இடைகொண்டு வாடா வகைசெப்பு தேமொழியே. ..
 
- 268  
+268  
 
 கொளு  
 
@@ -4878,7 +4880,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 தாழேன் எனஇடைக் கண்சொல்லி ஏகு தனிவள்ளலே. ..
 
- 269  
+269  
 
 கொளு  
 
@@ -4896,7 +4898,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 இருட்டிற் புரிகுழ லாட்(கு)எங்ங னேசொல்லி ஏகுவனே. ..
 
- 270  
+270  
 
 கொளு  
 
@@ -4912,7 +4914,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 சொல்லா அழற்கடம் இன்றுசென் றார் சிறந்தவரே. ..
 
- 271  
+271  
 
 கொளு  
 
@@ -4928,7 +4930,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 வருந்தும் மடநெஞ்ச மேயென்ன யாம்இனி வாழ்வகையே. ..
 
- 272  
+272  
 
 கொளு  
 
@@ -4948,7 +4950,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 நெஞ்(சு)என் கொலாம்இன்று செய்கின்றதே. ..
 
- 273  
+273  
 
 கொளு  
 
@@ -4964,7 +4966,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 தேனமர் சொல்லிசெல் லார்செல்லல் செல்லல் திருநுதலே. ..
 
- 274  
+274  
 
 கொளு  
 
@@ -4982,7 +4984,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 இதுமலர்ப் பாவைக்(கு)என் னோவந்த வாறென்பர் ஏந்திழையே. ..
 
- 275  
+275  
 
 கொளு  
 
@@ -4998,7 +5000,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 சிந்தா குலமுற்றப் பற்றின்றி நையும் திருவினர்க்கே. ..
 
- 276  
+276  
 
 கொளு  
 
@@ -5016,7 +5018,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 மெய்என்ப(து) ஏதுமற்(று) இல்லைகொலாம்இவ் வியவிடத்தே. ..
 
- 277  
+277  
 
 கொளு  
 
@@ -5032,7 +5034,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 முன்செய்த தீங்குகொல் காலத்து நீர்மைகொல் மொய்குழலே. ..
 
- 278  
+278  
 
 கொளு  
 
@@ -5050,7 +5052,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 விரிந்தன காந்தள் வெருவரல் காரென வெள்வளையே. ..
 
- 279  
+279  
 
 கொளு  
 
@@ -5068,7 +5070,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 நின்றவர் தூதுகொல் லோவந்து தோன்றும் நிரைவளையே. ..
 
- 280  
+280  
 
 கொளு  
 
@@ -5084,7 +5086,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 இருவின காதலர் ஏதுசெய் வான்இன்(று) இருக்கின்றதே. ..
 
- 281  
+281  
 
 கொளு  
 
@@ -5100,7 +5102,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 சேயின(து) ஆட்சியில் பட்டன ளாம்இத் திருந்திழையே. ..
 
- 282  
+282  
 
 கொளு  
 
@@ -5118,7 +5120,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 அணங்குற்ற நோய்அறி வுற்றுரை யாடுமின் அன்னையரே. ..
 
- 283  
+283  
 
 கொளு  
 
@@ -5134,7 +5136,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 வாட்டியன்(று) ஏர்குழ லார்மொழி யாதன வாய்திறந்தே. ..
 
- 284  
+284  
 
 கொளு  
 
@@ -5152,7 +5154,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 அயிலிதன் றேயிதன் றேநெல்லில் தோன்றும் அவன்வடிவே. ..
 
- 285  
+285  
 
 கொளு  
 
@@ -5168,7 +5170,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 பாலன் புகுந்திப் பரிசினின் நிற்பித்த பண்பினுக்கே. ..
 
- 286  
+286  
 
 கொளு  
 
@@ -5186,7 +5188,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 துயர்ந்தும் பிறிதின் ஒழியினென் ஆதும் துறைவனுக்கே. ..
 
- 287  
+287  
 
 கொளு  
 
@@ -5204,7 +5206,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 குன்றார் துறைவர்க்(கு) உறுவேன் உரைப்பன் இக் கூர்மறையே. ..
 
- 288  
+288  
 
 கொளு  
 
@@ -5222,7 +5224,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 தூயன் நினக்குக் கடுஞ்சூள் தருவன் சுடர்க்குழையே. ..
 
- 289  
+289  
 
 கொளு  
 
@@ -5240,7 +5242,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 கண்டலுற்(று) ஏர்நின்ற சேரிச்சென் றான்ஓர் கழலவனே. ..
 
- 290  
+290  
 
 கொளு  
 
@@ -5258,7 +5260,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 படிக்கல ராம்இவை என்நாம் மறைக்கும் பரிசுகளே. ..
 
- 291  
+291  
 
 கொளு  
 
@@ -5276,7 +5278,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 மதியுண்டை யார்தெய்வ மேயில்லை கொல்இனி வையகத்தே. ..
 
- 292  
+292  
 
 கொளு  
 
@@ -5294,7 +5296,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 புனக்கிளி யாங்கடி யும்வரைச் சாரற் பொருப்பிடத்தே. ..
 
- 293  
+293  
 
 கொளு  
 
@@ -5310,7 +5312,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 திளையா வரும்அரு விக்கயி லைப்பயில் செல்வியையே. ...
 
- 294  
+294  
 
 கொளு  
 
@@ -5328,7 +5330,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 வெள்ளினம் ஆர்ப்ப வரும்பெரும் தேரின்று மெல்லியலே. ...
 
- 295  
+295  
 
 கொளு  
 
@@ -5346,7 +5348,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 வாரண வும்முலை மன்றலென்(று) ஏங்கும் மணமுரசே. ...
 
- 296  
+296  
 
 கொளு  
 
@@ -5364,7 +5366,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 விடக்களி யாம்நம் விழுநகர் ஆர்க்கும் வியன்முரசே. ...
 
- 297  
+297  
 
 கொளு  
 
@@ -5382,7 +5384,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 முன்கடைக் கண்ணிது காண்வந்து தோன்றும் முழுநிதியே. ...
 
- 298  
+298  
 
 கொளு  
 
@@ -5416,7 +5418,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 புரைசந்த மேகலை யாய்துயர் தீரப் புகுந்துநின்றே. ...
 
- 299  
+299  
 
 கொளு  
 
@@ -5434,7 +5436,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 அருந்துதி காணும் அளவும் சிலம்பன் அருந்தழையே. ...
 
- 300  
+300  
 
 கொளு  
 
@@ -5452,7 +5454,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 காரியல் கண்டவர்வண் தில்லை வணங்கும்எம் காவலரே. ...
 
- 301  
+301  
 
 கொளு  
 
@@ -5470,7 +5472,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 வண்டின மேவும் குழலாள் அயல்மன்னும் இவ்அயலே. ...
 
- 302  
+302  
 
 கொளு  
 
@@ -5488,7 +5490,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 கட்டணி வார்சடை யோன்தில்லை போலிதன் காதலனே. ...
 
- 303  
+303  
 
 கொளு  
 
@@ -5504,7 +5506,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 பெளவம் பணிமணி யன்னார் பரி(சு)இன்ன பான்மைகளே. ...
 
- 304  
+304  
 
 கொளு  
 
@@ -5520,7 +5522,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 இற்பந்தி வாயன்றி வைகல் செல்லாதவன் ஈர்ங்களிறே. ...
 
- 305  
+305  
 
 கொளு  
 
@@ -5536,7 +5538,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 முன்னவன் மூவல்அன் னாளும்மற்(று) ஓர் தெய்வம் முன்னலளே. ...
 
- 306  
+306  
 
 கொளு  
 
@@ -5552,7 +5554,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 ஆனந்த வெள்ளம்வற் றாதுமுற்றா(து)இவ் வணிநலமே. ...
 
- 307  
+307  
 
 கொளு  
 
@@ -5584,7 +5586,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 ஏரள வில்லா அளவினர் ஆகுவர் ஏந்திழையே. ...
 
- 308  
+308  
 
 கொளு  
 
@@ -5602,7 +5604,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 போதலுற் றார்நின் புணர்முலை யுற்ற புரவலரே. ...
 
- 309  
+309  
 
 கொளு  
 
@@ -5620,7 +5622,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 கொற்பா இலங்கிலை வேல்குளித் தாங்குக் குறுகியதே. ...
 
- 310  
+310  
 
 கொளு  
 
@@ -5638,7 +5640,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 புரியா மையும்இது வேயினி என்னாம் புகல்வதுவே. ...
 
- 311  
+311  
 
 கொளு  
 
@@ -5668,7 +5670,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 பூப்பால் நலம்ஒளி ரும்புரி தாழ்குழல் பூங்கொடியே. ...
 
- 312  
+312  
 
 கொளு  
 
@@ -5686,7 +5688,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 துறுகள் புரிகுழ லாய்இது வோஇன்று சூழ்கின்றதே. ...
 
- 313  
+313  
 
 கொளு  
 
@@ -5716,7 +5718,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 முகைதணித் தற்(கு)அரி தாம்புரி தாழ்தரு மொய்குழலே. ...
 
- 314  
+314  
 
 கொளு  
 
@@ -5734,7 +5736,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 திருப்புறு சூலத்தி னோன்தில்லை போலும் திருநுதலே. ...
 
- 315  
+315  
 
 கொளு  
 
@@ -5764,7 +5766,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 ஏதுகொ லாவிளை கின்ற(து)இன்(று) ஒன்னார் இடுமதிலே. ...
 
- 316  
+316  
 
 கொளு  
 
@@ -5782,7 +5784,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 மின்னி வளைத்து விரிநீர் கவரும் வியன்முகிலே. ...
 
- 317  
+317  
 
 கொளு  
 
@@ -5800,7 +5802,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 போலித் திருநுத லாட்(கு)என்ன தாங்கொல்என் போதரவே. ...
 
- 318  
+318  
 
 கொளு  
 
@@ -5818,7 +5820,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 பொருப்பினம் ஏறித் தமியரைப் பார்க்கும் புயலினமே. ...
 
- 319  
+319  
 
 கொளு  
 
@@ -5836,7 +5838,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 மற்றினம் சூழ்ந்து துயிலப் பெறும்இம் மயங்கிருளே. ...
 
- 320  
+320  
 
 கொளு  
 
@@ -5854,7 +5856,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 சரமின்றி வான்தரு மேலாக்கும் மிக்க தமியருக்கே. ...
 
- 321  
+321  
 
 கொளு  
 
@@ -5872,7 +5874,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 கூழின் மலிமனம் போன்(று)இருளா நின்ற கோகிலமே. ...
 
- 322  
+322  
 
 கொளு  
 
@@ -5890,7 +5892,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 பாண்பதன் தேர்குழ லாய்எழில் வாய்த்த பனிமுகிலே. ...
 
- 323  
+323  
 
 கொளு  
 
@@ -5906,7 +5908,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 அளிதரக் காந்தளும் பாந்தளைப் பாரித்(து) அலர்ந்தனவே. ...
 
- 324  
+324  
 
 கொளு  
 
@@ -5924,7 +5926,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 தோன்றிக் கடிமல ரும்பொய்ம்மை யோமெய்யில் தோன்றுவதே. ...
 
- 325  
+325  
 
 கொளு  
 
@@ -5942,7 +5944,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 பொருமால் அயிற்கண்நல் லாய்இன்று தோன்றும்நம் பொன்னாகர்க்கே. ...
 
- 326  
+326  
 
 கொளு  
 
@@ -5958,7 +5960,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 செயலோங்(கு) எயில்எரி செய்தபின் இன்றோர் திருமுகமே. ...
 
- 327  
+327  
 
 கொளு  
 
@@ -5976,7 +5978,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 இறப்பின் துயின்றுமுற் றத்(து)இரை தேரும் எழில் நகர்க்கே. ...
 
- 328  
+328  
 
 கொளு  
 
@@ -5994,7 +5996,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 வரும்தேர் இதன்முன் வழங்கேல் முழங்கேல் வளமுகிலே. ...
 
- 329  
+329  
 
 கொளு  
 
@@ -6012,7 +6014,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 அணிவார் முரிசினொ(டு) ஆலிக்கும் மாவோ(டு) அணுகினரே. ...
 
- 330  
+330  
 
 கொளு  
 
@@ -6030,7 +6032,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 மருங்கு வளைத்துமன் பாசறை நீடிய வைகலுமே. ...
 
- 331  
+331  
 
 கொளு  
 
@@ -6062,7 +6064,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 நனிவரு நாளிது வோஎன்று வந்திக்கும் நன்னுதலே. ...
 
- 332  
+332  
 
 கொளு  
 
@@ -6080,7 +6082,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 செறிவார் கருங்குழல் வெண்ணகைக் செவ்வாய்த் திருநுதலே. ...
 
- 333  
+333  
 
 கொளு  
 
@@ -6098,7 +6100,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 குறியாழ் நெறிசெல்வர் அன்பரென்(று) அம்ம கொடியவளே. ...
 
- 334  
+334  
 
 கொளு  
 
@@ -6116,7 +6118,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 தேனக்க தார்மன்னன் என்னோ இனிச் சென்று தேர்பொருளே. ...
 
- 335  
+335  
 
 கொளு  
 
@@ -6132,7 +6134,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 பொருள்தரக் கிற்கின் றதுவினை யேற்குப் புரவலரே. ...
 
- 336  
+336  
 
 கொளு  
 
@@ -6150,7 +6152,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 போவர்நம் காதலர் என்நாம் உரைப்பது பூங்கொடியே. ...
 
- 337  
+337  
 
 கொளு  
 
@@ -6168,7 +6170,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 வன்மாக் களிற்றொடு சென்றனர் இன்றுநம் மன்னவரே. ...
 
- 338  
+338  
 
 கொளு  
 
@@ -6186,7 +6188,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 வாழியன் றோஅருக் கன்பெருந் தேர்வந்து வைகுவதே. ...
 
- 339  
+339  
 
 கொளு  
 
@@ -6204,7 +6206,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 அரியான் அருளிலர் போலன்ன என்னை அழிவித்தவே. ...
 
- 340  
+340  
 
 கொளு  
 
@@ -6222,7 +6224,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 பூணும் புணர்முலை யுங்கொண்டு தோன்றுமொர் பூங்கொடியே. ...
 
- 341  
+341  
 
 கொளு  
 
@@ -6240,7 +6242,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 மின்னணி நுண்ணிடைக் கோபொருட் கோநீ விரைகின்றதே. ...
 
- 342  
+342  
 
 கொளு  
 
@@ -6258,7 +6260,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 சேய்வயின் போந்தநெஞ் செஅஞ்சத் தக்க(துஐஉன் சிக்கெனவே. ...
 
- 343  
+343  
 
 கொளு  
 
@@ -6274,7 +6276,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 வாமே கலையைவிட் டோபொருள் தேர்ந்தெம்மை வாழ்விப்பதே. ...
 
- 344  
+344  
 
 கொளு  
 
@@ -6292,7 +6294,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 எண்ணீர் மையின்நிலனுங் குழி யும்விரல் இட்டறவே. ...
 
- 345  
+345  
 
 கொளு  
 
@@ -6310,7 +6312,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 கொற்றம் மருவுகொல் ஏறுசெல்லா நின்ற கூர்ஞ்செக்கரே. ...
 
- 346  
+346  
 
 கொளு  
 
@@ -6328,7 +6330,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 பண்ணுழை யாமொழி யாள்என்ன ளாங்கொல்மன் பாவியற்கே. ...
 
- 347  
+347  
 
 கொளு  
 
@@ -6346,7 +6348,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 நெற்படு வான்பலி செய்(து)அய ராநிற்கும் நீள்நகர்க்கே. ...
 
- 348  
+348  
 
 கொளு  
 
@@ -6364,7 +6366,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 மேவிய மாநிதி யோ(டு)அன்பர் தேர்வந்து மேவினதே. ...
 
- 350  
+350  
 
 கொளு  
 
@@ -6382,7 +6384,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 சூழும் தொகுநிதி யோ(டு)அன்பர் தேர்வந்து தோன்றியதே. ...
 
- 351  
+351  
 
 கொளு  
 
@@ -6400,7 +6402,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 துயில் மன்னு பூவணை மேலணை யாமுன் துவள் உற்றதே. ...
 
- 352  
+352  
 
 கொளு  
 
@@ -6438,7 +6440,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 அடுத்தணி வாள்இளை யோர்சுற்றும் பற்றினர் மாதிரமே. ...
 
- 352  
+352  
 
 கொளு  
 
@@ -6456,7 +6458,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 அரும்பொறை யாகும்என் ஆலியும் தேய்வுற்(று) அழிகின்றதே. ...
 
- 353  
+353  
 
 கொளு  
 
@@ -6474,7 +6476,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 செப்புற்ற கொங்கையர் யாவர்கொல் ஆருயிர் தேய்பவரே. ...
 
- 354  
+354  
 
 கொளு  
 
@@ -6492,7 +6494,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 பாவாய் தழுவிற் றிலேன் விழித் தேன்அரும் பாவியனே. ...
 
- 355  
+355  
 
 கொளு  
 
@@ -6510,7 +6512,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 நெய்ம்முக மாந்தி இருள்முகங் கீழும் நெடுஞ்சுடரே. ...
 
- 356  
+356  
 
 கொளு  
 
@@ -6528,7 +6530,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 ஓங்கு வளைக்கரத் தார்க்கடுத் தோம்மன் உறாவரையே. ...
 
- 357  
+357  
 
 கொளு  
 
@@ -6546,7 +6548,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 நவம்செய்த புல்லங்கள் மாட்டேம் தொடல்விடு நற்கலையே. ...
 
- 358  
+358  
 
 கொளு  
 
@@ -6564,7 +6566,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 பணியுறத் தோன்றும் நுடங்கிடை யார்கள் பயின்மனைக்கே. ...
 
- 359  
+359  
 
 கொளு  
 
@@ -6582,7 +6584,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 தரஅணை யும்பரி சாயின வாறுநம் தன்மைகளே. ...
 
- 360  
+360  
 
 கொளு  
 
@@ -6600,7 +6602,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 சிவந்தஅச் சாந்தமும் தோன்றின வந்து திருமனைக்கே. ...
 
- 361  
+361  
 
 கொளு  
 
@@ -6618,7 +6620,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 கராப்பயில் பூம்புன லூரன் புகும்இக் கடிமனைக்கே. ...
 
- 362  
+362  
 
 கொளு  
 
@@ -6636,7 +6638,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 பைந்தாள் குவளைகள் பூத்திருள் சூழ்ந்து பயின்றனவே. ...
 
- 363  
+363  
 
 கொளு  
 
@@ -6654,7 +6656,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 எல்லிகைப் போதியல் வேல்வயல் ஊரற்(கு) எதிர் கொண்டதே. ...
 
- 364  
+364  
 
 கொளு  
 
@@ -6672,7 +6674,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 உலவிய லாத்தனம் சென்றெய்தல் ஆயின ஊரனுக்கே. ...
 
- 365  
+365  
 
 கொளு  
 
@@ -6690,7 +6692,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 இவ்வா(று) அருள்பிறர்க்(கு) ஆகு மென நினைந்து இன்னகையே. ...
 
- 366  
+366  
 
 கொளு  
 
@@ -6708,7 +6710,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 கலரைப் பொறாச்சிறி யாள்என்னை கொல்லோ கருதியதே. ...
 
- 367  
+367  
 
 கொளு  
 
@@ -6726,7 +6728,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 மல்லைப் பொலிவய லூரன்மெய்யேதக்க வாய்மையனே. ...
 
- 368  
+368  
 
 கொளு  
 
@@ -6744,7 +6746,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 போன்முதிர் பொய்கையில் பாய்ந்தது வாய்ந்த புதுப்புனலே. ...
 
- 369  
+369  
 
 கொளு  
 
@@ -6762,7 +6764,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 வீயே எனஅடி யீர்நெடுந் தேர்வந்து மேவினதே. ...
 
- 370  
+370  
 
 கொளு  
 
@@ -6780,7 +6782,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 புரமங் கையரின்நை யாதுஐய காத்துநம் பொற்பரையே. ...
 
- 371  
+371  
 
 கொளு  
 
@@ -6798,7 +6800,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 புனலூ ரனைப் பிரி யும்புன லூர்கணப் பூங்கொடியே. ...
 
- 372  
+372  
 
 கொளு  
 
@@ -6816,7 +6818,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 இறுமாப்(பு) ஒழிய இறுமாப்(பு) ஒழிந்த இணைமுலையே. ...
 
- 373  
+373  
 
 கொளு  
 
@@ -6834,7 +6836,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 யாயாம் இயல்பிவள் கற்புநற் பால இயல்புகளே. ...
 
- 374  
+374  
 
 கொளு  
 
@@ -6852,7 +6854,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 அறலியல் கூழைநல் லாய் தமியோமை யறிந்திலரே. ...
 
- 375  
+375  
 
 கொளு  
 
@@ -6870,7 +6872,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 தக்கின் றிருந்ததிலன் நின்றசெவ்வேல் எம் தனிவள்ளலே. ...
 
- 376  
+376  
 
 கொளு  
 
@@ -6888,7 +6890,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 வன்பெடை மேல்துயி லும்வய லூரன் வரம்பிலனே. ...
 
- 377  
+377  
 
 கொளு  
 
@@ -6912,7 +6914,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 பஞ்சார் அமளிப் பிரிதலுண் டோஎம் பயோதரமே. ...
 
- 378  
+378  
 
 கொளு  
 
@@ -6930,7 +6932,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 பள்ளம் புகும்புனல் போன்(று)அகத் தேவரும் பான்மையளே. ...
 
- 379  
+379  
 
 கொளு  
 
@@ -6948,7 +6950,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 நான்வண்(டு) உறைதரு கொங்கைஎவ் வாறுகொல் நண்ணுவதே. ...
 
- 380  
+380  
 
 கொளு  
 
@@ -6966,7 +6968,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 புயல்வந்த மாமதில் தில்லைநன் னாட்டுப் பொலிபவரே. ...
 
- 381  
+381  
 
 கொளு  
 
@@ -6984,7 +6986,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 தேற்றார் கொடிநெடுவீதியில் போதிர்அத் தேர்மிசையே. ...
 
- 382  
+382  
 
 கொளு  
 
@@ -7002,7 +7004,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 கயந்தலை யானை கடிந்த விருந்தினர் கார்மயிலே. ...
 
- 383  
+383  
 
 கொளு  
 
@@ -7020,7 +7022,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 காவியம் கண்கழு நீர்ச்செவ்வி வெளவுதல் கற்றனவே. ...
 
- 384  
+384  
 
 கொளு  
 
@@ -7038,7 +7040,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 கடைமணி வாள்நகை யாய்இன்று கண்டனர் காதலரே. ...
 
- 385  
+385  
 
 கொளு  
 
@@ -7056,7 +7058,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 பொய்கொண்டு நிற்கலுற் றோபுலை ஆத்தின்னி போந்ததுவே. ...
 
- 386  
+386  
 
 கொளு  
 
@@ -7074,7 +7076,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 பல்லாண்(டு) அடியேன் அடிவலம் கொள்வன் பணிமொழியே. ...
 
- 387  
+387  
 
 கொளு  
 
@@ -7092,7 +7094,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 இந்தக் கருங்குவ ளைச் செவ்வி யோடிக் கெழுமினவே. ...
 
- 388  
+388  
 
 கொளு  
 
@@ -7108,7 +7110,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 அவலங் களைந்து பணிசெயற் பாலை அரசனுக்கே. ...
 
- 389  
+389  
 
 கொளு  
 
@@ -7126,7 +7128,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 கால்தான் தொடல்தொட ரேல்விடு தீண்டல் எம் கைத்தலமே. ...
 
- 390  
+390  
 
 கொளு  
 
@@ -7144,7 +7146,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 கொந்தார் தடந்தோள் விடங்கால் அயிற்படைக் கொற்றவரே. ...
 
- 391  
+391  
 
 கொளு  
 
@@ -7162,7 +7164,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 இன்றுன் திருவருள் இத்துணை சாலுமன் எங்களுக்கே. ...
 
- 392  
+392  
 
 கொளு  
 
@@ -7180,7 +7182,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 வழுமிய அல்லகொல் லோஇன்ன வாறு விரும்புவதே. ...
 
- 393  
+393  
 
 கொளு  
 
@@ -7198,7 +7200,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 வருந்தேல் அதுவன்(று) இதுவோ வருவதோர் வஞ்சனையே. ...
 
- 394  
+394  
 
 கொளு  
 
@@ -7214,7 +7216,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 அயல்மன்னும் யானை துரந்(து)அரி தேரும் அதரகத்தே. ...
 
- 395  
+395  
 
 கொளு  
 
@@ -7232,7 +7234,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 பொதுத்தம்ப லங்கொணர்ந் தோபுதல்வர் எம்மைப் பூசிப்பதே. ...
 
- 396  
+396  
 
 கொளு  
 
@@ -7250,7 +7252,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 கலைமலி காரிகை கண்முத்த மாலை கலுழ்ந்தனவே. ...
 
- 397  
+397  
 
 கொளு  
 
@@ -7268,7 +7270,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 சீறூர் மரையத ளில்தங்கு கங்குற் சிறுதுயிலே. ...
 
- 398  
+398  
 
 கொளு  
 
@@ -7286,7 +7288,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 கையுறு மான்மறி யோன்புலி யூரன்ன காரிகையே. ...
 
- 399  
+399  
 
 கொளு  
 
@@ -7294,7 +7296,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 அரத்த நெடுவேல் அண்ணற்(கு) உரைத்தது.
 
- 48.  
+48.  
 
 49. ஊதியம் எடுத்துரைத்து ஊடல் தீர்த்தல்  
 
@@ -7306,7 +7308,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 ஊருணி உற்றவர்க்(கு) ஊரன்மற்(று) யாவர்க்கும் ஊதியமே. ...
 
- 400  
+400  
 
 கொளு  
 
@@ -7322,7 +7324,7 @@ of mAnikkavacakar, in Tamil Script,unicode format
 
 This page was first put up on March 9,
 
- 2000  
+2000  
 
 Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com,  
   

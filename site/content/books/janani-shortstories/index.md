@@ -8,6 +8,8 @@ genres:
   - சிறுகதைகள் தொகுப்பு
 ---
 
+
+
 ### ஜனனி (சிறுகதைத் தொகுதி)  
 
 ஆசிரியர்: லா. ச. ராமாமிருதம்  
@@ -22,9 +24,9 @@ genres:
 
 முதற்பதிப்பு ஜூன்
 
- 1992, இரண்டாம் பதிப்பு : அக்டோபர்
+1992, இரண்டாம் பதிப்பு : அக்டோபர்
 
- 2005  
+2005  
 
 உரிமை : ஆசிரியருக்கு  
 
@@ -32,7 +34,7 @@ genres:
 
 விலை : ரூ.
 
- 60.00  
+60.00  
 
 ----  
 
@@ -44,23 +46,23 @@ LANGUAGE : TAMIL SUBJECT : Short Stories
 
 EDITION : First Edition, June,
 
- 1992  
+1992  
 
 Second Edition, October,
 
- 2005  
+2005  
 
 PAGES : viii +
 
- 232 =
+232 =
 
- 240  
+240  
 
 Published By : VANATHI PATHIPPAKAM  
 
 23, Deenadayalu Street, Thyagaraya Nagar, CHENNA-600
 
- 017  
+017  
 
 Email : vanathipathippakam (ovsni.net)  
 
@@ -68,9 +70,9 @@ Website: www.vanathipathippakam.com
 
 Teị :
 
- 24342810,
+24342810,
 
- 24310769  
+24310769  
 
 PRICE : RS. 60  
 
@@ -78,7 +80,7 @@ Laser Typeset at:
 
 S.P.M. Graphics, CHENNAI-600
 
- 071  
+071  
 
 Printed at: Malar Printers O44-8224803  
 
@@ -164,7 +166,7 @@ Printed at: Malar Printers O44-8224803
 
   
 
- ###  . ஜனனி  
+###  . ஜனனி  
 
   
 
@@ -730,7 +732,7 @@ Printed at: Malar Printers O44-8224803
 
   
 
- ###  . யோகம்  
+###  . யோகம்  
 
   
 
@@ -1100,7 +1102,7 @@ Printed at: Malar Printers O44-8224803
 
   
 
- ###  . புற்று  
+###  . புற்று  
 
   
 
@@ -1536,7 +1538,7 @@ Printed at: Malar Printers O44-8224803
 
   
 
- ###  . எழுத்தின் பிறப்பு  
+###  . எழுத்தின் பிறப்பு  
 
   
 
@@ -1592,7 +1594,7 @@ Printed at: Malar Printers O44-8224803
 
   
 
- ###  . அரவான்  
+###  . அரவான்  
 
   
 
@@ -1850,7 +1852,7 @@ Printed at: Malar Printers O44-8224803
 
   
 
- ###  . பூர்வா  
+###  . பூர்வா  
 
   
 
@@ -2180,7 +2182,7 @@ Printed at: Malar Printers O44-8224803
 
   
 
- ###  . மஹாபலி  
+###  . மஹாபலி  
 
   
 
@@ -2276,7 +2278,7 @@ Printed at: Malar Printers O44-8224803
 
   
 
- ###  . கணுக்கள்  
+###  . கணுக்கள்  
 
   
 
@@ -2688,7 +2690,7 @@ Printed at: Malar Printers O44-8224803
 
   
 
- ###  . கொட்டு மேளம்  
+###  . கொட்டு மேளம்  
 
   
 
@@ -3348,7 +3350,7 @@ Printed at: Malar Printers O44-8224803
 
   
 
- ###  0. ரயில்  
+###  0. ரயில்  
 
   
 
@@ -3514,5 +3516,4 @@ Printed at: Malar Printers O44-8224803
 
 This file was last updated on 26 April
 
- 2016.  
-
+2016.  

@@ -9,21 +9,23 @@ genres:
   - மாலை
 ---
 
+
+
 ail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
 weight:
 
- 245  
+245  
 
 authors:  
 
-  - சி. சுப்ரமணிய பாரதியார்  
+- சி. சுப்ரமணிய பாரதியார்  
 
 genres:  
 
-  - பிரபந்தம்  
+- பிரபந்தம்  
 
-  - மாலை  
+- மாலை  
 
 ---  
 
@@ -61,7 +63,7 @@ In case of difficulties send an email request to kalyan@geocities.com or kumar@v
 
 © Project Madurai
 
- 2005  
+2005  
 
 Project Madurai is an open, voluntary, worldwide initiative devoted to preparation of  
 
@@ -767,6 +769,6 @@ You are welcome to freely distribute this file, provided this header page is kep
 
 This page was last updated on April 25,
 
- 2006  
+2006  
 
 Please send your comments and corrections to the [Webmaster of this site](mailto:kalyan@geocities.com,%20kumar@vt.edu?subject=PM-vinayagar n-m-malai)

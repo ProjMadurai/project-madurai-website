@@ -9,21 +9,23 @@ genres:
   - பிரபந்தம்
 ---
 
+
+
 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
 weight:
 
- 333  
+333  
 
 authors:  
 
-  - அவிரோதி ஆழ்வார்  
+- அவிரோதி ஆழ்வார்  
 
 genres:  
 
-  - அந்தாதி  
+- அந்தாதி  
 
-  - பிரபந்தம்  
+- பிரபந்தம்  
 
 ---  
 
@@ -63,7 +65,7 @@ This webpage presents the Etext in Tamil script in UTF-8 encoding.
 
 © Project Madurai
 
- 1998-2008  
+1998-2008  
 
   
 
@@ -1105,7 +1107,7 @@ You are welcome to freely distribute this file, provided this header page is kep
 
 புந்தி பெறாது என்றும் தேவர் பொன் தாமரைப் பூக்கொண்டதே
 
- 100  
+100  
 
   
 
@@ -1237,6 +1239,6 @@ You are welcome to freely distribute this file, provided this header page is kep
 
 This page was first put up on July,
 
- 2008. Please send your  
+2008. Please send your  
 
 comments and corrections to the WebMasters of this site

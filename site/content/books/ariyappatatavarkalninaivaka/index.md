@@ -8,6 +8,8 @@ genres:
   - கவிதைகள்
 ---
 
+
+
 ## அறியப்படாதவர்கள் நினைவாக.... ! (அ. யேசுராசா)  
 
 aRiyappaTAtavarkaL ninaivAka...!  
@@ -1970,7 +1972,7 @@ aRiyappaTAtavarkaL ninaivAka...!
 
 /*
 
- 1974 தை 10 --யாழ்ப்பாணத்தில் நடைபெற்ற நான்காவது உலகத் தமிழாராய்ச்சி  
+1974 தை 10 --யாழ்ப்பாணத்தில் நடைபெற்ற நான்காவது உலகத் தமிழாராய்ச்சி  
 
 மகாநாட்டின் இறுதி நாள் அன்று ஐம்பதினாயிரத்திற்கு மேற்பட்ட மக்கள் மீது பொலிசார்  
 
@@ -2356,7 +2358,7 @@ aRiyappaTAtavarkaL ninaivAka...!
 
 This page was first put up on April 24,
 
- 2001  
+2001  
 
 Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com,  
 kumar@vt.edu?subject=PM107 ninaivaka)

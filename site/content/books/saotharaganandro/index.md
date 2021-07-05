@@ -9,23 +9,25 @@ genres:
   - தொகுப்பு
 ---
 
+
+
 றுகதைகள் தொகுப்பு)'  
 
 thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
 weight:
 
- 330  
+330  
 
 authors:  
 
-  - அகிலன்  
+- அகிலன்  
 
 genres:  
 
-  - சிறுகதைகள்  
+- சிறுகதைகள்  
 
-  - தொகுப்பு  
+- தொகுப்பு  
 
 ---  
 

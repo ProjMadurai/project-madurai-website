@@ -8,6 +8,8 @@ genres:
   - புராணம்
 ---
 
+
+
 ### திருப்பாசூர்ப் புராணம்  
 
 ஆசிரியர்: பூவை-கலியாணசுந்தர முதலியாரவர்கள்  
@@ -958,6 +960,6 @@ Source:
 
 This file was last updated on 6 Dec.
 
- 2010  
+2010  
 
 Feel free to send corrections to the webmaster

@@ -10,6 +10,8 @@ genres:
   - சிறுகதைகள்
 ---
 
+
+
 ### கலைஞரின் சிறுகதைகள்  
 
 கலைஞர் கருணாநிதி  
@@ -36,7 +38,7 @@ Bharathiar University, Coimbatore, India & Macmillon Publishers India Ltd.
 
 © Bharathiar University, Coimbatore
 
- 2009  
+2009  
 
 All rights reserved. No part of this publication may be reproduced or transmitted,  
 
@@ -44,37 +46,37 @@ in any form or by any means, without permission.
 
 First published
 
- 2009  
+2009  
 
 Macmillan Publishers India Ltd., Mumbai/Delhi/Chennai, Companies and representatives throughout the world  
 
 ISBN 10:0230-639259 ; ISBN 13:
 
- 978-0230639256  
+978-0230639256  
 
 Rs
 
- 300  
+300  
 
 Published by : Rajiv Beri for Macmillan Publishers India Ltd, New Delhi
 
- 110
+110
 
- 002  
+002  
 
 Typeset by : Bharati Composers, Rohini, Delhi
 
- 110
+110
 
- 085  
+085  
 
 Cover Picture : Mariam Selven  
 
 Printed by S.M. Yogan at Macmillan India Press, Chennai
 
- 600
+600
 
- 041  
+041  
 
 ----------  
 
@@ -100,9 +102,9 @@ M. Karunanidhi Chief Minister
 
 Secretariat Chennai-600
 
- 009 Date:
+009 Date:
 
- 12.05.2009  
+12.05.2009  
 
 I am extremely happy to know that Bharathiar University, Coimbatore, has taken the initiative to bring out a selection of my writings in English.  
 
@@ -156,7 +158,7 @@ A grand fusion of Periyar, Anna and Bharathiar, Kalaignar stands as a towering p
 
 Determined to secure a presence for Tamil literature and culture on the global scene, this University has already translated Bharathi's poems into English and conferred the" Bharathi Tamil Chemmal” award on Kalaignar in
 
- 2007, the University's Silver Jubilee year. The present endeavour, translation of Kalaignar's works into English, is a major step towards realizing this goal.  
+2007, the University's Silver Jubilee year. The present endeavour, translation of Kalaignar's works into English, is a major step towards realizing this goal.  
 
 conferred the" Bharathas already translated Bhamile and culture on the global  
 
@@ -188,29 +190,29 @@ Kavipperarasu Vairamuthu
 
 Introduction Preface13. Secret
 
- 1. Fame14. Three Hundred Rupees
+1. Fame14. Three Hundred Rupees
 
- 2. Nalayini15. The Poor
+2. Nalayini15. The Poor
 
- 3. Temptation16. As Is in the Original
+3. Temptation16. As Is in the Original
 
- 4. The Dancer17. A Bunch of Palmyra Fruit
+4. The Dancer17. A Bunch of Palmyra Fruit
 
- 5. The Bin18. The Story of a Dead Woman
+5. The Bin18. The Story of a Dead Woman
 
- 6. Sandal Paste Cup19. Inquest
+6. Sandal Paste Cup19. Inquest
 
- 7. Godman20. Doves of a Banyan Tree
+7. Godman20. Doves of a Banyan Tree
 
- 8. Love Life of Ganga21. Birds of Passage
+8. Love Life of Ganga21. Birds of Passage
 
- 9. Mother's Love22. Love Letter
+9. Mother's Love22. Love Letter
 
- 10. The Great Escape23. A Rose in the Desert
+10. The Great Escape23. A Rose in the Desert
 
- 11. No Escape24. The Last Phase
+11. No Escape24. The Last Phase
 
- 12. Supporter25. Sweet is Venom -----------------  
+12. Supporter25. Sweet is Venom -----------------  
 
   
 
@@ -220,21 +222,21 @@ Introduction Preface13. Secret
 
 Kalaignar M. Karunanidhi, born in
 
- 1924 in a hamlet of Thanjavur in the southern part of India, has eminently succeeded in making spectacular contributions both as a statesman and as a man of letters. His has been a full life providing ample space for diplomacy, social reformation and creative writing. Neither a philosopher nor a full-fledged academic living in an ivory tower, he has the courage and the wisdom to think and to act remarkably. A prolific writer endowed with unusual powers of observation and meditation, he has been ceaselessly adorning his beloved Mother Tamil with a steady stream of writings, leaving no genre untouched. It may be poetry or prose, song or verse, essay or story, play or fiction, social novel or historical novel, creative writing or criticism, memoir or autobiography, script for a film or a play, broadcast or speech - he can handle it with astonishing ease. What he has written till today may run to more than fifty volumes of
+1924 in a hamlet of Thanjavur in the southern part of India, has eminently succeeded in making spectacular contributions both as a statesman and as a man of letters. His has been a full life providing ample space for diplomacy, social reformation and creative writing. Neither a philosopher nor a full-fledged academic living in an ivory tower, he has the courage and the wisdom to think and to act remarkably. A prolific writer endowed with unusual powers of observation and meditation, he has been ceaselessly adorning his beloved Mother Tamil with a steady stream of writings, leaving no genre untouched. It may be poetry or prose, song or verse, essay or story, play or fiction, social novel or historical novel, creative writing or criticism, memoir or autobiography, script for a film or a play, broadcast or speech - he can handle it with astonishing ease. What he has written till today may run to more than fifty volumes of
 
- 300 to
+300 to
 
- 400 pages each.  
+400 pages each.  
 
 What Karunanidhi states in the first volume of his autobiography about the year in which he was born is a telling comment on the ethos of the times as well as on the political, social and cultural forces that moulded his world-view. That was a year that witnessed momentous events. Lenin, the supreme architect of the communist revolution in Russia, died and Stalin came to power. Trotsky's advocacy of violent worldwide revolution was abandoned in favour of Stalin's plan for "socialism in one country" and the communist leaders decided to adapt the movement to the differing situations in various countries. Turkey became a republic under the presidentship of Kemal Ataturk during whose fifteen-year reign, the country's political and economic structure as well as its religious and social bases was totally transformed. Adolf Hitler's Mein Kampf, written during his incarceration in Bavaria, preaching anti-semitism, power worship and disdain for morality and outlining his strategy for world domination later became the bible of the Nazi party. Since all the empires had been weakened by the first world war, many colonies boldly rose in revolt against them.  
 
 When Nazism, Fascism and Communism were becoming prominent in the West, Gandhian ideology started taking shape in India. It was in
 
- 1924 that Gandhiji, released from prison, became the President of the Indian National Congress and Jawaharlal Nehru was elected its General Secretary. India had awakened from its deep slumber and Gandhiji's appearance on the political scene electrified the Indian masses. The Belgaum Congress meet had the party's future course of action mapped out. Though most of the Indian political leaders were unanimous in their view that the British should be driven away from the country, they were hopelessly divided with regard to the strategies to be developed for dealing with the foreign power. The labour unions in the country were gradually becoming stronger and stronger. The feudal lords and zamindars were waging a losing battle against the tillers of the soil. If in the south seeds were sown for organized fights for social justice, in the north there appeared signs of disruption of communal harmony.  
+1924 that Gandhiji, released from prison, became the President of the Indian National Congress and Jawaharlal Nehru was elected its General Secretary. India had awakened from its deep slumber and Gandhiji's appearance on the political scene electrified the Indian masses. The Belgaum Congress meet had the party's future course of action mapped out. Though most of the Indian political leaders were unanimous in their view that the British should be driven away from the country, they were hopelessly divided with regard to the strategies to be developed for dealing with the foreign power. The labour unions in the country were gradually becoming stronger and stronger. The feudal lords and zamindars were waging a losing battle against the tillers of the soil. If in the south seeds were sown for organized fights for social justice, in the north there appeared signs of disruption of communal harmony.  
 
 It was in
 
- 1924 that Periyar E.V. Ramasami planned an epic battle against the evil of untouchability that later earned him the title of Vaikkam Hero. Besides laying a firm foundation for the labour movement in Tamilnadu, Thiru. Vi. Kalyanasundara Mudaliyar became a fierce fighter for the country's freedom. Finally, Karunanidhi significantly adds that it was the year in which "the revolutionary of revolutionaries, who dispelled the thousand-year-old darkness of the Tamil land,” Arignar Anna, was a high school student equipping himself for the historic role he was going to play.  
+1924 that Periyar E.V. Ramasami planned an epic battle against the evil of untouchability that later earned him the title of Vaikkam Hero. Besides laying a firm foundation for the labour movement in Tamilnadu, Thiru. Vi. Kalyanasundara Mudaliyar became a fierce fighter for the country's freedom. Finally, Karunanidhi significantly adds that it was the year in which "the revolutionary of revolutionaries, who dispelled the thousand-year-old darkness of the Tamil land,” Arignar Anna, was a high school student equipping himself for the historic role he was going to play.  
 
 In this chronicle he is able to identify, of course with the benefit of hindsight, the intellectuals and men of action who later became his models as well as those against whom he had to define himself. Though all those personalities, movements, parties and ideologies might have attracted his attention at an impressionable age, he was going to choose Periyar and not Gandhiji, Arignar Anna and not Jawaharlal Nehru, the party wedded to Dravidian ideals and not the Congress, Periyar's Marxism and not Nehruvian socialism, and Tamilnadu and not India. To him, as to his guides and companions in the Dravidian Movement, the social and cultural emancipation of the Dravidians was of greater importance than even the political freedom of the country.  
 
@@ -322,7 +324,7 @@ Reader in English. Tagore Government Arts College, Pudhucherry
 
   
 
- ###  . Fame  
+###  . Fame  
 
   
 
@@ -476,7 +478,7 @@ the conjugal bliss."
 
   
 
- ###  . Temptation  
+###  . Temptation  
 
   
 
@@ -538,7 +540,7 @@ The Indo-Ceylon Express started scuttling away from Cuddalore.
 
   
 
- ###  . The Dancer  
+###  . The Dancer  
 
   
 
@@ -658,7 +660,7 @@ Kandan finished reading the letter. As if an alagu had pierced his eyes, he writ
 
   
 
- ###  . The Bin  
+###  . The Bin  
 
   
 
@@ -722,7 +724,7 @@ Its neck is twisted. Yes! She is the child's mother. She is going to fling the c
 
   
 
- ###  . Sandal Paste Cup  
+###  . Sandal Paste Cup  
 
   
 
@@ -1012,7 +1014,7 @@ Yet Kandan is prepared to retrieve the silver cup. When? Some time later in a fu
 
   
 
- ###  . Godman  
+###  . Godman  
 
   
 
@@ -1268,7 +1270,7 @@ What was lost was silver worth the weight of only two thousand rupees. But what 
 
   
 
- ###  . Love Life of Ganga  
+###  . Love Life of Ganga  
 
   
 
@@ -1334,7 +1336,7 @@ Chandran and Ganga disappeared. A little later Shiva woke up with a start. Parva
 
   
 
- ###  . Mother's Love  
+###  . Mother's Love  
 
   
 
@@ -1508,7 +1510,7 @@ Did Ramadurai in any way disturb the workers? Has his mill ever experienced a st
 
 
 
- 200. Will the killer ever live in peace?  
+200. Will the killer ever live in peace?  
 
 The rich man's wife was like Mahalakshmi, the Goddess of Wealth, herself. Their two children are tiny-tots. What sufferings they would undergo! Imagine the sufferings of his wife who always thinks that her husband is such a gem of a man that she could never get a man like him even if she prayed to God in all her seven births. O Sinner of sinners! Won't your wife feel the butterflies in her stomach if you are murdered in that manner? Hm! You will also be killed sooner or later.  
 
@@ -1588,7 +1590,7 @@ Both of them made their great escape from the torture of the society.
 
   
 
- ###  1. No Escape  
+###  1. No Escape  
 
   
 
@@ -1688,7 +1690,7 @@ He was craving to know the result of his appeal. The jailor entered a lonely pri
 
   
 
- ###  2. Supporter  
+###  2. Supporter  
 
   
 
@@ -1770,7 +1772,7 @@ Punniyakodi enjoys popularity among the public. His secretary goes about boastin
 
   
 
- ###  3. Secret  
+###  3. Secret  
 
   
 
@@ -1826,7 +1828,7 @@ Everyone's doubt got cleared as to why he chose to die.
 
   
 
- ###  4. Three Hundred Rupees  
+###  4. Three Hundred Rupees  
 
   
 
@@ -1836,7 +1838,7 @@ She died leaving her child with us. “I am the pillar of my family. I work in a
 
 He sought a job not in a big office or with a Mill owner, but sought the help of a school teacher whose monthly salary was Rs.
 
- 150/-. Thangappan taught mathematics in a high school. When he was struggling to make both ends meet how he could ever think of supporting Lakshmi Narayanan!. Quite soft at heart, he wished to bring a dramatic change in the society. And amidst his circle of friends he was known as Karl Marx. His very presence on the stage was enough to inspire the people. He was such an excellent speaker. Since his speeches were peppered with words like 'poor', 'downtrodden', 'sympathy' and 'pity', several people with the intention of finding out how true he was to his words emboldened themselves to seek financial help from him. Thangappan  
+150/-. Thangappan taught mathematics in a high school. When he was struggling to make both ends meet how he could ever think of supporting Lakshmi Narayanan!. Quite soft at heart, he wished to bring a dramatic change in the society. And amidst his circle of friends he was known as Karl Marx. His very presence on the stage was enough to inspire the people. He was such an excellent speaker. Since his speeches were peppered with words like 'poor', 'downtrodden', 'sympathy' and 'pity', several people with the intention of finding out how true he was to his words emboldened themselves to seek financial help from him. Thangappan  
 
 magnanimously spent a major share of his salary for the welfare of such people. Lakshmi Narayanan, was one among the beneficiaries. Thangappan was greatly upset by the sad story of Lakshmi Narayanan.  
 
@@ -1844,7 +1846,7 @@ magnanimously spent a major share of his salary for the welfare of such people. 
 
 One day, Thangappan received Rs.
 
- 300 by money order from a friend who had borrowed that amount from him some six months ago. Exhilarated by the return of his money he forgot to keep it safe in his trunk box and left it on the table before he went to school. When he was in the classroom teaching, the thought of his money came. A sudden suspicion arose in his mind about Lakshmi Narayanan. He completed the lesson as early as he could and started for home. He was not himself on his way. "He might be good... But the lure of a huge amount?!" His thoughts centred only on his money. He reached home. Lakshmi Narayanan was not found at the entrance of the house. He walked in. Money too was missing. He smiled a careless smile and walked back to school.  
+300 by money order from a friend who had borrowed that amount from him some six months ago. Exhilarated by the return of his money he forgot to keep it safe in his trunk box and left it on the table before he went to school. When he was in the classroom teaching, the thought of his money came. A sudden suspicion arose in his mind about Lakshmi Narayanan. He completed the lesson as early as he could and started for home. He was not himself on his way. "He might be good... But the lure of a huge amount?!" His thoughts centred only on his money. He reached home. Lakshmi Narayanan was not found at the entrance of the house. He walked in. Money too was missing. He smiled a careless smile and walked back to school.  
 
 Lakshmi Narayanan got into a train on the same day afternoon at Salem railway station and reached Erode. Once in Erode he entered a readymade shop and came out of it differently dressed.. He was speaking to himself! "A pawn shop with three hundred rupees. I'll be the boss." He went on repeating the words.  
 
@@ -1862,7 +1864,7 @@ Lakshmi Narayanan opened his eyes, when the train pulled up at Trichy at about f
 
   
 
- ###  5. The Poor  
+###  5. The Poor  
 
   
 
@@ -1906,7 +1908,7 @@ Under the same tree another being opened her eyes. “Alas! My darling husband!"
 
   
 
- ###  6. As Is in the Original  
+###  6. As Is in the Original  
 
   
 
@@ -2018,7 +2020,7 @@ Chettiyar and the manager had no other go but look askance at each other.
 
   
 
- ###  7. A Bunch of Palmyra Fruit  
+###  7. A Bunch of Palmyra Fruit  
 
   
 
@@ -2246,13 +2248,13 @@ Then Hanuman with his tail burnt South Lanka; My wife burnt her modesty. And I s
 
   
 
- ###  9. Inquest  
+###  9. Inquest  
 
   
 
 Dr. Pitchamurthy was flipping through the pages of a Book of Morals as he smoked a 'Wills' brand cigarette. The smoke began to spread all over the room. Kandasamy Naidu, his compounder, arranged bottles of drugs in his cupboard and safely locked it. He straightened up his blue coat and then moved towards the operation theatre, switched off the
 
- 500 watt power bulb, cleared his throat and tapped his snuff box. The wall clock began to strike. It was nine o'clock. “Quick... Quick... lock everything up and let us go," so saying the doctor threw out the stub and closed his book.  
+500 watt power bulb, cleared his throat and tapped his snuff box. The wall clock began to strike. It was nine o'clock. “Quick... Quick... lock everything up and let us go," so saying the doctor threw out the stub and closed his book.  
 
 Somewhere from the street there came a tom-toming sound and the voice of a  
 
@@ -2328,7 +2330,7 @@ The dead body of Karuppayi who had drowned herself in the temple pond was brough
 
   
 
- ###  0. Doves of a Banyan Tree  
+###  0. Doves of a Banyan Tree  
 
   
 
@@ -2396,7 +2398,7 @@ This story made the birds of the forest to laugh. They seemed to be wonderstruck
 
   
 
- ###  1. Birds of Passage  
+###  1. Birds of Passage  
 
   
 
@@ -2444,7 +2446,7 @@ Before his minds' eye stood Bharathidasan, the revolutionary poet of Puducherry,
 
   
 
- ###  2. Love Letter  
+###  2. Love Letter  
 
   
 
@@ -2500,7 +2502,7 @@ After listening to Balan, I felt that the world war had not yet come to an end. 
 
   
 
- ###  3. A Rose in the Desert  
+###  3. A Rose in the Desert  
 
   
 
@@ -2564,7 +2566,7 @@ When I was a student I didn't like the ideal of Kandaiah. But when I saw him in 
 
   
 
- ###  4. The Last Phase  
+###  4. The Last Phase  
 
   
 
@@ -2772,7 +2774,7 @@ Notwithstanding. It is the title 'Kalaignar' meaning an 'artist par excellence' 
 
 For Karunanidhi, whose formal education did not extend beyond the secondary school, is a multifaceted, prolific writer with an amazingly large volume of literary output to his credit. He is a poet, a playwright, a novelist and short story writer, a letter writer, an elegist, a journalist and a columnist, a script-writer, a political satirist. an essayist, a translator, an autobiographer and a social and literary critic, besides being an extraordinarily eloquent and powerful speaker. His creative and critical works have been published in 59 volumes, memoirs and autobiograplay in another 8 volumes, and other writings in
 
- 115 more volumes, large and small.  
+115 more volumes, large and small.  
 
 What astounds one is the fact that he has been writing on all these genres contemporaneously, putting the same amount of interest and energy in each kind, that too in the administrative and political activities.  
 
@@ -2780,6 +2782,6 @@ What astounds one is the fact that he has been writing on all these genres conte
 
 This file was last updated on 1 Jan.
 
- 2020  
+2020  
 
 Feel free to send the corrections to the webmaster.

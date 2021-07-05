@@ -9,6 +9,8 @@ genres:
 ---
 
 
+
+
 by C. RAMACHANDRA AIYER, B.A.,B.L.  
 
 Pleader, Salem.  
@@ -19,7 +21,7 @@ KALYANASUNDARAM PRESS: G.S.MANIYA & Co.
 
 Tanjore,
 
- 1904.  
+1904.  
 
   
 
@@ -41,7 +43,7 @@ Tanjore,
 
 தஞ்சாவூர்:
 
- 1904.  
+1904.  
 
   
 
@@ -635,5 +637,4 @@ FINIS
 
 This webpage was last updated on 8 August
 
- 2007.  
-
+2007.  

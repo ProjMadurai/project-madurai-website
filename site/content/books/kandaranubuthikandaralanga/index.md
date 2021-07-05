@@ -9,19 +9,21 @@ genres:
   - சைவம்
 ---
 
+
+
 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
 weight: 23  
 
 authors:  
 
-  - அருணகிரிநாதர்  
+- அருணகிரிநாதர்  
 
 genres:  
 
-  - சமயம்  
+- சமயம்  
 
-  - சைவம்  
+- சைவம்  
 
 ---  
 
@@ -65,7 +67,7 @@ Arial Unicode MS, TSCu_Inaimathi, Code2000, UniMylai,...) installed on your comp
 
 and the OS capable of rendering Tamil Scripts (Windows
 
- 2000 or Windows XP).  
+2000 or Windows XP).  
 
 ii)Use a browser that is capable of handling UTF-8 based pages  
 
@@ -75,7 +77,7 @@ ii)Use a browser that is capable of handling UTF-8 based pages
 
 c - Project Madurai
 
- 1999  
+1999  
 
 Project Madurai is an open, voluntary, worldwide initiative devoted  
 
@@ -1337,7 +1339,7 @@ header page is kept intact.
 
 விடுதலைப் பட்டது விட்டது பாச வினைவிலங்கே.
 
- 100  
+100  
 
 சலங்காணும் வேந்தர் தமக்கு மஞ்சார் யமன் சண்டைக்கஞ்சார்  
 
@@ -1347,7 +1349,7 @@ header page is kept intact.
 
 அலங்கார நூற்று ளொருகவி தான் கற்றறிந்தவரே.
 
- 101  
+101  
 
 திருவடி யுந்தண்டை யுஞ்சிலம் புஞ்சிலம் பூடுருவப்  
 
@@ -1357,7 +1359,7 @@ header page is kept intact.
 
 குருவடி வாய்வந்தென் னுள்ளங் குளிரக் குதிகொண்டவே.
 
- 102  
+102  
 
 இராப்பக லற்ற இடங்காட்டி யானிருந் தேதுதிக்கக்  
 
@@ -1367,7 +1369,7 @@ header page is kept intact.
 
 பராக்ரம வேல நிருதசங் கார பயங்கரனே.
 
- 103  
+103  
 
 செங்கே ழடுத்த சிவனடி வேலுந் திருமுகமும்  
 
@@ -1377,7 +1379,7 @@ header page is kept intact.
 
 எங்கே நினைப்பினும் அங்கேயென் முன்வந்தெதிர் நிற்பனே.
 
- 104  
+104  
 
 ஆவிக்கு மோசம் வருமா றறிந்துன் னருட்பதங்கள்  
 
@@ -1387,7 +1389,7 @@ header page is kept intact.
 
 சேவற் கொடியுடை யானே யமர சிகாமணியே.
 
- 105  
+105  
 
 கொள்ளித் தலையில் எறும்பது போலக் குலையுமென்றன்  
 
@@ -1397,7 +1399,7 @@ header page is kept intact.
 
 வள்ளிக்கு வாய்த்தவ னே மயிலேறிய மாணிfக்கமே.
 
- 106  
+106  
 
 சூலம் பிடித்தெம பாசஞ் சுழற்றித் தொடர்ந்துவருங்  
 
@@ -1407,7 +1409,7 @@ header page is kept intact.
 
 வேலுந் திருக்கையு முண்ட நமக்கொரு மெய்த்துணையே.
 
- 107  
+107  
 
 கந்தர் அலங்காரம் முற்றிற்று  
 

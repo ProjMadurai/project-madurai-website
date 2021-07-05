@@ -8,6 +8,8 @@ genres:
   - 
 ---
 
+
+
 **Short notes on meikkIrtikaL**  
 
 meykiirtikaL are prologue verses found in stone inscriptions and in copper plate grants which praises the king in reign on date. These are useful for history as they indicateregnal year ofkings, details on their dynasty etc. In tamiz nATu thousands of inscriptions were recorded and archived as annals of history. We can find details on administration, tax system, random sampled record of various day to day activities of common people on those era. Hence inscriptions are form part ofrecordedhistory and culture of tamiz naATu  
@@ -28,7 +30,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
- ###  .1.1 (01)  
+###  .1.1 (01)  
 
   
 
@@ -210,7 +212,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
- ###  .1.2 (02)  
+###  .1.2 (02)  
 
   
 
@@ -294,7 +296,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
- ###  .1.3 (03)  
+###  .1.3 (03)  
 
   
 
@@ -348,7 +350,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
- ###  .2.1 (04)  
+###  .2.1 (04)  
 
   
 
@@ -504,7 +506,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
- ###  .3.1 (05)  
+###  .3.1 (05)  
 
   
 
@@ -642,7 +644,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
- ###  .4.1 (06)  
+###  .4.1 (06)  
 
   
 
@@ -694,7 +696,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
- ###  .5.1 (07)  
+###  .5.1 (07)  
 
   
 
@@ -724,7 +726,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
- ###  .5.2 (08)  
+###  .5.2 (08)  
 
   
 
@@ -754,7 +756,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
- ###  .6.1 (09)  
+###  .6.1 (09)  
 
   
 
@@ -792,7 +794,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
- ###  .7.1 (10)  
+###  .7.1 (10)  
 
   
 
@@ -842,7 +844,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
- ###  .8.1 (11)  
+###  .8.1 (11)  
 
   
 
@@ -880,7 +882,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
- ###  .9.1 (12)  
+###  .9.1 (12)  
 
   
 
@@ -968,7 +970,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
- ###  .9.2 (13)  
+###  .9.2 (13)  
 
   
 
@@ -1022,7 +1024,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
- ###  .9.3 (14)  
+###  .9.3 (14)  
 
   
 
@@ -1084,7 +1086,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
- ###  .10.1 (15)  
+###  .10.1 (15)  
 
   
 
@@ -1168,7 +1170,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
- ###  .10.2 (16)  
+###  .10.2 (16)  
 
   
 
@@ -1424,7 +1426,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 விளங்கெழு கவரி யிருமருங்கசைப்பக்
 
- 125  
+125  
 
 கடலென்ன முழங்கும் களிநல் யானை  
 
@@ -1452,7 +1454,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
- ###  .11.1 (17)  
+###  .11.1 (17)  
 
   
 
@@ -1654,7 +1656,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
- ###  .12.1 (18)  
+###  .12.1 (18)  
 
   
 
@@ -1800,13 +1802,13 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 யாண்டு 11ஆவது நாளள்
 
- 173 னால் . . .  
+173 னால் . . .  
 
 1.12. சடையவர்மன் வீரபாண்டியன் (1253-1268) - 2  
 
   
 
- ###  .12.2 (19)  
+###  .12.2 (19)  
 
   
 
@@ -1832,7 +1834,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
- ###  .13.1 (20)  
+###  .13.1 (20)  
 
   
 
@@ -1896,7 +1898,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
- ###  .14.1 (21)  
+###  .14.1 (21)  
 
   
 
@@ -1938,7 +1940,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
- ###  .15.1 (22)  
+###  .15.1 (22)  
 
   
 
@@ -1980,7 +1982,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
- ###  .16.1 (23)  
+###  .16.1 (23)  
 
   
 
@@ -2096,11 +2098,11 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 2.1 முதலாம் இராசராசன் (கி. பி
 
- 985-1014)  
+985-1014)  
 
   
 
- ###  .1.1 (24)  
+###  .1.1 (24)  
 
   
 
@@ -2136,11 +2138,11 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 2.1 முதலாம் இராசராசன் (கி. பி
 
- 985-1014) - 2  
+985-1014) - 2  
 
   
 
- ###  .1.2 (25)  
+###  .1.2 (25)  
 
   
 
@@ -2356,7 +2358,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 கண்ணவ னுறைவது கடவுளர் நிறைவது . . . . .
 
- 105  
+105  
 
 மண்ணவர் தொழுவது வானவர் மகிழ்வது  
 
@@ -2670,11 +2672,11 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 2.2 முதலாம் இராசேந்திரன் (கி. பி
 
- 1012-1044)  
+1012-1044)  
 
   
 
- ###  .2.1 (26)  
+###  .2.1 (26)  
 
   
 
@@ -2822,11 +2824,11 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 2.3 முதலாம் இராசாதிராசன் (கி. பி
 
- 1018-1054) -1  
+1018-1054) -1  
 
   
 
- ###  .3.1 (27)  
+###  .3.1 (27)  
 
   
 
@@ -2874,11 +2876,11 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 2.3 முதலாம் இராசாதிராசன் (கி. பி
 
- 1018-1054) -2  
+1018-1054) -2  
 
   
 
- ###  .3.2 (28)  
+###  .3.2 (28)  
 
   
 
@@ -3048,11 +3050,11 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 2.3 முதலாம் இராசாதிராசன் (கி. பி
 
- 1018-1054) -3  
+1018-1054) -3  
 
   
 
- ###  .3.3 (29)  
+###  .3.3 (29)  
 
   
 
@@ -3206,11 +3208,11 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 2.4 இரண்டாம் இராசேந்திரன் (கி. பி
 
- 1051-1063) - 1  
+1051-1063) - 1  
 
   
 
- ###  .4.1 (30)  
+###  .4.1 (30)  
 
   
 
@@ -3240,11 +3242,11 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 2.4 இரண்டாம் இராசேந்திரன் (கி. பி
 
- 1051-1063) - 2  
+1051-1063) - 2  
 
   
 
- ###  .4.2 (31)  
+###  .4.2 (31)  
 
   
 
@@ -3286,11 +3288,11 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 2.4 இரண்டாம் இராசேந்திரன் (கி. பி
 
- 1051-1063) - 3  
+1051-1063) - 3  
 
   
 
- ###  .4.3 (32)  
+###  .4.3 (32)  
 
   
 
@@ -3346,11 +3348,11 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 2.4 இரண்டாம் இராசேந்திரன் (கி. பி
 
- 1051-1063) - 4  
+1051-1063) - 4  
 
   
 
- ###  .4.4 (33)  
+###  .4.4 (33)  
 
   
 
@@ -3518,11 +3520,11 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 2.4 இரண்டாம் இராசேந்திரன் (கி. பி
 
- 1051-1063) - 5  
+1051-1063) - 5  
 
   
 
- ###  .4.5 (34)  
+###  .4.5 (34)  
 
   
 
@@ -3702,11 +3704,11 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 2.5. இராசமகேந்திரன்<(கி. பி
 
- 1060-1063) - 1  
+1060-1063) - 1  
 
   
 
- ###  .5.1 (35)  
+###  .5.1 (35)  
 
   
 
@@ -3726,11 +3728,11 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 2.5. இராசமகேந்திரன் (கி. பி
 
- 1060-1063) - 2  
+1060-1063) - 2  
 
   
 
- ###  .5.2 (36)  
+###  .5.2 (36)  
 
   
 
@@ -3756,11 +3758,11 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 2.6. வீரஇராஜேந்திரன் (கி. பி
 
- 1063-1070) - 1  
+1063-1070) - 1  
 
   
 
- ###  .6.1 (37)  
+###  .6.1 (37)  
 
   
 
@@ -3840,11 +3842,11 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 2.6. வீரஇராஜேந்திரன் (கி. பி
 
- 1063-1070) - 2  
+1063-1070) - 2  
 
   
 
- ###  .6.2 (38)  
+###  .6.2 (38)  
 
   
 
@@ -4172,11 +4174,11 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 2.6. வீரஇராஜேந்திரன் (கி. பி
 
- 1063-1070) - 3  
+1063-1070) - 3  
 
   
 
- ###  .6.3 (39)  
+###  .6.3 (39)  
 
   
 
@@ -4206,11 +4208,11 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 2.7. அதிராசேந்திரன் (கி. பி
 
- 1067-1070) - 1  
+1067-1070) - 1  
 
   
 
- ###  .7.1 (40)  
+###  .7.1 (40)  
 
   
 
@@ -4256,11 +4258,11 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 2.8. குலோத்துங்கன் I (கி. பி
 
- 1070-1120 ) - 1  
+1070-1120 ) - 1  
 
   
 
- ###  .8.1 (41)  
+###  .8.1 (41)  
 
   
 
@@ -4312,11 +4314,11 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 2.8. குலோத்துங்கன் I (கி. பி
 
- 1070-1120 ) - 2  
+1070-1120 ) - 2  
 
   
 
- ###  .8.2 (43)  
+###  .8.2 (43)  
 
   
 
@@ -4366,11 +4368,11 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 2.8. குலோத்துங்கன் I (கி. பி
 
- 1070-1120 ) - 3  
+1070-1120 ) - 3  
 
   
 
- ###  .8.3 (43)  
+###  .8.3 (43)  
 
   
 
@@ -4568,11 +4570,11 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 2.8. குலோத்துங்கன் I (கி. பி
 
- 1070-1120 ) -4  
+1070-1120 ) -4  
 
   
 
- ###  .8.4 (44)  
+###  .8.4 (44)  
 
   
 
@@ -4606,11 +4608,11 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 2.8. குலோத்துங்கன் I (கி. பி
 
- 1070-1120 ) - 5  
+1070-1120 ) - 5  
 
   
 
- ###  .8.5 (45)  
+###  .8.5 (45)  
 
   
 
@@ -4634,11 +4636,11 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 2.8. குலோத்துங்கன் I (கி. பி
 
- 1070-1120 ) - 6  
+1070-1120 ) - 6  
 
   
 
- ###  .8.6 (46)  
+###  .8.6 (46)  
 
   
 
@@ -4684,11 +4686,11 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 2.9. விக்கிரம சோழன் (கி. பி
 
- 1018-1135 ) - 1  
+1018-1135 ) - 1  
 
   
 
- ###  .9.1 (47)  
+###  .9.1 (47)  
 
   
 
@@ -4858,11 +4860,11 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 2.9. விக்கிரம சோழன் (கி. பி
 
- 1018-1135 ) - 2  
+1018-1135 ) - 2  
 
   
 
- ###  .9.2 (48)  
+###  .9.2 (48)  
 
   
 
@@ -4898,11 +4900,11 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 2.9. விக்கிரம சோழன் (கி. பி
 
- 1018-1135 ) - 3  
+1018-1135 ) - 3  
 
   
 
- ###  .9.3 (49)  
+###  .9.3 (49)  
 
   
 
@@ -4926,11 +4928,11 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 2.10. குலோத்துங்கன் II. (கி. பி
 
- 1133-1150 ) - 1  
+1133-1150 ) - 1  
 
   
 
- ###  .10.1 (50)  
+###  .10.1 (50)  
 
   
 
@@ -5024,11 +5026,11 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 2.10. குலோத்துங்கன் II. (கி. பி
 
- 1133-1150 ) - 2  
+1133-1150 ) - 2  
 
   
 
- ###  .10.2 (51)  
+###  .10.2 (51)  
 
   
 
@@ -5140,11 +5142,11 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 2.10. குலோத்துங்கன் II. (கி. பி
 
- 1133-1150 ) - 3  
+1133-1150 ) - 3  
 
   
 
- ###  .10.3 (52)  
+###  .10.3 (52)  
 
   
 
@@ -5186,11 +5188,11 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 2.11. இராசராசன் II (கி. பி
 
- 1146-1163 ) - 1  
+1146-1163 ) - 1  
 
   
 
- ###  .11.1 (53)  
+###  .11.1 (53)  
 
   
 
@@ -5234,11 +5236,11 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 2.11. இராசராசன் II (கி. பி
 
- 1146-1163 ) -2  
+1146-1163 ) -2  
 
   
 
- ###  .11.2 (54)  
+###  .11.2 (54)  
 
   
 
@@ -5312,11 +5314,11 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 2.12. இராசாதிராசன் II. (கி. பி
 
- 1163-1178) - 1  
+1163-1178) - 1  
 
   
 
- ###  .12.1 (55)  
+###  .12.1 (55)  
 
   
 
@@ -5358,15 +5360,15 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 நாள்
 
- 323 இனால்..  
+323 இனால்..  
 
 2.12. இராசாதிராசன் II. (கி. பி
 
- 1163-1178) - 2  
+1163-1178) - 2  
 
   
 
- ###  .12.2 (56)  
+###  .12.2 (56)  
 
   
 
@@ -5398,11 +5400,11 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 2.12. இராசாதிராசன் II. (கி. பி
 
- 1163-1178) -3  
+1163-1178) -3  
 
   
 
- ###  .12.3 (57)  
+###  .12.3 (57)  
 
   
 
@@ -5522,11 +5524,11 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 2.13. குலோத்துங்கன் III. (கி. பி
 
- 1178-1218 ) - 1  
+1178-1218 ) - 1  
 
   
 
- ###  .13.1 (58)  
+###  .13.1 (58)  
 
   
 
@@ -5562,15 +5564,15 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 ஸரீ குலோத்துங்க தேவர்க்கு யாண்டு 9 நாள்
 
- 88......  
+88......  
 
 2.13. குலோத்துங்கன் III. (கி. பி
 
- 1178-1218 ) - 2  
+1178-1218 ) - 2  
 
   
 
- ###  .13.2 (59)  
+###  .13.2 (59)  
 
   
 
@@ -5638,11 +5640,11 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 2.13. குலோத்துங்கன் III. (கி. பி
 
- 1178-1218 ) -3  
+1178-1218 ) -3  
 
   
 
- ###  .13.3 (60)  
+###  .13.3 (60)  
 
   
 
@@ -5702,11 +5704,11 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 2.13. குலோத்துங்கன் III. (கி. பி
 
- 1178-1218 ) - 4  
+1178-1218 ) - 4  
 
   
 
- ###  .13.4 (61)  
+###  .13.4 (61)  
 
   
 
@@ -5746,7 +5748,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
- ###  .14.1 (58)  
+###  .14.1 (58)  
 
   
 
@@ -5802,7 +5804,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
- ###  .14.2 (63)  
+###  .14.2 (63)  
 
   
 
@@ -5824,7 +5826,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
- ###  .15.1 (64)  
+###  .15.1 (64)  
 
   
 
@@ -5866,7 +5868,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
- ###  .15.2 (65)  
+###  .15.2 (65)  
 
   
 
@@ -5908,7 +5910,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
- ###  .16.1 (67)  
+###  .16.1 (67)  
 
   
 
@@ -5934,7 +5936,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
- ###  .16.2 (66)  
+###  .16.2 (66)  
 
   
 
@@ -5964,7 +5966,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
- ###  .1.1 (68)  
+###  .1.1 (68)  
 
   
 
@@ -5996,7 +5998,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 சகாப்தம்
 
- 1373 ன் மேல் செல்லா நின்ற  
+1373 ன் மேல் செல்லா நின்ற  
 
 பிரசாபதி வருஷத்து மீனஞாயிற்று  
 
@@ -6006,11 +6008,11 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 3.2 மல்லிகார்ச்சுன தேவ மகாராயர்
 
- 1447-1465  
+1447-1465  
 
   
 
- ###  .2.1 (69)  
+###  .2.1 (69)  
 
   
 
@@ -6036,7 +6038,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 சகாத்தம்
 
- 1378ன்மேல் செல்லா நின்ற- - 10  
+1378ன்மேல் செல்லா நின்ற- - 10  
 
 தாதுவருஷத்து மகர ஞாயிற்று அமரபட்சத்து  
 
@@ -6044,11 +6046,11 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 3.3 கிருஷ்ண தேவமகாராயர்
 
- 1509-1530  
+1509-1530  
 
   
 
- ###  .3.1 (70)  
+###  .3.1 (70)  
 
   
 
@@ -6086,7 +6088,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
- ###  .4.1 (71)  
+###  .4.1 (71)  
 
   
 
@@ -6104,7 +6106,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 சகாத்தம்
 
- 1451 இன் மேல் செல்லா நின்ற விரோதி  
+1451 இன் மேல் செல்லா நின்ற விரோதி  
 
 சம்வத்சரத்து விருச்சிக ஞாயிற்று அமரபட்சத்து  
 
@@ -6114,7 +6116,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
- ###  .5.1 (72)  
+###  .5.1 (72)  
 
   
 
@@ -6134,7 +6136,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 அருளாநின்ற சகாப்தம்
 
- 1467 தன் மேல்  
+1467 தன் மேல்  
 
 செல்லாநின்ற விசுவாவசு சம்வத்சரத்து பால்குண  
 
@@ -6146,7 +6148,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
- ###  .5.2 (73)  
+###  .5.2 (73)  
 
   
 
@@ -6188,7 +6190,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
- ###  .5.3 (74)  
+###  .5.3 (74)  
 
   
 
@@ -6212,7 +6214,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 சகாத்தம்
 
- 1483 இதன்மேல் செல்லாநின்ற  
+1483 இதன்மேல் செல்லாநின்ற  
 
 துன்மதி வருஷம் மகரஞாயிற்றுப் பூர்வ பட்சத்து - 10  
 
@@ -6222,7 +6224,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
   
 
- ###  .6.1 (75)  
+###  .6.1 (75)  
 
   
 
@@ -6294,11 +6296,11 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 பண்ணியருளா நின்ற சாலிவாகன சகாத்தம்
 
- 1489  
+1489  
 
 கலியுக சகாத்தம்
 
- 4899 இதன் மேல் செல்லாநின்ற - 35  
+4899 இதன் மேல் செல்லாநின்ற - 35  
 
 காளயுக்தி வருஷம் கார்த்திகை மாதம் 8ம் தேதி  
 
@@ -6306,11 +6308,11 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 3.7. வீர வசந்தராயர்
 
- 1565 - ....  
+1565 - ....  
 
   
 
- ###  .7.1 (76)  
+###  .7.1 (76)  
 
   
 
@@ -6334,7 +6336,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 சகாப்தம்
 
- 4900க்கு மேல் (1490 சகம்)  
+4900க்கு மேல் (1490 சகம்)  
 
 வீரவசந்தராயர் நயனாருக்கு ஆண்டு - 10  
 
@@ -6342,7 +6344,7 @@ Only the moolam texts (and not the commentaries and other research works of the 
 
 This page was first put up on Jan 16,
 
- 2002  
+2002  
 
 Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com,  
 kumar@vt.edu?subject=PM134-meikkiirtikaL)

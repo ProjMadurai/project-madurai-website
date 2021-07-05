@@ -9,6 +9,8 @@ genres:
   - பிரபந்தம்
 ---
 
+
+
 **சிவஞானயோகிகள் அருளிச்செய்த பிரபந்தங்கள்**  
 
 (பிரபந்தத் திரட்டு நூலில் உள்ளவை)  
@@ -91,7 +93,7 @@ Copy-Right Registered.
 
   
 
- ###  . திருவேகம்பரந்தாதி.  
+###  . திருவேகம்பரந்தாதி.  
 
   
 
@@ -705,7 +707,7 @@ Copy-Right Registered.
 
   
 
- ###  . திருமுல்லைவாயிலந்தாதி.  
+###  . திருமுல்லைவாயிலந்தாதி.  
 
   
 
@@ -1321,7 +1323,7 @@ Copy-Right Registered.
 
 **This file was last updated on 22 December
 
- 2008.  
+2008.  
 
 Feel free to send corrections to the Webmaster.  
 

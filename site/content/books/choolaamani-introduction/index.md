@@ -8,17 +8,19 @@ genres:
   - காப்பியம்
 ---
 
+
+
 /akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
 weight: 35  
 
 authors:  
 
-  - தோலாமொழித் தேவர்  
+- தோலாமொழித் தேவர்  
 
 genres:  
 
-  - காப்பியம்  
+- காப்பியம்  
 
 ---  
 
@@ -58,7 +60,7 @@ Arial Unicode MS, TSCu_Inaimathi, Code2000, UniMylai,...) installed on your comp
 
 and the OS capable of rendering Tamil Scripts (Windows
 
- 2000 or Windows XP).  
+2000 or Windows XP).  
 
 ii)Use a browser that is capable of handling UTF-8 based pages  
 
@@ -68,7 +70,7 @@ ii)Use a browser that is capable of handling UTF-8 based pages
 
 ன Project Madurai
 
- 1999  
+1999  
 
 Project Madurai is an open, voluntary, worldwide initiative devoted  
 
@@ -112,6 +114,6 @@ header page is kept intact.
 
 இனி, தோலாமொழித்தேவர் வாழ்ந்த காலத்தை இதுகாறும் யாரும் வரையறுத்துக் கூறவில்லை. அச் சூளாமணிக்கு முற்பட்ட சிந்தாமணியின் காலம் கி.பி.
 
- 897 க்குப் பின்னாதல் வேண்டும். எங்ஙனமாயினும், சிந்தாமணி ஆசிரியருக்குத் தோலாமொழித் தேவர் பிற்காலத்தவர் என்பதை மறுப்பார் யாருமில்லை. எனவே, இவர் கடைச்சங்ககால்த்திற்குப் பின்னிருந்த சிந்தாமணி ஆசிரியராகிய திருத்தக்கதேவர் காலத்திற்கு அணித்தாய்த் தேவாரக் காலத்திற்கு முற்பட்டதொரு காலத்தே வாழ்ந்தவர் என்பது ஒருவாறு பொருந்துவதாம்.  
+897 க்குப் பின்னாதல் வேண்டும். எங்ஙனமாயினும், சிந்தாமணி ஆசிரியருக்குத் தோலாமொழித் தேவர் பிற்காலத்தவர் என்பதை மறுப்பார் யாருமில்லை. எனவே, இவர் கடைச்சங்ககால்த்திற்குப் பின்னிருந்த சிந்தாமணி ஆசிரியராகிய திருத்தக்கதேவர் காலத்திற்கு அணித்தாய்த் தேவாரக் காலத்திற்கு முற்பட்டதொரு காலத்தே வாழ்ந்தவர் என்பது ஒருவாறு பொருந்துவதாம்.  
 
 ------

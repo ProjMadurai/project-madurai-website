@@ -8,17 +8,19 @@ genres:
   - இலக்கணம்
 ---
 
+
+
 nail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
 weight: 55  
 
 authors:  
 
-  - அமிதசாகரர்  
+- அமிதசாகரர்  
 
 genres:  
 
-  - இலக்கணம்  
+- இலக்கணம்  
 
 ---  
 
@@ -58,7 +60,7 @@ Arial Unicode MS, TSCu_Inaimathi, Code2000, UniMylai,...) installed on your comp
 
 and the OS capable of rendering Tamil Scripts (Windows
 
- 2000 or Windows XP).  
+2000 or Windows XP).  
 
 ii)Use a browser that is capable of handling UTF-8 based pages  
 
@@ -68,7 +70,7 @@ ii)Use a browser that is capable of handling UTF-8 based pages
 
 © Project Madurai
 
- 2000  
+2000  
 
 Project Madurai is an open, voluntary, worldwide initiative devoted  
 
@@ -110,7 +112,7 @@ header page is kept intact.
 
 © மதுரைத் திட்டம்
 
- 2000  
+2000  
 
   
 
@@ -168,7 +170,7 @@ header page is kept intact.
 
 என்று குறிக்கப்பட்டுள்ளது. இக்கல்வெட்டு முதலாம் குலோத்துங்க சோழன் காலத்தது. இவன் காலம் கி.பி.1070-1120 என அறுதியிடப்பட்டுள்ளது. செயங்கொண்டான் என்பான் முதலாம் இராசராசனாவான், இவன்காலம் கி.பி.
 
- 985-1014. இராசராசன் தொண்டை மண்டலத்தை வென்றைமையின் செயங்கொண்டான் எனப்பெயர் பெற்றான். தொண்டை மண்டலத்திருந்த அமிதசாகரரின் ஊரினை சோழநாட்டொடு இணைத்ததை இக்கல்வெட்டுகூறுகின்றது. இன்னொரு கல்வெட்டில்  
+985-1014. இராசராசன் தொண்டை மண்டலத்தை வென்றைமையின் செயங்கொண்டான் எனப்பெயர் பெற்றான். தொண்டை மண்டலத்திருந்த அமிதசாகரரின் ஊரினை சோழநாட்டொடு இணைத்ததை இக்கல்வெட்டுகூறுகின்றது. இன்னொரு கல்வெட்டில்  
 
   
 
@@ -232,7 +234,7 @@ header page is kept intact.
 
 11 மார்ச்சு
 
- 2000  
+2000  
 
   
 
@@ -882,6 +884,6 @@ header page is kept intact.
 
 This file was first put up on 13 Mar.
 
- 2000.  
+2000.  
 
 Please [click hereto send in your corrections to the Webmaster of the site](mailto:kalyan@geocities.com, kumar@vt.edu)

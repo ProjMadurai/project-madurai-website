@@ -8,17 +8,19 @@ genres:
   - நீதிநெறி – பதினெண்கீழ்க்கணக்கு
 ---
 
+
+
 /akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
 weight: 27  
 
 authors:  
 
-  - பொய்கையார்  
+- பொய்கையார்  
 
 genres:  
 
-  - நீதிநெறி – பதினெண்கீழ்க்கணக்கு  
+- நீதிநெறி – பதினெண்கீழ்க்கணக்கு  
 
 ---  
 
@@ -66,7 +68,7 @@ Arial Unicode MS, TSCu_Inaimathi, Code2000, UniMylai,...) installed on your comp
 
 and the OS capable of rendering Tamil Scripts (Windows
 
- 2000 or Windows XP).  
+2000 or Windows XP).  
 
 ii)Use a browser that is capable of handling UTF-8 based pages  
 
@@ -76,7 +78,7 @@ ii)Use a browser that is capable of handling UTF-8 based pages
 
 C: Project Madurai
 
- 1999  
+1999  
 
 Project Madurai is an open, voluntary, worldwide initiative devoted  
 
@@ -540,7 +542,7 @@ header page is kept intact.
 
 உள்ளுருகு நெஞ்சினேன் ஆய்.
 
- 50.  
+50.  
 
 ஐந்திணை ஐம்பது முற்றிற்று  
 
@@ -1054,7 +1056,7 @@ header page is kept intact.
 
 கானலுள் வாழும் குருகு.
 
- 62.  
+62.  
 
 நுண்ஞான் வலையில் பரதவர் போத்தந்த  
 
@@ -1744,7 +1746,7 @@ header page is kept intact.
 
 மனஅரசால் மாண்பூப்(பு) உலகு.
 
- 24.  
+24.  
 
 இன்ப இயல்ஓரார் யாணர் விழைகாமம்  
 

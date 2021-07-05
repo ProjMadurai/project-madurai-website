@@ -8,25 +8,27 @@ authors:
   - நாடகங்கள்
 ---
 
+
+
 மதன சுந்தரப் பிரசாத சந்தான விலாசம்
 
- 2. பாண்டிய கேளீ விலாஸ நாடகம் &
+2. பாண்டிய கேளீ விலாஸ நாடகம் &
 
- 3. புரூரவ நாடகம்'  
+3. புரூரவ நாடகம்'  
 
 thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
 weight:
 
- 679  
+679  
 
 genres:  
 
-  - தொகுப்பு: கி.வா. ஜகன்னாதன்  
+- தொகுப்பு: கி.வா. ஜகன்னாதன்  
 
 authors:  
 
-  - நாடகங்கள்  
+- நாடகங்கள்  
 
 ---  
 
@@ -46,7 +48,7 @@ authors:
 
 2. பாண்டிய கேளீ விலாஸ நாடகம் &
 
- 3. புரூரவ நாடகம்  
+3. புரூரவ நாடகம்  
 
 தொகுப்பு: கி.வா. ஜகன்னாதன்  
 
@@ -54,7 +56,7 @@ Three Tamil Operas: matana cuntarap piracAta vilAcam
 
 2. pANTiya kELI vilAca nAtakam &
 
- 3. purUrava nAtakam  
+3. purUrava nAtakam  
 
 critically edited by ki.vA. jakannAtan  
 
@@ -100,7 +102,7 @@ Honorary Secretary for the Administrative Committee,
 
 T.M.S.S.M. Library, Tanjore,
 
- 1950  
+1950  
 
 Saraswati Mahal Series No. 16; Madras Government Oriental Series No., XLIV  
 
@@ -138,7 +140,7 @@ Honorary Secretary, Tanjore Maharaja Sarfoji's Saraswathi Mahal Library Committe
 
 இந்தப் புத்தகத்தில் உள்ள மூன்று நாடகங்களும் தஞ்சை ஸ்ரீ சரபோஜியரசர் சரஸ்வதி மகால் புத்தக சாலையில் உள்ள ஏட்டுச் சுவடிகளில் இருந்தன. மூன்றாவது நாடகம் அபூர்த்தியாக இருக்கின்றது. முதல் இரண்டும் சிறியவை. மூன்றாவது நாடகம் பழைய கதை ஒன்றைத் தழுவியதாதலின் பெரியதாகவே இருக்க வேண்டும். கதையின் தொடக்கமென்று சொல்வதற்குரிய முதற் பகுதியிலே 71 பாடல்கள் உள்ளன. இன்னும்
 
- 200 பாட்டுகளா வது மேலே இருக்கவேண்டுமென்று தோற்றுகின்றது.  
+200 பாட்டுகளா வது மேலே இருக்கவேண்டுமென்று தோற்றுகின்றது.  
 
 ஏடெழுதுவோரால் நேர்ந்த பிழைகள் பல இவற்றில் இருந் தன். அவற்றைக் களைந்து ஒழுங்குபடுத்தி அடிவரையறை செய்து அமைத்துள்ளேன். பல கீர்த்தனங்களுக்கு ராகதாளங் களே காணப்படவில்லை. முன்னுள்ள இரண்டு நாடகங்களும் கதை யமைப்பு உடையன அல்ல; புலவர்கள் தாமே புனைந்து அமைத் தவை. மூன்றாவது நாடகத்தின் கதாநாயகனான புரூரவன் வேத புராண காவியங்களில் சொல்லப் பெறுபவன். ஆகவே புரூரவன் வரலாறு எவ்வெந் நூல்களில் எவ்வெவ்வாறு உள்ளது என்பதைத் தொகுத்து முகவுரையிற் கொடுத்திருக்கிறேன். வெவ்வேறிடங் களில் உள்ளவற்றை ஒருசேரப் பார்க்கும்போது ஒற்றுமை வேற்றுமைகள் நன்கு புலப்படும் என்பது என் கருத்து. இந்த நாடகம் குறையாக இருந்தாலும், இதற்கு மூல நூல் என்று சொல்லத் தகும் வசன நூல் ஒன்று இன்றும் அச்சிட்டு வழங்கு கிறது. சென்னைக் கீழ்த்திசை ஏட்டுப் பிரதி நூல் நிலையத்தில் இவ் வசன நூல் ஏடாகவே இருக்கிறது. இந்த வசன நூல் பூர்த்தி யாகவே உள்ளது. ஆகவே இந்த நாடகத்தால் அறியப் பெறாத கதையின் பிற்பகுதி அந்த வசன நூலால் தெரியவரும். இதை ரினைந்து புருரவச் சக்கரவர்த்தி கதை என்ற அந்த நூலில் உள்ள கதை யைச் சுருக்கமாக முகவுரையில் தந்திருக்கிறேன். இந்த நாடகம் முற்றும் கிடைக்கவில்லை யென்பது ஒரு குறை; இதில் உள்ள கதையையே பொருளாகக் கொண்ட இனிய தமிழ்க் காவியமாகிய புருரவா சரிதை என்பது ஏட்டுருவத்தில் மதுரைத் தமிழ்ச் சங்கத்தில் இருந்ததென்று தெரிகிறது. அந்தக் காவியத்திலிருந்து ஸ்ரீ மு. இராகவையங்காரவர்கள் எடுத்துக் காட்டியிருக்கும் செய்யுட்கள் நல்ல நடையும் காவியச் சுவையும் அமைந்தனவாக உள்ளன. அந்த நூல் கிடைக்காமல் போனது தமிழ் நாட்டுக்குப் பெரிய நஷ்டம்.  
 
@@ -362,9 +364,9 @@ Honorary Secretary, Tanjore Maharaja Sarfoji's Saraswathi Mahal Library Committe
 
 [§] ஆதிபர்வம்,
 
- 69. ஆம் அத்தியாயம்., ம. வீ. ரா. பதிப்பு, ப.
+69. ஆம் அத்தியாயம்., ம. வீ. ரா. பதிப்பு, ப.
 
- 258-9  
+258-9  
 
 பராக்ரமத்தினால் கர்வங்கொண்ட அந்தப் புரூரவன் பிராமணர்களுடன் சண்டை செய்தான். அவன் பிராமணர்கள் கதறியும் அவர்களுடைய ரத்தினங்களை யெல்லாம் அபஹரித்தான். ராஜாவே! ஸநத் குமாரர் பிரம்மலோகத்திலிருந்து வந்து அவனுக்குச் சாஸ்திரத்தைப் போதித்தார். அவன் அதையும் அங்கீகரிக் கவில்லை. பிறகு, பொருளாசை கொண்டவனும் பலத்தின் கர்வத்தினால் விவேகம் தப்பினவனுமாகிய அவ்வரசன், கோபித்த மஹரிஷிகளினால் சபிக்கப்பட்டு உடனே அழிந்து போனான். அந்தச் சக்கரவர்த்தியானவன் ஊர்வசியுடன் சேர்ந்து, கந்தர்வலோகத்திலிருந்த மூன்று விதமாகப் பிரிக்கப்பட்ட அக்னிகளைச் சாஸ்திரப்படி யஜ்ஞம் செய்வதற்காகக் கொண்டு வந்தான். அந்த இளையின் புத்திரனாகிய புரூரவனுக்கு ஊர்வசியினிடம் ஆயுஸ், தீமான், அமாவ ஸ,த்ருடாயுஸ், வனாயுஸ், சதாயுஸ் ஆகிய ஆறு குமாரர்கள் பிறந்தார்கள்' என்பது அப் பகுதி.  
 
@@ -442,7 +444,7 @@ Honorary Secretary, Tanjore Maharaja Sarfoji's Saraswathi Mahal Library Committe
 
 [¢] ஷை. கிருட்டினன் தூது.
 
- 28. அரம்பையென்றது இங்கே தெய்வப் பெண் என்ற பொருளுடையது; ஊர்வசியைக் குறித்து நின்றது.  
+28. அரம்பையென்றது இங்கே தெய்வப் பெண் என்ற பொருளுடையது; ஊர்வசியைக் குறித்து நின்றது.  
 
 செவ்வைச் சூடுவார் பாகவதம்  
 
@@ -460,7 +462,7 @@ Honorary Secretary, Tanjore Maharaja Sarfoji's Saraswathi Mahal Library Committe
 
 [$] பாடல், 13
 
- 40.  
+40.  
 
 அன்னவன் நற்குணம் அறிந்து நாரதன்  
 
@@ -682,7 +684,7 @@ Honorary Secretary, Tanjore Maharaja Sarfoji's Saraswathi Mahal Library Committe
 
 இனி, தமிழில் மற்றொரு பாகவதம் உண்டு. வரதராஜையங்கார் என்பவர் இயற்றிய அந் நூலில்
 
- 110 -ஆவதாகிய குருகுல மரபுப்படலத்தில் புரூரவ மன்னன் வரலாறு காணப்படுகிறது. அங்குள்ள பாடல்கள் (31- 71 ) பின்வருமாறு:  
+110 -ஆவதாகிய குருகுல மரபுப்படலத்தில் புரூரவ மன்னன் வரலாறு காணப்படுகிறது. அங்குள்ள பாடல்கள் (31- 71 ) பின்வருமாறு:  
 
 அரிவையாகிய செயலெலாம் ஆண தாய் மறந்து  
 
@@ -1306,7 +1308,7 @@ Honorary Secretary, Tanjore Maharaja Sarfoji's Saraswathi Mahal Library Committe
 
 இந்த நூல் 27 படலங்களும்
 
- 920 செய்யுட்களும் கொண்டது. இதிற் காணும் வரலாற்றுச் சுருக்கத்தை ஸ்ரீ மு. இராகவையங்காரவர்கள் தந்திருக்கிறார்கள். அது வருமாறு :  
+920 செய்யுட்களும் கொண்டது. இதிற் காணும் வரலாற்றுச் சுருக்கத்தை ஸ்ரீ மு. இராகவையங்காரவர்கள் தந்திருக்கிறார்கள். அது வருமாறு :  
 
 "சந்திரன் பேரனும் புதனுடைய புத்திரனும் ஆகிய புரூரவ சக்கரவர்த்தி உலகமுழுவதும் ஒரு குடைக்கீழ் ஆண்டு, தேவ கணிகையாகிய உருப்பதுபோகமும் பெற்றுப் பரம சுகியாய் வாழ்ந்து வருங்காலத்தில், சனி பகவான் அவனைத் தொடர., அதனாலே, அரக்கரால் நாடிழந்து மனைவி மக்களோடும் காற்றுப் பெருமிடியால் வருந்தி முடிவில் ஒரு வகைனிடம் கூலி வேலை செய்து தன் குடும்பத்துடன் வசிக்கும் நாளிலே, அவ்வணிகன் அவன் மனைவியைக் காமுற்றுப் புரூரவன் அறியாதே அவளை வங்கத் தேற்றிக் கொண்டு போக அதனால் மனமுடைந்து, தன் மக்கள் இருவருடன் வேற்று நாடு நோக்கிச் செல்கையில் ஓர் ஆற்று வெள்ளம் சக்கரவர்த்தியை இழுத்துக் கொண்டு செல்லத் தன் அருமை மக்களையும் பிரிந்து, வேற்று நாடடைந்து அந்நாட்டரசனால் திருடனென்று கருதப் பெற்று மாறுகை மாறுகால் வாங்கப்பட்டு முடவனாகி, பின் சக்கரவர்த்தியின் சங்கீதத்தைக் கேட்க நேர்ந்த அந் நாட்டு வேந்தன் மகள் அவனைக் காமுறப் பெருங் குழப்பத்தினிடையே அவளை மணம் புணர்ந்து களித்து வருங்காலத்தில், அந்நாட்டரசன் தன் மருமகன் சக்கவர்த்தி யென்பதைத் தேவதைகளால் அறிந்து மகிழ்ந்து மத்திர நாட்டுக்கு அவனை அதிபதியாக்கப் புரூரவா தன் மனைவியுடன் அந்நாட்டை ஆண்டு வந்தனன்.  
 
@@ -1762,7 +1764,7 @@ Honorary Secretary, Tanjore Maharaja Sarfoji's Saraswathi Mahal Library Committe
 
 [/#] புரூரவச் சக்கரவர்த்தி கதை. ப.
 
- 98.  
+98.  
 
 புரூரவனுடைய மனைவியின் பெயர் வாசவதத்தை என்று புரூரவா சரிதை என்னும் காவியம் கூறும். புரூரவச் சக்கரவர்த்தி கதை விசாலாகரத்து அரசனாகிய சோமதத்தனுடைய குமாரி ஜயப்பிரதை என்றுரைக்கும். இந்த நாடகத்திலோ விதர்ப்ப தேசத்து அரசனாகிய சந்திரலோசனன் மகள் சிற்பிரபை என்று சொல்லும். சந்திரலோசனன் என்பது செய்யுளோசையின் பொருட்டுச் சந்திரலோசன் என்றும் இந் நூலில் வரும்.  
 
@@ -1854,7 +1856,7 @@ Honorary Secretary, Tanjore Maharaja Sarfoji's Saraswathi Mahal Library Committe
 
 பல இடங்களில் ஒருமை பன்மை மயங்கி வருகின்றன (31, 40, 49, 50, 52, 53,62); ஓசை குறையும் சில பகுதிகள் செய்யுட் களில் உண்டு (32, 55,
 
- 65.)  
+65.)  
 
 இவற்றையெல்லாம் ஆராயும் பொழுது, இதனை இயற்றிய புலவர் பெரிய நூல்களை இயற்றும் இலக்கண இலக்கியப் புலமையும் கவித் திறமையும் பெறாதவராயினும், பாமர மக்கள் உவக்கும் இசைப் பாடல்களையும் விருத்தங்களையும் இயற்றும் இயல்புடையவர் என்பதும், தமிழ் நாட்டில் காவியமாகவும் கதையாகவும் வழங்கும் புரூரவாவின் வரலாற்றை நாடகமாக எழுதத் துணிந்ததற்கு இவருடைய ஆர்வமே காரணம் என்பதும் தெரிய வருகின்றன.  
 
@@ -2742,7 +2744,7 @@ Honorary Secretary, Tanjore Maharaja Sarfoji's Saraswathi Mahal Library Committe
 
   
 
- ###  . பாண்டிய கேளீவிலாச நாடகம்  
+###  . பாண்டிய கேளீவிலாச நாடகம்  
 
 நாராயண கவி  
 
@@ -2876,23 +2878,23 @@ Honorary Secretary, Tanjore Maharaja Sarfoji's Saraswathi Mahal Library Committe
 
 8. மதன் - மன்மதன்.
 
- 10. சேர்வை - கைங்கரியம் ; சேவையென்பதன் திரிபு.  
+10. சேர்வை - கைங்கரியம் ; சேவையென்பதன் திரிபு.  
 
 24. மகிபதி - அரசன்.
 
- 26. சரங்கள் - மாலைகள்.  
+26. சரங்கள் - மாலைகள்.  
 
 34. காந்தி - ஒளி.
 
- 46. வாசவ வைபவன் - இந்திரனைப்போன்ற புகழுடையவன்.  
+46. வாசவ வைபவன் - இந்திரனைப்போன்ற புகழுடையவன்.  
 
 47. சிததஜன் - காமன்.
 
- 48. நத்தி - விரும்பி  
+48. நத்தி - விரும்பி  
 
 50. புந்தி - புத்தி.
 
- 52. விஜயம் - வெற்றி.  
+52. விஜயம் - வெற்றி.  
 
 ----------  
 
@@ -3790,7 +3792,7 @@ Honorary Secretary, Tanjore Maharaja Sarfoji's Saraswathi Mahal Library Committe
 
 31:
 
- 3. கீர்த்தி - ஈகையினால் வரும் புகழ். பிரதாபம் - வீரத் தினால் வரும் புகழ்.  
+3. கீர்த்தி - ஈகையினால் வரும் புகழ். பிரதாபம் - வீரத் தினால் வரும் புகழ்.  
 
 19. நாயனே - தலைவனே.  
 
@@ -3848,7 +3850,7 @@ Honorary Secretary, Tanjore Maharaja Sarfoji's Saraswathi Mahal Library Committe
 
   
 
- ###  . புரூரவ நாடகம்  
+###  . புரூரவ நாடகம்  
 
   
 
@@ -4376,7 +4378,7 @@ Honorary Secretary, Tanjore Maharaja Sarfoji's Saraswathi Mahal Library Committe
 
 11, 12,
 
- 13. சுந்தரமூர்த்தி நாயனார் அருளிய தேவாரப் பாசுரங்கள்.  
+13. சுந்தரமூர்த்தி நாயனார் அருளிய தேவாரப் பாசுரங்கள்.  
 
 14 ஊர்வசி அபயமிடல்  
 
@@ -6494,9 +6496,9 @@ OF THE MADRAS GOVERNMENT ORIENTAL SERIES
 
 The Government of Madras took up for consideration the question of publication of the various manuscripts in different languages on subjects like Philosophy, Medicine and Science etc., early in May
 
- 1948. Important manuscript Libraries in the Madras Presidency were requested to send a list of unpublished manuscripts with them for favour of being considered by the Government for publication. The Honorary Secretary of the Tanjore Maharaja Sarfoji's Saraswathi Mahal Lībrary, Tanjore, alone compiled with this request. This list as well as a similar list of unpublished manuscripts in the Government Oriental Manuscripts Library, Madras were carefully examined and a tentative selection of manuscripts suitable for publication was made. The Government in their Memorandum No.
+1948. Important manuscript Libraries in the Madras Presidency were requested to send a list of unpublished manuscripts with them for favour of being considered by the Government for publication. The Honorary Secretary of the Tanjore Maharaja Sarfoji's Saraswathi Mahal Lībrary, Tanjore, alone compiled with this request. This list as well as a similar list of unpublished manuscripts in the Government Oriental Manuscripts Library, Madras were carefully examined and a tentative selection of manuscripts suitable for publication was made. The Government in their Memorandum No.
 
- 34913/48-10, Education dated 4-4-1949 constituted an expert committee with the Curator of the Government Oriental Manuscripts Library, Madras, as the Secretary for the final selection of manuscripts suitable for printing and for estimating the cost of publications. The following are the members of the Committee:  
+34913/48-10, Education dated 4-4-1949 constituted an expert committee with the Curator of the Government Oriental Manuscripts Library, Madras, as the Secretary for the final selection of manuscripts suitable for printing and for estimating the cost of publications. The following are the members of the Committee:  
 
 The Name of Personnel of the Committee Constituted for Selecting Manuscripts for Publication.  
 
@@ -6544,9 +6546,9 @@ The Name of Personnel of the Committee Constituted for Selecting Manuscripts for
 
 The members of the Committee formed into Sub-Committees for the various languages, Sanskrit, Tamil, Teluga, Kannada, Mala yalam, Marathi and Islamic languages. They met during thə month of May
 
- 1949 at Madras and at Tanjore to examine the manuscripts and make a selection. The recommendations of the Committee were accepted by the Government in G. O. No. Mis.
+1949 at Madras and at Tanjore to examine the manuscripts and make a selection. The recommendations of the Committee were accepted by the Government in G. O. No. Mis.
 
- 2745 Education dated 31-8–1949 and they decided to call these publications as “MADRAS GOVERNMENT ORIENTAL SERIES " and appointed the Curator, Government Oriental Manuscripts Library, Madras-5, as the General Editor of the Publications. The following manuscripts have been taken up for publication during the current year:  
+2745 Education dated 31-8–1949 and they decided to call these publications as “MADRAS GOVERNMENT ORIENTAL SERIES " and appointed the Curator, Government Oriental Manuscripts Library, Madras-5, as the General Editor of the Publications. The following manuscripts have been taken up for publication during the current year:  
 
 “A” From The Government Oriental Manuscripts Library, Madras  
 
@@ -6554,39 +6556,39 @@ TAMIL
 
 1. KAPPAL SASTRAM
 
- 2. ANUBHAVA VAIDYA MURAI  
+2. ANUBHAVA VAIDYA MURAI  
 
 3. ATTANAKOLAHALAM
 
- 4. UPADESA KANDAM  
+4. UPADESA KANDAM  
 
 5. COLAN PURVA PATTAYAM
 
- 6. KONGA DESA RAJAKKAL  
+6. KONGA DESA RAJAKKAL  
 
 7. SIVAJNANA DIPAM
 
- 8. SADASIVA RUPAM, with commentary  
+8. SADASIVA RUPAM, with commentary  
 
 TELUGU  
 
 1. SANGITA RATHNAKARAMU
 
- 2. AUSHADHA YOGAMULU  
+2. AUSHADHA YOGAMULU  
 
 3. VAIDYA NIGEANTU
 
- 4. DHANURVIDYA VILASAMU  
+4. DHANURVIDYA VILASAMU  
 
 5. YOGA DARSANA VISAYAMU
 
- 6. KHADGA LAKSHANA SIROMANI  
+6. KHADGA LAKSHANA SIROMANI  
 
 SANSKRIT  
 
 1. VISHANARAYANIYAM
 
- 2. BHARGAVA NADIKA  
+2. BHARGAVA NADIKA  
 
 3. HARIHARACATURANGAM  
 
@@ -6606,33 +6608,33 @@ MALAYALAM
 
 4. KANAKKUSARAM
 
- 5. KRIYAKRAMAM  
+5. KRIYAKRAMAM  
 
 KANNADA  
 
 1. LOKOPAKARA
 
- 2. RATTAMATA  
+2. RATTAMATA  
 
 3. DIKSABODHE
 
- 4. ASVASASTRAM  
+4. ASVASASTRAM  
 
 5. (a) AUSHADHAGALU (b) VAIDYA VISHAYA  
 
 6. SANGITA RATNAKARA
 
- 7. SUPA SASTRA  
+7. SUPA SASTRA  
 
 ISLAMIC LANGUAGES  
 
 1. JAMIL-AI-ASAYA
 
- 2. TIBB-E-FARIDI  
+2. TIBB-E-FARIDI  
 
 2.
 
- 3. TAHQUIQ-AL-BUHRAN 4SAFINAT-AL-NAJAT  
+3. TAHQUIQ-AL-BUHRAN 4SAFINAT-AL-NAJAT  
 
 ----------  
 
@@ -6708,11 +6710,11 @@ SANSKRIT
 
 6. DHARMAKUTAM-SUNDARA KANDA
 
- 7. JATAKA SARA  
+7. JATAKA SARA  
 
 8. VISHNUTATVANIRNAYA VYAKHYA
 
- 9. SANGITA DARPANA  
+9. SANGITA DARPANA  
 
 10. BEEJA PALLAVA  
 
@@ -6730,6 +6732,6 @@ General Editor
 
 This file was last updated on 10 Nov.
 
- 2019  
+2019  
 
 Feel free to send the corrections to the webmaster.

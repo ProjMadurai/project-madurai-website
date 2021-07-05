@@ -8,17 +8,19 @@ genres:
   - இலக்கியம்
 ---
 
+
+
 mbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
 weight: 32  
 
 authors:  
 
-  - உதயணன்  
+- உதயணன்  
 
 genres:  
 
-  - இலக்கியம்  
+- இலக்கியம்  
 
 ---  
 
@@ -28,7 +30,7 @@ genres:
 
   
 
-  [  
+[  
 
 ## Kalevala - A Finland Epic -part Ib (in tamil script, unicode/utf-8 format)  
 
@@ -84,7 +86,7 @@ Arial Unicode MS, TSCu_Inaimathi, Code2000, UniMylai,...) installed on your comp
 
 and the OS capable of rendering Tamil Scripts (Windows
 
- 2000 or Windows XP).  
+2000 or Windows XP).  
 
 ii)Use a browser that is capable of handling UTF-8 based pages  
 
@@ -94,7 +96,7 @@ ii)Use a browser that is capable of handling UTF-8 based pages
 
 C: Project Madurai
 
- 1999  
+1999  
 
 Project Madurai is an open, voluntary, worldwide initiative devoted  
 
@@ -174,19 +176,19 @@ By Asko Parpola (University of Helsinki)
 
 Kalevala, the Finnish national epic and one of the great heroic poems of world literature, took its definitive shape in
 
- 1849, but it is directly based on oral poetry that mainly came into being during the first millennium of the Christian era. The work was compiled by the great philologist Elias Lonnrot (1802-1884) from the best and most complete variants of ancient folk songs that he himself and other pioneers of Finnish folklore had collected in the backwoods of Karelia.  
+1849, but it is directly based on oral poetry that mainly came into being during the first millennium of the Christian era. The work was compiled by the great philologist Elias Lonnrot (1802-1884) from the best and most complete variants of ancient folk songs that he himself and other pioneers of Finnish folklore had collected in the backwoods of Karelia.  
 
   
 
 Karelia, a vast area now mainly on the Russian side of Finland's eastern border, formed a periphery of Finnish-Karelian culture that was cut off from the centres of civilization by long distances and scarcely inhabited forests. The old folk poetry was preserved there in an oral tradition until the nineteenth and even twentieth century, because the Orthodox Church prevailing in Russia was more tolerant than the Roman Catholic Church current in other parts of Finland until the reformation and the Lutheran Christianity, which after the reformation systematically worked for the eradication of pagan traditions in Finland. While Kalevala on the whole reflects the pre-Christian religion and heroic legends of the Finnish-speaking peoples, its last canto has as its theme the triumph of Christianity, which the Swedish conquerors forced onto Finland in AD
 
- 1155.  
+1155.  
 
   
 
 Mikeal Agricola's translation of New Testament, printed in
 
- 1548, is the oldest directly surviving book in the Finnish language. Very short samples of the closely related Karelian language are three centuries older; they consist of spells written on birchbark, found near the Russian city of Novgorod. The folk poems, though collected only in the nineteenth century, largely go back to pre-Christian times, come from widely different areas and comprise a great bulk of material; they are thus, in effect, among the most important monuments relating to the early stages of the Finnish language and religion.  
+1548, is the oldest directly surviving book in the Finnish language. Very short samples of the closely related Karelian language are three centuries older; they consist of spells written on birchbark, found near the Russian city of Novgorod. The folk poems, though collected only in the nineteenth century, largely go back to pre-Christian times, come from widely different areas and comprise a great bulk of material; they are thus, in effect, among the most important monuments relating to the early stages of the Finnish language and religion.  
 
   
 
@@ -200,17 +202,17 @@ Comparative linguistics has shown Finnish to be an offshoot of the Uralic langua
 
 Speakers of the Proto-Uralic language livied around
 
- 6000-4000 BC as hunters and fishermen in the forest regions of the northeastern Europe, on both sides of Ural mountains. While the Samoyeds of Siberia represent the eastern branch of the Uralic language family, the Proto-Finno-Ugrians, who lived about
+6000-4000 BC as hunters and fishermen in the forest regions of the northeastern Europe, on both sides of Ural mountains. While the Samoyeds of Siberia represent the eastern branch of the Uralic language family, the Proto-Finno-Ugrians, who lived about
 
- 4000-2500 BC in central Russia, form its western branch.  
+4000-2500 BC in central Russia, form its western branch.  
 
   
 
 The Uralic language family (or rather its Finno-Ugric branch) has repeatedly been mentioned among the most distant relatives of the Dravidian language family. Indeed, several among the most famous Dravidologists, such as Robert Caldwell (who spoke of Scythian languages), Thomas Burrow (1943-46) and M.S.Andronov, have been supporters of this hypothesis. Being a Finnish student of Dravidian, I naturally took an interest in this question, and years ago accumulated a lot of material for a book on the subject. I never finished the work, however, because I became convinced of the impossibility of proving by linguistics means any genetic relationship as distant as it is in this case assumed to be. Genetic affinity can be proved only by means of establishing regular phonetic correspondences between the two protolanguages, and to be able to do this in a convincing manner that allows some crosschecking, one needs atleast about one hundred good etyma. In other words, to start with, one needs minimally a hundred word pairs that on both sides can be reconstructed for the protolanguages and in which the respective reconstruction resemble each other reasonably closely both phonetically and semantically. As the reconstruction of the Uralic family itself is based on only about
 
- 140 accepted etymologists shared by both Proto-Finno-Urgic and Proto-Samoyedic (Janhunen
+140 accepted etymologists shared by both Proto-Finno-Urgic and Proto-Samoyedic (Janhunen
 
- 1981), one cannot a priori expect the number of etyma surviving from an even older hypothetic Uralo-Dravidian phylum to be much more than around 20, which would be much too few to prove the hypothesis. This does not, of course, disprove the hypothesis - after all, it is possible that all languages are ultimately related: L.L.Cavalli-Sforza has recently compared their tentative family tree to the spread of human populations around the globe as deduced by biology.  
+1981), one cannot a priori expect the number of etyma surviving from an even older hypothetic Uralo-Dravidian phylum to be much more than around 20, which would be much too few to prove the hypothesis. This does not, of course, disprove the hypothesis - after all, it is possible that all languages are ultimately related: L.L.Cavalli-Sforza has recently compared their tentative family tree to the spread of human populations around the globe as deduced by biology.  
 
 (One paragraph omitted here due to difficulties in typing characters with special diacritical markers.)  
 
@@ -226,13 +228,13 @@ In addition, the Proto-Uralic and Proto-Dravidian resemble each other typologica
 
 The Proto-Finno-Ugrians, who lived about
 
- 4000-2500 BC in the forests of central Russia, had as their neighbours in the steppes of southern Russia the speakers of the Proto-Indo-European language (c.
+4000-2500 BC in the forests of central Russia, had as their neighbours in the steppes of southern Russia the speakers of the Proto-Indo-European language (c.
 
- 4500-2800 BC), and then the speakers of one of its daughter languages, the Proto-Aryans (c.
+4500-2800 BC), and then the speakers of one of its daughter languages, the Proto-Aryans (c.
 
- 2800-2000), whose descendents brought Sanskrit to India soon after
+2800-2000), whose descendents brought Sanskrit to India soon after
 
- 2000 BC. (Parpola in press.) The Finnish language preserves some ancient Aryan loanwords, such as 'sata' `hundred`, nearly identical with the corresponding Sanskrit word sata `hundred`. It is possible that even the early Finnish religion was influenced by Aryan ideas. Thus the principal Finnish word for `god`, jumala, may come from the ancient Aryan word dyumat `shining`, which the Rgvedic hymns apply to Indra, the god of war and thunder. Indra occupied the highest position in the ancient Indo-Aryan pantheon as did Ukko, the god of thunder, among the ancient Finnish deities. Another example is the miraculous mill in Kalevala, called sampo (colour plate 2). Its standing epithet `having a speckled cover` suggested that the idea of this wonder-mill may have come from the star-speckled cosmic `mill` of the revolving heavens. The word sampohas a variant form, sammas, which means `pillar`, and this in turn suggests a relationship with Sanskrit skambha or stambha, which occurs in the Veda as the name for the cosmic pillar that upholds the sky.  
+2000 BC. (Parpola in press.) The Finnish language preserves some ancient Aryan loanwords, such as 'sata' `hundred`, nearly identical with the corresponding Sanskrit word sata `hundred`. It is possible that even the early Finnish religion was influenced by Aryan ideas. Thus the principal Finnish word for `god`, jumala, may come from the ancient Aryan word dyumat `shining`, which the Rgvedic hymns apply to Indra, the god of war and thunder. Indra occupied the highest position in the ancient Indo-Aryan pantheon as did Ukko, the god of thunder, among the ancient Finnish deities. Another example is the miraculous mill in Kalevala, called sampo (colour plate 2). Its standing epithet `having a speckled cover` suggested that the idea of this wonder-mill may have come from the star-speckled cosmic `mill` of the revolving heavens. The word sampohas a variant form, sammas, which means `pillar`, and this in turn suggests a relationship with Sanskrit skambha or stambha, which occurs in the Veda as the name for the cosmic pillar that upholds the sky.  
 
   
 
@@ -242,7 +244,7 @@ The Proto-Finno-Ugrians, who lived about
 
 By the first millennium BC at the latest, the Balto-Finnic offshoot of the Uralic language family had reached the Baltic region and Finland and divided into two major branches. Proto-Lapps occupied the northern areas, probably most parts of Finland, while Proto-Finns (whose present-day linguistic descendents include the speakers of Estonian, Finnish and Karelian) were settled in Estonia, Karelia and southernmost Finland. The poems of Kalevala belong to the Proto-Finnish branch. The Proto-Finns were engaged in primitive farming and had a more advanced material culture, which they had adopted - along with loanwords and ideas - from the neighbouring Indo-European-speaking peoples, including Germanic (Nordic or Scandinavian), Baltic (Latvian and Lithuanian) and Slavic (Russian) tribes. The songs of Kalevala reflect the northward expansion of the Proto-Finns and their hostility towards the Lapps, their linguistic relatives, who nowadays survive as a small minority in the northernmost fringes of Scandinavia near the Artic Ocean. Traditionally the Lapps have been hunters and nomadic reindeer herders. It is probably the Lapps that the Roman author Tacitus meant in AD
 
- 98. When in his description of the northernmost borders of Europe he spoke of a people called Fenni who lived by hunting and food-gathering, with no permanent homes.  
+98. When in his description of the northernmost borders of Europe he spoke of a people called Fenni who lived by hunting and food-gathering, with no permanent homes.  
 
   
 
@@ -260,7 +262,7 @@ The war expeditions of Kalevala, which also have as their historical background 
 
 As an illustration of Kalevala's contents I would like to discuss in some detail the second song, which follows upon the myth of the world's creation in the first song. The wise sage Va/*ina/*mo/*inen wants to have trees sown upon the bare islands and mainland that rise from the primeval ocean. This is done by the spirit guarding the fertility of the soil, Sampsa Pellervoinen. The seeds of all trees flourish excepting that of the oak. Only after the demigods of the sea burn some hay and an acorn falls on these ashes, does the oak start to grow. But it grows up to the sky, into an enormous tree that prevents the sun and the moon from shining. The whole world is doomed to darkness. Va/*ina/*mo/*inen looks in vain for a feller for the giant tree, and finally prays to his mother, the maiden of the sea. She sends a tiny man, of the length of a thumb, whose appearance makes Va/*ina/*mo/*inen laugh and ridicule him, rather like the demon Bali who was misled by the looks of God Visnu in his dwarf incarnation. Just like Vamana, howver, the little coppery man (undoubtedly a personification of the ruddy rising morning sun) suddenly grows into an enormous size and fells the terrible tree by hitting it three times with his axe. Nature is now freed from the evil of darkness and starts to blossom. (One is reminded of the relief of the world when god Indra destroyed the demon 'Vrtra' and released all the waters that this monster had been retaining.) Splinters of the fallen oak scatter happiness throughout the world. This last mentioned motif seems to be connected with rituals of brewing beer around the central oak in the sacred grove, and of making beer cups out of oak wood, which had magic powers. The rest of the song describes swidden agriculture, the normal method of cultivation in ancient times, which is no longer in use (in fact it is prohibited): it invloves cutting all trees in a large area and burning them before the seed is sown in the ashes. (Fig.
 
- 2.) Va/*ina/*mo/*inen saves, however, one birch tree for the cuckoo bird to sit on.  
+2.) Va/*ina/*mo/*inen saves, however, one birch tree for the cuckoo bird to sit on.  
 
   
 
@@ -278,7 +280,7 @@ The name Kalevala ends in the Finnish place name suffix -la. The remining stem K
 
 One of the principal heroes of Kalevala, Ilmarinen, is specifically a smith. Among his main feats are the taming of iron, the forging of the miraculous mill sampo (colour plate 2), ploughing a field full of vipers (colour plate 5), the making of a golden maiden and releasing the heavenly lights from the rock of the north. In ancient folk poems Ilmarinen has forged the heavenly vault as well as the sampo. Depicted on a shamanic drum from Lapland dating from
 
- 1692 is an anthropomorphic god, called Ilmaris, who is said to regulate the air and the wind. The Finnish word ilma means `air` and the Votyaks living in Russia still worship a sky god called Inmar or Ilmar.  
+1692 is an anthropomorphic god, called Ilmaris, who is said to regulate the air and the wind. The Finnish word ilma means `air` and the Votyaks living in Russia still worship a sky god called Inmar or Ilmar.  
 
   
 
@@ -296,35 +298,35 @@ The main actor of Kalevala, Va/*ina/*mo/*inen, is a many-sided figure with both 
 
 Although Kalevala is based on ancient folk songs, we must not forget that its compiler also has a considerable share in its formation. It remains the work of Elias Lo/*nnrot (1802-1884), son of a poor villiage tailor, who started his career as a medical doctor, but who became a Professor of the Finnish language with as extraordinarily wide range of cultural activities. On elven long treks through largely roadless wildernesses, Lo/*nnrot travelled by foot some twenty thousand kilometers and collected about 65,000 lines of Kalevala-type folk songs. After a doctoral dissertation on the poems dealing with Va/*ina/*mo/*inen (1822), he published the first edition of Kalevala, the so calleed "Old Kalevala", in
 
- 1835; the second and final edition, nearly twice the length of the first, comprising 50 songs and 22,795 lines in all, came out in
+1835; the second and final edition, nearly twice the length of the first, comprising 50 songs and 22,795 lines in all, came out in
 
- 1849. An anthology of lyric folk poetry called Kanteletar was published by Lo/*nnrot in
+1849. An anthology of lyric folk poetry called Kanteletar was published by Lo/*nnrot in
 
- 1840-41. The original sources of these publications still exist, and afford a clear idea of its relationship to the genuine folklore. Lonnrot gave Kalevala its overall shape and structure, and in linking the various originally independent episodes composed himself about
+1840-41. The original sources of these publications still exist, and afford a clear idea of its relationship to the genuine folklore. Lonnrot gave Kalevala its overall shape and structure, and in linking the various originally independent episodes composed himself about
 
- 600 lines which have no parallel in the folk material.  
+600 lines which have no parallel in the folk material.  
 
   
 
 A large body of the original folk poetry on which Kalevala and Kanteletar are based has been published in 33 thick volumes of Suomen kansan vanhat runot (`The ancient poems of the Finnish people`) in
 
- 1908-1948. Even this huge work does not exhaust the rich collections that hundreds of scholars and volunteer collectors of folklore have accumulated in the archives of the Finnish Literature Society. Established in
+1908-1948. Even this huge work does not exhaust the rich collections that hundreds of scholars and volunteer collectors of folklore have accumulated in the archives of the Finnish Literature Society. Established in
 
- 1831, the Finnish Literature Society is one of oldest and largest collections of oral tradition in the world. In
+1831, the Finnish Literature Society is one of oldest and largest collections of oral tradition in the world. In
 
- 1977, these collections comprised some 86,800 songs in Kalevala metre;
+1977, these collections comprised some 86,800 songs in Kalevala metre;
 
- 129,400 rhymed folk-songs; 52,400 incantations;
+129,400 rhymed folk-songs; 52,400 incantations;
 
- 336,000 spells, beliefs and omens;
+336,000 spells, beliefs and omens;
 
- 187,400 games; 9,300 nonsense verse and laments; 96,000 fairy tales; 1,600 religious legends;
+187,400 games; 9,300 nonsense verse and laments; 96,000 fairy tales; 1,600 religious legends;
 
- 103,200 supernatural tales and memorates; 77,800 historical and local tales; 7,700 aetiological stories and myths;
+103,200 supernatural tales and memorates; 77,800 historical and local tales; 7,700 aetiological stories and myths;
 
- 766,500 proverbs (complemented by 1,425,000 proverb variants in the collections of Helsinki University);
+766,500 proverbs (complemented by 1,425,000 proverb variants in the collections of Helsinki University);
 
- 117,300 riddles; 23,200 folk tunes; and 54,000 ethnographic descriptions.  
+117,300 riddles; 23,200 folk tunes; and 54,000 ethnographic descriptions.  
 
   
 
@@ -334,13 +336,13 @@ A large body of the original folk poetry on which Kalevala and Kanteletar are ba
 
 Lo/*nnrot's work, particularly the publication of Kalevala, had an immerse effect on the self-awareness and national feeling of the Finns, who had been dominated by the Swedes from
 
- 1155 to
+1155 to
 
- 1809 and then (after a war between Sweden and Russia, which Sweden lost) by the Russians from
+1809 and then (after a war between Sweden and Russia, which Sweden lost) by the Russians from
 
- 1809 to
+1809 to
 
- 1917, when Finland finally obtained independence. Lo/*nnrot's service to world literature in salvaging the ancient heritage from the destruction can be compared with that rendered by the famous resurrector of the Old Tamil Cankam literature, Uu. Vee. Caaminaathaiyar. The famous Finnish composer Jean Sibelius (1865-1957) introduced many themes of Kalevala to world music. His music has in the hearts of the Finns a position comparable to the music of Thiyaagaraajar among the Tamils. The poems of Kalevala have greatly inspired also the greatest Finnish visual artists, above all Akseli Gallen-Kallela (1865-1931). The vignettes at the beginning and end of each poem have been taken from his artistic Kalevala edition, and a small selection of his Kalevala paintings and frescoes are reproduced in the frontispiece and on the eight colour plates. It is hoped that they can also mediate some impression of Finnish nature, still today characterized by lakes and forests; they render this artist's view of the cultural milieu that created the poems.  
+1917, when Finland finally obtained independence. Lo/*nnrot's service to world literature in salvaging the ancient heritage from the destruction can be compared with that rendered by the famous resurrector of the Old Tamil Cankam literature, Uu. Vee. Caaminaathaiyar. The famous Finnish composer Jean Sibelius (1865-1957) introduced many themes of Kalevala to world music. His music has in the hearts of the Finns a position comparable to the music of Thiyaagaraajar among the Tamils. The poems of Kalevala have greatly inspired also the greatest Finnish visual artists, above all Akseli Gallen-Kallela (1865-1931). The vignettes at the beginning and end of each poem have been taken from his artistic Kalevala edition, and a small selection of his Kalevala paintings and frescoes are reproduced in the frontispiece and on the eight colour plates. It is hoped that they can also mediate some impression of Finnish nature, still today characterized by lakes and forests; they render this artist's view of the cultural milieu that created the poems.  
 
   
 
@@ -350,7 +352,7 @@ Lo/*nnrot's work, particularly the publication of Kalevala, had an immerse effec
 
 Oxford University Press has recently published a new English translation of Kalevala by Keith Bosley in its series `The World's Classics` (1989). This translation, the earlier English renderings by W.F.Kirby (1907, reprinted in Gallen-Kallela
 
- 1985) and F.B.Magoun, Jr. (1963), together with some other English translations have been taken into consideration in the present Tamil interpretation. The translator, Mr R. Sivalingam of Jaffna, Sri Lanka, is an experiened writer well known to Tamil readers through his numerous novels and short stories published under the pen name Udayanan. His two novels Ponnaana malarallavoo and An-taranka kiitam were published by the Express Newspapers (Ceylon) Ltd. in Colombo in their series of `Virakesari Publications`. Having lived in Finland for more than ten years, he has become acquainted with the Finnish culture and language and has been able to base his rendering of Kalevala directly on the Finnish-Karelian original. He has carefully polished its form with the help of his Sri Lankan poet friend, S. Krishnapillai (`Thimilaithumilan`).  
+1985) and F.B.Magoun, Jr. (1963), together with some other English translations have been taken into consideration in the present Tamil interpretation. The translator, Mr R. Sivalingam of Jaffna, Sri Lanka, is an experiened writer well known to Tamil readers through his numerous novels and short stories published under the pen name Udayanan. His two novels Ponnaana malarallavoo and An-taranka kiitam were published by the Express Newspapers (Ceylon) Ltd. in Colombo in their series of `Virakesari Publications`. Having lived in Finland for more than ten years, he has become acquainted with the Finnish culture and language and has been able to base his rendering of Kalevala directly on the Finnish-Karelian original. He has carefully polished its form with the help of his Sri Lankan poet friend, S. Krishnapillai (`Thimilaithumilan`).  
 
   
 
@@ -388,7 +390,7 @@ Finland.
 
 1 November
 
- 1994  
+1994  
 
 []()  
 
@@ -410,9 +412,9 @@ Finland.
 
 உலக இலக்கியத்தின் மாபெரும் காவியப் பாடல்களில் ஒன்றான கலேவலா என்னும் பின்லாந்தின் தேசீய காவியம்
 
- 1849ல் ஒரு சரியான உருவத்தைப் பெற்றது. ஆனால் இது நேரடியாக வாய்மொழிப் பாடல்களின் அடிப்படையிலிருந்து கிறிஸ்துவின் வரலாற்றுக் காலத்தின் முதலாவது ஆயிரம் வருடப் பகுதியில் உருவம் கொண்டது. சிறந்ததும் முற்றிலும் பாட பேதங்கள் நிறைந்ததுமான தொன்மையான நாட்டுப் பாடல்களிலிருந்து சிறந்த மொழிநூல் வல்லுரான எலியாஸ் லொண்ரொத் (Elias Lo/*nnrot,
+1849ல் ஒரு சரியான உருவத்தைப் பெற்றது. ஆனால் இது நேரடியாக வாய்மொழிப் பாடல்களின் அடிப்படையிலிருந்து கிறிஸ்துவின் வரலாற்றுக் காலத்தின் முதலாவது ஆயிரம் வருடப் பகுதியில் உருவம் கொண்டது. சிறந்ததும் முற்றிலும் பாட பேதங்கள் நிறைந்ததுமான தொன்மையான நாட்டுப் பாடல்களிலிருந்து சிறந்த மொழிநூல் வல்லுரான எலியாஸ் லொண்ரொத் (Elias Lo/*nnrot,
 
- 1802-1884) அவர்களாலும் மற்றும் பின்லாந்தின் நாடோ டி இலக்கியத்தின் முன்னோடிகளாலும் கரேலியாவின் காட்டுப் பகுதிகளிலிருந்து சேகரிக்கப்பட்டன.  
+1802-1884) அவர்களாலும் மற்றும் பின்லாந்தின் நாடோ டி இலக்கியத்தின் முன்னோடிகளாலும் கரேலியாவின் காட்டுப் பகுதிகளிலிருந்து சேகரிக்கப்பட்டன.  
 
   
 
@@ -434,17 +436,17 @@ Finland.
 
 கி.மு.
 
- 6000-4000க்கு முன் பின்னாக, 'முன்-யூரல்' மொழி பேசியவர்கள் (Speakers of the Proto-Uralic language) ஐரோப்பாவின் வடகீழ்ப் பிரதேசத்துக் காட்டுப் பகுதிகளில், யூரல் மலைகளின் இரு பக்கங்களிலும் வேடராகவும் மீனவராகவும் வாழ்ந்தனர். சைபீரியாவின் சமோயெட்ஸ (Samoyeds) என்னும் மொழி யூரல் மொழிக் குடும்பத்தின் கிழக்குக் கிளையை பிரதிநிதித்துவம் செய்த அதே வேளையில், கி.மு.4000-2500க்கு முன்பின்னாக மத்திய ரஷ்ஷியாவில் வாழ்ந்த பின்னிஷ் - உகிரியர்களின் ஆதிமுன்னோர் (Proto - Finno - Ugrians) இதன் மேற்குக் கிளையை உருவாக்கினர்.  
+6000-4000க்கு முன் பின்னாக, 'முன்-யூரல்' மொழி பேசியவர்கள் (Speakers of the Proto-Uralic language) ஐரோப்பாவின் வடகீழ்ப் பிரதேசத்துக் காட்டுப் பகுதிகளில், யூரல் மலைகளின் இரு பக்கங்களிலும் வேடராகவும் மீனவராகவும் வாழ்ந்தனர். சைபீரியாவின் சமோயெட்ஸ (Samoyeds) என்னும் மொழி யூரல் மொழிக் குடும்பத்தின் கிழக்குக் கிளையை பிரதிநிதித்துவம் செய்த அதே வேளையில், கி.மு.4000-2500க்கு முன்பின்னாக மத்திய ரஷ்ஷியாவில் வாழ்ந்த பின்னிஷ் - உகிரியர்களின் ஆதிமுன்னோர் (Proto - Finno - Ugrians) இதன் மேற்குக் கிளையை உருவாக்கினர்.  
 
   
 
 திராவிட மொழிக் குடும்பத்தின் தூரத்து உறவுகளாக இருக்கக்கூடிய சாத்தியங்களில் யூராலிக் மொழிக் குடும்பம் (அல்லது அதன் பின்னோ-உகிரிக் கிளை Finno - Ugric branch) திரும்பத் திரும்பக் குறிப்பிடப்பட்டுள்ளது. இந்த உத்தேசக் கோட்பாட்டை ஆதரித்த மிகப் பிரபலமான திராவிட இயல் அறிஞர்கள் பலரில் ('சிதியன்' Scythian மொழிகள் பேசிய) றொபேட் கால்ட்வெல் (Robert Caldwell), தோமஸ் புறோவ் (Thomas Burrow
 
- 1943-46), எம்.எஸ். அன்ட்றோனொவ் (M.S.Andronov) போன்றோரும் அடங்குவர். நான் திராவிட இயலின் பின்லாந்து மாணவனாக இருப்பதால், இயல்பாகவே இதில் அக்கறை கொண்டதோடு பல வருடங்களாகவே இந்தத் தலைப்பில் ஒரு நூல் எழுதக்கூடிய அளவு விடயங்களைத் தொகுத்து வைத்திருக்கிறேன். எனினும் இந்த விடயத்தில் கருதப்பட்டபடி தூரத்து மரபுவழியுறவை மொழி வழியாக உறுதிப்படுத்த முடியாது என்று நம்பியதால், இவ்வேலையை நான் முடிக்கவேயில்லை. இரண்டு ஆதி மொழிகளுக்கிடையே உள்ள ஒழுங்கான குரலொலித் தொடர்புகளை நிலைநாட்டுவதன் முலம் மட்டுமே மரபுவழியுறவை உறுதிப்படுத்த முடியும். இதை நம்பக்கூடிய வகையில் செய்வதனால், இரண்டு மொழிகளுக்குமிடையே ஒப்பு நோக்குவதற்குக் குறைந்தது நூறு சொல்லாக்க விளக்கங்களாவது தேவை. வேறு விதமாகச் சொல்லப் போனால், இந்த வேலையைத் தொடங்கி ஆதி மொழிகளுக்காக இரண்டு பக்கங்களிலும் புனரமைப்புச் செய்து பார்ப்பதற்குக் குறைந்தது நூறு சொற்களின் சோடிகளாவது தேவை; அத்துடன் இத்தகைய புனரமைப்புகள் குரலொலி சொற்பொருள் இரண்டிலும் நியாயமாகவும் நெருக்கமாகவும் ஒன்றோடொன்று ஒத்திருத்தல் வேண்டும். 'முன்-பின்னோ-உகிரிக்' மற்றும் 'முன்-சமோயேதிக்' மொழிகளும் (Proto-Finno-Ugric and Proto-Samoyedic [Janhunen
+1943-46), எம்.எஸ். அன்ட்றோனொவ் (M.S.Andronov) போன்றோரும் அடங்குவர். நான் திராவிட இயலின் பின்லாந்து மாணவனாக இருப்பதால், இயல்பாகவே இதில் அக்கறை கொண்டதோடு பல வருடங்களாகவே இந்தத் தலைப்பில் ஒரு நூல் எழுதக்கூடிய அளவு விடயங்களைத் தொகுத்து வைத்திருக்கிறேன். எனினும் இந்த விடயத்தில் கருதப்பட்டபடி தூரத்து மரபுவழியுறவை மொழி வழியாக உறுதிப்படுத்த முடியாது என்று நம்பியதால், இவ்வேலையை நான் முடிக்கவேயில்லை. இரண்டு ஆதி மொழிகளுக்கிடையே உள்ள ஒழுங்கான குரலொலித் தொடர்புகளை நிலைநாட்டுவதன் முலம் மட்டுமே மரபுவழியுறவை உறுதிப்படுத்த முடியும். இதை நம்பக்கூடிய வகையில் செய்வதனால், இரண்டு மொழிகளுக்குமிடையே ஒப்பு நோக்குவதற்குக் குறைந்தது நூறு சொல்லாக்க விளக்கங்களாவது தேவை. வேறு விதமாகச் சொல்லப் போனால், இந்த வேலையைத் தொடங்கி ஆதி மொழிகளுக்காக இரண்டு பக்கங்களிலும் புனரமைப்புச் செய்து பார்ப்பதற்குக் குறைந்தது நூறு சொற்களின் சோடிகளாவது தேவை; அத்துடன் இத்தகைய புனரமைப்புகள் குரலொலி சொற்பொருள் இரண்டிலும் நியாயமாகவும் நெருக்கமாகவும் ஒன்றோடொன்று ஒத்திருத்தல் வேண்டும். 'முன்-பின்னோ-உகிரிக்' மற்றும் 'முன்-சமோயேதிக்' மொழிகளும் (Proto-Finno-Ugric and Proto-Samoyedic [Janhunen
 
- 1981]) பகிர்ந்து கொண்ட சுமார்
+1981]) பகிர்ந்து கொண்ட சுமார்
 
- 140 ஏற்கப்பட்ட சொல்லாக்க விளக்கங்களில் மட்டும் யூராலிக் குடும்பத்தின் புனரமைப்புகளே அமைந்திருக்கின்றன. மிகப் பழமையான உத்தேச யூராலோ-திராவிட மொழிகளின் (Uralo-Dravidian) பெரும்பிரிவில் சுமார் 20க்கு மேற்பட்ட சொல்லாக்க விளக்கங்கள் இருக்கலாம் என்று யாருமே விதிமுறைப்படி எதிர்பார்க்க முடியாது; இவை உத்தேசக் கோட்பாட்டை மெய்ப்பிக்கும் அளவுக்குப் போதியன அல்ல. ஆயினும் இவை உத்தேசக் கோட்பாட்டை நிச்சயமாக மறுப்பவையல்ல. முடிவில் எல்லா மொழிகளுமே ஒன்றுக்கொன்று தொடர்புடையனவாக வரலாம்; பூகோளத்தைச் சுற்றிப் பரவியுள்ள மனித இனத்தின் உத்தேசக் குடும்ப மரத்தை உயிரியலிலிருந்து வருவித்த முடிவுடன் எல். எல். கவல்லி-ஸ்பொர்ஸா (L. L. Cavalli-Sforza) சமீபத்தில் ஒப்பிட்டிருக்கிறார்.  
+140 ஏற்கப்பட்ட சொல்லாக்க விளக்கங்களில் மட்டும் யூராலிக் குடும்பத்தின் புனரமைப்புகளே அமைந்திருக்கின்றன. மிகப் பழமையான உத்தேச யூராலோ-திராவிட மொழிகளின் (Uralo-Dravidian) பெரும்பிரிவில் சுமார் 20க்கு மேற்பட்ட சொல்லாக்க விளக்கங்கள் இருக்கலாம் என்று யாருமே விதிமுறைப்படி எதிர்பார்க்க முடியாது; இவை உத்தேசக் கோட்பாட்டை மெய்ப்பிக்கும் அளவுக்குப் போதியன அல்ல. ஆயினும் இவை உத்தேசக் கோட்பாட்டை நிச்சயமாக மறுப்பவையல்ல. முடிவில் எல்லா மொழிகளுமே ஒன்றுக்கொன்று தொடர்புடையனவாக வரலாம்; பூகோளத்தைச் சுற்றிப் பரவியுள்ள மனித இனத்தின் உத்தேசக் குடும்ப மரத்தை உயிரியலிலிருந்து வருவித்த முடிவுடன் எல். எல். கவல்லி-ஸ்பொர்ஸா (L. L. Cavalli-Sforza) சமீபத்தில் ஒப்பிட்டிருக்கிறார்.  
 
   
 
@@ -464,13 +466,13 @@ Finland.
 
 சுமார் கி.மு.
 
- 4000-2500 ஆண்டுகளில் மத்திய ரஷ்ஷியாவின் காடுகளில் வாழ்ந்த 'முன்-பின்னோ-உகிரியரு'க்கு (the Proto-Finno-Ugrians) தென் ரஷ்ஷியாவின் சமவெளிகளில் வாழ்ந்த 'முன்-இந்தோ-ஐரோப்பிய' (the Proto-Indo-European) மொழி பேசியோர் அயலவராக இருந்தனர் (சுமார்
+4000-2500 ஆண்டுகளில் மத்திய ரஷ்ஷியாவின் காடுகளில் வாழ்ந்த 'முன்-பின்னோ-உகிரியரு'க்கு (the Proto-Finno-Ugrians) தென் ரஷ்ஷியாவின் சமவெளிகளில் வாழ்ந்த 'முன்-இந்தோ-ஐரோப்பிய' (the Proto-Indo-European) மொழி பேசியோர் அயலவராக இருந்தனர் (சுமார்
 
- 4500-2800 கி.மு.); பின்னர் அதன் வழிவந்த மொழிகளில் ஒன்றைப் பேசிய 'முன்-ஆரியரின்' (the Proto-Aryans) (சுமார்
+4500-2800 கி.மு.); பின்னர் அதன் வழிவந்த மொழிகளில் ஒன்றைப் பேசிய 'முன்-ஆரியரின்' (the Proto-Aryans) (சுமார்
 
- 2800-2000 கி.மு.) வழித் தோன்றல்கள் கி.மு.
+2800-2000 கி.மு.) வழித் தோன்றல்கள் கி.மு.
 
- 2000ஐ அடுத்து சமஸ்கிருதத்தை இந்தியாவுக்குக் கொண்டு வந்தனர் (பார்பொலாவின் ஆக்கம் - அச்சில்). சில பழைய சமஸ்கிருத இரவல் சொற்கள் பின்னிஷ் மொழியில் பாதுகாக்கப்படுகிறது; ஓர் எடுத்துக்காட்டாக, 'நூறு' என்னும் பொருளுடைய 'sata' 'சத' என்ற பின்னிஷ் சொல், 'sata' என்ற சமஸ்கிருதச் சொல்லுடன் கிட்டத்தட்டச் சரியாக ஒத்திருக்கிறது. ஆதியில் இருந்த பின்னிஷ் மதம் ஆரியக் கொள்ளைகளின் தாக்க விளைவாகக்கூட இருந்திருக்கலாம். இவ்வாறு 'கடவுள்' என்னும் பொருளுடைய 'jumala' என்ற பின்னிஷ் மூலச் சொல், இருக்குவேதப் பாடல்களில் போருக்கும் இடிமுழக்கத்துக்கும் தெய்வமான இந்திரனைக் குறிப்பிடும் 'பிரகாசித்தல்' என்னும் பொருளுடைய 'dyumat' என்ற பழைய ஆரியச் சொல்லில் இருந்து வந்திருக்கலாம். இந்திய ஆரியர்களின் தெய்வங்களில் இந்திரன் உயர்ந்த நிலையைப் பெற்றார்; பின்னிஷ் பழைய தெய்வங்களில் இடிமுழக்கத்தின் தெய்வமான 'உக்கோ' (Ukko)வும் அவ்வாறே கருதப்பட்டார். இன்னொரு எடுத்துக்காட்டு கலேவலாவில் வரும் 'சம்போ' என்னும் அற்புத ஆலையாகும். சுழலும் சுவர்க்கத்தின் நட்சத்திரப் புள்ளிகளுடைய இயலுலக அண்டத்துக்குரிய 'ஆலை'யிலிருந்து இந்த அற்புத ஆலைக்கான எண்ணம் ஏற்பட்டிருக்கலாம் என்று சம்போவின் 'புள்ளிகளுள்ள மூடி' என்ற நிலையான அடைமொழி கருத வைக்கிறது. 'சம்போ' (sampo) என்னும் சொல்லில் இருந்து வரும் 'தூண்' என்னும் பொருளுள்ள திரிபுரு sammas என்பது, skambha அல்லது stambha என்ற சமஸ்கிருதச் சொல்லின் தொடர்பை நினைவூட்டுகிறது; வேதத்தில் இது வானத்தைத் தாங்கி நிற்கும் இயலுலக அண்டத்துக்குரிய தூணைக் குறிக்கிறது.  
+2000ஐ அடுத்து சமஸ்கிருதத்தை இந்தியாவுக்குக் கொண்டு வந்தனர் (பார்பொலாவின் ஆக்கம் - அச்சில்). சில பழைய சமஸ்கிருத இரவல் சொற்கள் பின்னிஷ் மொழியில் பாதுகாக்கப்படுகிறது; ஓர் எடுத்துக்காட்டாக, 'நூறு' என்னும் பொருளுடைய 'sata' 'சத' என்ற பின்னிஷ் சொல், 'sata' என்ற சமஸ்கிருதச் சொல்லுடன் கிட்டத்தட்டச் சரியாக ஒத்திருக்கிறது. ஆதியில் இருந்த பின்னிஷ் மதம் ஆரியக் கொள்ளைகளின் தாக்க விளைவாகக்கூட இருந்திருக்கலாம். இவ்வாறு 'கடவுள்' என்னும் பொருளுடைய 'jumala' என்ற பின்னிஷ் மூலச் சொல், இருக்குவேதப் பாடல்களில் போருக்கும் இடிமுழக்கத்துக்கும் தெய்வமான இந்திரனைக் குறிப்பிடும் 'பிரகாசித்தல்' என்னும் பொருளுடைய 'dyumat' என்ற பழைய ஆரியச் சொல்லில் இருந்து வந்திருக்கலாம். இந்திய ஆரியர்களின் தெய்வங்களில் இந்திரன் உயர்ந்த நிலையைப் பெற்றார்; பின்னிஷ் பழைய தெய்வங்களில் இடிமுழக்கத்தின் தெய்வமான 'உக்கோ' (Ukko)வும் அவ்வாறே கருதப்பட்டார். இன்னொரு எடுத்துக்காட்டு கலேவலாவில் வரும் 'சம்போ' என்னும் அற்புத ஆலையாகும். சுழலும் சுவர்க்கத்தின் நட்சத்திரப் புள்ளிகளுடைய இயலுலக அண்டத்துக்குரிய 'ஆலை'யிலிருந்து இந்த அற்புத ஆலைக்கான எண்ணம் ஏற்பட்டிருக்கலாம் என்று சம்போவின் 'புள்ளிகளுள்ள மூடி' என்ற நிலையான அடைமொழி கருத வைக்கிறது. 'சம்போ' (sampo) என்னும் சொல்லில் இருந்து வரும் 'தூண்' என்னும் பொருளுள்ள திரிபுரு sammas என்பது, skambha அல்லது stambha என்ற சமஸ்கிருதச் சொல்லின் தொடர்பை நினைவூட்டுகிறது; வேதத்தில் இது வானத்தைத் தாங்கி நிற்கும் இயலுலக அண்டத்துக்குரிய தூணைக் குறிக்கிறது.  
 
   
 
@@ -512,7 +514,7 @@ Finland.
 
 கலேவலாவின் முக்கிய நாயகர்களில் ஒருவனான இல்மரினன் கொல்லன் என்னும் தனிச் சிறப்புடையவன். இவனுடைய முக்கிய அருஞ்செயல்களில் சில: இரும்பைப் படிமானமாக்குதல், சம்போ என்னும் அற்புத ஆலையை உலையில் உருவாக்குதல் (வர்ணப்படம் 2), பாம்புகள் நிறைந்த வயலை உழுதல் (வர்ணப்படம் 5), தங்கத்தில் ஒரு மங்கையை இயற்றுதல், விண்ணுலக ஒளிகளை வடநிலப் பாறைகளிலிருந்து விடுவித்தல் என்பனவாம். பழைய நாடோ டிப் பாடல்களின்படி, இல்மரினன் சம்போவைப் போலவே விண்ணுலகின் கவிகை விமானத்தையும் செய்திருக்கிறான். லாப்புலாந்திலிருந்து கிடைத்த
 
- 1692ம் காலத்தைய 'ஷமானிஸ' மதகுருவின் முரசின்படி (drum) இல்மரிஸ் என்னும் மன்புனைவான தெய்வம் காற்றையும் காற்றுவீச்சையும் ஒழுங்கிசைவுப்படுத்தியதாகச் சொல்லப்படுகிறது. பின்னிஷ் மொழியில் ilma என்னும் சொல்லுக்குக் காற்று என்று பொருள். ரஷ்ஷியாவில் வாழும் 'வொத்யாக்ஸ்' (Votyaks) இனத்தவர் இன்னமும் 'இன்மர்' Inmar அல்லது 'இல்மெர்' Ilmer என்னும் விண்ணுக்குரிய தெய்வத்தை வழிபடுகின்றனர்.  
+1692ம் காலத்தைய 'ஷமானிஸ' மதகுருவின் முரசின்படி (drum) இல்மரிஸ் என்னும் மன்புனைவான தெய்வம் காற்றையும் காற்றுவீச்சையும் ஒழுங்கிசைவுப்படுத்தியதாகச் சொல்லப்படுகிறது. பின்னிஷ் மொழியில் ilma என்னும் சொல்லுக்குக் காற்று என்று பொருள். ரஷ்ஷியாவில் வாழும் 'வொத்யாக்ஸ்' (Votyaks) இனத்தவர் இன்னமும் 'இன்மர்' Inmar அல்லது 'இல்மெர்' Ilmer என்னும் விண்ணுக்குரிய தெய்வத்தை வழிபடுகின்றனர்.  
 
   
 
@@ -530,37 +532,37 @@ Finland.
 
 கலேவலா பழைய நாடோ டிப் பாடல்களின் அடிப்படையில் அமைந்திருந்தாலும், அதன் அமைப்பில் அதன் தொகுப்பாசிரியருக்கும் கணிசமான பங்கு உண்டு என்பதை நாம் மறந்து விடக் கூடாது. இது எலியாஸ் லொண்ரொத்தின் (Elias Lo/*nnrot,
 
- 1802-18884) ஆக்கமாகவே நிலைத்திருக்கிறது; ஒரு கிராமத்து ஏழைத் தையற்காரரின் மகனான இவர், ஒரு மருத்துவராக வாழ்க்கையைத் தொடங்கி, சிறந்த மிகப் பெரிய அளவிலான கலாசாரச் செயல்கள் முலமாகப் பின்னிஷ் மொழியின் பேராசிரியர் ஆனார். பதினொரு நெடுந்தூரப் பயணங்களில், பெரும்பாலும் தெருக்களே இல்லாத காட்டுப் பிரதேசங்கள் வழியாக, இருபதினாயிரம் கிலோ மீட்டர் தூரம் கால்நடையாகவே சென்று, கலேவலா நாட்டுப் பாடல்கள் அமைப்பில் உள்ள 65,000 பாடல் அடிகளை லொண்ரொத் சேகரித்தார். வைனாமொயினன் தொடர்பான பாடல்கள் பற்றிய முனைவர் பட்டத்துக்கான ஆய்வுக்குப் பின்னர் (1822), "பழைய கலேவலா" என்று அழைக்கப்படும் கலேவலாவின் முதலாவது பதிப்பை
+1802-18884) ஆக்கமாகவே நிலைத்திருக்கிறது; ஒரு கிராமத்து ஏழைத் தையற்காரரின் மகனான இவர், ஒரு மருத்துவராக வாழ்க்கையைத் தொடங்கி, சிறந்த மிகப் பெரிய அளவிலான கலாசாரச் செயல்கள் முலமாகப் பின்னிஷ் மொழியின் பேராசிரியர் ஆனார். பதினொரு நெடுந்தூரப் பயணங்களில், பெரும்பாலும் தெருக்களே இல்லாத காட்டுப் பிரதேசங்கள் வழியாக, இருபதினாயிரம் கிலோ மீட்டர் தூரம் கால்நடையாகவே சென்று, கலேவலா நாட்டுப் பாடல்கள் அமைப்பில் உள்ள 65,000 பாடல் அடிகளை லொண்ரொத் சேகரித்தார். வைனாமொயினன் தொடர்பான பாடல்கள் பற்றிய முனைவர் பட்டத்துக்கான ஆய்வுக்குப் பின்னர் (1822), "பழைய கலேவலா" என்று அழைக்கப்படும் கலேவலாவின் முதலாவது பதிப்பை
 
- 1835ல் வெளியிட்டார். இரண்டாவதும் முழுமையானதுமான பதிப்பு, முதலாவது பதிப்பிலும் பார்க்க இரண்டு மடங்கு நீளத்தில், மொத்தமாக 22,795 அடிகள் கொண்ட ஐம்பது பாடல்களுடன்
+1835ல் வெளியிட்டார். இரண்டாவதும் முழுமையானதுமான பதிப்பு, முதலாவது பதிப்பிலும் பார்க்க இரண்டு மடங்கு நீளத்தில், மொத்தமாக 22,795 அடிகள் கொண்ட ஐம்பது பாடல்களுடன்
 
- 1849ல் வெளிவந்தது.
+1849ல் வெளிவந்தது.
 
- 1840-41ல் லொண்ரொத் 'கந்தலேதார்' (Kanteletar) என்னும் யாழிசைப் பாடல் தொகுதி ஒன்றை வெளியிட்டார். இந்த வெளியீடுகளுக்கான முலப் பிரதிகள் இன்னமும் இருந்து, உண்மையான நாடோ டிப் பாடல்களின் தொடர்பு பற்றிய ஒரு தெளிவான கருத்தைத் தருகின்றன. நாடோ டி இலக்கியத்தில், பல்வேறு உண்மையான சுதந்திரமான கிளைக் கதைகளைத் தொடர்புபடுத்தும் இணையற்ற சுமார்
+1840-41ல் லொண்ரொத் 'கந்தலேதார்' (Kanteletar) என்னும் யாழிசைப் பாடல் தொகுதி ஒன்றை வெளியிட்டார். இந்த வெளியீடுகளுக்கான முலப் பிரதிகள் இன்னமும் இருந்து, உண்மையான நாடோ டிப் பாடல்களின் தொடர்பு பற்றிய ஒரு தெளிவான கருத்தைத் தருகின்றன. நாடோ டி இலக்கியத்தில், பல்வேறு உண்மையான சுதந்திரமான கிளைக் கதைகளைத் தொடர்புபடுத்தும் இணையற்ற சுமார்
 
- 600 அடிகளை லொண்ரொத் தாமே இயற்றிக் கலேவலாவுக்கு ஒரு முழுமையான அமைப்பையும் வடிவத்தையும் கொடுத்தார்.  
+600 அடிகளை லொண்ரொத் தாமே இயற்றிக் கலேவலாவுக்கு ஒரு முழுமையான அமைப்பையும் வடிவத்தையும் கொடுத்தார்.  
 
   
 
 கலேவலாவுக்கும் கந்தலேதாருக்கும் அடிப்படையாக உள்ள மூல நாடோ டிப் பாடல்களின் ஒரு மாபெரும் தொகுதி Suomen Kansan vanhat runot ('பின்னிஷ மக்களின் பண்டைய பாடல்கள்') என்ற பெயரில் 33 பெரிய பாகங்களாக
 
- 1908-1948ல் வெளியிடப்பட்டது. இந்தப் பெரிய செயற்பாடுகூட நூற்றுக்கணக்கான கல்விமான்களாலும் தாமாக முன்வந்த சேவையாளர்களாலும் பின்னிஷ் இலக்கிய மன்றத்தின் ஆவணக் காப்பகத்தில் குவித்து வைக்கப்பட்ட செழிப்புமிக்க சேகரிப்புச் செல்வங்களை வற்றச் செய்ய முடியவில்லை. உலகம் முழுவதிலும் உள்ள பரம்பரை பரம்பரையாக வந்த வாய்மொழிப் பாடல்களின் பழையதும் பெரியதுமான சேகரிப்புகளில்
+1908-1948ல் வெளியிடப்பட்டது. இந்தப் பெரிய செயற்பாடுகூட நூற்றுக்கணக்கான கல்விமான்களாலும் தாமாக முன்வந்த சேவையாளர்களாலும் பின்னிஷ் இலக்கிய மன்றத்தின் ஆவணக் காப்பகத்தில் குவித்து வைக்கப்பட்ட செழிப்புமிக்க சேகரிப்புச் செல்வங்களை வற்றச் செய்ய முடியவில்லை. உலகம் முழுவதிலும் உள்ள பரம்பரை பரம்பரையாக வந்த வாய்மொழிப் பாடல்களின் பழையதும் பெரியதுமான சேகரிப்புகளில்
 
- 1831ல் நிறுவப்பட்ட பின்னிஷ் இலக்கிய மன்றமும் ஒன்று. இந்த சேகரிப்புகளில்
+1831ல் நிறுவப்பட்ட பின்னிஷ் இலக்கிய மன்றமும் ஒன்று. இந்த சேகரிப்புகளில்
 
- 1977ல் பின்வருவன அடங்கியிருந்தன: கலேவலாப் பாடல்களின் சீரில் அமைந்த 86,800 பாடல்கள்; மற்றும் சந்த ஒழுங்கில் அமைந்த
+1977ல் பின்வருவன அடங்கியிருந்தன: கலேவலாப் பாடல்களின் சீரில் அமைந்த 86,800 பாடல்கள்; மற்றும் சந்த ஒழுங்கில் அமைந்த
 
- 129,400 நாடேடிப் பாடல்கள்; 52,400 மந்திரப் பாடல்கள்;
+129,400 நாடேடிப் பாடல்கள்; 52,400 மந்திரப் பாடல்கள்;
 
- 336,000 மந்திரங்கள், நம்பிக்கைகள், சகுனங்கள்;
+336,000 மந்திரங்கள், நம்பிக்கைகள், சகுனங்கள்;
 
- 187,400 விளையாட்டுகள்; 9,300 அர்த்தமற்ற பாடல்களும் புலம்பல்களும்;
+187,400 விளையாட்டுகள்; 9,300 அர்த்தமற்ற பாடல்களும் புலம்பல்களும்;
 
- 103,200 தெய்வீக ஆற்றல் கதைகளும் நினைவாற்றல் கதைகளும்; 77,800 வரலாற்றுக் கதைகளும் உள்ளுர்க் கதைகளும்; 7,700 காரண காரியக் கதைகளும் புராணக் கதைகளும்;
+103,200 தெய்வீக ஆற்றல் கதைகளும் நினைவாற்றல் கதைகளும்; 77,800 வரலாற்றுக் கதைகளும் உள்ளுர்க் கதைகளும்; 7,700 காரண காரியக் கதைகளும் புராணக் கதைகளும்;
 
- 766,500 பழமொழிகள் (ஹெல்சிங்கி பல்கலைக்கழகம் சேகரித்த 1,425,000 திரிபுருப் பழமொழிகளில் இருந்து பெறப்பட்டவை);
+766,500 பழமொழிகள் (ஹெல்சிங்கி பல்கலைக்கழகம் சேகரித்த 1,425,000 திரிபுருப் பழமொழிகளில் இருந்து பெறப்பட்டவை);
 
- 117,300 விடுகதைகள்; 23,200 நாடோ டிப் பாடல் மெட்டுகள்; 54,000 மானிடவியல் வர்ணனைகள்.  
+117,300 விடுகதைகள்; 23,200 நாடோ டிப் பாடல் மெட்டுகள்; 54,000 மானிடவியல் வர்ணனைகள்.  
 
   
 
@@ -570,13 +572,13 @@ Finland.
 
 லொண்ரொத்தின் ஆக்கங்கள், குறிப்பாகக் கலேவலா வெளியீடு
 
- 1155 தொடக்கம்
+1155 தொடக்கம்
 
- 1809 வரை சுவீடிஷ்காரராலும், அதன் பின்னர் (சுவீடிஷ்காரருக்கும் ரஷ்யருக்கும் ஏற்பட்ட போரில் சுவீடிஷ்காரர் தோல்வி கண்ட பின்)
+1809 வரை சுவீடிஷ்காரராலும், அதன் பின்னர் (சுவீடிஷ்காரருக்கும் ரஷ்யருக்கும் ஏற்பட்ட போரில் சுவீடிஷ்காரர் தோல்வி கண்ட பின்)
 
- 1809ல் இருந்து கடைசியாகச் சுதந்திரம் பெற்ற
+1809ல் இருந்து கடைசியாகச் சுதந்திரம் பெற்ற
 
- 1917 வரை ரஷ்ஷியராலும் ஆளப்பட்டு வந்த பின்னிஷ் மக்களின் சுயவிழிப்புணர்விலும் தேசீய உணர்விலும் ஒரு பாரிய விளைபயனை ஏற்படுத்தியது. பழைய பரம்பரைச் செல்வங்களை அழிவிலிருந்து காப்பாற்றி உலக இலக்கியத்துக்கு லொண்ரொத் செய்த சேவையை, பழைய தமிழ்ச் சங்க இலக்கியங்களுக்கு உயிருட்டியவரான பிரபல டாக்டர் உ. வே. சாமிநாதையரின் சேவைக்கு ஒப்பிடலாம். ஜெயன் சிபெலியுஸ் [Jean Sibelius (1865-1957)] அவர்கள் கலேவலாவின் பல பாடல்களை உலகளாவிய இசைக்கு அறிமுகம் செய்தார். இவரால் இசையமைக்கப்பட்டு பின்னிஷ் மக்களின் இதயங்களில் இடம்பெற்ற கலேவலாப் பண்கள், தமிழ் மக்களின் இதயங்களில் இடம்பெற்ற தியாகராஜரின் கீர்த்தனைகளுக்கு இணையாகும். கலேவலா பாடல்கள் மாபெரும் பின்னிஷ் ஓவியர்களுக்கும் அதிகப்படியான உளக்கிளர்ச்சியையும் ஊக்கத்தையும் ஏற்படுத்தியிருக்கின்றன; இந்த வரிசையில் எல்லாருக்கும் மேலாக அக்செலி கல்லேன்-கல்லேல [Akseli Gallen-Kallela (1865-1931)]வைக் குறிப்பிடலாம். இந்நூலில் பாடல்களின் தொடக்கத்திலும் முடிவிலும் காணப்படும் கொடிவரைப் பின்னணிப் பிரதிமைகள் இவருடைய கலேவலா சித்திர வெளியீட்டில் இருந்து எடுக்கப்பட்டவை; இவருடைய கலேவலா ஓவியங்கள் சுவர்க்கோலங்களில் சில தெரிந்தெடுக்கப்பட்டு வர்ணப்படங்களாக இந்நூலில் மறுபிரசுரம் செய்யப்பட்டுள்ளன. இன்றைக்கும் ஏரிகளாலும் காடுகளாலும் தனிச் சிறப்பு அளிக்கும் இக்காட்சிகள் பின்லாந்தின் இயற்கை பற்றிய சில அழுத்தமான பதிவுகளை உள்ளத்தில் ஏற்படுத்தத் துணை நிற்கும் என்று நம்பப்படுகிறது; இப்பாடல்களைப் படைக்க ஆதாரமாயிருந்த கலாசாரச் சூழல் பற்றிய ஓவியரின் நோக்கு இந்த ஓவியங்களில் பிரதிபலிக்கின்றது.  
+1917 வரை ரஷ்ஷியராலும் ஆளப்பட்டு வந்த பின்னிஷ் மக்களின் சுயவிழிப்புணர்விலும் தேசீய உணர்விலும் ஒரு பாரிய விளைபயனை ஏற்படுத்தியது. பழைய பரம்பரைச் செல்வங்களை அழிவிலிருந்து காப்பாற்றி உலக இலக்கியத்துக்கு லொண்ரொத் செய்த சேவையை, பழைய தமிழ்ச் சங்க இலக்கியங்களுக்கு உயிருட்டியவரான பிரபல டாக்டர் உ. வே. சாமிநாதையரின் சேவைக்கு ஒப்பிடலாம். ஜெயன் சிபெலியுஸ் [Jean Sibelius (1865-1957)] அவர்கள் கலேவலாவின் பல பாடல்களை உலகளாவிய இசைக்கு அறிமுகம் செய்தார். இவரால் இசையமைக்கப்பட்டு பின்னிஷ் மக்களின் இதயங்களில் இடம்பெற்ற கலேவலாப் பண்கள், தமிழ் மக்களின் இதயங்களில் இடம்பெற்ற தியாகராஜரின் கீர்த்தனைகளுக்கு இணையாகும். கலேவலா பாடல்கள் மாபெரும் பின்னிஷ் ஓவியர்களுக்கும் அதிகப்படியான உளக்கிளர்ச்சியையும் ஊக்கத்தையும் ஏற்படுத்தியிருக்கின்றன; இந்த வரிசையில் எல்லாருக்கும் மேலாக அக்செலி கல்லேன்-கல்லேல [Akseli Gallen-Kallela (1865-1931)]வைக் குறிப்பிடலாம். இந்நூலில் பாடல்களின் தொடக்கத்திலும் முடிவிலும் காணப்படும் கொடிவரைப் பின்னணிப் பிரதிமைகள் இவருடைய கலேவலா சித்திர வெளியீட்டில் இருந்து எடுக்கப்பட்டவை; இவருடைய கலேவலா ஓவியங்கள் சுவர்க்கோலங்களில் சில தெரிந்தெடுக்கப்பட்டு வர்ணப்படங்களாக இந்நூலில் மறுபிரசுரம் செய்யப்பட்டுள்ளன. இன்றைக்கும் ஏரிகளாலும் காடுகளாலும் தனிச் சிறப்பு அளிக்கும் இக்காட்சிகள் பின்லாந்தின் இயற்கை பற்றிய சில அழுத்தமான பதிவுகளை உள்ளத்தில் ஏற்படுத்தத் துணை நிற்கும் என்று நம்பப்படுகிறது; இப்பாடல்களைப் படைக்க ஆதாரமாயிருந்த கலாசாரச் சூழல் பற்றிய ஓவியரின் நோக்கு இந்த ஓவியங்களில் பிரதிபலிக்கின்றது.  
 
   
 
@@ -586,9 +588,9 @@ Finland.
 
 கலேவலா நூலின் கெய்த் பொஸ்லி (Keith Bosley) என்பவரின் ஒரு புதிய ஆங்கில மொழிபெயர்ப்பை 'உலகளாவிய இலக்கியங்கள்' என்ற வரிசையில் ஒக்ஸ்போர்ட் பல்கலைக்கழக அச்சகம் (Oxford University Press) சமீபத்தில் வெளியிட்டுள்ளது (1989). இந்த மொழிபெயர்ப்புடன் இதற்கு முன் வந்த W.F. கிர்பி (W.F. Kirby
 
- 1907, மறுபதிப்பு Gallen-Kallela,
+1907, மறுபதிப்பு Gallen-Kallela,
 
- 1985), F.B மகோன் jr. (F.B. Magoun jr.-1963) என்பவர்களின் மொழிபெயர்ப்புகளும் வேறு சில ஆங்கில மொழிபெயர்ப்புகளும் இந்தத் தமிழாக்கத்துக்குப் பயன்படுத்தபட்டுள்ளன. இதன் தமிழ் மொழிபெயர்ப்பாளரான இலங்கையில் யாழ்பாணத்தைச் சேர்ந்த திரு. ஆர். சிவலிங்கம் ஓர் அனுபவம் நிறைந்த தமிழ் எழுத்தாளர்; 'உதயணன்' என்ற புனைபெயரில் ஏராளமான சிறுகதைகள், நாவல்களைப் படைத்துத் தமிழ் வாசகர்களுக்கு நன்கு அறிமுகமானவர். இவருடைய 'பொன்னான மலரல்லவோ', 'அந்தரங்க கீதம்' ஆகிய இரண்டு நாவல்களை கொழும்பிலுள்ள எக்ஸ்பிரஸ் நியூஸ்பேப்பர்ஸ் (சிலோன்) லிமிட். நிறுவனம் 'வீரகேசரிப் பிரசுரங்கள்' என்ற வரிசையில் வெளியிட்டன. பத்து வருடங்களுக்கு மேலாகப் பின்லாந்தில் வாழ்ந்து வரும் இவர், பின்னிஷ் மொழியுடனும் பின்னிஷ் கலாசாரத்துடனும் நன்கு பழக்கப்பட்டுவிட்டதால், பின்னிஷ்-கரேலிய முலப் பிரதியிலிருந்து நேரடியாகத் தமிழில் மொழிபெயர்த்துத் தர முடிந்தது. இவர் தனது நண்பரும் இலங்கை கவிஞருமான எஸ். கிருஷ்ணபிள்ளை ('திமிலைத்துமிலன்') அவர்களின் உதவியுடன் இதன் அமைப்புக்குக் கவனமாக மெருகூட்டியுள்ளார்.  
+1985), F.B மகோன் jr. (F.B. Magoun jr.-1963) என்பவர்களின் மொழிபெயர்ப்புகளும் வேறு சில ஆங்கில மொழிபெயர்ப்புகளும் இந்தத் தமிழாக்கத்துக்குப் பயன்படுத்தபட்டுள்ளன. இதன் தமிழ் மொழிபெயர்ப்பாளரான இலங்கையில் யாழ்பாணத்தைச் சேர்ந்த திரு. ஆர். சிவலிங்கம் ஓர் அனுபவம் நிறைந்த தமிழ் எழுத்தாளர்; 'உதயணன்' என்ற புனைபெயரில் ஏராளமான சிறுகதைகள், நாவல்களைப் படைத்துத் தமிழ் வாசகர்களுக்கு நன்கு அறிமுகமானவர். இவருடைய 'பொன்னான மலரல்லவோ', 'அந்தரங்க கீதம்' ஆகிய இரண்டு நாவல்களை கொழும்பிலுள்ள எக்ஸ்பிரஸ் நியூஸ்பேப்பர்ஸ் (சிலோன்) லிமிட். நிறுவனம் 'வீரகேசரிப் பிரசுரங்கள்' என்ற வரிசையில் வெளியிட்டன. பத்து வருடங்களுக்கு மேலாகப் பின்லாந்தில் வாழ்ந்து வரும் இவர், பின்னிஷ் மொழியுடனும் பின்னிஷ் கலாசாரத்துடனும் நன்கு பழக்கப்பட்டுவிட்டதால், பின்னிஷ்-கரேலிய முலப் பிரதியிலிருந்து நேரடியாகத் தமிழில் மொழிபெயர்த்துத் தர முடிந்தது. இவர் தனது நண்பரும் இலங்கை கவிஞருமான எஸ். கிருஷ்ணபிள்ளை ('திமிலைத்துமிலன்') அவர்களின் உதவியுடன் இதன் அமைப்புக்குக் கவனமாக மெருகூட்டியுள்ளார்.  
 
   
 
@@ -630,7 +632,7 @@ Finland.
 
 1 November
 
- 1994  
+1994  
 
 []()  
 
@@ -646,7 +648,7 @@ Finland.
 
 பழைய தமிழ் இலக்கியங்களைப் பின்னிஷ் மொழியில் மொழிபெயர்க்கும் திட்டத்துடன் தான் நான்
 
- 1986ல் ஹெல்சிங்கி பல்கலைக்கழகத்தில் நியமனம் பெற்றேன். அந்த வகையில் திருக்குறள், சிலப்பதிகாரம் இரண்டிற்குமான எனது பங்களிப்பு ஏறக்குறைய முடிந்த நிலையில், அவற்றை வெளியிடுவதில் ஏற்பட்ட சில நடைமுறைச் சிக்கல்கள் காரணமாக பின்னிஷ் மொழியிலிருந்து தமிழுக்கு ஒரு நூலைக் கொண்டு வரலாம் என்ற எண்ணத்தில் 'கலேவலா' என்ற இந்த உலகளாவிய காவியத்தின் தமிழ் மொழிபெயர்ப்புத் தொடங்கப்பட்டது. மூன்றாண்டு கால முழு நேர உழைப்பின் பலன் இந்த மொழிபெயர்ப்பு. பின்னிஷ் மொழியிலிருந்து தமிழ் கூறும் நல்லுலகுக்கு வந்த முதலாவது நூல் என்ற பெருமை இந்த நூலுக்கு உண்டு. அதே நேரம் ஒரு நீண்ட பிற மொழிக் காவியத்தை தமிழாக்கிய மனநிறைவு எனக்கும் உண்டு.  
+1986ல் ஹெல்சிங்கி பல்கலைக்கழகத்தில் நியமனம் பெற்றேன். அந்த வகையில் திருக்குறள், சிலப்பதிகாரம் இரண்டிற்குமான எனது பங்களிப்பு ஏறக்குறைய முடிந்த நிலையில், அவற்றை வெளியிடுவதில் ஏற்பட்ட சில நடைமுறைச் சிக்கல்கள் காரணமாக பின்னிஷ் மொழியிலிருந்து தமிழுக்கு ஒரு நூலைக் கொண்டு வரலாம் என்ற எண்ணத்தில் 'கலேவலா' என்ற இந்த உலகளாவிய காவியத்தின் தமிழ் மொழிபெயர்ப்புத் தொடங்கப்பட்டது. மூன்றாண்டு கால முழு நேர உழைப்பின் பலன் இந்த மொழிபெயர்ப்பு. பின்னிஷ் மொழியிலிருந்து தமிழ் கூறும் நல்லுலகுக்கு வந்த முதலாவது நூல் என்ற பெருமை இந்த நூலுக்கு உண்டு. அதே நேரம் ஒரு நீண்ட பிற மொழிக் காவியத்தை தமிழாக்கிய மனநிறைவு எனக்கும் உண்டு.  
 
   
 
@@ -656,7 +658,7 @@ Finland.
 
 இந்த காவியம்பற்றி அறிமுக உரையில் விபரமாகவே சொல்லப்பட்டிருக்கிறது. 'கலேவா' என்பது ஒரு முதாதையரின் பெயரிலிருந்து வந்த ஓர் இனத்தவரின் பெயர். கலேவா இனத்தவர் வாழ்ந்த இடத்தைக் கலேவலா என்று அழைப்பர். அதுவே இந்நூலின் பெயருமாயிற்று. வாய் மொழிப்பாடல்களாக இருந்ததாலும் இதில் அடங்கியுள்ள மந்திரப் பாடல்களாலும் இதை ஓர் இதிகாச நூல் என்பர் சிலர். ஆனால் இதை தொகுத்து அளித்த முறையிலும் தற்போதைய அமைப்பிலும் இது இதிகாசம் என்ற எல்லையைக் கடந்து உலக இலக்கியம் என்ற தரத்தைப் பெற்றுவிட்டது என்பர் அறிஞர். பின்லாந்தின் தலைசிறந்த புகழ் பூத்த இசைக்கலைஞரான ஜெயன் சிபெல்லியுஸ் (Jean Sibelius) இப்பாடல்கள் சிலவற்றுக்கு இசையமைத்து உலக அளவில் அரங்கேற்றியதும் இந்தக் காவியம் 'உலக இலக்கியம்' என்ற தரத்தைப் பெற ஒரு காரணமாகும். லண்டன் பீபீசீ (BBC) நிலையம் பல தடவைகள் பல வடிவங்களில் இக்காவியத்தின் பகுதிகளை ஒலிபரப்பி உலகளவில் அறிமுகம் செய்தது. பின்லாந்தைப் பொறுத்த வரையில் இது ஒரு தேசீய காவியமாக அங்கீகாரம் பெற்றது. கல்லூரிகளில் பாட நூலாக ஏற்கப்பட்டது.
 
- 1835ல் வெளியான முதலாவது பதிப்பின் முன்னுரையின் திகதியான பெப்ரவரி 28 'கலேவலா தினம்' என அரசால் பிரகடனம் செய்யப்பட்டு ஆண்டுதோறும் நாடெங்கும் கொண்டாடப்படுகிறது.  
+1835ல் வெளியான முதலாவது பதிப்பின் முன்னுரையின் திகதியான பெப்ரவரி 28 'கலேவலா தினம்' என அரசால் பிரகடனம் செய்யப்பட்டு ஆண்டுதோறும் நாடெங்கும் கொண்டாடப்படுகிறது.  
 
   
 
@@ -706,7 +708,7 @@ Finland.
 
 பலகணி பலகணி பரவிச் சென்றது." - பாடல்
 
- 12.  
+12.  
 
   
 
@@ -728,7 +730,7 @@ Finland.
 
 சாளரக் கதவைத் தான்தகர்த் தெறிந்திடு! - பாடல்
 
- 17.  
+17.  
 
   
 
@@ -742,7 +744,7 @@ Finland.
 
 மந்திரவாதிகள் மறைந்துபோ னாலும். - பாடல்
 
- 17.  
+17.  
 
   
 
@@ -764,7 +766,7 @@ Finland.
 
 அவ்விதம் யோர்தான் ஆறதும் நின்றது. -பாடல்
 
- 17.  
+17.  
 
   
 
@@ -816,7 +818,7 @@ Finland.
 
 இசையின் பத்தை இனிதே நுகர - பாடல்
 
- 44.  
+44.  
 
   
 
@@ -852,7 +854,7 @@ Finland.
 
 பல்லாண் டகவை பகையில் லாமல்." - பாடல்
 
- 18.  
+18.  
 
   
 
@@ -880,7 +882,7 @@ Finland.
 
 மங்கையைத் தானமாய் வழங்குதல் நல்லது ... ..." ஖ பாடல்
 
- 18.  
+18.  
 
   
 
@@ -952,7 +954,7 @@ Finland.
 
 அவர்களைப் பற்றி அவனியில் பேச்செழா(து)." - பாடல்
 
- 43.  
+43.  
 
   
 
@@ -1036,7 +1038,7 @@ Finland.
 
 கவின்நிறைந் திடுமிக் கர்யலாப் பகுதியில்.-பாடல்
 
- 43.  
+43.  
 
   
 
@@ -1050,7 +1052,7 @@ Finland.
 
 இந்தத் தமிழ் மொழிபெயர்ப்பு, முன்னிணைப்புகள், பின்னிணைப்புகள் யாவும் சேர்ந்து சுமார் ஆயிரம் பக்கங்கள் வந்தன. இதை ஓர் உயர்தர பதிப்பாகவும் வெளியிட விரும்பினோம். ஆயிரம் பக்கங்கள் கொண்ட ஒரு நூல் சிறந்த முறையிலும் பதிப்பிக்கப்பட்டால், ஒரு சராசரி வாசகன் அதை வாங்க முடியாத விலையில் விற்க நேரிடும். அதனால் கொஞ்சம் பெரிய அளவு காகிதத்தில், ஒரு பக்கத்தில் இரண்டு பத்திகளில் (columns) சிறிய எழுத்துகளில் பாடல்களை வெளியிட்டுப் பக்கங்களை
 
- 500 அளவில் கொண்டுவரத் தீர்மானிக்கப்பட்டது. அத்துடன் இந்நூல் வெளியீட்டுக்கு ஒரு மானியம் கோரி பின்னிஷ் இலக்கிய மன்றத்தையும் அவர்கள் மூலமாகக் கல்வி அமைச்சையும் ஹெல்சிங்கிப் பல்கலைக்கழகம் அணுகியது. நூறு தமிழர்கள் கூட வாழாத இந்த நாட்டில் ஆயிரம் பக்கங்கள் கொண்ட ஒரு தமிழ் நூலை வெளியிட அவர்கள் உற்சாகத்துடன் உதவிக்கு வந்தார்கள்.  
+500 அளவில் கொண்டுவரத் தீர்மானிக்கப்பட்டது. அத்துடன் இந்நூல் வெளியீட்டுக்கு ஒரு மானியம் கோரி பின்னிஷ் இலக்கிய மன்றத்தையும் அவர்கள் மூலமாகக் கல்வி அமைச்சையும் ஹெல்சிங்கிப் பல்கலைக்கழகம் அணுகியது. நூறு தமிழர்கள் கூட வாழாத இந்த நாட்டில் ஆயிரம் பக்கங்கள் கொண்ட ஒரு தமிழ் நூலை வெளியிட அவர்கள் உற்சாகத்துடன் உதவிக்கு வந்தார்கள்.  
 
   
 
@@ -1118,23 +1120,23 @@ Finland.
 
 அடிகள்
 
- 103-176: வாயுவின் கன்னிமகள் கடலின் நீர்ப் பரப்பில் இறங்கிக் காற்றாலும் அலைகளாலும் அணைக்கப்பட்டு நீரன்னை ஆகிறாள்.  
+103-176: வாயுவின் கன்னிமகள் கடலின் நீர்ப் பரப்பில் இறங்கிக் காற்றாலும் அலைகளாலும் அணைக்கப்பட்டு நீரன்னை ஆகிறாள்.  
 
 அடிகள்
 
- 177-212: ஒரு பறவை நீரன்னையின் முழங்காலில் கூடு கட்டி அதில் முட்டைகளை இடுகிறது.  
+177-212: ஒரு பறவை நீரன்னையின் முழங்காலில் கூடு கட்டி அதில் முட்டைகளை இடுகிறது.  
 
 அடிகள்
 
- 213-244: முட்டைகள் கூட்டிலிருந்து உருண்டோ டி உடைந்து பல துண்டுகளாகின்றன; உடைந்த துண்டுகள் பூமி, வானம், சூரியன், சந்திரன், முகில்களாக உருவாகின்றன.  
+213-244: முட்டைகள் கூட்டிலிருந்து உருண்டோ டி உடைந்து பல துண்டுகளாகின்றன; உடைந்த துண்டுகள் பூமி, வானம், சூரியன், சந்திரன், முகில்களாக உருவாகின்றன.  
 
 அடிகள்
 
- 245-280: கடலில் மேட்டு நிலங்கள், வளைகுடாக்கள், கரைகள், ஆழ்ந்த பகுதி, ஆழமற்ற பகுதி ஆகியவற்றை நீரன்னை படைக்கிறாள்.  
+245-280: கடலில் மேட்டு நிலங்கள், வளைகுடாக்கள், கரைகள், ஆழ்ந்த பகுதி, ஆழமற்ற பகுதி ஆகியவற்றை நீரன்னை படைக்கிறாள்.  
 
 அடிகள்
 
- 281-344: நீரன்னையின் வயிற்றில் பிறந்த வைனாமொயினன், வெகுகாலம் அலைகளால் அலைகழிக்கப்பட்டு, முடிவில் கரையேறுகிறான்.  
+281-344: நீரன்னையின் வயிற்றில் பிறந்த வைனாமொயினன், வெகுகாலம் அலைகளால் அலைகழிக்கப்பட்டு, முடிவில் கரையேறுகிறான்.  
 
 /* இவ்வடையாளமிட்ட சொற்களை சொற்றொகுதியில் பார்க்க  
 
@@ -1338,7 +1340,7 @@ Finland.
 
 பேரான இப்பகலைப் பெரிதாய்ச் சிறப்பிக்க
 
- 100  
+100  
 
 நாளை வரும்பொழுதை நலமாக ஆக்கிவைக்க  
 
@@ -1360,7 +1362,7 @@ Finland.
 
 அன்னையாம் /*வாயுமகள் அவளிடத்தி லேயிருந்து.
 
- 110  
+110  
 
 வாயுக்குக் கன்னி மகளொருத்தி யன்றிருந்தாள்  
 
@@ -1382,7 +1384,7 @@ Finland.
 
 கன்னிகையாய் எப்போதும் காலத்தைப் போக்கிவந்தாள்
 
- 120  
+120  
 
 வானத்து வெளியெல்லாம் வந்தாள் பவனியதாய்  
 
@@ -1404,7 +1406,7 @@ Finland.
 
 திரைதிரை யாய்மோதிச் சீரழித்த தேயாங்கு.
 
- 130  
+130  
 
 காற்றவளைக் கீழ்மேலாய்க் கலக்கி யசைத்தாட்ட  
 
@@ -1426,7 +1428,7 @@ Finland.
 
 மனித வரலாற்றில் மன்னுபொன்பான் வாழ்காலம்
 
- 140  
+140  
 
 ஆனாலும் ஓர்பிறப்பும் அங்கே நடக்கவில்லை  
 
@@ -1448,7 +1450,7 @@ Finland.
 
 ஏதும் படைப்பொன்றும் இன்னும் நிகழவில்லை.
 
- 150  
+150  
 
 அழுதாள் அரற்றினாள் ஆற்றா தலமந்தாள்  
 
@@ -1470,7 +1472,7 @@ Finland.
 
 விரிந்து பரந்திட்ட வியன்கடலின் வீழ்மடியில்.
 
- 160  
+160  
 
 பவனத்தி லிருந்திருந்தால் பலனா யிருந்திருக்கும்  
 
@@ -1492,7 +1494,7 @@ Finland.
 
 வானம் முழுவதையும் வலிதாங்கும் தற்பரனே!
 
- 170  
+170  
 
 தேவைப் படும்தருணம் தெரிந்திங்கு வந்திடுவாய்  
 
@@ -1516,7 +1518,7 @@ Finland.
 
 வறிதாய் அங்கும் இங்கும் பறந்தது
 
- 180  
+180  
 
 கூடொன் றமைக்கும் இடத்தைத் தேடி  
 
@@ -1538,7 +1540,7 @@ Finland.
 
 சிந்தனை செய்தது சீருற நினைத்தது
 
- 190  
+190  
 
 "நான்என் கூட்டைக் காற்றில் கட்டவா?  
 
@@ -1560,7 +1562,7 @@ Finland.
 
 பொலிவாம் ஓரிடம் வாழ்ந்திடத் தந்தாள்.
 
- 200  
+200  
 
 வனப்புறு வாத்தது வண்ணவான் பறவை  
 
@@ -1582,7 +1584,7 @@ Finland.
 
 இதப்பத மாயிருந் திட்டது முட்டை
 
- 210  
+210  
 
 எழில் பொன் முட்டை இட்டது ஆறு  
 
@@ -1606,7 +1608,7 @@ Finland.
 
 தோலெல்லாம் தீப்பற்றிச் சுடுவதுபோ லேயுணர்ந்தாள்:
 
- 220  
+220  
 
 முழங்கால் முழுவதிலும் முண்டதீப் பற்றிவந்து  
 
@@ -1628,7 +1630,7 @@ Finland.
 
 நீரிற்போய்த் துண்டுகளும் நேராய் அழியவில்லை;
 
- 230  
+230  
 
 துண்டுகள் நற்பொருட்க ளாய்மாறித் தோன்றினவே  
 
@@ -1650,7 +1652,7 @@ Finland.
 
 நிலவாக வானில் நீள்பவனி வந்ததுவே,
 
- 240  
+240  
 
 முட்டையிலே பன்னிறத்தும் முண்டிருந்த புள்ளியெலாம்  
 
@@ -1674,7 +1676,7 @@ Finland.
 
 கன்னிநீ ரன்னை காற்றதன் புதல்வி
 
- 250  
+250  
 
 புகார்நிறைந் திருந்த பொலிதிரை களின்மேல்  
 
@@ -1696,7 +1698,7 @@ Finland.
 
 பிராணி வகைகளைப் பெரிதும் படைத்தனள்
 
- 260  
+260  
 
 உயர்ந்த தெளிந்த ஒளிர்கடல் மேலே  
 
@@ -1718,7 +1720,7 @@ Finland.
 
 கரைகளைக் கொஞ்சம் கவனமாய்ச் செய்தனள்
 
- 270  
+270  
 
 நிலத்தினை நோக்கி நீட்டினாள் கால்களை  
 
@@ -1740,7 +1742,7 @@ Finland.
 
 கடற்றொழி லாளர் காண்தலை யழிக்க.
 
- 280  
+280  
 
 தீவெலாம் தோன்றிச் சீராய் முடிந்தன  
 
@@ -1762,7 +1764,7 @@ Finland.
 
 தாயின் வயிற்றுள் தவழ்ந்து திரிந்தான்
 
- 290  
+290  
 
 முப்பது கோடை முழுதாம் பருவமும்  
 
@@ -1784,7 +1786,7 @@ Finland.
 
 சூரியன் பேரொளி வந்ததே யில்லை.
 
- 300  
+300  
 
 இனிவரும் சொற்களில் இவ்விதம் சொன்னான்  
 
@@ -1806,7 +1808,7 @@ Finland.
 
 மனிதக் குழந்தையை வளர்வெளிக் கருள்வாய்
 
- 310  
+310  
 
 வானக நிலவின் வண்ணம் காண  
 
@@ -1828,7 +1830,7 @@ Finland.
 
 மெதுவாய் மோதிர விரலினை யெடுத்து
 
- 320  
+320  
 
 எலுப்பின் பூட்டைச் சிறிதிடை விலக்கி  
 
@@ -1850,7 +1852,7 @@ Finland.
 
 ஐந்தா றாண்டுகள் அவ்வா றிருந்தனன்
 
- 330  
+330  
 
 ஏழாம் ஆண்டோ டெட்டும் முடிந்தது  
 
@@ -1872,7 +1874,7 @@ Finland.
 
 வானநட் சத்திர வகையினைக் கற்க.
 
- 340  
+340  
 
 வைனா மொயினனின் வருபிறப் பதுவே  
 
@@ -1896,25 +1898,25 @@ Finland.
 
 அடிகள்
 
- 111-224 : ஒரு சிறிய மனிதன் கடலிலிருந்து உதயமாகிச் சிந்தூர மரத்தை வெட்டி வீழ்த்திச் சூரியனையும் சந்திரனையும் மீண்டும் பிரகாசிக்கச்  
+111-224 : ஒரு சிறிய மனிதன் கடலிலிருந்து உதயமாகிச் சிந்தூர மரத்தை வெட்டி வீழ்த்திச் சூரியனையும் சந்திரனையும் மீண்டும் பிரகாசிக்கச்  
 
 செய்கிறான்.  
 
 அடிகள்
 
- 225-256 : மரங்களில் பறவைகள் பாடுகின்றன; புல்லினம், பூஞ்செடிகள், சிறுபழச் செடிகள் வளர்கின்றன; பார்லி மட்டும் வளரவில்லை.  
+225-256 : மரங்களில் பறவைகள் பாடுகின்றன; புல்லினம், பூஞ்செடிகள், சிறுபழச் செடிகள் வளர்கின்றன; பார்லி மட்டும் வளரவில்லை.  
 
 அடிகள்
 
- 257-264 : வைனாமொயினன் நீர்க் கரையின் மணலில் சில பார்லித் தானியங்களைப் பெறுகிறான்; பறவைகளுக்குப் புகலிடமாக ஒரு மிலாறு மரத்தை மட்டும் தவிர்த்துவிட்டுக் காட்டை வெட்டி அழிக்கிறான்.  
+257-264 : வைனாமொயினன் நீர்க் கரையின் மணலில் சில பார்லித் தானியங்களைப் பெறுகிறான்; பறவைகளுக்குப் புகலிடமாக ஒரு மிலாறு மரத்தை மட்டும் தவிர்த்துவிட்டுக் காட்டை வெட்டி அழிக்கிறான்.  
 
 அடிகள்
 
- 265-284 : புகலிடத்திற்கு ஒரு மரத்தை விட்டதற்காக நன்றியுள்ள ஒரு கழுகு நெருப்பை உண்டாக்கி வெட்டிய மரங்களை எரிக்கிறது.  
+265-284 : புகலிடத்திற்கு ஒரு மரத்தை விட்டதற்காக நன்றியுள்ள ஒரு கழுகு நெருப்பை உண்டாக்கி வெட்டிய மரங்களை எரிக்கிறது.  
 
 அடிகள்
 
- 285 -378 : வைனாமொயினன் பார்லியை விதைத்து, அதன் வளர்ச்சிக்கும் செழிப்புக்கும் பெருக்கத்துக்குமாகப் பிரார்த்திக்கிறான்.  
+285 -378 : வைனாமொயினன் பார்லியை விதைத்து, அதன் வளர்ச்சிக்கும் செழிப்புக்கும் பெருக்கத்துக்குமாகப் பிரார்த்திக்கிறான்.  
 
 எழுந்தான் பின்னர் வைனா மொயினன்  
 
@@ -2116,7 +2118,7 @@ Finland.
 
 உயர்ந்து நூறான உச்சியை ஒடிக்க.
 
- 100  
+100  
 
 முதிய வைனா மொயினனப் போது  
 
@@ -2138,7 +2140,7 @@ Finland.
 
 வண்ண நிலவதன் வழியினி லிருந்து."
 
- 110  
+110  
 
 ஆழியி லிருந்தொரு ஆடவன் எழுந்தான்  
 
@@ -2160,7 +2162,7 @@ Finland.
 
 கையுறை மீதில் கவின்செப் போவியம்
 
- 120  
+120  
 
 இடுப்பினைச் சுற்றிச் பட்டிசெப் பினிலே  
 
@@ -2182,7 +2184,7 @@ Finland.
 
 உயரமோ எருதின் ஒண்குளம் பளவு.
 
- 130  
+130  
 
 பின்வரும் சொற்களில் பின்அவன் சொன்னான்  
 
@@ -2204,7 +2206,7 @@ Finland.
 
 சிறுமா னுடன்தான் செறிபுனற் சக்தி
 
- 140  
+140  
 
 சிந்துர மரத்தைச் சிதைக்கவே வந்தேன்  
 
@@ -2226,7 +2228,7 @@ Finland.
 
 மீண்டும் பார்வையை வீசிய பொழுது
 
- 150  
+150  
 
 மனிதனோ முற்றிலும் மாறிடக் கண்டான்  
 
@@ -2248,7 +2250,7 @@ Finland.
 
 இடுப்பின் சுற்றள விரண்டா யிருந்தது.
 
- 160  
+160  
 
 கைவிரல் கோடரிக் காம்பினில் வைத்து  
 
@@ -2270,7 +2272,7 @@ Finland.
 
 மென்மைகொண் டமைந்த மிகுமணற் பரப்பில்,
 
- 170  
+170  
 
 இரண்டடி வைத்து இன்னுமுன் வந்து  
 
@@ -2292,7 +2294,7 @@ Finland.
 
 சிந்துர மரத்தில் தீப்பொறி தெறித்தது,
 
- 180  
+180  
 
 நொந்து சரிந்து வந்தது சிந்துரம்  
 
@@ -2314,7 +2316,7 @@ Finland.
 
 கொம்பர்கள் வடக்கில் குவிந்துவீழ்ந் தனவே.
 
- 190  
+190  
 
 அவனொரு கிளையினை அங்கையி லெடுத்து  
 
@@ -2336,7 +2338,7 @@ Finland.
 
 பரந்து விரிந்த படரலை களின்மேல்
 
- 200  
+200  
 
 காற்று வந்துதா லாட்டிச் சென்றது  
 
@@ -2358,7 +2360,7 @@ Finland.
 
 நீண்ட கரையில் நிலவும் முனையில்.
 
- 210  
+210  
 
 மிதந்ததுண் டுகளை மெல்லியள் கண்டாள்  
 
@@ -2380,7 +2382,7 @@ Finland.
 
 திங்களின் நீள்நிலா திரும்பிவந் திட்டது
 
- 220  
+220  
 
 மேகம் நீண்டு மேலே மிதந்தது  
 
@@ -2402,7 +2404,7 @@ Finland.
 
 மரத்தின் உச்சியில் /*/*மணிக்குயில் கூவின.
 
- 230  
+230  
 
 பூமியிற் சிறுபழச் செடிகள் பொலிந்தன  
 
@@ -2424,7 +2426,7 @@ Finland.
 
 மாபெருங் கடலின் மடிவின் எல்லையில்;
 
- 240  
+240  
 
 ஆறுதானிய அருமணி கண்டான்  
 
@@ -2446,7 +2448,7 @@ Finland.
 
 /*ஒஸமோ வின்வயல் உளவிளை விடத்தே.
 
- 250  
+250  
 
 மரமிசை யொருபுள் வாய்திறந் திசைத்தது:  
 
@@ -2468,7 +2470,7 @@ Finland.
 
 மண்ணைக் கிளறிப் பண்செய் திட்டான்
 
- 260  
+260  
 
 வியன்மர மனைத்தையும் வெட்டி வீழ்த்தினன்  
 
@@ -2490,7 +2492,7 @@ Finland.
 
 எழிலுறு மரமிதை ஏன்வெட் டிடவி(ல்)லை?"
 
- 270  
+270  
 
 முதிய வைனா மொயினன் மொழிந்தான்:  
 
@@ -2512,7 +2514,7 @@ Finland.
 
 நானே வந்து நன்றா யமர."
 
- 280  
+280  
 
 விண்ணகப் பறவைதீ விரைந்துமுட் டிற்று  
 
@@ -2534,7 +2536,7 @@ Finland.
 
 கீரித் தோலதன் கீழே யிருந்து
 
- 290  
+290  
 
 கோடை அணிலின் காலிடை யிருந்து  
 
@@ -2556,7 +2558,7 @@ Finland.
 
 வளர்ந்து செழித்து வளமுடன் பல்க.
 
- 300  
+300  
 
 புவியின் கீழெழில் பொலிமுது மகளே!  
 
@@ -2578,7 +2580,7 @@ Finland.
 
 படைப்போன் புற்களே, படுக்கையி லிருந்து!
 
- 310  
+310  
 
 தண்டுகள் எழட்டும் தரையினைக் கிழித்து!  
 
@@ -2600,7 +2602,7 @@ Finland.
 
 நீராவி அனைத்தையும் நிதமாள் பவனே!
 
- 320  
+320  
 
 முகில்கள் யாவையும் குவிவுற வணைத்து  
 
@@ -2622,7 +2624,7 @@ Finland.
 
 உயிர்பெற் றுயரும் பயிர்களின் மீது."
 
- 330  
+330  
 
 மானிட முதல்வன், மாபெருந் தேவன்  
 
@@ -2644,7 +2646,7 @@ Finland.
 
 ஒன்றுடன் ஒன்றை உராயப் பிணித்தார்.
 
- 340  
+340  
 
 வானத் திருந்து மாரியைப் பொழிந்தார்  
 
@@ -2666,7 +2668,7 @@ Finland.
 
 இரண்டாம் முன்றாம் இரவுகள் போயின
 
- 350  
+350  
 
 முழுமையாய் வாரம் ஒன்று முடிந்தபின்  
 
@@ -2688,7 +2690,7 @@ Finland.
 
 செலுத்தினான் பார்வை திரும்பினான் சுற்றி
 
- 360  
+360  
 
 குலவும் வசந்தக் கோகிலம் வந்தது  
 
@@ -2710,7 +2712,7 @@ Finland.
 
 இனிய நெஞ்சால் இன்பமாய்ப் பாடு.
 
- 370  
+370  
 
 வெண்பொன் நெஞ்சால் மிகுபாட் டிசைப்பாய்  
 

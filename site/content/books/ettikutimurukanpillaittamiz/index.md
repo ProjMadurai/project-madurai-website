@@ -9,6 +9,8 @@ genres:
   - பிள்ளைத்தமிழ்
 ---
 
+
+
 ### எட்டிகுடி முருகன் பிள்ளைத் தமிழ்  
 
 ஆசிரியர்: கோவை.கு. நடேச கவுண்டர்  
@@ -23,7 +25,7 @@ Source:
 
 எட்டுகுடி முருகன் தேவஸ்தானம், எட்டுகுடி,
 
- 1947.  
+1947.  
 
 --------------------------  
 
@@ -2597,6 +2599,6 @@ line missing in the following verse ?? to be checked
 
 This file was last updated on 8 October
 
- 2010.  
+2010.  
 
 Fee free to send corrections to the webmaster

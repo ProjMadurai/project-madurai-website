@@ -8,6 +8,8 @@ genres:
   - சைவ சித்தாந்தம்
 ---
 
+
+
 ### civanjAnapOtam by meykaNTa tEvar  
 
 திருவெண்ணெய் நல்லூர் மெய்கண்ட தேவர் அருளிய சிவஞானபோதம்  
@@ -2182,7 +2184,7 @@ Contents
 
 This page was first put up on June 30,
 
- 2000  
+2000  
 
 Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com,  
   

@@ -8,6 +8,8 @@ genres:
   - இலக்கியக் கட்டுரைகள்
 ---
 
+
+
 ### வஞ்சி மாநகர்  
 
 மு. இராகவயங்கார் எழுதியது.  
@@ -518,7 +520,7 @@ The name signifies "the river which marked the boundary", and native tradition w
 
 (குழகன்குளப்புச்சுவடுற்றபடலம்
 
- 120)  
+120)  
 
 என ஐயந்திரிபறப்பாடுதலான் யான் கூறுவதே மெய்யென்று துணிக. இவ்வாசிரியர் சேக்கிழார் பெரியபுராணத்தை எழுத்தெண்ணியபடித் தவரே யாவரென்றியான் ஈண்டுக் கூறவும் வேண்டுவதோ? அந்நூல் கற்றதன் மேலு மிவர்க்குண்டாகிய துணிபு இஃதென்று நினைத்துக் கொள்க. இவற்றாற் பண்டைச் சங்கநூல்களிலும், அவற்றதுரை களிலுங்கண்ட கருவூர் வஞ்சிக்கும், பிற்காலத்துச் சேக்கிழார் நூலிற் கண்ட கொடுங்கோளூர் வஞ்சிக்கும் யாதோரியைபுமின்மை நன்குணர்ந்து கொள்க. இப்பாட்டானே கருவூரென்ற பெயர்க் காரணமுமறிக. இக்காரணம்பற்றி இதனை சபீஜமாநகரமெனக் கூறுவர். கொங்குநாட்டுப் பேரூர் நிர்ப்பீஜமா நகரமெனப்படும். பிறவாநெறி என்று தமிழிற் கூறப்படும்.  
 
@@ -626,7 +628,7 @@ two lines of text in Grantha charecters
 
 என அவார்கூறியவாற்றாலுணர்க. (௸ ௸
 
- 117)  
+117)  
 
 காமதேனுவழிபட்ட இடனாதலின் இக்கருவூர்ச்சிவபெருமான் கோயில் ஆனிலையெனப்படுமென்றுகூறுவரென்பது  
 
@@ -1006,21 +1008,21 @@ two lines of text in Grantha charecters
 
 ---------------------- /* The Periyaar is the finest, the largest and the most important of the rivers of Travancore. It takes its rise in the Shivagiri forests. As it first emerges from the dense forest the volume of water it contaains is 30 yards wide and 2 feet deep even in the driest weather. After a course of 10 miles northward, it is joined by the Mullayar at an elevation of
 
- 2800 feet. The Periyar then turns due west and continues so far about 10 miles over sandy bed. About 7 miles below Mullayar Tavalam there is formed a sort of gorge by the hills rising to a considerable height on either side of the river nad approaching each other very closely. It is here that a dam is thrown by the Madras Government to a height of160 feet and a width of
+2800 feet. The Periyar then turns due west and continues so far about 10 miles over sandy bed. About 7 miles below Mullayar Tavalam there is formed a sort of gorge by the hills rising to a considerable height on either side of the river nad approaching each other very closely. It is here that a dam is thrown by the Madras Government to a height of160 feet and a width of
 
- 1200 feet to form a lake which greatly helps the irrigation of the land in the Vaigai valley. By the construction ofthe dam the river is caused to back up for aconsiderable distance as far as the Vazhukkapara Tavalam aand all the low lying land on the north band of the river is submerged, the water extending up all the side valleys and reaching to within a mile of Kamih. From here a channel is tunnelled through the hill side over a mile long, by which the water is conveyed to one of the streams that go to feed the vaigai river......  
+1200 feet to form a lake which greatly helps the irrigation of the land in the Vaigai valley. By the construction ofthe dam the river is caused to back up for aconsiderable distance as far as the Vazhukkapara Tavalam aand all the low lying land on the north band of the river is submerged, the water extending up all the side valleys and reaching to within a mile of Kamih. From here a channel is tunnelled through the hill side over a mile long, by which the water is conveyed to one of the streams that go to feed the vaigai river......  
 
 The Periyar after receiving the Muthirapuzha river flows west-North-West for about 8 miles when it pours under a large rock which probably has fallen from the hillside on account of land slip. In dry weather when the volume of water is small the whole of it flows under the Rock. This has been exaggerated into a sudden disappearance of the river under ground. The water is considered to pass into a chasm and emerge again only after avery long distance,....... Passing Malayathur and after a winding course of 14 miles, it reaches Alwaye, where it divides itself into two branches which again subdivide themselves into several small ones before reaching the sea. The chief places on its banks are Peermade, Neryaamangalam, Malayathur, Cheranallur,Vazhakulam, Alwaye, Ullinad and Veerapoly. The total length of the river is
 
- 142 miles of which for the last 35 miles only it passes through inhabited tracts. It is navigable for boats for 60 miles above its mouth. (Page 17-18 Vol I. The Travancore State Manual by Mr. V. Nagan Aiya. B.A. F.R., Hist. & Dewan Parisher, Travancore.)  
+142 miles of which for the last 35 miles only it passes through inhabited tracts. It is navigable for boats for 60 miles above its mouth. (Page 17-18 Vol I. The Travancore State Manual by Mr. V. Nagan Aiya. B.A. F.R., Hist. & Dewan Parisher, Travancore.)  
 
 இனி வையைத்துறைவன் பொன்னித்துறைவன் எனப் பாண்டிய னையும் சோழனையும் நதியாற்பெயரிட்டாளுதல்போலச் சேரனைப் பொருநைத்துறைவன் என ஆளுதலா லிப்பொருநையும் மேலுள்ள வை/*யை காவிரி இவற்றையொப்பதோர் பேர்யாறேயாமென்றும்,உப நதியாயின் அதனாற் பேரரசனைப் பெயரிட்டாளார் என்றும் கருதுவா ருண்டு.இதன்பொருட்டு ஈண்டுச் சில‌ கூறுவல்.ஒரு நதியால் ஓ ரரசனைப் பெயரிட்டாள்வது அந்நதியால் அவன் நாடுபயன்படுதலையும், அதனால் அவன் செல்வமெய்தலையும்,அதன்கண் அவன் ராஜகிருக முடையனாதலையும் கருதியேயாகும்.இவை ஈண்டுக் கூறிய மூன்றி யாற்றுக்கும் ஒக்கும்.இங்ஙனங்கொள்ளாது யாறுகளின் அகல நீளங்களையும்,அந்நாட்டு மலையிற்பிறந்து அந்நாட்டுக் கடலில் வீழ் தற்றன்மையினையும்பற்றி யாராயின் இம்மூன்றும் தம்முட் பெரிதும் வேற்றுமையடையும்.பாண்டியர்க்கு வையை முழுதும் உரியதாகும். சோழர்க்குக் காவிரியின் தலை இடை கடைகளிற் கடையாறே யுரிய தாகும்.சேரர்க்குப் பொருநைமுழுதும் உரியதாகும்.இங்ங‌னம் ஆராய்ந்துகொண்டு காவிரியுடையசோழரைக் குறைகூறின் அது பொருந்துமா?என்றி அறிஞ‌ரேயாராய்ந்துகொள்வாராக.நிலமெல் லாம் விளைவித்து உயிர்களனைத்தையும் வாழ்வித்தற்குக்காரணமான தன் நீர்மிகுதியை உவர்க்கடலில் வாளாஉகுக்கும் ஒருமகாநதியி னும்,தன்நீர்த்துளியையும்வீணாக்காது உலகுபயன்கொள்ள ஓர் யாற்றிலேகலக்கும் உபநதி சிறந்ததென்றுவாதித்துப் பொருநையே மற்றவேந்தர்நதிகளினுஞ்சிறந்தது என்று கூறலுமாமே.இம் மூன்றுவேந்தர்க்கும் யாறு பேர்யாறாக வேண்டும் என்று கருது வார்க்கு மூவேந்தர்க்கும் மூன்றுமலையும் தம்முள் ஒத்துப் பெரிய வாதல் வேண்டப்படுமன்றோ?அதற்கென்செய்வது;பாண்டியர் பொதியத்திற்குச் சேரர்கொல்லி தாழ்ந்ததாகும்.அக்கொல்லிமலைச் சிறப்பி னூற்றிலொருபங்கும்சிறப்புடையாதாகச் சோழர் நேரிமலை கூறப்படவில்லை.இச்சிறுமலையாற் சோழனை நேரியன் எனக் கூற லாமா என்று ஒருவர்வினாவின் அதற்குப் பிற ரென்கூறுவாரோ? அவனுக்குள்ள மலைகளிலெல்லாம் அதுவே உயர்ந்ததாத‌லின் அத னால் அவனைச் சிறப்பித்தாரெனின் ஈண்டும் சேரனுக்குள்ள யாறு களிலெல்லாம் அதிகப்பயனை அவன்நாட்டுக்குவிளைப்பதும், அவ‌னிருக்கும்வஞ்சிக்கு நீரரணாவதும்,அவனாட்டே முழுவதும் உள்ள தும்,காமதேனுவந்துநீராடுந் தீர்த்தமாயுள்ளதுமாகிய காரணங்களால் அவனாட்டுள்ளயாறுகள்பலவற்றினும் உயர்ந்ததாகிய ஆன் பொருநையானே அவனைக்கூறினாரென்க. சேரநாடுக்காவிரியும் உண்டேனும் அஃது அவனாட்டு இடையாறேயாதலான் அதனா லவ னைப்பெயரிட்டாளுத லில்லையென்க. இவனாட்டுக் காவிரியுண்மை யைப் பின்னர் விரித்துரைப்பேன் ஆண்டுக்கண்டுகொள்க.இளங் கோவடிகள் காவிரிக்கும் வையைக்கும் ஒப்பாகவைத்துக் கட்டுரை யிற்கூறினாரில்லையேனும்,நூலுள் அவ்வக்காண்டங்களில் அவ்வந் நாட்டு ஆறுகளையேகூறியாங்கு வஞ்சிக்காண்டத்து "வருபுன்னீர்த் தண்பொருநைசூழ்தரும்வஞ்சியார்கோமான்"என உள்ளதுகொண்டு கூறுதல் கண்டுகொள்க.ஒருவன் தன்மலையிற்பிறந்து தன்கடலின் மண்டும்யாறு தன் நாட்டுக்கு அதிகப்பயன்றராததாயின் அதனைப் பாராட்டாது தானும் தன்னாடும் அதிகப்பயனெய்தற்குக் காரண மானதொன்றையே பாராட்டுவன் என்பது திண்ணம்.பேர்யாறு
 
- 142-மைல் நீளம் ஓடும்யாறு.ஆமிராவதியாகிய ஆன்பொருந்தம்
+142-மைல் நீளம் ஓடும்யாறு.ஆமிராவதியாகிய ஆன்பொருந்தம்
 
- 140-மைல்நீளம் ஓடுவது.இவ்விரண்ட‌ற்கும் நீளம் பற்றிய வேற் றுமை மிகவுஞ்சிறியதே என்பது அறியத்தகும்.பேர்யாறு
+140-மைல்நீளம் ஓடுவது.இவ்விரண்ட‌ற்கும் நீளம் பற்றிய வேற் றுமை மிகவுஞ்சிறியதே என்பது அறியத்தகும்.பேர்யாறு
 
- 107-மைல் நாட்டுக்குப்பெரும்பயன்விளைவியாமற் பெரியமலைக‌ட் கிடையில் ஓடுவது.இதுபற்றியே "பெருமலைவிலங்கியபேர்யாறு" என்றார் இளங்கோவடிகளும்.அது 35-மைல் தூரமே குடியுள்ள‌ நாட்டிலோடுவது.இவ்வுண்மையினை முற்காட்டிய ஆங்கிலக் குறிப்பா னுண‌ரலாம்.ஆமிராவதி பொதியமலைத்த்தொடர்களாகிய ஆனை மலையினுந் திருவிதாங்கோட்டுமலைகளினும் உண்டாஞ்சிற்றாறுகளின் றிரளாய் கொங்குநாட்டுப்பகுதியாகிய கோயமுத்தூர்ச்சில்லாவில் நெடுந்தூரம் பாசனவளம்புரிந்து திருச்சிராப்பள்ளியிலுள்ள கொங்கு நாட்டுப்ப்பகுதியிலும் அவ்வளமேசெய்து பின்னும்பெரும்பயனுறுத் தக் காவிரியைப்பெருக்குவதாகும்.இவ்வியல்புகளையுணர்ந்தே முன் னைத்தமிழ்ப்புலவர்கள் பேர்யாற்றாற் சேரனைப்பெயரிடாமற்பொருநை யாற்பெயரிட்டாரென்றுதெரியலாம்.பயன் அதிகமில்லாத பேர் யாற்றினும் பயன் அதிகமுடைய உபநதி சிறந்ததென்பது புலவர் துணிபு. காவிரியைமுழுதுமுடையனா கானாயினும், காவிரியினும் அதிகநீளந் தன்னாட்டோடும்யாறுகள் பிறவற்றையுடையனாயினும் அக்காவேரியானே சோழனைக்கூறுவதெல்லாம் அதனா லவன் அதிகப்பயனையடைதனோக்கியும், அவன் அதன்றுறையில் ராஜகிருக முடைமைநோக்கியுமேயென்று கொள்ளத்தகும். இதனோடு யான் மேற்கூறியகாரணங்களையும் சேர்த்துக்கொள்க. கோசல நாட்டிறைவரை அந்நாட்டுப்பயனுறுத்தும் உபநதியாகிய சரயு என் னும் யாற்றாற் சிறப்பித்தலையும் ஈண்டைக்கு நோக்கிக்கொள்க. பெரும்பயனுறுத்தும்பொருநையைப்பற்றிப் பேர்யாற்றுக்குள்ள குணங்களை மறந்தாரெனலாகாது. அதனைப் பெருமலைவிலங்கிய பேர்யாறெனவும், அது வறனுறுகோடையினுந் தீநீரொழுகுவதென் றும், அதனானும் கழனிவிளைவுண்டென்றும், அது இருகரையும் வழிந்துசெல்லும் பெருநீரையுடையதென்றும் வருணித்தே செல்வர். இதனாற் பண்டைப்புலவர் அதனதன்குணங்களை யுள்ளவாறுகண்டு எதனால் ஓரரசனைச்சிறப்பித்தால் எல்லாப்படியானும் பொருந்திற் றென்றுகொள்ளப்படுமோ அதனானேசிறப்பித்தாரென்றறிந்து கொள்க. இதனாற் சேரனுக்குள்ளயாறுகள் பலவற்றினும் சிறந்தது ஆன்பொருநை என்பதனை ஆராய்ந்துணர்ந்தே புலவர் அவனைப் பொருநைத்துறைவன் எனப்பெயரிட்டாண்டாரென்றுணர்க.  
+107-மைல் நாட்டுக்குப்பெரும்பயன்விளைவியாமற் பெரியமலைக‌ட் கிடையில் ஓடுவது.இதுபற்றியே "பெருமலைவிலங்கியபேர்யாறு" என்றார் இளங்கோவடிகளும்.அது 35-மைல் தூரமே குடியுள்ள‌ நாட்டிலோடுவது.இவ்வுண்மையினை முற்காட்டிய ஆங்கிலக் குறிப்பா னுண‌ரலாம்.ஆமிராவதி பொதியமலைத்த்தொடர்களாகிய ஆனை மலையினுந் திருவிதாங்கோட்டுமலைகளினும் உண்டாஞ்சிற்றாறுகளின் றிரளாய் கொங்குநாட்டுப்பகுதியாகிய கோயமுத்தூர்ச்சில்லாவில் நெடுந்தூரம் பாசனவளம்புரிந்து திருச்சிராப்பள்ளியிலுள்ள கொங்கு நாட்டுப்ப்பகுதியிலும் அவ்வளமேசெய்து பின்னும்பெரும்பயனுறுத் தக் காவிரியைப்பெருக்குவதாகும்.இவ்வியல்புகளையுணர்ந்தே முன் னைத்தமிழ்ப்புலவர்கள் பேர்யாற்றாற் சேரனைப்பெயரிடாமற்பொருநை யாற்பெயரிட்டாரென்றுதெரியலாம்.பயன் அதிகமில்லாத பேர் யாற்றினும் பயன் அதிகமுடைய உபநதி சிறந்ததென்பது புலவர் துணிபு. காவிரியைமுழுதுமுடையனா கானாயினும், காவிரியினும் அதிகநீளந் தன்னாட்டோடும்யாறுகள் பிறவற்றையுடையனாயினும் அக்காவேரியானே சோழனைக்கூறுவதெல்லாம் அதனா லவன் அதிகப்பயனையடைதனோக்கியும், அவன் அதன்றுறையில் ராஜகிருக முடைமைநோக்கியுமேயென்று கொள்ளத்தகும். இதனோடு யான் மேற்கூறியகாரணங்களையும் சேர்த்துக்கொள்க. கோசல நாட்டிறைவரை அந்நாட்டுப்பயனுறுத்தும் உபநதியாகிய சரயு என் னும் யாற்றாற் சிறப்பித்தலையும் ஈண்டைக்கு நோக்கிக்கொள்க. பெரும்பயனுறுத்தும்பொருநையைப்பற்றிப் பேர்யாற்றுக்குள்ள குணங்களை மறந்தாரெனலாகாது. அதனைப் பெருமலைவிலங்கிய பேர்யாறெனவும், அது வறனுறுகோடையினுந் தீநீரொழுகுவதென் றும், அதனானும் கழனிவிளைவுண்டென்றும், அது இருகரையும் வழிந்துசெல்லும் பெருநீரையுடையதென்றும் வருணித்தே செல்வர். இதனாற் பண்டைப்புலவர் அதனதன்குணங்களை யுள்ளவாறுகண்டு எதனால் ஓரரசனைச்சிறப்பித்தால் எல்லாப்படியானும் பொருந்திற் றென்றுகொள்ளப்படுமோ அதனானேசிறப்பித்தாரென்றறிந்து கொள்க. இதனாற் சேரனுக்குள்ளயாறுகள் பலவற்றினும் சிறந்தது ஆன்பொருநை என்பதனை ஆராய்ந்துணர்ந்தே புலவர் அவனைப் பொருநைத்துறைவன் எனப்பெயரிட்டாண்டாரென்றுணர்க.  
 
 இனிப் பதிற்றுப்பத்திற் பேர்யாறு என ஒன்று அயிரைமலையிற் பிறப்பதாக,  
 
@@ -2140,7 +2142,7 @@ The Periyar after receiving the Muthirapuzha river flows west-North-West for abo
 
 இனி, மாறனலங்காரத்து எச்சவியல்
 
- 314-ஆம் சூத்திரவுரைக்கண்,  
+314-ஆம் சூத்திரவுரைக்கண்,  
 
   
 
@@ -2844,7 +2846,7 @@ The Periyar after receiving the Muthirapuzha river flows west-North-West for abo
 
 எனவருதலானிதனையறிக.
 
- 159-ஆம் அகப்பாட்டில்,  
+159-ஆம் அகப்பாட்டில்,  
 
   
 
@@ -2884,7 +2886,7 @@ The Periyar after receiving the Muthirapuzha river flows west-North-West for abo
 
 இனி ஆதன் என்பது, சேரர்க்குள் அதிகமாக வழங்கும்பெயர் என்பது, சேரலாதன், நெடுஞ்சேரலாதன், ஆதனவினி, செல்வக் கடுங்கோவாழியாதன், பெருஞ்-சோற்றுதியஞ்சேரலாதன் எனவருதலான் அறியப்படும். ஈண்டுக்காட்டிய பலபெயர்க்கும் ஆதன் கூடஸ் தன் ஆவன். இவனிருந்தஊர் ஆதனூர் எனப்படும். இஃது இப்போது கொல்லிமலையையடுத்துள்ளது.
 
- 168-ன் அகப்பாட்டில்,  
+168-ன் அகப்பாட்டில்,  
 
   
 
@@ -2968,7 +2970,7 @@ The Periyar after receiving the Muthirapuzha river flows west-North-West for abo
 
 /* புறம்-29. ஷ
 
- 373  
+373  
 
 ஓரூரையேபற்றியதென்ப தியாவருமறிவர். ஆண்டெல்லாம் வஞ்சியை அறிவித்ததற்குக் கருவூர் என்று அடைகொடாது வாளா வழங்குதல் போலவே ஈண்டும் வழங்கப்பட்டதாகும். "கருவூர்ச்சேரமான்" என்பதனானும் இக்கருவூர் வஞ்சியாகும். "கருவூர்ப்பெருஞ்சதுக்கத்துப் பூதன்" என்பதனானும், இக்கருவூர் வஞ்சியேயாகும். "சதுக்கப்பூதரை வஞ்சியுட்டந்து, மதுக்கொள்வேள்வி வேட்டோனாயினும்" எனச் சிலப்பதிகாரத்து வருதலான் வஞ்சியாகிய கருவூரிற் சதுக்கப் பூதருண்மை நன்குணரலாகும். கருவூர்க்கதப் பிள்ளைசாத்தனார் சேரன் படைத் தலைவனாகிய பிட்டனைப் பாடுதலான் இக்கருவூர் வஞ்சியேயாகும். (புறம்-167) இவர் அகப்பாட்டில்,  
 
@@ -3050,19 +3052,19 @@ The Periyar after receiving the Muthirapuzha river flows west-North-West for abo
 
 /*/* Madukkarai: Hamlet of Thirukkambiliyur 12 mils west of Kulittalai. The temple of the village goddess Sellandiyamamn is supposed to mark the spot where the Chera, Chola and Pandya Kingdoms met .............A bank runs south from the rever† at this point and is said to have been erected to mark the boundary of the Chola And Chera Kingdoms. (Page
 
- 281- Trichnopoly Gezetteer
+281- Trichnopoly Gezetteer
 
- 1907.)  
+1907.)  
 
 Vettaimangalam: stands 12 miles north-west of Karur; populaton 3,
 
 
 
- 517. The place is said to owe its origin to a Chera Raja, who, when out hunting one day saw the spot and struck by the beauty of the scenery, founded the village. It was named Vettaimangalam from this incident. There is an old Siva Temple there, page
+517. The place is said to owe its origin to a Chera Raja, who, when out hunting one day saw the spot and struck by the beauty of the scenery, founded the village. It was named Vettaimangalam from this incident. There is an old Siva Temple there, page
 
 
 
- 276. Do. Do.)  
+276. Do. Do.)  
 
 -----  
 
@@ -3104,5 +3106,4 @@ Vettaimangalam: stands 12 miles north-west of Karur; populaton 3,
 
 This file was last updated on 27 Jan.
 
- 2014.  
-
+2014.  

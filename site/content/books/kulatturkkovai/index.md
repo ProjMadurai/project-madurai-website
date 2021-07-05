@@ -9,6 +9,8 @@ genres:
   - பிரபந்தம்
 ---
 
+
+
 ### ஸ்ரீமீனாட்சிசுந்தரம்பிள்ளையவர்கள் பிரபந்தத்திரட்டு  
 
 குளத்தூர்க்கோவை. (4611-5049 )  
@@ -25,7 +27,7 @@ genres:
 
 இரண்டாம் பதிப்பு, அக்‌ஷய ௵, ஆனி௴,
 
- 1926  
+1926  
 
 விலை ரூ.5-10-0.  
 
@@ -4539,7 +4541,7 @@ copyright reserved
 
 This file was last updated on 17 Nov.
 
- 2020 .  
+2020 .  
 
 Feel free to send the corrections to the webmaster.  
 

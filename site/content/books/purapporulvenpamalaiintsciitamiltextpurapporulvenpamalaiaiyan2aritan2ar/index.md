@@ -9,21 +9,23 @@ genres:
   - மாலை
 ---
 
+
+
 bnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
 weight:
 
- 300  
+300  
 
 authors:  
 
-  - ஐயனாரிதனார்  
+- ஐயனாரிதனார்  
 
 genres:  
 
-  - பிரபந்தம்  
+- பிரபந்தம்  
 
-  - மாலை  
+- மாலை  
 
 ---  
 
@@ -61,7 +63,7 @@ Web Master: Dr. K. Kalyanasundaram, Lausanne, Switzerland
 
 This webpage presents the Etext in Tamil script in TSCII
 
- 1.7 encoding.  
+1.7 encoding.  
 
 To view the Tamil text correctly you need to set up the following: You need to  
 
@@ -71,7 +73,7 @@ the browser set to display webpages with "user defined" charset.
 
 © Project Madurai
 
- 1998-2008  
+1998-2008  
 
 Project Madurai is an open, voluntary, worldwide initiative devoted to preparation of  
 
@@ -97,7 +99,7 @@ freely distribute this file, provided this header part is kept intact
 
 [![](https://www.projectmadurai.org/pm_etexts/utf8/blbll.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#payi) 0 பாயிரம். . .((5)) [![](https://www.projectmadurai.org/pm_etexts/utf8/blbll.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#vet) 1 வெட்சிப் படலம்(1 -21=21) [![](https://www.projectmadurai.org/pm_etexts/utf8/blbll.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#kar) 2 கரந்தை படலம்(22-35=14) [![](https://www.projectmadurai.org/pm_etexts/utf8/blbll.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#van) 3 வஞ்சிப் படலம்(36-60=25) [![](https://www.projectmadurai.org/pm_etexts/utf8/blbll.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#kan) 4 காஞ்சிப் படலம்(61-85=25) [![](https://www.projectmadurai.org/pm_etexts/utf8/blbll.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#noc) 5 நொச்சிப் படலம்(86-94=9) [![](https://www.projectmadurai.org/pm_etexts/utf8/blbll.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#uzi) 6 உழிஞைப் படலம்(95-126=32) [![](https://www.projectmadurai.org/pm_etexts/utf8/blbll.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#tum) 7 தும்பைப் படலம்(127-154=28) [![](https://www.projectmadurai.org/pm_etexts/utf8/blbll.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#vak) 8 வாகைப் படலம்(155-188=34) [![](https://www.projectmadurai.org/pm_etexts/utf8/blbll.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#pad) 9 பாடாண் படலம்(189-239=51) . . . . .பொதுவியல் படலம். [![](https://www.projectmadurai.org/pm_etexts/utf8/blbll.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#ppot) 10 பொதுவியல் பால(240-253=14) [![](https://www.projectmadurai.org/pm_etexts/utf8/blbll.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#cir) 11 சிறப்பில் பொதுவியல் பால(254-268=15) [![](https://www.projectmadurai.org/pm_etexts/utf8/blbll.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#kpo) 12 காஞ்சிப் பொதுவியல் பால(269-274=6) [![](https://www.projectmadurai.org/pm_etexts/utf8/blbll.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#mpo) 13 முல்லைப் பொதுவியல் பால(275-284=10) . . . . .கைக்கிளைப் படலம். [![](https://www.projectmadurai.org/pm_etexts/utf8/blbll.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#aka) 14 கைக்கிளை-ஆண்பால் கூற்று(285-293=9) [![](https://www.projectmadurai.org/pm_etexts/utf8/blbll.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#pka) 15 கைக்கிளை-பெண்பால் கூற்று(294-305=12) . . . . .பெருந்திணைப் படலம். [![](https://www.projectmadurai.org/pm_etexts/utf8/blbll.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#ppe) 16 பெருந்திணை-பெண்பால் கூற்று(306-324=19) [![](https://www.projectmadurai.org/pm_etexts/utf8/blbll.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#ipe) 17 பெருந்திணை-இருபால்(325-342=18) [![](https://www.projectmadurai.org/pm_etexts/utf8/blbll.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#ozi) 18 ஒழிபுப் படலம்(343-361=19) [![](https://www.projectmadurai.org/pm_etexts/utf8/blbll.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#tin) 19 திணைகளின் தொகுப்பு வகைகள். . .((3)) .. . . . . .சூத்திரங்கள் 19 வெண்பாக்கள். . . . . .
 
- 361  
+361  
 
   
 
@@ -2409,7 +2411,7 @@ freely distribute this file, provided this header part is kept intact
 
 அகப்படா இல்லை அரண்
 
- 100  
+100  
 
   
 
@@ -2431,7 +2433,7 @@ freely distribute this file, provided this header part is kept intact
 
 சுடர் ஆழி நின்று எரியச் சோ
 
- 101  
+101  
 
   
 
@@ -2453,7 +2455,7 @@ freely distribute this file, provided this header part is kept intact
 
 மாக்கொள் உழிஞை மலைந்து
 
- 102  
+102  
 
   
 
@@ -2475,7 +2477,7 @@ freely distribute this file, provided this header part is kept intact
 
 போர் கருதியார் மலையார் பூ
 
- 103  
+103  
 
   
 
@@ -2497,7 +2499,7 @@ freely distribute this file, provided this header part is kept intact
 
 புறத்திறுத்தான் பூங்கழலினான்
 
- 104  
+104  
 
   
 
@@ -2519,7 +2521,7 @@ freely distribute this file, provided this header part is kept intact
 
 மாயப் போர் பன்னன் மதில்
 
- 105  
+105  
 
   
 
@@ -2541,7 +2543,7 @@ freely distribute this file, provided this header part is kept intact
 
 வேண்டின் எளிது என்றான் வேந்து
 
- 106  
+106  
 
   
 
@@ -2563,7 +2565,7 @@ freely distribute this file, provided this header part is kept intact
 
 எயிற்றுப் படையால் இடந்து
 
- 107  
+107  
 
   
 
@@ -2585,7 +2587,7 @@ freely distribute this file, provided this header part is kept intact
 
 வரைமார்பில் வைகின வாள்
 
- 108  
+108  
 
   
 
@@ -2607,7 +2609,7 @@ freely distribute this file, provided this header part is kept intact
 
 தோல் ஏந்தி ஆடல் தொடர்ந்து
 
- 109  
+109  
 
   
 
@@ -2629,7 +2631,7 @@ freely distribute this file, provided this header part is kept intact
 
 ஆம்கொல் அரிய அமர்
 
- 110  
+110  
 
   
 
@@ -2651,7 +2653,7 @@ freely distribute this file, provided this header part is kept intact
 
 பகழிவாய் ஆழ்ந்தார் பலர்
 
- 111  
+111  
 
   
 
@@ -2673,7 +2675,7 @@ freely distribute this file, provided this header part is kept intact
 
 ஏணி பலவும் எயில்
 
- 112  
+112  
 
   
 
@@ -2695,7 +2697,7 @@ freely distribute this file, provided this header part is kept intact
 
 ஏறினார் ஏணி பலர்
 
- 113  
+113  
 
   
 
@@ -2717,7 +2719,7 @@ freely distribute this file, provided this header part is kept intact
 
 அரணகத்துப் பாய்ந்து இழிந்தார் ஆர்த்து
 
- 114  
+114  
 
   
 
@@ -2739,7 +2741,7 @@ freely distribute this file, provided this header part is kept intact
 
 களிஉறு காமம் கலந்து
 
- 115  
+115  
 
   
 
@@ -2761,7 +2763,7 @@ freely distribute this file, provided this header part is kept intact
 
 அகத்தாரை வென்றார் அமர்
 
- 116  
+116  
 
   
 
@@ -2783,7 +2785,7 @@ freely distribute this file, provided this header part is kept intact
 
 தொடு கழலார் முழை துடுப்பு
 
- 117  
+117  
 
   
 
@@ -2805,7 +2807,7 @@ freely distribute this file, provided this header part is kept intact
 
 அம்புடை ஞாயில் அரண்
 
- 118  
+118  
 
   
 
@@ -2827,7 +2829,7 @@ freely distribute this file, provided this header part is kept intact
 
 முற்றியார் முற்று விட
 
- 119  
+119  
 
   
 
@@ -2849,7 +2851,7 @@ freely distribute this file, provided this header part is kept intact
 
 கள்விரவு தாரான் கதம்
 
- 120  
+120  
 
   
 
@@ -2871,7 +2873,7 @@ freely distribute this file, provided this header part is kept intact
 
 புடையார் அறையாப் புகழ்
 
- 121  
+121  
 
   
 
@@ -2893,7 +2895,7 @@ freely distribute this file, provided this header part is kept intact
 
 மொயசுடர்ப் பூண் மன்னர் முடி
 
- 122  
+122  
 
   
 
@@ -2915,7 +2917,7 @@ freely distribute this file, provided this header part is kept intact
 
 மறமதில் மன்னன் மகள்
 
- 123  
+123  
 
   
 
@@ -2937,7 +2939,7 @@ freely distribute this file, provided this header part is kept intact
 
 பெயர்ந்தான் பெருந்தகையினான்
 
- 124  
+124  
 
   
 
@@ -2959,7 +2961,7 @@ freely distribute this file, provided this header part is kept intact
 
 இருந்தான் இகல் மறவன் ஏறு
 
- 125  
+125  
 
   
 
@@ -2981,7 +2983,7 @@ freely distribute this file, provided this header part is kept intact
 
 முன்நின்று அவிந்தார் முரண்
 
- 126 [![](https://www.projectmadurai.org/pm_etexts/utf8/up.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#talai)[]()  
+126 [![](https://www.projectmadurai.org/pm_etexts/utf8/up.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#talai)[]()  
 
   
 
@@ -3041,7 +3043,7 @@ freely distribute this file, provided this header part is kept intact
 
 வெப்புடைத் தானை எம் வேந்து
 
- 127  
+127  
 
   
 
@@ -3067,7 +3069,7 @@ freely distribute this file, provided this header part is kept intact
 
 பல்மணிப் பூணான் படைக்கு
 
- 128  
+128  
 
   
 
@@ -3089,7 +3091,7 @@ freely distribute this file, provided this header part is kept intact
 
 உயிர் காவல் என்னும் உரை
 
- 129  
+129  
 
   
 
@@ -3111,7 +3113,7 @@ freely distribute this file, provided this header part is kept intact
 
 உலகழியும் ஓர்த்துச் செயின்
 
- 130  
+130  
 
   
 
@@ -3133,7 +3135,7 @@ freely distribute this file, provided this header part is kept intact
 
 பாழித்தோள் மன்னர் படை
 
- 131  
+131  
 
   
 
@@ -3155,7 +3157,7 @@ freely distribute this file, provided this header part is kept intact
 
 காயும் கழலான் களிறு
 
- 132  
+132  
 
   
 
@@ -3177,7 +3179,7 @@ freely distribute this file, provided this header part is kept intact
 
 வார் கணையின் முந்தி வரும்
 
- 133  
+133  
 
   
 
@@ -3199,7 +3201,7 @@ freely distribute this file, provided this header part is kept intact
 
 பாங்கிலா மன்னர் படை
 
- 134  
+134  
 
   
 
@@ -3221,7 +3223,7 @@ freely distribute this file, provided this header part is kept intact
 
 மலைபுரை யானை மலிந்து
 
- 135  
+135  
 
   
 
@@ -3243,7 +3245,7 @@ freely distribute this file, provided this header part is kept intact
 
 ஒட்டார் புறத்தின் மேல் ஊர்ந்து
 
- 136  
+136  
 
   
 
@@ -3265,7 +3267,7 @@ freely distribute this file, provided this header part is kept intact
 
 விண்ணினார் செய்தார் விருந்து
 
- 137  
+137  
 
   
 
@@ -3287,7 +3289,7 @@ freely distribute this file, provided this header part is kept intact
 
 இருபடையும் நீங்கா இகல்
 
- 138  
+138  
 
   
 
@@ -3309,7 +3311,7 @@ freely distribute this file, provided this header part is kept intact
 
 வாள் வெள்ளம் தன் மேல் வர
 
- 139  
+139  
 
   
 
@@ -3331,7 +3333,7 @@ freely distribute this file, provided this header part is kept intact
 
 மெய் கொண்டான் பின்னரும் மீட்டு
 
- 140  
+140  
 
   
 
@@ -3353,7 +3355,7 @@ freely distribute this file, provided this header part is kept intact
 
 திறந்த வேல் கையில் திரிந்து
 
- 141  
+141  
 
   
 
@@ -3375,7 +3377,7 @@ freely distribute this file, provided this header part is kept intact
 
 படுசுடர் எ·கம் படுந்து
 
- 142  
+142  
 
   
 
@@ -3397,7 +3399,7 @@ freely distribute this file, provided this header part is kept intact
 
 குழுமணித் திண் தேர்க் கொடி
 
- 143  
+143  
 
   
 
@@ -3419,7 +3421,7 @@ freely distribute this file, provided this header part is kept intact
 
 திசை விளங்கும் தானையான் தேர்
 
- 144  
+144  
 
   
 
@@ -3441,7 +3443,7 @@ freely distribute this file, provided this header part is kept intact
 
 கணம் கொள் பேய் ஆடும் களித்து
 
- 145  
+145  
 
   
 
@@ -3463,7 +3465,7 @@ freely distribute this file, provided this header part is kept intact
 
 கருங்கழல் செவ்வேலவன்
 
- 146  
+146  
 
   
 
@@ -3485,7 +3487,7 @@ freely distribute this file, provided this header part is kept intact
 
 வேந்தொடு வெள்வாள் விதந்து
 
- 147  
+147  
 
   
 
@@ -3507,7 +3509,7 @@ freely distribute this file, provided this header part is kept intact
 
 கம்பமா நின்றான் களத்து
 
- 148  
+148  
 
   
 
@@ -3529,7 +3531,7 @@ freely distribute this file, provided this header part is kept intact
 
 கலவாமல் காத்த கணை
 
- 149  
+149  
 
   
 
@@ -3551,7 +3553,7 @@ freely distribute this file, provided this header part is kept intact
 
 நுண்இடை பேர் அல்குலார்
 
- 150  
+150  
 
   
 
@@ -3573,7 +3575,7 @@ freely distribute this file, provided this header part is kept intact
 
 ஓடு அரிக்கண் நீர் பாய் உக
 
- 151  
+151  
 
   
 
@@ -3595,7 +3597,7 @@ freely distribute this file, provided this header part is kept intact
 
 வெள்ளல்உள் வேட்டான் உயிர்
 
- 152  
+152  
 
   
 
@@ -3617,7 +3619,7 @@ freely distribute this file, provided this header part is kept intact
 
 வணங்கிடைத் தானே வரும்
 
- 153  
+153  
 
   
 
@@ -3639,7 +3641,7 @@ freely distribute this file, provided this header part is kept intact
 
 கொடிதே காண் ஆர்ந்து இன்று கூற்று
 
- 154 [![](https://www.projectmadurai.org/pm_etexts/utf8/up.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#talai)[]()  
+154 [![](https://www.projectmadurai.org/pm_etexts/utf8/up.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#talai)[]()  
 
   
 
@@ -3709,7 +3711,7 @@ freely distribute this file, provided this header part is kept intact
 
 அடல் வேந்தன் அட்டு ஆர்த்து அரசு
 
- 155  
+155  
 
   
 
@@ -3735,7 +3737,7 @@ freely distribute this file, provided this header part is kept intact
 
 கழலொடு பூங்கண்ணிக் கச்சு
 
- 156  
+156  
 
   
 
@@ -3757,7 +3759,7 @@ freely distribute this file, provided this header part is kept intact
 
 வெம்திறல் தண்அளி எம் வேந்து
 
- 157  
+157  
 
   
 
@@ -3779,7 +3781,7 @@ freely distribute this file, provided this header part is kept intact
 
 முழங்கும் அதிரும் முரசு
 
- 158  
+158  
 
   
 
@@ -3801,7 +3803,7 @@ freely distribute this file, provided this header part is kept intact
 
 எம்கண் கடையா இடர்
 
- 159  
+159  
 
   
 
@@ -3823,7 +3825,7 @@ freely distribute this file, provided this header part is kept intact
 
 மூளையம் சோற்றை முகந்து
 
- 160  
+160  
 
   
 
@@ -3845,7 +3847,7 @@ freely distribute this file, provided this header part is kept intact
 
 முரசு அதிர வென்ற தேர் முன்
 
- 161  
+161  
 
   
 
@@ -3867,7 +3869,7 @@ freely distribute this file, provided this header part is kept intact
 
 பின்தேர்க்குரவை பிணைந்து
 
- 162  
+162  
 
   
 
@@ -3889,7 +3891,7 @@ freely distribute this file, provided this header part is kept intact
 
 விடுசுடர் வேள்வி அகத்து
 
- 163  
+163  
 
   
 
@@ -3911,7 +3913,7 @@ freely distribute this file, provided this header part is kept intact
 
 ஆதி வணிகர்க்கு அரசு
 
- 164  
+164  
 
   
 
@@ -3933,7 +3935,7 @@ freely distribute this file, provided this header part is kept intact
 
 உழுவான் உலகுக்கு உயிர்
 
- 165  
+165  
 
   
 
@@ -3955,7 +3957,7 @@ freely distribute this file, provided this header part is kept intact
 
 நீறுமேல் பூத்த நெருப்பு
 
- 166  
+166  
 
   
 
@@ -3977,7 +3979,7 @@ freely distribute this file, provided this header part is kept intact
 
 பிறழா பெரியார் வாய்ச் சொல்
 
- 167  
+167  
 
   
 
@@ -3999,7 +4001,7 @@ freely distribute this file, provided this header part is kept intact
 
 வானகத்து உய்க்கும் வழி
 
- 168  
+168  
 
   
 
@@ -4021,7 +4023,7 @@ freely distribute this file, provided this header part is kept intact
 
 முதின் மடவாள் முயக்கு
 
- 169  
+169  
 
   
 
@@ -4043,7 +4045,7 @@ freely distribute this file, provided this header part is kept intact
 
 பகையொடு பாசறை உளான்
 
- 170  
+170  
 
   
 
@@ -4065,7 +4067,7 @@ freely distribute this file, provided this header part is kept intact
 
 காவலன் சேறல் கடன்
 
- 171  
+171  
 
   
 
@@ -4085,7 +4087,7 @@ freely distribute this file, provided this header part is kept intact
 
 என்றன்றி மீண்டது இலர்
 
- 172  
+172  
 
   
 
@@ -4107,7 +4109,7 @@ freely distribute this file, provided this header part is kept intact
 
 வழிபடர்தல் வல்லதவை
 
- 173  
+173  
 
   
 
@@ -4129,7 +4131,7 @@ freely distribute this file, provided this header part is kept intact
 
 கண்ணி உரைப்பான் கணி
 
- 174  
+174  
 
   
 
@@ -4151,7 +4153,7 @@ freely distribute this file, provided this header part is kept intact
 
 புதல்வனைச் செல்க என்றாள் போர்க்கு
 
- 175  
+175  
 
   
 
@@ -4173,7 +4175,7 @@ freely distribute this file, provided this header part is kept intact
 
 எய்ப்பன்றிக் கிடந்தான் என் ஏறு
 
- 176  
+176  
 
   
 
@@ -4195,7 +4197,7 @@ freely distribute this file, provided this header part is kept intact
 
 உரைமாலை சூடினான் ஊர்
 
- 177  
+177  
 
   
 
@@ -4217,7 +4219,7 @@ freely distribute this file, provided this header part is kept intact
 
 இருநால் வகையார் இயல்பு
 
- 178  
+178  
 
   
 
@@ -4239,7 +4241,7 @@ freely distribute this file, provided this header part is kept intact
 
 தான் காவல் கொண்டல் தகும்
 
- 179  
+179  
 
   
 
@@ -4261,7 +4263,7 @@ freely distribute this file, provided this header part is kept intact
 
 கருங்கழலான் கொண்டான் களம்
 
- 180  
+180  
 
   
 
@@ -4283,7 +4285,7 @@ freely distribute this file, provided this header part is kept intact
 
 நின்றான் நெடிய மொழிந்து
 
- 181  
+181  
 
   
 
@@ -4307,7 +4309,7 @@ freely distribute this file, provided this header part is kept intact
 
 கதிர் வழங்கு மாமலைக் காம்பு
 
- 182  
+182  
 
   
 
@@ -4329,7 +4331,7 @@ freely distribute this file, provided this header part is kept intact
 
 கனலாது துயில் ஏற்ற கண்
 
- 183  
+183  
 
   
 
@@ -4351,7 +4353,7 @@ freely distribute this file, provided this header part is kept intact
 
 வீரியர் எய்தற்பால வீடு
 
- 184  
+184  
 
   
 
@@ -4373,7 +4375,7 @@ freely distribute this file, provided this header part is kept intact
 
 சங்கம் போல் வான்மையார் சால்பு
 
- 185  
+185  
 
   
 
@@ -4395,7 +4397,7 @@ freely distribute this file, provided this header part is kept intact
 
 இன்று போம் எங்கட்கு இடர்
 
- 186  
+186  
 
   
 
@@ -4417,7 +4419,7 @@ freely distribute this file, provided this header part is kept intact
 
 ஐஐந்தும் ஆய்வது அறிவு
 
- 187  
+187  
 
   
 
@@ -4439,7 +4441,7 @@ freely distribute this file, provided this header part is kept intact
 
 உள்படாம் போதல் உறும்
 
- 188 [![](https://www.projectmadurai.org/pm_etexts/utf8/up.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#talai)[]()  
+188 [![](https://www.projectmadurai.org/pm_etexts/utf8/up.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#talai)[]()  
 
   
 
@@ -4525,7 +4527,7 @@ freely distribute this file, provided this header part is kept intact
 
 எருசினை வேல்தானை எம்கோ
 
- 189  
+189  
 
   
 
@@ -4551,7 +4553,7 @@ freely distribute this file, provided this header part is kept intact
 
 வாயிலோய் வாயில் இசை
 
- 190  
+190  
 
   
 
@@ -4573,7 +4575,7 @@ freely distribute this file, provided this header part is kept intact
 
 நெடும்தகையாய் நின்னையே யாம்
 
- 191  
+191  
 
   
 
@@ -4595,7 +4597,7 @@ freely distribute this file, provided this header part is kept intact
 
 நிறத்தொடு நேர் வருதலான்
 
- 192  
+192  
 
   
 
@@ -4617,7 +4619,7 @@ freely distribute this file, provided this header part is kept intact
 
 படுகளி நல்வாய்ப் பகடு
 
- 193  
+193  
 
   
 
@@ -4641,7 +4643,7 @@ freely distribute this file, provided this header part is kept intact
 
 காவாமல் ஈகைக் கடன்
 
- 194  
+194  
 
   
 
@@ -4663,7 +4665,7 @@ freely distribute this file, provided this header part is kept intact
 
 ஒழியாமே ஓம்பும் உலகு
 
- 195  
+195  
 
   
 
@@ -4685,7 +4687,7 @@ freely distribute this file, provided this header part is kept intact
 
 கடிய துயில் ஏற்ற கண்
 
- 196  
+196  
 
   
 
@@ -4707,7 +4709,7 @@ freely distribute this file, provided this header part is kept intact
 
 தூமலர்க் கண் ஏற்க துயில்
 
- 197  
+197  
 
   
 
@@ -4729,7 +4731,7 @@ freely distribute this file, provided this header part is kept intact
 
 மன்னன் வரை புரையும் மார்பு
 
- 198  
+198  
 
   
 
@@ -4751,7 +4753,7 @@ freely distribute this file, provided this header part is kept intact
 
 வெம்களத்து வேல் உயர்த்த வேந்து
 
- 199  
+199  
 
   
 
@@ -4773,7 +4775,7 @@ freely distribute this file, provided this header part is kept intact
 
 வெல் நெறியே காட்டும் விளக்கு
 
- 200  
+200  
 
   
 
@@ -4795,7 +4797,7 @@ freely distribute this file, provided this header part is kept intact
 
 வேத்து அவையுள் மையாக்கும் வேந்து
 
- 201  
+201  
 
   
 
@@ -4817,7 +4819,7 @@ freely distribute this file, provided this header part is kept intact
 
 கடுமுரசம் காலைச் செய
 
- 202  
+202  
 
   
 
@@ -4839,7 +4841,7 @@ freely distribute this file, provided this header part is kept intact
 
 ஆர்ந்தார் முறையால் அவி
 
- 203  
+203  
 
   
 
@@ -4861,7 +4863,7 @@ freely distribute this file, provided this header part is kept intact
 
 மார்பில் தார் கோலி மழை
 
- 204  
+204  
 
   
 
@@ -4883,7 +4885,7 @@ freely distribute this file, provided this header part is kept intact
 
 நகைத் தாரான் தான் விரும்பும் நாடு
 
- 205  
+205  
 
   
 
@@ -4905,7 +4907,7 @@ freely distribute this file, provided this header part is kept intact
 
 என்கடை நீங்கிற்று இடர்
 
- 206  
+206  
 
   
 
@@ -4927,7 +4929,7 @@ freely distribute this file, provided this header part is kept intact
 
 விளை கள் பகர்வாள் விலை
 
- 207  
+207  
 
   
 
@@ -4949,7 +4951,7 @@ freely distribute this file, provided this header part is kept intact
 
 பூமலி நாவல் பொழிற்கு
 
- 208  
+208  
 
   
 
@@ -4971,7 +4973,7 @@ freely distribute this file, provided this header part is kept intact
 
 குடுமி களைந்தான் எம் கோ
 
- 209  
+209  
 
   
 
@@ -4993,7 +4995,7 @@ freely distribute this file, provided this header part is kept intact
 
 கூர்எயிற்றுச் செவ்வாய்க் கொடி
 
- 210  
+210  
 
   
 
@@ -5015,7 +5017,7 @@ freely distribute this file, provided this header part is kept intact
 
 எண்ணார் அவிந்தார் இகல்
 
- 211  
+211  
 
   
 
@@ -5037,7 +5039,7 @@ freely distribute this file, provided this header part is kept intact
 
 தம்மதில் தாம் திறப்பார் தாள்
 
- 212  
+212  
 
   
 
@@ -5059,7 +5061,7 @@ freely distribute this file, provided this header part is kept intact
 
 கலங்கும் அளித்து என் கடும்பு
 
- 213  
+213  
 
   
 
@@ -5081,7 +5083,7 @@ freely distribute this file, provided this header part is kept intact
 
 பின் வந்தான் பேர்இருளினான்
 
- 214  
+214  
 
   
 
@@ -5103,7 +5105,7 @@ freely distribute this file, provided this header part is kept intact
 
 ஆள்வினை வேள்வி அவன்
 
- 215  
+215  
 
   
 
@@ -5125,7 +5127,7 @@ freely distribute this file, provided this header part is kept intact
 
 தாமரை சென்னி தரும்
 
- 216  
+216  
 
   
 
@@ -5147,7 +5149,7 @@ freely distribute this file, provided this header part is kept intact
 
 வாரினை கொண்டு வரற்கு
 
- 217  
+217  
 
   
 
@@ -5169,7 +5171,7 @@ freely distribute this file, provided this header part is kept intact
 
 நெடும் தடக்கை யானை நிரை
 
- 218  
+218  
 
   
 
@@ -5191,7 +5193,7 @@ freely distribute this file, provided this header part is kept intact
 
 பூத்த கொடி போல் பொலிந்து
 
- 219  
+219  
 
   
 
@@ -5213,7 +5215,7 @@ freely distribute this file, provided this header part is kept intact
 
 அகல் இடம் அங்கை அகத்து
 
- 220  
+220  
 
   
 
@@ -5235,7 +5237,7 @@ freely distribute this file, provided this header part is kept intact
 
 மொழி நின்று கேட்டான் முறை
 
- 221  
+221  
 
   
 
@@ -5257,7 +5259,7 @@ freely distribute this file, provided this header part is kept intact
 
 கோவாய் உயர்த்த குடை
 
- 222  
+222  
 
   
 
@@ -5279,7 +5281,7 @@ freely distribute this file, provided this header part is kept intact
 
 வலம் திரிய ஏந்திய வாள்
 
- 223  
+223  
 
   
 
@@ -5301,7 +5303,7 @@ freely distribute this file, provided this header part is kept intact
 
 வேம்பார் தெரியல் எம் வேந்து
 
- 224  
+224  
 
   
 
@@ -5323,7 +5325,7 @@ freely distribute this file, provided this header part is kept intact
 
 ஏழ்கடிந்து இன்புற்று இரு
 
- 225  
+225  
 
   
 
@@ -5345,7 +5347,7 @@ freely distribute this file, provided this header part is kept intact
 
 மாமலைபோல் மன்னுக நீ
 
- 226  
+226  
 
   
 
@@ -5367,7 +5369,7 @@ freely distribute this file, provided this header part is kept intact
 
 கொல்யானை மன்னன் கொடி
 
- 227  
+227  
 
   
 
@@ -5389,7 +5391,7 @@ freely distribute this file, provided this header part is kept intact
 
 சுழலுள் வைகின்று சோ
 
- 228  
+228  
 
   
 
@@ -5411,7 +5413,7 @@ freely distribute this file, provided this header part is kept intact
 
 வேனொடு ஆடும் வெறி
 
- 229  
+229  
 
   
 
@@ -5433,7 +5435,7 @@ freely distribute this file, provided this header part is kept intact
 
 அருள் ஈயும் ஆழி அவன்
 
- 230  
+230  
 
   
 
@@ -5455,7 +5457,7 @@ freely distribute this file, provided this header part is kept intact
 
 பரவுதும் பல்கால் பணிந்து
 
- 231  
+231  
 
   
 
@@ -5477,7 +5479,7 @@ freely distribute this file, provided this header part is kept intact
 
 தாராய் தழுவப் பெரும்
 
- 232  
+232  
 
   
 
@@ -5499,7 +5501,7 @@ freely distribute this file, provided this header part is kept intact
 
 தருவான்கொல் மார்பு அணிந்த தார்
 
- 233  
+233  
 
   
 
@@ -5521,7 +5523,7 @@ freely distribute this file, provided this header part is kept intact
 
 மாட மருகின் மழை
 
- 234  
+234  
 
   
 
@@ -5543,7 +5545,7 @@ freely distribute this file, provided this header part is kept intact
 
 கண்ட கண்டற்கு இனிது
 
- 235  
+235  
 
   
 
@@ -5565,7 +5567,7 @@ freely distribute this file, provided this header part is kept intact
 
 ஊடல் உணர்த்துவது ஓர் ஆறு
 
- 236  
+236  
 
   
 
@@ -5587,7 +5589,7 @@ freely distribute this file, provided this header part is kept intact
 
 உள்நலம் கூட்டு உண்டான் ஊர்
 
- 237  
+237  
 
   
 
@@ -5609,7 +5611,7 @@ freely distribute this file, provided this header part is kept intact
 
 எம் கோலம் தீண்டல் இனி
 
- 238  
+238  
 
   
 
@@ -5631,7 +5633,7 @@ freely distribute this file, provided this header part is kept intact
 
 ஏமநீர்க் கச்சி என் ஊர்
 
- 239 [![](https://www.projectmadurai.org/pm_etexts/utf8/up.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#talai)[]()  
+239 [![](https://www.projectmadurai.org/pm_etexts/utf8/up.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#talai)[]()  
 
   
 
@@ -5681,7 +5683,7 @@ freely distribute this file, provided this header part is kept intact
 
 போர் எதிரில் போந்தையாம் பூ
 
- 240  
+240  
 
   
 
@@ -5703,7 +5705,7 @@ freely distribute this file, provided this header part is kept intact
 
 ஏத்தல் சார் வேம்பின் இணர்
 
- 241  
+241  
 
   
 
@@ -5725,7 +5727,7 @@ freely distribute this file, provided this header part is kept intact
 
 அலங்கல் அமர் அழுவத்து ஆர்
 
- 242  
+242  
 
   
 
@@ -5747,7 +5749,7 @@ freely distribute this file, provided this header part is kept intact
 
 கோடெலாம் உன்னம் குழை
 
- 243  
+243  
 
   
 
@@ -5769,7 +5771,7 @@ freely distribute this file, provided this header part is kept intact
 
 தானொடு நேராம் அரசு
 
- 244  
+244  
 
   
 
@@ -5791,7 +5793,7 @@ freely distribute this file, provided this header part is kept intact
 
 குருளையும் கொல் களிற்றின் கேடு
 
- 245  
+245  
 
   
 
@@ -5813,7 +5815,7 @@ freely distribute this file, provided this header part is kept intact
 
 பொலம் கழல் கால் மேல் புனைவு
 
- 246  
+246  
 
   
 
@@ -5835,7 +5837,7 @@ freely distribute this file, provided this header part is kept intact
 
 காளைக்குக் கண்டு அமைந்தார் கல்
 
- 247  
+247  
 
   
 
@@ -5857,7 +5859,7 @@ freely distribute this file, provided this header part is kept intact
 
 கழல் மறவர் கைக் கொண்டார் கல்
 
- 248  
+248  
 
   
 
@@ -5879,7 +5881,7 @@ freely distribute this file, provided this header part is kept intact
 
 கயத்தகத்து உய்த்திட்டார் கல்
 
- 249  
+249  
 
   
 
@@ -5901,7 +5903,7 @@ freely distribute this file, provided this header part is kept intact
 
 ஒழுக்கினார் ஒன்றா ஒருவர் முன்
 
- 250  
+250  
 
   
 
@@ -5923,7 +5925,7 @@ freely distribute this file, provided this header part is kept intact
 
 காண்தக நாட்டினார் கல்
 
- 251  
+251  
 
   
 
@@ -5945,7 +5947,7 @@ freely distribute this file, provided this header part is kept intact
 
 தெய்வமாய் நின்றான் திசைக்கு
 
- 252  
+252  
 
   
 
@@ -5967,7 +5969,7 @@ freely distribute this file, provided this header part is kept intact
 
 இல்கொண்டு புக்கார் இசைந்து
 
- 253 [![](https://www.projectmadurai.org/pm_etexts/utf8/up.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#talai)[]()  
+253 [![](https://www.projectmadurai.org/pm_etexts/utf8/up.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#talai)[]()  
 
   
 
@@ -6013,7 +6015,7 @@ freely distribute this file, provided this header part is kept intact
 
 கொள்ளல் நீ கோடல் கொடிது
 
- 254  
+254  
 
   
 
@@ -6035,7 +6037,7 @@ freely distribute this file, provided this header part is kept intact
 
 கோதையைக் கொண்டு ஒளித்த கூற்று
 
- 255  
+255  
 
   
 
@@ -6057,7 +6059,7 @@ freely distribute this file, provided this header part is kept intact
 
 செவிடாய் ஒழிக என் செவி
 
- 256  
+256  
 
   
 
@@ -6079,7 +6081,7 @@ freely distribute this file, provided this header part is kept intact
 
 காரடகின் மேல் வைத்தார் கை
 
- 257  
+257  
 
   
 
@@ -6101,7 +6103,7 @@ freely distribute this file, provided this header part is kept intact
 
 வள் எயிற்றுக் கூற்றத்தின் வாய்
 
- 258  
+258  
 
   
 
@@ -6123,7 +6125,7 @@ freely distribute this file, provided this header part is kept intact
 
 கொல்லிய வந்தொழியாக் கூற்று
 
- 259  
+259  
 
   
 
@@ -6145,7 +6147,7 @@ freely distribute this file, provided this header part is kept intact
 
 அகழ்கடல் வேலி அகத்து
 
- 260  
+260  
 
   
 
@@ -6167,7 +6169,7 @@ freely distribute this file, provided this header part is kept intact
 
 அகைஅழல் ஈமத் தகத்து
 
- 261  
+261  
 
   
 
@@ -6189,7 +6191,7 @@ freely distribute this file, provided this header part is kept intact
 
 உடனே உலர்ந்த உயிர்
 
- 262  
+262  
 
   
 
@@ -6211,7 +6213,7 @@ freely distribute this file, provided this header part is kept intact
 
 கொல் கணைவாய் வீழ்தல் கொடிது
 
- 263  
+263  
 
   
 
@@ -6233,7 +6235,7 @@ freely distribute this file, provided this header part is kept intact
 
 புக்கான் விடலையும் போர்க்கு
 
- 264  
+264  
 
   
 
@@ -6255,7 +6257,7 @@ freely distribute this file, provided this header part is kept intact
 
 என்னாம் கொல் பேதை இனி
 
- 265  
+265  
 
   
 
@@ -6277,7 +6279,7 @@ freely distribute this file, provided this header part is kept intact
 
 உண்டே அளித்து என் உயர்
 
- 266  
+266  
 
   
 
@@ -6299,7 +6301,7 @@ freely distribute this file, provided this header part is kept intact
 
 புல் என்ற நாப் புலவர் போன்று
 
- 267  
+267  
 
   
 
@@ -6321,7 +6323,7 @@ freely distribute this file, provided this header part is kept intact
 
 உழலும் உலகத்து உயிர்
 
- 268 [![](https://www.projectmadurai.org/pm_etexts/utf8/up.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#talai)[]()  
+268 [![](https://www.projectmadurai.org/pm_etexts/utf8/up.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#talai)[]()  
 
   
 
@@ -6365,7 +6367,7 @@ freely distribute this file, provided this header part is kept intact
 
 அகலாது அளித்து ஒழுகல் அன்பு
 
- 269  
+269  
 
   
 
@@ -6387,7 +6389,7 @@ freely distribute this file, provided this header part is kept intact
 
 குறுக வருமரோ கூற்று
 
- 270  
+270  
 
   
 
@@ -6409,7 +6411,7 @@ freely distribute this file, provided this header part is kept intact
 
 அருளொடு வைகி அகல்
 
- 271  
+271  
 
   
 
@@ -6431,7 +6433,7 @@ freely distribute this file, provided this header part is kept intact
 
 இகலின்றி இளிவரலும் இன்று
 
- 272  
+272  
 
   
 
@@ -6453,7 +6455,7 @@ freely distribute this file, provided this header part is kept intact
 
 உயப் போகல் எண்ணின உறும்
 
- 273  
+273  
 
   
 
@@ -6475,7 +6477,7 @@ freely distribute this file, provided this header part is kept intact
 
 கழுது ஆர்ந்திர வழங்கும் காடு
 
- 274 [![](https://www.projectmadurai.org/pm_etexts/utf8/up.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#talai)[]()  
+274 [![](https://www.projectmadurai.org/pm_etexts/utf8/up.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#talai)[]()  
 
   
 
@@ -6517,7 +6519,7 @@ freely distribute this file, provided this header part is kept intact
 
 கவைஇக் கவலை இலம்
 
- 275  
+275  
 
   
 
@@ -6539,7 +6541,7 @@ freely distribute this file, provided this header part is kept intact
 
 கடல் முகந்து வந்தன்று கார்
 
- 276  
+276  
 
 (தேர் முல்லை இன்னது)  
 
@@ -6559,7 +6561,7 @@ freely distribute this file, provided this header part is kept intact
 
 திரி கோட்ட மா இரியத் தேர்
 
- 277  
+277  
 
   
 
@@ -6581,7 +6583,7 @@ freely distribute this file, provided this header part is kept intact
 
 நளிமனைக்கு நல்துணை நாண்
 
- 278  
+278  
 
   
 
@@ -6603,7 +6605,7 @@ freely distribute this file, provided this header part is kept intact
 
 புன் செல்வம் பூவா புகழ்
 
- 279  
+279  
 
   
 
@@ -6625,7 +6627,7 @@ freely distribute this file, provided this header part is kept intact
 
 நெடுமொழி எம் கணவன் நேர்
 
- 280  
+280  
 
   
 
@@ -6647,7 +6649,7 @@ freely distribute this file, provided this header part is kept intact
 
 பயில் வளையை நல்கிய பால்
 
- 281  
+281  
 
   
 
@@ -6669,7 +6671,7 @@ freely distribute this file, provided this header part is kept intact
 
 எம்கணவன் நல்கல் இனிது
 
- 282  
+282  
 
   
 
@@ -6691,7 +6693,7 @@ freely distribute this file, provided this header part is kept intact
 
 நிறைகாப்ப வைகும் நிறை
 
- 283  
+283  
 
   
 
@@ -6713,7 +6715,7 @@ freely distribute this file, provided this header part is kept intact
 
 வருவிருந்து ஓம்பபும் வளம்
 
- 284 [![](https://www.projectmadurai.org/pm_etexts/utf8/up.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#talai)[]()  
+284 [![](https://www.projectmadurai.org/pm_etexts/utf8/up.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#talai)[]()  
 
   
 
@@ -6759,7 +6761,7 @@ freely distribute this file, provided this header part is kept intact
 
 கண்டேம் காண்டலும் களித்த எம் கன்னே
 
- 285  
+285  
 
   
 
@@ -6781,7 +6783,7 @@ freely distribute this file, provided this header part is kept intact
 
 ஐயம் ஒழியாது ஆழும் என் நெஞ்சே
 
- 286  
+286  
 
   
 
@@ -6803,7 +6805,7 @@ freely distribute this file, provided this header part is kept intact
 
 ஆகும் மற்று இவள்அகல்இடத்து அணங்கே
 
- 287  
+287  
 
   
 
@@ -6825,7 +6827,7 @@ freely distribute this file, provided this header part is kept intact
 
 நெஞ்சம் பொத்தி நிறைசுடும் நெருப்பே
 
- 288  
+288  
 
   
 
@@ -6847,7 +6849,7 @@ freely distribute this file, provided this header part is kept intact
 
 நிலவரை மலிய நீடு வாழியரோ
 
- 289  
+289  
 
   
 
@@ -6869,7 +6871,7 @@ freely distribute this file, provided this header part is kept intact
 
 குறும்சுனை மலர்ந்தன தடம்பெரும் கண்ணே
 
- 290  
+290  
 
   
 
@@ -6891,7 +6893,7 @@ freely distribute this file, provided this header part is kept intact
 
 நில்லாது ஓடும் என் நிறை நெஞ்சே
 
- 291  
+291  
 
   
 
@@ -6913,7 +6915,7 @@ freely distribute this file, provided this header part is kept intact
 
 உண்டால் இன்உயிர் ஓம்புதற்கு அரிதே
 
- 292  
+292  
 
   
 
@@ -6935,7 +6937,7 @@ freely distribute this file, provided this header part is kept intact
 
 வெள்வளை நல்காள் விடும் என்உயிரே
 
- 293 [![](https://www.projectmadurai.org/pm_etexts/utf8/up.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#talai)[]()  
+293 [![](https://www.projectmadurai.org/pm_etexts/utf8/up.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#talai)[]()  
 
   
 
@@ -6981,7 +6983,7 @@ freely distribute this file, provided this header part is kept intact
 
 தன்கண்டன் என் யான் கண்ட ஆறே
 
- 294  
+294  
 
   
 
@@ -7003,7 +7005,7 @@ freely distribute this file, provided this header part is kept intact
 
 முலைமலிந்து ஊழ்ஊழ் முயங்கும் காலே
 
- 295  
+295  
 
   
 
@@ -7025,7 +7027,7 @@ freely distribute this file, provided this header part is kept intact
 
 உறுதுயர் அவலத்துயலோ அரிதே
 
- 296  
+296  
 
   
 
@@ -7047,7 +7049,7 @@ freely distribute this file, provided this header part is kept intact
 
 ஏதிலாளற்கு இழந்தன் என் எழிலே
 
- 297  
+297  
 
   
 
@@ -7069,7 +7071,7 @@ freely distribute this file, provided this header part is kept intact
 
 காம ஒள்எரி கனன்று அகம் சுடுமே
 
- 298  
+298  
 
   
 
@@ -7091,7 +7093,7 @@ freely distribute this file, provided this header part is kept intact
 
 தூமலர் நெடும்கண் துயில் துறந்தனவே
 
- 299  
+299  
 
   
 
@@ -7113,7 +7115,7 @@ freely distribute this file, provided this header part is kept intact
 
 படரினும் பெரிதால் பாவி இப் பகலே
 
- 300  
+300  
 
   
 
@@ -7135,7 +7137,7 @@ freely distribute this file, provided this header part is kept intact
 
 எனக்கே நெடியர் வாழிய இரவே
 
- 301  
+301  
 
   
 
@@ -7157,7 +7159,7 @@ freely distribute this file, provided this header part is kept intact
 
 கனவில் தோன்றிக் கரத்தல் கொடிதே
 
- 302  
+302  
 
   
 
@@ -7179,7 +7181,7 @@ freely distribute this file, provided this header part is kept intact
 
 உய்குவன் உலகத்து அளியேன் யானே
 
- 303  
+303  
 
   
 
@@ -7201,7 +7203,7 @@ freely distribute this file, provided this header part is kept intact
 
 நினையினும் நினைதியோ வாழி என் நெஞ்சே
 
- 304  
+304  
 
   
 
@@ -7223,7 +7225,7 @@ freely distribute this file, provided this header part is kept intact
 
 அம் பல் பெண்டிரும் அறைக எம் அலரே
 
- 305 [![](https://www.projectmadurai.org/pm_etexts/utf8/up.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#talai)[]()  
+305 [![](https://www.projectmadurai.org/pm_etexts/utf8/up.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#talai)[]()  
 
   
 
@@ -7283,7 +7285,7 @@ freely distribute this file, provided this header part is kept intact
 
 அல்லியம் தார் நல்கல் அறம்
 
- 306  
+306  
 
   
 
@@ -7305,7 +7307,7 @@ freely distribute this file, provided this header part is kept intact
 
 கை தொழுதேன் தான் கண்டிலன்
 
- 307  
+307  
 
   
 
@@ -7327,7 +7329,7 @@ freely distribute this file, provided this header part is kept intact
 
 நீங்கான் என் நெஞ்சகத்துள் நின்று
 
- 308  
+308  
 
   
 
@@ -7349,7 +7351,7 @@ freely distribute this file, provided this header part is kept intact
 
 எல்லாக நெஞ்சம் எதிர்
 
- 309  
+309  
 
   
 
@@ -7371,7 +7373,7 @@ freely distribute this file, provided this header part is kept intact
 
 வாரான்கொல் ஆடும் வலம்
 
- 310  
+310  
 
   
 
@@ -7393,7 +7395,7 @@ freely distribute this file, provided this header part is kept intact
 
 வழி காண மின்னுக வான்
 
- 311  
+311  
 
   
 
@@ -7415,7 +7417,7 @@ freely distribute this file, provided this header part is kept intact
 
 புலவேம் பொறுத்தல் அரிது
 
- 312  
+312  
 
   
 
@@ -7437,7 +7439,7 @@ freely distribute this file, provided this header part is kept intact
 
 நெடும் பெருங்கண் நீந்தின காண்
 
- 313  
+313  
 
   
 
@@ -7459,7 +7461,7 @@ freely distribute this file, provided this header part is kept intact
 
 உருகா உயங்கும் உயிர்
 
- 314  
+314  
 
   
 
@@ -7481,7 +7483,7 @@ freely distribute this file, provided this header part is kept intact
 
 கவ்வை கரு¢தில் கடை
 
- 315  
+315  
 
   
 
@@ -7503,7 +7505,7 @@ freely distribute this file, provided this header part is kept intact
 
 கார் குவளை காலும் கனல்
 
- 316  
+316  
 
   
 
@@ -7525,7 +7527,7 @@ freely distribute this file, provided this header part is kept intact
 
 புலந்தாள் புலரியம் போது
 
- 317  
+317  
 
   
 
@@ -7547,7 +7549,7 @@ freely distribute this file, provided this header part is kept intact
 
 மாலையால் மார்பம் பிணித்து
 
- 318  
+318  
 
   
 
@@ -7569,7 +7571,7 @@ freely distribute this file, provided this header part is kept intact
 
 கோதை சூழ் கொம்பில் பிணைந்து
 
- 319  
+319  
 
   
 
@@ -7591,7 +7593,7 @@ freely distribute this file, provided this header part is kept intact
 
 நெஞ்சே உடையை நிறை
 
- 320  
+320  
 
   
 
@@ -7613,7 +7615,7 @@ freely distribute this file, provided this header part is kept intact
 
 உரையால் தளிர்க்கும் உயிர்
 
- 321  
+321  
 
   
 
@@ -7635,7 +7637,7 @@ freely distribute this file, provided this header part is kept intact
 
 நிற்க என்றி வாழிய நீ
 
- 322  
+322  
 
   
 
@@ -7657,7 +7659,7 @@ freely distribute this file, provided this header part is kept intact
 
 இயக்க அரும் சோலை இரா
 
- 323  
+323  
 
   
 
@@ -7679,7 +7681,7 @@ freely distribute this file, provided this header part is kept intact
 
 நெறியுள் விரிக நிலா
 
- 324 [![](https://www.projectmadurai.org/pm_etexts/utf8/up.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#talai)[]()  
+324 [![](https://www.projectmadurai.org/pm_etexts/utf8/up.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#talai)[]()  
 
   
 
@@ -7739,7 +7741,7 @@ freely distribute this file, provided this header part is kept intact
 
 செல்லேம் ஒழிக செலவு
 
- 325  
+325  
 
   
 
@@ -7761,7 +7763,7 @@ freely distribute this file, provided this header part is kept intact
 
 குனி மடல்மாப் பண்ணி மேல் கொண்டு
 
- 326  
+326  
 
   
 
@@ -7783,7 +7785,7 @@ freely distribute this file, provided this header part is kept intact
 
 தூதொடு வந்தேன் தொழ
 
- 327  
+327  
 
   
 
@@ -7805,7 +7807,7 @@ freely distribute this file, provided this header part is kept intact
 
 உண்டாம் என் தொழிக்கு உயிர்
 
- 328  
+328  
 
   
 
@@ -7827,7 +7829,7 @@ freely distribute this file, provided this header part is kept intact
 
 பொழில் எல்லாம் ஈயும் புலம்பு
 
- 329  
+329  
 
   
 
@@ -7849,7 +7851,7 @@ freely distribute this file, provided this header part is kept intact
 
 மாமயிலும் ஆலும் மலை
 
- 330  
+330  
 
   
 
@@ -7871,7 +7873,7 @@ freely distribute this file, provided this header part is kept intact
 
 அவர் வரும் காலம் ஈது அன்று
 
- 331  
+331  
 
   
 
@@ -7893,7 +7895,7 @@ freely distribute this file, provided this header part is kept intact
 
 நாணாளும் மேயா நகை
 
- 332  
+332  
 
   
 
@@ -7915,7 +7917,7 @@ freely distribute this file, provided this header part is kept intact
 
 கள்வனைக் காணாது இவ்வூர்
 
- 333  
+333  
 
   
 
@@ -7939,7 +7941,7 @@ freely distribute this file, provided this header part is kept intact
 
 வியன் மனையுள் ஆடும் வெறி
 
- 334  
+334  
 
   
 
@@ -7961,7 +7963,7 @@ freely distribute this file, provided this header part is kept intact
 
 எண்ணியது என்கொலோ ஈங்கு
 
- 335  
+335  
 
   
 
@@ -7983,7 +7985,7 @@ freely distribute this file, provided this header part is kept intact
 
 எம்கண் கவன்றார் எளிது
 
- 336  
+336  
 
   
 
@@ -8005,7 +8007,7 @@ freely distribute this file, provided this header part is kept intact
 
 முதிரும் முலையார் முயக்கு
 
- 337  
+337  
 
   
 
@@ -8027,7 +8029,7 @@ freely distribute this file, provided this header part is kept intact
 
 முயங்கு பனல் ஊரன் மூப்பு
 
- 338  
+338  
 
   
 
@@ -8051,7 +8053,7 @@ freely distribute this file, provided this header part is kept intact
 
 வலவன் நெடும் தேர் வரும்
 
- 339  
+339  
 
   
 
@@ -8073,7 +8075,7 @@ freely distribute this file, provided this header part is kept intact
 
 சிறியேன் பெரிய சிறப்பு
 
- 340  
+340  
 
   
 
@@ -8095,7 +8097,7 @@ freely distribute this file, provided this header part is kept intact
 
 தெளிந்தார இல் தீர்வது தீது
 
- 341  
+341  
 
   
 
@@ -8117,7 +8119,7 @@ freely distribute this file, provided this header part is kept intact
 
 தொல் நலம் உண்டார் தொடர்பு
 
- 342 [![](https://www.projectmadurai.org/pm_etexts/utf8/up.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#talai)[]()  
+342 [![](https://www.projectmadurai.org/pm_etexts/utf8/up.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#talai)[]()  
 
   
 
@@ -8173,7 +8175,7 @@ freely distribute this file, provided this header part is kept intact
 
 வெண்கொண்டல் அன்னாரை விட்டு
 
- 343  
+343  
 
   
 
@@ -8189,7 +8191,7 @@ freely distribute this file, provided this header part is kept intact
 
 கலிகையால் நீக்கல் கடன்
 
- 344  
+344  
 
   
 
@@ -8205,7 +8207,7 @@ freely distribute this file, provided this header part is kept intact
 
 போலும் திரள் தோள் புடைத்து
 
- 345  
+345  
 
   
 
@@ -8221,7 +8223,7 @@ freely distribute this file, provided this header part is kept intact
 
 வித்தித் தருவான் விளைவு
 
- 346  
+346  
 
   
 
@@ -8237,7 +8239,7 @@ freely distribute this file, provided this header part is kept intact
 
 இன்று நமர் விட்ட ஏறு
 
- 347  
+347  
 
   
 
@@ -8253,7 +8255,7 @@ freely distribute this file, provided this header part is kept intact
 
 புறம் கண்டு தான் வருமே போர்க்கு
 
- 348  
+348  
 
   
 
@@ -8269,7 +8271,7 @@ freely distribute this file, provided this header part is kept intact
 
 நக்குமாம் நல்ல தகர்
 
- 349  
+349  
 
   
 
@@ -8285,7 +8287,7 @@ freely distribute this file, provided this header part is kept intact
 
 நிழலையும் தான் சுளிக்கும் நின்று
 
- 350  
+350  
 
   
 
@@ -8301,7 +8303,7 @@ freely distribute this file, provided this header part is kept intact
 
 புலவரால் ஆழ்ந்து அமைத்த பூழ்
 
- 351  
+351  
 
   
 
@@ -8317,7 +8319,7 @@ freely distribute this file, provided this header part is kept intact
 
 கவடு ஏற்க வேண்டும் களத்து
 
- 352  
+352  
 
   
 
@@ -8333,7 +8335,7 @@ freely distribute this file, provided this header part is kept intact
 
 பைங்கிளியைக் கற்பித்தாள் பாட்டு
 
- 353  
+353  
 
   
 
@@ -8349,7 +8351,7 @@ freely distribute this file, provided this header part is kept intact
 
 கிள்ளை கிளந்தவை கீண்டிட்டு
 
- 354  
+354  
 
   
 
@@ -8365,7 +8367,7 @@ freely distribute this file, provided this header part is kept intact
 
 வேல் கொண்ட பெண்ணாளை மீட்டு
 
- 355  
+355  
 
   
 
@@ -8381,7 +8383,7 @@ freely distribute this file, provided this header part is kept intact
 
 செலவொடு மண்டிலம் சென்று
 
- 356  
+356  
 
   
 
@@ -8397,7 +8399,7 @@ freely distribute this file, provided this header part is kept intact
 
 அவை எல்லாம் ஆக்கி அணங்கு
 
- 357  
+357  
 
   
 
@@ -8413,7 +8415,7 @@ freely distribute this file, provided this header part is kept intact
 
 ஆயவகையும் அறிந்து
 
- 358  
+358  
 
   
 
@@ -8429,7 +8431,7 @@ freely distribute this file, provided this header part is kept intact
 
 தொடுகழல் மன்னன் துடி
 
- 359  
+359  
 
   
 
@@ -8445,7 +8447,7 @@ freely distribute this file, provided this header part is kept intact
 
 அந்நரம்பும் அச்சுவையும் ஆய்ந்து
 
- 360  
+360  
 
   
 
@@ -8461,7 +8463,7 @@ freely distribute this file, provided this header part is kept intact
 
 பேணிப் பெயர்ந்தாள் பிடி
 
- 361 [![](https://www.projectmadurai.org/pm_etexts/utf8/up.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#talai)[]()  
+361 [![](https://www.projectmadurai.org/pm_etexts/utf8/up.gif)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0300.html#talai)[]()  
 
   
 
@@ -8493,12 +8495,12 @@ freely distribute this file, provided this header part is kept intact
 
 இதற்கு வெண்பாக்கள் =
 
- 361  
+361  
 
 ><><><><><><><><><><><><><><  
 
 ஐயனாரிதனார் இயற்றிய புறப்பொருள் வெண்பாமாலை முற்றிற்று[This page was first put up on April,
 
- 2008  
+2008  
 
 Please send your comments and corrections to the]()[Webmaster(s) of this site](mailto:kalyan@geocities.com,%20kumar@vt.edu?subject=PMxxx-puRapporul)

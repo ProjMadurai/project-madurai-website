@@ -8,6 +8,8 @@ genres:
   - இலக்கியம்
 ---
 
+
+
 ### "பணமுப்பது" என்னும் "காசின்மகிமை"  
 
 எழுதியவர் : திருக்கணமங்கை தனவந்தரி ஸ்ரீ இராகவாசாரியார்  
@@ -382,6 +384,6 @@ $ வேசரி = கழுதை, % வசு = பொன்27 வேறு
 
 This file was last updated on 25 November
 
- 2012.  
+2012.  
 
 Feel free to send the corrections to the Webmaster.

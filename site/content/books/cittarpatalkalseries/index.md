@@ -8,6 +8,8 @@ genres:
   - சித்தர் பாடல்கள்
 ---
 
+
+
 கள்'  
 
 thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
@@ -16,11 +18,11 @@ weight: 83
 
 authors:  
 
-  - பட்டினத்துப் பிள்ளையார்  
+- பட்டினத்துப் பிள்ளையார்  
 
 genres:  
 
-  - சித்தர் பாடல்கள்  
+- சித்தர் பாடல்கள்  
 
 ---  
 
@@ -30,7 +32,7 @@ genres:
 
   
 
-  [  
+[  
 
 ## cittar pAtalkaL Series -part II (paTTinattAr pATalkaL)  
 
@@ -58,7 +60,7 @@ Arial Unicode MS, TSCu_Inaimathi, Code2000, UniMylai,...) installed on your comp
 
 and the OS capable of rendering Tamil Scripts (Windows
 
- 2000 or Windows XP).  
+2000 or Windows XP).  
 
 ii)Use a browser that is capable of handling UTF-8 based pages  
 
@@ -68,7 +70,7 @@ ii)Use a browser that is capable of handling UTF-8 based pages
 
 © Project Madurai
 
- 1998-2000  
+1998-2000  
 
 Project Madurai is an open, voluntary, worldwide initiative devoted  
 
@@ -108,7 +110,7 @@ header page is kept intact.
 
   
 
- ###  . திருவேகம்பமாலை  
+###  . திருவேகம்பமாலை  
 
   
 
@@ -468,7 +470,7 @@ header page is kept intact.
 
   
 
- ###  . திருத்தில்லை  
+###  . திருத்தில்லை  
 
   
 
@@ -634,7 +636,7 @@ header page is kept intact.
 
   
 
- ###  . முதலாவது கோயிற்றிருவகவல்  
+###  . முதலாவது கோயிற்றிருவகவல்  
 
   
 
@@ -738,7 +740,7 @@ header page is kept intact.
 
   
 
- ###  . இரண்டாவது கோயிற்றிருவகவல்  
+###  . இரண்டாவது கோயிற்றிருவகவல்  
 
   
 
@@ -820,7 +822,7 @@ header page is kept intact.
 
   
 
- ###  . மூன்றாவது கோயிற்றிருவகவல்  
+###  . மூன்றாவது கோயிற்றிருவகவல்  
 
   
 
@@ -930,7 +932,7 @@ header page is kept intact.
 
   
 
- ###  . நான்காவது கச்சித் திருவகவல்  
+###  . நான்காவது கச்சித் திருவகவல்  
 
   
 
@@ -1272,7 +1274,7 @@ header page is kept intact.
 
   
 
- ###  . அருட்புலம்பல் - முதல்வன் முறையீடு  
+###  . அருட்புலம்பல் - முதல்வன் முறையீடு  
 
   
 
@@ -1602,7 +1604,7 @@ header page is kept intact.
 
   
 
- ###  . அருட்புலம்பல் - மகடூ முன்னிலையாக உள்ளது  
+###  . அருட்புலம்பல் - மகடூ முன்னிலையாக உள்ளது  
 
   
 
@@ -1802,7 +1804,7 @@ header page is kept intact.
 
 This page was first put up on August 22,
 
- 2000  
+2000  
 
 Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com,  
   

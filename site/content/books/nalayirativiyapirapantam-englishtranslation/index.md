@@ -9,11 +9,13 @@ genres:
   - வைணவம், மொழிபெயர்ப்பு
 ---
 
+
+
 ### Nālāyira Divya Prabhandam  
 
 Paśurams by Seven Azhvārs, Part 2 (pāsurams
 
- 948-2081)  
+948-2081)  
 
 English Translation by Kausalya Hart  
 
@@ -39,13 +41,13 @@ Nālāyira Divya Prabhandam - second thousand pāsurams
 
 12. Thiruneḍunthāṇḍagam - Thirumangaiyāzhvār (2052 –
 
- 2081)  
+2081)  
 
   
 
- ###  0. Periya Thirumozhi, Thirumangai Azhvar (pāsurams
+###  0. Periya Thirumozhi, Thirumangai Azhvar (pāsurams
 
- 948 -2031)  
+948 -2031)  
 
   
 
@@ -17099,7 +17101,7 @@ they will never experience the results of their karma. (1083)
 
   
 
- ###  1. Thirukkurundānḍagam -- Thirumangaiyāzhvār (2032 -2051)  
+###  1. Thirukkurundānḍagam -- Thirumangaiyāzhvār (2032 -2051)  
 
   
 
@@ -17379,9 +17381,9 @@ they will go to the bright sky and rule there.
 
   
 
- ###  2. Thiruneḍunthāṇḍagam - Thirumangaiyāzhvār (2052 –
+###  2. Thiruneḍunthāṇḍagam - Thirumangaiyāzhvār (2052 –
 
- 2081)  
+2081)  
 
   
 
@@ -18033,12 +18035,12 @@ they will not have the results of their karma.
 
 **End of part 2 covering pasurams
 
- 948 –
+948 –
 
- 2081**  
+2081**  
 
 This file was last updated on 4 sept.
 
- 2018.  
+2018.  
 
 Feel free to send the corrections to the webmaster.

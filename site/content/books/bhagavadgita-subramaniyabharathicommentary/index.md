@@ -8,6 +8,8 @@ genres:
   - 
 ---
 
+
+
 ்கவுரை'  
 
 thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
@@ -16,11 +18,11 @@ weight: 14
 
 authors:  
 
-  - சி. சுப்ரமணிய பாரதியார்  
+- சி. சுப்ரமணிய பாரதியார்  
 
 genres:  
 
-  -  
+-  
 ---  
 
   
@@ -53,7 +55,7 @@ Text Input:, Proof-reading, Web version: Dr. K. Kalyanasundaram
 
 Source: Bharathiyaarin Bhagavad Gitai, Kavitha Publications, 8, Muthukrishnan St, T. Nagar, Chennai-600
 
- 017, India. Reproduced with permission of the publisher  
+017, India. Reproduced with permission of the publisher  
 
 This webpage presents Etxt in Tamil script but in Unicode encoding.  
 
@@ -65,7 +67,7 @@ Arial Unicode MS, TSCu_Inaimathi, Code2000, UniMylai,...) installed on your comp
 
 and the OS capable of rendering Tamil Scripts (Windows
 
- 2000 or Windows XP).  
+2000 or Windows XP).  
 
 ii)Use a browser that is capable of handling UTF-8 based pages  
 
@@ -75,7 +77,7 @@ ii)Use a browser that is capable of handling UTF-8 based pages
 
 C- Project Madurai
 
- 1999  
+1999  
 
 Project Madurai is an open, voluntary, worldwide initiative devoted  
 

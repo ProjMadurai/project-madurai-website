@@ -9,23 +9,25 @@ genres:
   - மொழிபெயர்ப்பு
 ---
 
+
+
 யர்ப்பு - English Translation'  
 
 thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
 weight:
 
- 710  
+710  
 
 authors:  
 
-  - cIttalai cAttanAr- Kausalya Hart  
+- cIttalai cAttanAr- Kausalya Hart  
 
 genres:  
 
-  - காப்பியம்  
+- காப்பியம்  
 
-  - மொழிபெயர்ப்பு  
+- மொழிபெயர்ப்பு  
 
 ---  
 
@@ -103,7 +105,7 @@ PART. 1 Prince Udayakumaran and Manimekalai in the flower garden and the streets
 
 PART
 
- 2. The Goddess Manimekalai  
+2. The Goddess Manimekalai  
 
 6. The goddess Manimekalai tells the story of the Chakravālakottam to Sudhamathi  
 
@@ -117,7 +119,7 @@ PART
 
 PART
 
- 3. The Amudhasurabhi and Young Āputhiran  
+3. The Amudhasurabhi and Young Āputhiran  
 
 11. Manimekalai receives the Amudhasurabhi from Gomuki pond. The story of young Āputhiran  
 
@@ -143,7 +145,7 @@ PART 4 Udayakumaran and Kānchanan. The story of Kāyasandihai
 
 PART
 
- 5. The Queen and Manimekalai  
+5. The Queen and Manimekalai  
 
 21. The Kandil Pāvai tells Manimekalai’s future  
 
@@ -759,7 +761,7 @@ the story of Manimekalai becoming a sage.
 
 ### Chapter
 
- 1. Indra’s festival  
+1. Indra’s festival  
 
   
 
@@ -969,7 +971,7 @@ and announced the beautiful festival of Indra in Pukār. 01-072
 
   
 
- ###  . ஊர் அலர் உரைத்த காதை [ ஊர் அலர் உரைத்த பாட்டு ]  
+###  . ஊர் அலர் உரைத்த காதை [ ஊர் அலர் உரைத்த பாட்டு ]  
 
   
 
@@ -1129,7 +1131,7 @@ and announced the beautiful festival of Indra in Pukār. 01-072
 
 **Chapter
 
- 2. The gossip of the town**  
+2. The gossip of the town**  
 
 Chitrāpathi, the dancer Mādhavi and Vasanthamālai  
 
@@ -1337,7 +1339,7 @@ and went to see Chitrāpathi. 02-075
 
   
 
- ###  . மலர்வனம் புக்க காதை [ மலர்வனம்புக்க பாட்டு ]  
+###  . மலர்வனம் புக்க காதை [ மலர்வனம்புக்க பாட்டு ]  
 
   
 
@@ -1689,7 +1691,7 @@ and went to see Chitrāpathi. 02-075
 
 **Chapter
 
- 3. Sudhamathi and Manimekalai on the streets of Pukār.**  
+3. Sudhamathi and Manimekalai on the streets of Pukār.**  
 
 Vasanthamālai went to Chitrāpathi  
 
@@ -2133,7 +2135,7 @@ and went inside the garden with Sudhamathi. 03-171
 
   
 
- ###  . பளிக்கறை புக்க காதை  
+###  . பளிக்கறை புக்க காதை  
 
 [ மணிமேகலை உதயகுமரனைக்கண்டு பளிக்கறை புக்க பாட்டு ]  
 
@@ -2395,7 +2397,7 @@ and went inside the garden with Sudhamathi. 03-171
 
 **Chapter
 
- 4. Prince Udayakumaran sees Manimekalai**  
+4. Prince Udayakumaran sees Manimekalai**  
 
 Sudhamathi showed Manimekalai the bees, cuckoo birds,  
 
@@ -2717,7 +2719,7 @@ he saw Manimekalai, beautiful as a coral doll or young vine. 04-125
 
   
 
- ###  . மணிமேகலாதெய்வம் வந்து தோன்றிய காதை  
+###  . மணிமேகலாதெய்வம் வந்து தோன்றிய காதை  
 
 [ மணிமேகலை உதயகுமரன்பால் உள்ளத்தாள் என மணிமேகலை தனக்கு  
 
@@ -3013,7 +3015,7 @@ he saw Manimekalai, beautiful as a coral doll or young vine. 04-125
 
 **Chapter
 
- 5. Sudhamathi and the prince. The Goddess Manimekalai appears.**  
+5. Sudhamathi and the prince. The Goddess Manimekalai appears.**  
 
 The young prince Udayakumaran saw Manimekalai’s form,  
 
@@ -3383,7 +3385,7 @@ after losing her husband in war. 05-141
 
 ### Part
 
- 2. The Goddess Manimekalai  
+2. The Goddess Manimekalai  
 
 6. சக்கரவாளக்கோட்டம் உரைத்த காதை  
 
@@ -3827,7 +3829,7 @@ after losing her husband in war. 05-141
 
 **Chapter
 
- 6. The Chakravālakkottam**  
+6. The Chakravālakkottam**  
 
 The moon rose as the evening arrived,  
 
@@ -4321,7 +4323,7 @@ on Manipallavam island surrounded by the ocean and left. 06-214
 
   
 
- ###  . துயில் எழுப்பிய காதை  
+###  . துயில் எழுப்பிய காதை  
 
 [ மணிமேகலாதெய்வம் உவவனம்புகுந்து சுதமதியைத் துயில் எழுப்பிய பாட்டு ]  
 
@@ -4601,7 +4603,7 @@ on Manipallavam island surrounded by the ocean and left. 06-214
 
 **Chapter
 
- 7. The goddess wakes Sudhamathi in Manipallavam**  
+7. The goddess wakes Sudhamathi in Manipallavam**  
 
 The goddess Manimekalai comes and speaks to the prince in the night  
 
@@ -4957,7 +4959,7 @@ like a body that has lost its sweet life. 07-134
 
   
 
- ###  . மணிபல்லவத்துத் துயர் உற்ற காதை  
+###  . மணிபல்லவத்துத் துயர் உற்ற காதை  
 
 [ மணிமேகலை மணிபல்லவத்துத் துயில் எழுந்து துயர்உற்ற பாட்டு ]  
 
@@ -5095,7 +5097,7 @@ like a body that has lost its sweet life. 07-134
 
 **Chapter
 
- 8. Manimekalai in Manipallavam**  
+8. Manimekalai in Manipallavam**  
 
 A description of Manipallavam Island  
 
@@ -5263,7 +5265,7 @@ worshiped by all famous people. 08-063
 
   
 
- ###  . பீடிகை கண்டு பிறப்பு உணர்ந்த காதை  
+###  . பீடிகை கண்டு பிறப்பு உணர்ந்த காதை  
 
 [ மணிமேகலை மணிபல்லவத்திடைப் பீடிகைகண்டு பிறப்பு உணர்ந்த பாட்டு ]  
 
@@ -5417,7 +5419,7 @@ worshiped by all famous people. 08-063
 
 **Chapter
 
- 9. The Buddha Peedihai and Manimekalai**  
+9. The Buddha Peedihai and Manimekalai**  
 
 The Buddha Peedihai tells Manimekalai her previous life  
 
@@ -5567,7 +5569,7 @@ to take her to her home. 09-071
 
   
 
- ###  0. மந்திரம் கொடுத்த காதை  
+###  0. மந்திரம் கொடுத்த காதை  
 
 [ மணிமேகலாதெய்வம் வந்துதோன்றி மந்திரம் கொடுத்த பாட்டு ]  
 
@@ -5765,7 +5767,7 @@ to take her to her home. 09-071
 
 **Chapter
 
- 10. The story of Sādhu Chakran and Manimekalai (Lakshmi)**  
+10. The story of Sādhu Chakran and Manimekalai (Lakshmi)**  
   
   
 
@@ -5969,7 +5971,7 @@ and rose to the sky. 10-093
 
 ### Part
 
- 3. The Amudhasurabhi and Young Āputhiran  
+3. The Amudhasurabhi and Young Āputhiran  
 
 11. பாத்திரம் பெற்ற காதை  
 
@@ -6277,7 +6279,7 @@ and rose to the sky. 10-093
 
 **Chapter
 
- 11. Manimekalai receives the Amudhasurabhi. The story of young Āputhiran**  
+11. Manimekalai receives the Amudhasurabhi. The story of young Āputhiran**  
 
 Deepathilahai and Manimekalai  
 
@@ -6681,7 +6683,7 @@ They rose and went to see Aravanar. 11-146
 
   
 
- ###  2. அறவணர்த் தொழுத காதை  
+###  2. அறவணர்த் தொழுத காதை  
 
 [ மணிமேகலை பாத்திரம் கொண்டு தன்னூர் அறவணர்த் தொழுத பாட்டு ]  
 
@@ -6933,7 +6935,7 @@ They rose and went to see Aravanar. 11-146
 
 **Chapter
 
- 12. Aravanar and Manimekalai**  
+12. Aravanar and Manimekalai**  
 
 Manimekalai, lovely as a vine,  
 
@@ -7107,7 +7109,7 @@ He told them,
 
 a very wise one will appear in the year of
 
- 2116.  
+2116.  
 
 After that, as if the flood of a large pond  
 
@@ -7217,7 +7219,7 @@ took the Amudhasurabhi in her hand. 12-121.
 
   
 
- ###  3. ஆபுத்திரன் திறம் அறிவித்த காதை  
+###  3. ஆபுத்திரன் திறம் அறிவித்த காதை  
 
 [ மணிமேகலைக்கு அறவணர் ஆபுத்திரன் திறம் கூறிய பாட்டு ]  
 
@@ -7457,7 +7459,7 @@ took the Amudhasurabhi in her hand. 12-121.
 
 **Chapter
 
- 13. The story of young Āputhiran**  
+13. The story of young Āputhiran**  
 
 Aravanar tells the story of young Āputhiran  
 
@@ -7747,7 +7749,7 @@ He is a protector of people.” 13-115.
 
   
 
- ###  4. பாத்திர மரபு கூறிய காதை  
+###  4. பாத்திர மரபு கூறிய காதை  
 
 [ மணிமேகலைக்கு அறவணர் அமுதசுரபி என்னும் பாத்திரம் சிந்தாதேவி  
 
@@ -7969,7 +7971,7 @@ He is a protector of people.” 13-115.
 
 **Chapter
 
- 14. Āputhiran and the Amudhasurabhi**  
+14. Āputhiran and the Amudhasurabhi**  
 
 Aravanar tells the story of young Āputhiran and the Amudhasurabhi to Manimekalai  
 
@@ -8225,7 +8227,7 @@ of young Āputhiran to Manimekalai. 14-104
 
   
 
- ###  5. பாத்திரம்கொண்டு பிச்சை புக்க காதை  
+###  5. பாத்திரம்கொண்டு பிச்சை புக்க காதை  
 
 [ மணிமேகலை பாத்திரம்கொண்டு பிச்சைக்குப் பெருந்தெருப்போய பாட்டு ]  
 
@@ -8409,7 +8411,7 @@ of young Āputhiran to Manimekalai. 14-104
 
 **Chapter
 
- 15. Manimekalai feeds the people**  
+15. Manimekalai feeds the people**  
 
 Aravanar continues to tell the story of Āputhiran  
 
@@ -8603,7 +8605,7 @@ Manimekalai of Settalai Chathanar - part 2 (chapters 16-30)
 
   
 
- ###  6. ஆதிரை பிச்சை இட்ட காதை  
+###  6. ஆதிரை பிச்சை இட்ட காதை  
 
 [ மணிமேகலைக்கு ஆதிரை என்னும்  
 
@@ -8887,7 +8889,7 @@ Manimekalai of Settalai Chathanar - part 2 (chapters 16-30)
 
 **Chapter
 
- 16. The story of Sāduvan and Āthirai**  
+16. The story of Sāduvan and Āthirai**  
 
 Kāyasandihai tells Manimekalai the story of Āthirai.  
 
@@ -9177,7 +9179,7 @@ and from it Āthirai gave food to Manimekalai. 16-135
 
 ### Part
 
- 4. Udayakumaran and Kānchanan. The story of Kāyasandihai  
+4. Udayakumaran and Kānchanan. The story of Kāyasandihai  
 
 17. உலக அறவி புக்க காதை  
 
@@ -9387,7 +9389,7 @@ and from it Āthirai gave food to Manimekalai. 16-135
 
 **Chapter
 
- 17. The story of Kāyasandihai** Manimekalai enters the Ulaga Aravi temple  
+17. The story of Kāyasandihai** Manimekalai enters the Ulaga Aravi temple  
 
 After that, Manimekalai gave food from the Amudhasurabhi to all the people  
 
@@ -9605,7 +9607,7 @@ and noise arose as they ate. 17-098
 
   
 
- ###  8. உதயகுமரன் அம்பலம் புக்க காதை  
+###  8. உதயகுமரன் அம்பலம் புக்க காதை  
 
 [ மணிமேகலை அம்பலம் அடைந்தமை சித்திராபதி உதயகுமரனுக்குச்  
 
@@ -9963,7 +9965,7 @@ and noise arose as they ate. 17-098
 
 **Chapter
 
- 18. Chitrāpathi meets Udayakumaran**  
+18. Chitrāpathi meets Udayakumaran**  
 
 Chitrāpathi, Mādhavi’s mother, knew that Manimekalai  
 
@@ -10353,7 +10355,7 @@ He swore and then left the temple. 18-172
 
   
 
- ###  9. சிறைக்கோட்டம் அறக்கோட்டம் ஆக்கிய காதை  
+###  9. சிறைக்கோட்டம் அறக்கோட்டம் ஆக்கிய காதை  
 
 [ மணிமேகலை காயசண்டிகை வடிவாய்ச் சிறைக்கோட்டம்புக்குச்  
 
@@ -10691,7 +10693,7 @@ He swore and then left the temple. 18-172
 
 **Chapter
 
- 19. The king changes the prison to a choultry**  
+19. The king changes the prison to a choultry**  
 
 The prince adorned with a honey-dripping garland  
 
@@ -11057,7 +11059,7 @@ where sages could live in this world and search for divine things. 19-162
 
   
 
- ###  0. உதயகுமரனை வாளால் எறிந்த காதை  
+###  0. உதயகுமரனை வாளால் எறிந்த காதை  
 
 [ மணிமேகலை, காயசண்டிகைவடிவுஎய்தக் காயசண்டிகை கணவனாகிய  
 
@@ -11333,7 +11335,7 @@ where sages could live in this world and search for divine things. 19-162
 
 **Chapter
 
- 20. Udayakumaran and Kānchanan**  
+20. Udayakumaran and Kānchanan**  
 
 Udayakumaran heard that Manimekalai asked  
 
@@ -11609,7 +11611,7 @@ and went to his place in the sky. 20-129
 
 ### Part
 
- 5. The Queen and Manimekalai  
+5. The Queen and Manimekalai  
 
 21. கந்திற்பாவை வருவது உரைத்த காதை  
 
@@ -12007,7 +12009,7 @@ and went to his place in the sky. 20-129
 
 **Chapter
 
- 21. The Kanthil Pāvai and Manimekalai**  
+21. The Kanthil Pāvai and Manimekalai**  
 
 Manimekalai weeps for Udayakumaran  
 
@@ -12441,7 +12443,7 @@ and woke the world from its sleep. 21-190
 
   
 
- ###  2. சிறைசெய் காதை  
+###  2. சிறைசெய் காதை  
 
 [ மணிமேகலை பொருட்டால் மடிந்தான் உதயகுமரன் என்பது மாதவர்வாய்க் கேட்ட  
 
@@ -12883,7 +12885,7 @@ and woke the world from its sleep. 21-190
 
 **Chapter
 
- 22. The king imprisons Manimekalai**  
+22. The king imprisons Manimekalai**  
 
 When the darkness of night of the world that god created was going away,  
 
@@ -13367,7 +13369,7 @@ and truly a just king. 22-215.
 
   
 
- ###  3. சிறைவிடு காதை  
+###  3. சிறைவிடு காதை  
 
 [ மணிமேகலை சிறைவீடுசெய்த இராசமா தேவி  
 
@@ -13675,7 +13677,7 @@ and truly a just king. 22-215.
 
 **Chapter
 
- 23. The queen Rājamādevi and Manimekalai**  
+23. The queen Rājamādevi and Manimekalai**  
 
 The Queen and Manimekalai  
 
@@ -14077,7 +14079,7 @@ and she bowed to the queen. 23-147
 
   
 
- ###  4. ஆபுத்திரன் நாடு அடைந்த காதை  
+###  4. ஆபுத்திரன் நாடு அடைந்த காதை  
 
 [ மணிமேகலை மாநகர்ஒழிந்து ஆபுத்திரன் நாடு அடைந்த பாட்டு ]  
 
@@ -14441,7 +14443,7 @@ and she bowed to the queen. 23-147
 
 **Chapter
 
- 24. Manimekai is released from the queen’s prison**  
+24. Manimekai is released from the queen’s prison**  
 
 Chitrāpathi, the mother of Mādhavi and grandmother of Manimekalai,  
 
@@ -14787,7 +14789,7 @@ told her the greatness of the king garlanded with flowers. 24-176
 
 ### Part
 
- 6. Punniyarājan and Manimekalai  
+6. Punniyarājan and Manimekalai  
 
 25. ஆபுத்திரனோடு மணிபல்லவம் அடைந்த காதை  
 
@@ -15281,7 +15283,7 @@ told her the greatness of the king garlanded with flowers. 24-176
 
 **Chapter
 
- 25. Punniyarājan goes to Manipallavam** The powerful king Punniyarājan entered the garden  
+25. Punniyarājan goes to Manipallavam** The powerful king Punniyarājan entered the garden  
 
 and bowed to the feet of the sage Dharmasāvagan.  
 
@@ -15779,7 +15781,7 @@ Manimekalai with beautiful ornaments flew in the sky. 25-239.
 
   
 
- ###  6. வஞ்சி மாநகர் புக்க காதை  
+###  6. வஞ்சி மாநகர் புக்க காதை  
 
 [ மணிமேகலை கண்ணகிக்கோட்டம் அடைந்து வஞ்சிமாநகர் புக்க பாட்டு ]  
 
@@ -15979,7 +15981,7 @@ Manimekalai with beautiful ornaments flew in the sky. 25-239.
 
 **Chapter
 
- 26. Manimekalai meets the goddess Kannagi. She enters Vanji city**  
+26. Manimekalai meets the goddess Kannagi. She enters Vanji city**  
 
 The story of Kannagi  
 
@@ -16181,7 +16183,7 @@ to celebrate the victory of the Chera king, the great archer. 26-094.
 
 ### Part
 
- 7. Manimekalai’s tapas  
+7. Manimekalai’s tapas  
 
 27. சமயக்கணக்கர்தம் திறம் கேட்ட காதை  
 
@@ -16773,7 +16775,7 @@ to celebrate the victory of the Chera king, the great archer. 26-094.
 
 **Chapter
 
- 27. Manimekalai and the philosophers** Manimekalai took the form of a sage  
+27. Manimekalai and the philosophers** Manimekalai took the form of a sage  
 
 and approached the Samaya Kanakkar’s place.  
 
@@ -17437,7 +17439,7 @@ In a form of a sage, Manimekalai learned these five philosophies. 27-289
 
   
 
- ###  8. கச்சி மாநகர் புக்க காதை  
+###  8. கச்சி மாநகர் புக்க காதை  
 
 [ மணிமேகலை தாயரோடு அறவணர் அடிகளையும் தேர்ந்து கச்சிமாநகர்க்கண்சென்ற பாட்டு ]  
 
@@ -17939,7 +17941,7 @@ In a form of a sage, Manimekalai learned these five philosophies. 27-289
 
 **Chapter
 
- 28. Manimekalai goes to Kanji. The Story of Māsāthuvan**  
+28. Manimekalai goes to Kanji. The Story of Māsāthuvan**  
 
 Manimekalai went with her mothers Mādhavi  
 
@@ -18415,7 +18417,7 @@ be without the illusions of the world and become true.” 28-245
 
   
 
- ###  9. தவத்திறம் பூண்டு தருமம் கேட்ட காதை  
+###  9. தவத்திறம் பூண்டு தருமம் கேட்ட காதை  
 
 [ மணிமேகலை, காஞ்சிமாநகர்க்கண் சென்ற  
 
@@ -19373,7 +19375,7 @@ be without the illusions of the world and become true.” 28-245
 
 **Chapter
 
- 29. Manimekalai learns dharma from Aravanar**  
+29. Manimekalai learns dharma from Aravanar**  
 
 Aravanar heard what the young creeper like Manimekalai said, praised her  
 
@@ -19465,15 +19467,15 @@ If one investigates ideas (karuttu) about cause (kāraṇa), effect (kārya), an
 
 The five parts of an inference are
 
- 1. subject (pakṣa),
+1. subject (pakṣa),
 
- 2. reason (hetu — or minor premise),
+2. reason (hetu — or minor premise),
 
- 3. example (dṛṣṭānta),
+3. example (dṛṣṭānta),
 
- 4. application (upanaya) and
+4. application (upanaya) and
 
- 5. conclusion (nigamana).  
+5. conclusion (nigamana).  
 
 1. Among these, the subject (pakṣa) is saying, “This mountain has fire.” (Here the pakṣa is “mountain,” and “fire” is the qualifier that one wishes to prove is part of the pakṣa).  
 
@@ -19697,7 +19699,7 @@ Thus you may learn and know without doubt (29-470) the truth and falsehood of in
 
   
 
- ###  0. பவத்திறம் அறுகெனப் பாவை நோற்ற காதை  
+###  0. பவத்திறம் அறுகெனப் பாவை நோற்ற காதை  
 
 [ பவத்திறம்அறுக எனப்பாவைநோற்ற பாட்டு ]  
 
@@ -20237,7 +20239,7 @@ Thus you may learn and know without doubt (29-470) the truth and falsehood of in
 
 **Chapter
 
- 30. Manimekalai’s tapas**  
+30. Manimekalai’s tapas**  
 
 Manimekalai did many good things, performing charity.  
 
@@ -20705,6 +20707,6 @@ SUBHAM
 
 This file was last updated on 4 Feb.
 
- 2020.  
+2020.  
 
 Feel free to send the corrections to the Webmaster .

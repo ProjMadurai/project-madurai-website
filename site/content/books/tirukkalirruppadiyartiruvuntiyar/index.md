@@ -8,6 +8,8 @@ genres:
   - 
 ---
 
+
+
 []()  
 
 [  
@@ -1116,7 +1118,7 @@ genres:
 
 (46). சேரும் வண்ணம்;
 
- 47. நான்  
+47. நான்  
 
 101.  
 
@@ -1182,7 +1184,7 @@ In case of difficulties send an email request to [kalyan@geocities.com](mailto:k
 
 ன Project Madurai
 
- 1999  
+1999  
 
 Project Madurai is an open, voluntary, worldwide initiative devoted to preparation of electronic texts of tamil literary works and to distribute them free on the Internet. Details of Project Madurai are available at the website http://www.tamil.net/projectmadurai  
 
@@ -1214,7 +1216,7 @@ You are welcome to freely distribute this file, provided this header page is kep
 
 (1). பிண்டத்து
 
- 4.(2)இங்ங னிருந்ததென் றெவ்வண்ணஞ் சொல்லுகேன்  
+4.(2)இங்ங னிருந்ததென் றெவ்வண்ணஞ் சொல்லுகேன்  
 
 அங்ங னிருந்ததென் றுந்தீபற  
 
@@ -1222,7 +1224,7 @@ You are welcome to freely distribute this file, provided this header page is kep
 
 (2). எங்ங
 
- 5.ஏகனு மாகி யநேகனு மானவன்  
+5.ஏகனு மாகி யநேகனு மானவன்  
 
 நாதனு மானானென் றுந்தீபற  
 
@@ -1420,10 +1422,10 @@ You are welcome to freely distribute this file, provided this header page is kep
 
 This page was first put up on December 13,
 
- 2001 and last revised to TSCII
+2001 and last revised to TSCII
 
- 1.7 version on 14 March
+1.7 version on 14 March
 
- 2002  
+2002  
 
 Please send your comments and corrections to the]()[Webmaster(s) of this site](mailto:kalyan@geocities.com, kumar@vt.edu? subject=PM120 :tirukaLiRRupaTiyAr)

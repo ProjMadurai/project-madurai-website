@@ -8,21 +8,23 @@ genres:
   - சிற்றிலக்கியம்
 ---
 
+
+
 சதகம்'  
 
 thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
 weight:
 
- 219  
+219  
 
 authors:  
 
-  - படிக்காசுப் புலவர்  
+- படிக்காசுப் புலவர்  
 
 genres:  
 
-  - சிற்றிலக்கியம்  
+- சிற்றிலக்கியம்  
 
 ---  
 
@@ -70,7 +72,7 @@ Arial Unicode MS, TSCu_Inaimathi, Code2000, UniMylai,...) installed on your comp
 
 and the OS capable of rendering Tamil Scripts (Windows
 
- 2000 or Windows XP).  
+2000 or Windows XP).  
 
 ii)Use a browser that is capable of handling UTF-8 based pages  
 
@@ -82,7 +84,7 @@ ii)Use a browser that is capable of handling UTF-8 based pages
 
 ன Project Madurai
 
- 1999-2004  
+1999-2004  
 
 Project Madurai is an open, voluntary, worldwide initiative devoted to preparation of  
 
@@ -1480,6 +1482,6 @@ You are welcome to freely distribute this file, provided this header page is kep
 
 This webpage was last updated on 1 Dec.
 
- 2004  
+2004  
 
 Please send your comments to the [webmasters of this website](mailto:kalyan@softhome.net, kumar@vt.edu?subject=PM219 t_catakam)

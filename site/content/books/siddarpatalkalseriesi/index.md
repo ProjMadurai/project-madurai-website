@@ -8,17 +8,19 @@ genres:
   - சித்தர் பாடல்கள்
 ---
 
+
+
 humbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
 weight: 76  
 
 authors:  
 
-  - அழுகணிச் சித்தர்; இராமதேவர்; கடுவெளிச் சித்தர்;  
+- அழுகணிச் சித்தர்; இராமதேவர்; கடுவெளிச் சித்தர்;  
 
 genres:  
 
-  - சித்தர் பாடல்கள்  
+- சித்தர் பாடல்கள்  
 
 ---  
 
@@ -28,7 +30,7 @@ genres:
 
   
 
-  [  
+[  
 
 ### siththar pAtalkaL Series - I  
 
@@ -76,7 +78,7 @@ Arial Unicode MS, TSCu_Inaimathi, Code2000, UniMylai,...) installed on your comp
 
 and the OS capable of rendering Tamil Scripts (Windows
 
- 2000 or Windows XP).  
+2000 or Windows XP).  
 
 ii)Use a browser that is capable of handling UTF-8 based pages  
 
@@ -86,7 +88,7 @@ ii)Use a browser that is capable of handling UTF-8 based pages
 
 © Project Madurai
 
- 1999  
+1999  
 
 Project Madurai is an open, voluntary, worldwide initiative devoted  
 

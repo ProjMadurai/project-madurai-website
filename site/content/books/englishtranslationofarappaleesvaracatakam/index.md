@@ -9,6 +9,8 @@ genres:
   - பிரபந்தம்
 ---
 
+
+
 ### "aRappaLIsura catakam" of  
 
 ampalavANa kavirAyar  
@@ -35,7 +37,7 @@ Retired Lecurer, University of California, Berkeley, California, USA
 
 4ம் பதிப்பு, சென்னை, ஜுலை
 
- 1980  
+1980  
 
 ------------  
 
@@ -1155,15 +1157,15 @@ our dear king Madaveḷ worships you in his heart every day.
 
 The Caturayuga lasts for
 
- 2000 years.  
+2000 years.  
 
 For Brahma who has four faces
 
- 2000 years is only one day.  
+2000 years is only one day.  
 
 In this
 
- 2000 years, fourteen Indras will appear and go away.  
+2000 years, fourteen Indras will appear and go away.  
 
 When Brahma lives for a hundred years and disappears,  
 

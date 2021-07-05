@@ -8,13 +8,15 @@ genres:
   - சங்ககாலம் – எட்டுத்தொகை
 ---
 
+
+
 **Notes on Kalittokai (from Kamil Zvelebil's Lexicon of Tamil Literature, p.
 
- 309):**  
+309):**  
 
 Kalittokai is an anthology of
 
- 150 st. in kali metre of unequal length dealing with all phases  
+150 st. in kali metre of unequal length dealing with all phases  
 
 and types of love experience. The first part (2-36) deals with pAlai setting, the second (37-65)  
 
@@ -4986,7 +4988,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 கடிது என உணராமை கடிந்ததோ, நினக்கே?
 
- 100ஈண்டு நீர் மிசைத் தோன்றி இருள் சீக்கும் சுடரே போல்,  
+100ஈண்டு நீர் மிசைத் தோன்றி இருள் சீக்கும் சுடரே போல்,  
 
 வேண்டாதார் நெஞ்சு உட்க, வெரு வந்த கொடுமையும்,  
 
@@ -5140,7 +5142,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 எல்லாம் புணர் குறி கொண்டு.
 
- 102கண் அகல் இரு விசும்பில் கதழ் பெயல் கலந்து ஏற்ற,  
+102கண் அகல் இரு விசும்பில் கதழ் பெயல் கலந்து ஏற்ற,  
 
 தண் நறு பிடவமும், தவழ் கொடித் தளவமும்,  
 
@@ -5218,7 +5220,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 மன்றம் பரந்தது, உரை!
 
- 103மெல் இணர்க் கொன்றையும், மென் மலர்க் காயாவும்,  
+103மெல் இணர்க் கொன்றையும், மென் மலர்க் காயாவும்,  
 
 புல் இலை வெட்சியும் பிடவும், தளவும்,  
 
@@ -5376,7 +5378,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 எம் கோ வாழியர், இம் மலர் தலை உலகே!
 
- 104மலி திரை ஊர்ந்து தன் மண் கடல் வௌவலின்,  
+104மலி திரை ஊர்ந்து தன் மண் கடல் வௌவலின்,  
 
 மெலிவு இன்றி மேல் சென்று, மேவார் நாடு இடம்படப்,  
 
@@ -5536,7 +5538,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 ஒரு மொழி கொள்க, இவ் உலகு உடன், எனவே.
 
- 105அரைசு படக் கடந்து அட்டு, ஆற்றின் தந்த  
+105அரைசு படக் கடந்து அட்டு, ஆற்றின் தந்த  
 
 முரைசு கெழு முது குடி முரண் மிகு செல்வற்குச்-  
 
@@ -5686,7 +5688,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 இமையத்து உம்பர் உம் விளங்குக!' எனவே.
 
- 106கழுவொடு சுடு படை சுருக்கிய தோல் கண்.  
+106கழுவொடு சுடு படை சுருக்கிய தோல் கண்.  
 
 இமிழ் இசை மண்டை உறியொடு தூக்கி,  
 
@@ -5786,7 +5788,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 மாற்றாரைக் கடக்க, எம் மறம் கெழு கோவே!
 
- 107எல்லா! இ·து ஒன்று - கூறு குறும்பு இவர்  
+107எல்லா! இ·து ஒன்று - கூறு குறும்பு இவர்  
 
 புல் இனத்தார்க்கும், குடம் சுட்டவர்க்கும், எம்  
 
@@ -5854,7 +5856,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 ஐயன்மார் எல்லாம் ஒருங்கு.
 
- 108இகல் வேந்தன் சேனை இறுத்த வாய் போல -  
+108இகல் வேந்தன் சேனை இறுத்த வாய் போல -  
 
 அகல் அல்குல் தோள் கண் என மூ வழிப் பெருகி,  
 
@@ -5980,7 +5982,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 காஞ்சிக் கீழ் செய்தேம் குறி.
 
- 109கார் ஆரப் பெய்த கடி கொள் வியன் புலத்துப்  
+109கார் ஆரப் பெய்த கடி கொள் வியன் புலத்துப்  
 
 பேராது சென்று, பெரும் பதவப் புல் மாந்தி,  
 
@@ -6032,7 +6034,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 வாயில் அடைப்ப, வரும்.
 
- 110கடி கொள் இரும் காப்பில் புல் இனத்து ஆயர்  
+110கடி கொள் இரும் காப்பில் புல் இனத்து ஆயர்  
 
 குடி தொறும் நல்லாரை வேண்டுதி - எல்லா! -  
 
@@ -6078,7 +6080,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 கன்றொடு சேறும், புலத்து.
 
- 111தீம் பால் கறந்த கலம் மாற்றக், கன்று எல்லாம்  
+111தீம் பால் கறந்த கலம் மாற்றக், கன்று எல்லாம்  
 
 தாம்பின் பிணித்து, மனை நிறீஇ, யாய் தந்த  
 
@@ -6126,7 +6128,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 நோயும் களைகுவை மன்.
 
- 112யார் இவன், என்னை விலக்குவான்? நீர் உளர்  
+112யார் இவன், என்னை விலக்குவான்? நீர் உளர்  
 
 பூம் தாமரைப் போது தந்த விரவுத் தார்க்  
 
@@ -6176,7 +6178,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 சாயினும் ஏஎர் உடைத்து.
 
- 113நலம் மிக நந்திய நய வரு தட மென் தோள்,  
+113நலம் மிக நந்திய நய வரு தட மென் தோள்,  
 
 அலமரல் அமர் உண் கண், அம் நல்லாய்! நீ உறீஇ,  
 
@@ -6234,7 +6236,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 பல் ஆன் இன நிரை நாம் உடன் செலற்கே.
 
- 114வாரி, நெறிப்பட்டு, இரும் புறம் தாஅழ்ந்த  
+114வாரி, நெறிப்பட்டு, இரும் புறம் தாஅழ்ந்த  
 
 ஓரிப் புதல்வன் அழுதனன் என்பவோ...  
 
@@ -6276,7 +6278,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 இரு மணம் கூடுதல் இல் இயல்பு அன்றே?
 
- 115தோழி! நாம், காணாமை உண்ட கடும் கள்ளை, மெய் கூர  
+115தோழி! நாம், காணாமை உண்ட கடும் கள்ளை, மெய் கூர  
 
 நாணாது சென்று நடுங்க உரைத்தாங்குக்  
 
@@ -6318,7 +6320,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 அல்கலும் சூழ்ந்த வினை!
 
- 116பாங்கு அரும் பாட்டம் கால் கன்றொடு செல்வேம் எம்  
+116பாங்கு அரும் பாட்டம் கால் கன்றொடு செல்வேம் எம்  
 
 தாம்பின் ஒரு தலை பற்றினை, ஈங்கு எம்மை  
 
@@ -6352,7 +6354,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 வருவையால் - நாண் இலி! நீ.
 
- 117மாண உருக்கிய நல் பொன் மணி உறீஇ,  
+117மாண உருக்கிய நல் பொன் மணி உறீஇ,  
 
 பேணித் துடைத்தன்ன மேனியாய்! கோங்கின்  
 
@@ -6440,7 +6442,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 உள் இல் உள்ளம் உள் உள் உவந்தே.
 
- 119அகல் ஞாலம் விளக்கும் தன் பல் கதிர் வாய் ஆக  
+119அகல் ஞாலம் விளக்கும் தன் பல் கதிர் வாய் ஆக  
 
 பகல் நுங்கியது போலப் படு சுடர் கல் சேர,  
 
@@ -6472,7 +6474,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 மாலை என்மனார் மயங்கியோரே!
 
- 120அருள் தீர்ந்த காட்சியான், அறன் நோக்கான், நயம் செய்யான்  
+120அருள் தீர்ந்த காட்சியான், அறன் நோக்கான், நயம் செய்யான்  
 
 வெருவுற உய்த்தவன் நெஞ்சம் போல், பைபய  
 
@@ -6522,7 +6524,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 இல்லாகின்றால் இருள் அகத்து ஒளித்தே.
 
- 121ஒள் சுடர் கல் சேர, உலகு ஊரும் தகையது,  
+121ஒள் சுடர் கல் சேர, உலகு ஊரும் தகையது,  
 
 தெள் கடல் அழுவத்துத் திரை நீக்கா எழுதரூஉம்,  
 
@@ -6568,7 +6570,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 பாய் பரிக் கடு திண் தேர் களையினோ இடனே.
 
- 122'கோதை ஆயமும் அன்னையும் அறிவுறப்,  
+122'கோதை ஆயமும் அன்னையும் அறிவுறப்,  
 
 போது எழில் உண் கண் புகழ் நலன் இழப்பக்,  
 
@@ -6616,7 +6618,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 நாம் உயிர் வாழ்தலோ நகை நனி உடைத்தே!
 
- 123கரும் கோட்டு நறும் புன்னை மலர் சினை மிசை தொறும்  
+123கரும் கோட்டு நறும் புன்னை மலர் சினை மிசை தொறும்  
 
 சுரும்பு ஆர்க்கும் குரலினோடு, இரும் தும்பி இயைபு ஊத,  
 
@@ -6654,7 +6656,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 வருந்தினை அளிய என் மடம் கெழு நெஞ்சே!
 
- 124ஞாலம் மூன்று அடித் தாய முதல்வற்கு முது முறைப்  
+124ஞாலம் மூன்று அடித் தாய முதல்வற்கு முது முறைப்  
 
 பால் அன்ன மேனியான் அணிபெறத் தைஇய  
 
@@ -6696,7 +6698,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 விரி தண் தார் வியல் மார்ப! - விரைக நின் செலவே!
 
- 125'கண்டவர் இல்', என உலகத்துள் உணராதார்,  
+125'கண்டவர் இல்', என உலகத்துள் உணராதார்,  
 
 தங்காது தகைவு இன்றித் தாம் செய்யும் வினைகளுள்,  
 
@@ -6744,7 +6746,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 மறையச் செல்லும், நீ மணந்தனை விடினே.
 
- 126பொன் மலை சுடர் சேரப், புலம்பிய இடன் நோக்கித்,  
+126பொன் மலை சுடர் சேரப், புலம்பிய இடன் நோக்கித்,  
 
 தன் மலைந்து உலகு ஏத்தத் தகை மதி ஏர்தரச்,  
 
@@ -6788,7 +6790,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 புது நலம் ஏர்தரப், பூண்க, நின் தேரே!
 
- 127தெரி இணர் ஞாழலும், தேம் கமழ் புன்னையும்,  
+127தெரி இணர் ஞாழலும், தேம் கமழ் புன்னையும்,  
 
 புரி அவிழ் பூவின கைதையும், செருந்தியும்,  
 
@@ -6832,7 +6834,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 உரவு நீர்ச் சேர்ப்ப! - அருளினை அளிமே!
 
- 128'தோள் துறந்து, அருளாதவர் போல் நின்று,  
+128'தோள் துறந்து, அருளாதவர் போல் நின்று,  
 
 வாடை தூக்க, வணங்கிய தாழை  
 
@@ -6884,7 +6886,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 அனை வரை நின்றது, என் அரும் பெறல் உயிரே.
 
- 129தொல் ஊழி தடுமாறித் தொகல் வேண்டும் பருவத்தால்,  
+129தொல் ஊழி தடுமாறித் தொகல் வேண்டும் பருவத்தால்,  
 
 பல்வயின் உயிர் எல்லாம் படைத்தான்கண் பெயர்ப்பான் போல்,  
 
@@ -6934,7 +6936,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 அருந்தியோர் நெஞ்சம் அழிந்து உக விடினே.
 
- 130'நயனும் வாய்மையும் நன்னர் நடுவும்  
+130'நயனும் வாய்மையும் நன்னர் நடுவும்  
 
 இவனின் தோன்றிய இவை' என இரங்கப்,  
 
@@ -6976,7 +6978,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 தொடுவழித் தொடுவழி நீங்கின்றால் பசப்பே.
 
- 131பெரும் கடல் தெய்வம் நீர் நோக்கித் தெளித்து, என்  
+131பெரும் கடல் தெய்வம் நீர் நோக்கித் தெளித்து, என்  
 
 திருந்து இழை மென் தோள் மணந்தவன் செய்த  
 
@@ -7068,7 +7070,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 தான் ஊக்கினன், அவ் ஊசலை வந்தே.
 
- 132உரவு நீர்த் திரை பொர ஓங்கிய எக்கர் மேல்,  
+132உரவு நீர்த் திரை பொர ஓங்கிய எக்கர் மேல்,  
 
 விரவுப் பல் உருவின வீழ் பெடை துணை ஆக,  
 
@@ -7116,7 +7118,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 அழி படர் அலைப்ப, அகறலோ கொடிதே!
 
- 133மா மலர் முண்டகம் தில்லையோடு ஒருங்கு உடன்  
+133மா மலர் முண்டகம் தில்லையோடு ஒருங்கு உடன்  
 
 கானல் அணிந்த உயர் மணல் எக்கர் மேல்,  
 
@@ -7154,7 +7156,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 சென்றனை களைமோ, பூண்க, நின் தேரே!
 
- 134மல்லரை மறம் சாய்த்த மலர் தண் தார் அகலத்தோன்  
+134மல்லரை மறம் சாய்த்த மலர் தண் தார் அகலத்தோன்  
 
 ஒல்லாதார் உடன்று ஓட, உருத்து, உடன் எறிதலின்,  
 
@@ -7208,7 +7210,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 நிரை தொடி துயரம் நீங்கின்றால் விரைந்தே.
 
- 135துணை புணர்ந்து எழுதரும் தூ நிற வலம்புரி  
+135துணை புணர்ந்து எழுதரும் தூ நிற வலம்புரி  
 
 இணை திரள் மருப்பு ஆக எறி வளி பாகனா -  
 
@@ -7248,7 +7250,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 இயங்கு ஒலி நெடும் திண் தேர் கடவுமதி விரைந்தே!
 
- 136இவர் திமில், எறி திரை ஈண்டி வந்து அலைத்தக்கால்,  
+136இவர் திமில், எறி திரை ஈண்டி வந்து அலைத்தக்கால்,  
 
 உவறு நீர் உயர் எக்கர், அலவன் ஆடு அளை வரித்,  
 
@@ -7290,7 +7292,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 ஈண்டுக, இவள் நலம்; ஏறுக, தேரே!
 
- 137அரிதே, தோழி! நாண் நிறுப்பாம் என்று உணர்தல்;  
+137அரிதே, தோழி! நாண் நிறுப்பாம் என்று உணர்தல்;  
 
 பெரிதே காமம்; என் உயிர் தவச் சிறிதே;  
 
@@ -7346,7 +7348,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 நீங்க அரிது உற்றஅன்று, அவர் உறீஇய நோயே.
 
- 138எழில் மருப்பு எழில் வேழம் இகுதரு கடாத்தால்  
+138எழில் மருப்பு எழில் வேழம் இகுதரு கடாத்தால்  
 
 தொழில் மாறித் தலை வைத்த தோட்டி கை நிமிர்ந்தாங்கு,  
 
@@ -7408,7 +7410,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 உடம்பு ஒழித்து உயர் உலகு இனிது பெற்றாங்கே.
 
- 139'சான்றவிர் வாழியோ! சான்றவிர்! என்றும்  
+139'சான்றவிர் வாழியோ! சான்றவிர்! என்றும்  
 
 பிறர் நோயும் தம் நோய் போல் போற்றி, அறன் அறிதல்  
 
@@ -7482,7 +7484,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 துயர் நிலை தீர்த்தல் நும் தலைக் கடனே.
 
- 140கண்டவிர் எல்லாம் கதுமென வந்து, ஆங்கே,  
+140கண்டவிர் எல்லாம் கதுமென வந்து, ஆங்கே,  
 
 பண்டு அறியாதீர் போல நோக்குவீர்; கொண்டது  
 
@@ -7550,7 +7552,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 அருளுறச் செயின், நுமக்கு அறனும்ஆர் அதுவே.
 
- 141அரிதினின் தோன்றிய யாக்கை புரிபு தாம்  
+141அரிதினின் தோன்றிய யாக்கை புரிபு தாம்  
 
 வேட்டவை செய்து, ஆங்குக், காட்டி மற்று ஆங்கே,  
 
@@ -7600,7 +7602,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 போலக், கொடுத்தார் தமர்.
 
- 142புரிவு உண்ட புணர்ச்சிஉள் புல் ஆரா மாத்திரை,  
+142புரிவு உண்ட புணர்ச்சிஉள் புல் ஆரா மாத்திரை,  
 
 அருகுவித்து ஒருவரை அகற்றலின், தெரிவார் கண்  
 
@@ -7732,7 +7734,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 நல் எழில் மார்பனைச் சார்ந்து!
 
- 143"அகல் ஆங்கண், இருள் நீங்க, அணி நிலாத் திகழ்ந்த பின்  
+143"அகல் ஆங்கண், இருள் நீங்க, அணி நிலாத் திகழ்ந்த பின்  
 
 பகல் ஆங்கண் பையென்ற மதியம் போல், நகல் இன்று  
 
@@ -7852,7 +7854,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 இன் நகை எய்தினள், இழந்த தன் நலனே!
 
- 144நல் நுதாஅல்! காண்டை; நினையா, நெடிது உயிரா,  
+144நல் நுதாஅல்! காண்டை; நினையா, நெடிது உயிரா,  
 
 என் உற்றாள் கொல்லோ? இ·து ஒத்தி - பல் மாண்  
 
@@ -7998,7 +8000,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 இல்லாகின்று அவள் ஆய் நுதல் பசப்பே.
 
- 145'துனையுநர் விழைதக்க சிறப்புp போல், கண்டார்க்கு  
+145'துனையுநர் விழைதக்க சிறப்புp போல், கண்டார்க்கு  
 
 நனவின்உள் உதவாது நள் இருள் வேறு ஆகும்  
 
@@ -8130,7 +8132,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 ஆய் இழை உற்ற துயர்.
 
- 146உரை செல உயர்ந்து ஓங்கிச் சேர்ந்தாரை ஒரு நிலையே  
+146உரை செல உயர்ந்து ஓங்கிச் சேர்ந்தாரை ஒரு நிலையே  
 
 வரை நில்லா விழுமம் உறீஇ நடுக்கு உரைத்து, தெறல் மாலை  
 
@@ -8240,7 +8242,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 அல்லல் தீர்ந்தன்று ஆய் இழை பண்பே.
 
- 147ஆறு அல்ல மொழி தோற்றி, அற வினை கலக்கிய,  
+147ஆறு அல்ல மொழி தோற்றி, அற வினை கலக்கிய,  
 
 தேறுகள் நறவு உண்டார் மயக்கம் போல், காமம்  
 
@@ -8382,7 +8384,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 நல் எழில் மார்பன் அகத்து !
 
- 148தொல் இயல் ஞாலத்துத் தொழில் ஆற்றி ஞாயிறு,  
+148தொல் இயல் ஞாலத்துத் தொழில் ஆற்றி ஞாயிறு,  
 
 வல்லவன் கூறிய வினை தலை வைத்தான் போல்,  
 
@@ -8430,7 +8432,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 சேய் உறை காதலர் செய் வினை முடித்தே.
 
- 149நிரை திமில் களிறு ஆகத் திரை ஒலி பறை ஆகக்,  
+149நிரை திமில் களிறு ஆகத் திரை ஒலி பறை ஆகக்,  
 
 கரை சேர் புள் இனத்து அம் சிறை படை ஆக,  
 
@@ -8462,7 +8464,7 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 துனை வரு நெஞ்சமொடு வருந்தினள் பெரிதே.
 
- 150அயம் திகழ் நறும் கொன்றை அலங்கல் அம் தெரியலான்  
+150அயம் திகழ் நறும் கொன்றை அலங்கல் அம் தெரியலான்  
 
 இயங்கு எயில் எயப் பிறந்த எரி போல, எவ் வாயும்,  
 
@@ -8516,6 +8518,6 @@ cOlan nalluttiran and neital to nallantuvanAr, but the verocity of this venpA ma
 
 This webpage was last updated on 17 January
 
- 2005  
+2005  
 
 Please send your comments to the [webmasters of this website](mailto:kalyan@softhome.net, kumar@vt.edu?subject=PM221 kalittokai).

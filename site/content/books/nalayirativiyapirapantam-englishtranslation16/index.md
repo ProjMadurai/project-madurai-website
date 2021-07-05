@@ -9,6 +9,8 @@ genres:
   - வைணவம், மொழிபெயர்ப்பு
 ---
 
+
+
 ### Nālāyira Divya Prabhandam  
 
 Paśurams by Seven Azhvārs, Part 1 (pāsurams 1-947)  
@@ -47,7 +49,7 @@ There is much information about Vaishnavism and the Azhvars’ lives found on th
 
 According to Tamil scholars the Vaishnava Bhakthi movement dates from the 5th century CE to the 10th century.
 
- 4000 poems (pasurams) were composed by twelve Azhvars who called their god Maal, Neḍumaal, Thirumaal, Kanṇṇan and Nambi. The name Vishnu is not found in the text. (The word Viṭṭu is found in one Pasuram. Does it mean the god is arguable? As much as I know there is no grammar rule for Vishṇu changing to Viṭṭu.).  
+4000 poems (pasurams) were composed by twelve Azhvars who called their god Maal, Neḍumaal, Thirumaal, Kanṇṇan and Nambi. The name Vishnu is not found in the text. (The word Viṭṭu is found in one Pasuram. Does it mean the god is arguable? As much as I know there is no grammar rule for Vishṇu changing to Viṭṭu.).  
 
 “The god” in this translation means Thirumaal. “Gods” in the plural refers to other gods. The word Shiva is not used by the Azhvars. Shiva is mentioned as, “the one who has a crescent moon on his jaṭa,” “the one who has Ganges in his jaṭa,” “the one who has three eyes,” “the one who has a dark neck.” etc. This translation uses the word “Shiva” so that the readers will understand who the god is. In a very few places the word Brahma is used, but more often the word “Nanmuhan” is used for Brahma. For Indra the Azhvars use the phrases like, “the king of the gods” and “the thousand-eyed one.” The translation may use “Indra” for clarity. The word Lakshmi is not used in the pasurams, rather, “goddess on the lotus,” “beloved of the god,” “the one who stays on the chest of the god” and similar epithets are used for her. I used the word for this goddess ‘Lakshmi’ for the sake of the readers. Nappinnai, who is considered as Lakshmi, appears in the Pasurams often.  
 
@@ -87,11 +89,11 @@ The 10 avatharams are fish, turtle, boar, Vamanan, man-lion, Rama, Parasuraman, 
 
 Divyadesams: The Vaishnavaites believe that the Azhvars praised
 
- 108 temples, which are called the Divyadesams. Many of these are also names of cities. In other cases, one city might have two, three or more Divyadesams (temples) in it. The Azhvars also call these Thirupadis. The tradition says Thirumangai Azhvar praises the god Maal in
+108 temples, which are called the Divyadesams. Many of these are also names of cities. In other cases, one city might have two, three or more Divyadesams (temples) in it. The Azhvars also call these Thirupadis. The tradition says Thirumangai Azhvar praises the god Maal in
 
- 108 Thirupadis. The internet has a list of all the Divyadesams.
+108 Thirupadis. The internet has a list of all the Divyadesams.
 
- 105 of the Divyadesams are in India, one is in Nepal and the last two are Thirupaṛkadal (the ocean of milk) and Sri Vaikuṇṭam (Vishnu’s paradise).  
+105 of the Divyadesams are in India, one is in Nepal and the last two are Thirupaṛkadal (the ocean of milk) and Sri Vaikuṇṭam (Vishnu’s paradise).  
 
 Some of the stories of Vishnu in the Divyaprabandham are listed here. There are many others could be found in the Pasurams.  
 
@@ -179,7 +181,7 @@ Nālāyira Divya Prabhandam - first thousand pāsurams
 
   
 
- ###  . Periyazhvar Thiruppallaṇḍu & Thirumozhi (pāsurams 1-473)  
+###  . Periyazhvar Thiruppallaṇḍu & Thirumozhi (pāsurams 1-473)  
 
   
 
@@ -1823,7 +1825,7 @@ they complain about his mishievousness to Yashoda..
 
 
 
- 118. The lord with a conch in his left hand  
+118. The lord with a conch in his left hand  
 
 that sounds in victory  
 
@@ -7565,7 +7567,7 @@ they will reach him as his shadows.
 
   
 
- ###  . Aṇḍal.: Thiruppāvai (474 -503)  
+###  . Aṇḍal.: Thiruppāvai (474 -503)  
 
   
 
@@ -8293,7 +8295,7 @@ and be happy.
 
   
 
- ###  . Aṇḍal.: Nāchiyār Thirumozhi (504-646)  
+###  . Aṇḍal.: Nāchiyār Thirumozhi (504-646)  
 
   
 
@@ -10509,7 +10511,7 @@ they will live under the divine feet of the lord without leaving him.
 
   
 
- ###  . Perumāl Thirumozhi by Kulasekharazhvar (647 -751)  
+###  . Perumāl Thirumozhi by Kulasekharazhvar (647 -751)  
 
   
 
@@ -12303,7 +12305,7 @@ they will approach the feet of Nāraṇan who shines with goodness.
 
   
 
- ###  . Thirumazhisai Azhvar. Thiruchanda Virutham (752 -871)  
+###  . Thirumazhisai Azhvar. Thiruchanda Virutham (752 -871)  
 
   
 
@@ -13903,7 +13905,7 @@ and has attained moksha, the house of joy.
 
   
 
- ###  . Thirumālai : Thoṇḍaraḍippoḍi Azhvar (872-916)  
+###  . Thirumālai : Thoṇḍaraḍippoḍi Azhvar (872-916)  
 
   
 
@@ -14549,7 +14551,7 @@ they will become his sweet devotees.
 
   
 
- ###  . Thiruppaḷḷi Ezhuchi - Thoṇḍaraḍippoḍi Azhvar (917-926)  
+###  . Thiruppaḷḷi Ezhuchi - Thoṇḍaraḍippoḍi Azhvar (917-926)  
 
   
 
@@ -14725,7 +14727,7 @@ O dear god of Srirangam, wake up and give me your grace.
 
   
 
- ###  . Amalan Aadipirān. - Thiruppāṇāzhvār (927-936)  
+###  . Amalan Aadipirān. - Thiruppāṇāzhvār (927-936)  
 
   
 
@@ -14861,7 +14863,7 @@ my eyes do not wish to see anything else.
 
   
 
- ###  . Kaṇṇiṇuṭchiṛuthāmbu. Madhurakavi Azhvar (937-947)  
+###  . Kaṇṇiṇuṭchiṛuthāmbu. Madhurakavi Azhvar (937-947)  
 
   
 
@@ -14989,6 +14991,6 @@ they will see Vaikuṇṭam and abide there.
 
 This file was last updated on 4 Sept.
 
- 2018  
+2018  
 
 Feel free to send the corrections to the webmaster.

@@ -8,21 +8,23 @@ genres:
   - காப்பியம்
 ---
 
+
+
 ைக்காண்டம்'  
 
 thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
 weight:
 
- 111  
+111  
 
 authors:  
 
-  - இளங்கோ அடிகள்  
+- இளங்கோ அடிகள்  
 
 genres:  
 
-  - காப்பியம்  
+- காப்பியம்  
 
 ---  
 
@@ -64,7 +66,7 @@ Arial Unicode MS, TSCu_Inaimathi, Code2000, UniMylai,...) installed on your comp
 
 and the OS capable of rendering Tamil Scripts (Windows
 
- 2000 or Windows XP).  
+2000 or Windows XP).  
 
 ii)Use a browser that is capable of handling UTF-8 based pages  
 
@@ -74,7 +76,7 @@ ii)Use a browser that is capable of handling UTF-8 based pages
 
 © Project Madurai
 
- 1999-2003  
+1999-2003  
 
 Project Madurai is an open, voluntary, worldwide initiative devoted  
 
@@ -94,7 +96,7 @@ header page is kept intact.
 
 ## சிலப்பதிகாரம் :
 
- 2. மதுரைக் காண்டம்  
+2. மதுரைக் காண்டம்  
 
   
 
@@ -126,7 +128,7 @@ header page is kept intact.
 
 © மதுரைத் திட்டம்
 
- 2000  
+2000  
 
   
 
@@ -178,7 +180,7 @@ header page is kept intact.
 
   
 
- ###  1. காடுகாண் காதை  
+###  1. காடுகாண் காதை  
 
   
 
@@ -530,7 +532,7 @@ header page is kept intact.
 
   
 
- ###  2. வேட்டுவ வரி  
+###  2. வேட்டுவ வரி  
 
   
 
@@ -816,7 +818,7 @@ header page is kept intact.
 
   
 
- ###  3. புறஞ்சேரியிறுத்த காதை  
+###  3. புறஞ்சேரியிறுத்த காதை  
 
   
 
@@ -1136,7 +1138,7 @@ header page is kept intact.
 
   
 
- ###  4. ஊர்காண் காதை  
+###  4. ஊர்காண் காதை  
 
   
 
@@ -1492,7 +1494,7 @@ header page is kept intact.
 
   
 
- ###  5. அடைக்கலக் காதை  
+###  5. அடைக்கலக் காதை  
 
   
 
@@ -1850,7 +1852,7 @@ header page is kept intact.
 
   
 
- ###  6. கொலைக்களக் காதை  
+###  6. கொலைக்களக் காதை  
 
   
 
@@ -2214,7 +2216,7 @@ header page is kept intact.
 
   
 
- ###  7. ஆய்ச்சியர் குரவை  
+###  7. ஆய்ச்சியர் குரவை  
 
   
 
@@ -2504,7 +2506,7 @@ header page is kept intact.
 
   
 
- ###  8. துன்ப மாலை  
+###  8. துன்ப மாலை  
 
   
 
@@ -2596,7 +2598,7 @@ header page is kept intact.
 
   
 
- ###  9. ஊர்சூழ் வரி  
+###  9. ஊர்சூழ் வரி  
 
   
 
@@ -2724,7 +2726,7 @@ header page is kept intact.
 
   
 
- ###  0. வழக்குரை காதை  
+###  0. வழக்குரை காதை  
 
   
 
@@ -2902,7 +2904,7 @@ header page is kept intact.
 
   
 
- ###  1. வஞ்சின மாலை  
+###  1. வஞ்சின மாலை  
 
   
 
@@ -3010,7 +3012,7 @@ header page is kept intact.
 
   
 
- ###  2. அழற்படு காதை  
+###  2. அழற்படு காதை  
 
   
 
@@ -3288,7 +3290,7 @@ header page is kept intact.
 
   
 
- ###  3. கட்டுரை காதை  
+###  3. கட்டுரை காதை  
 
   
 
@@ -3664,7 +3666,7 @@ header page is kept intact.
 
 This page was first put up on May 10,
 
- 2001  
+2001  
 
 Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, kumar@vt.edu?subject=PM111 :  
 cilappatikAram-maturaik kANTam)

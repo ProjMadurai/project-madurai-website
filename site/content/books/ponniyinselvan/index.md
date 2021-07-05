@@ -9,6 +9,8 @@ genres:
   - புதினம் ; மொழிபெயர்ப்பு
 ---
 
+
+
 ### Kalki's "Ponniyin Selvan"  
 
 English Translation by Indra Neelameggham  
@@ -41,29 +43,29 @@ The Imperial Chozla period is considered a Golden Age in South Indian History. T
 
 One of the earliest Chozla kings was Karikala (c AD
 
- 150) who was son of Ilan-chet-chenni `Who had wonderful chariots drawn by Arab horses.' He ruled from Kaviri-pattinam and had well established trade with seafaring Yavanas (Greeks-Romans), Arabs, Egyptians and Chinese. Karikala built several dams across the Cauvery. In the Cauvery delta `The space on which one elephant could lie down produced enough to feed seven.' Ship-building and temple architecture were established arts. Foreigners were numerous in sea-ports. Yavanas were employed as palace guards and to police the streets. Curiously wrought iron lamps, wine, gold coins and horses were important imports. Food grain, cotton cloth, black pepper, other spices, timber, gemstones and perfumes were exported. The practice of erecting `hero-stones' as memorials for warriors who died on the battlefield was common during this Sangam Period, and it continued for several centuries.  
+150) who was son of Ilan-chet-chenni `Who had wonderful chariots drawn by Arab horses.' He ruled from Kaviri-pattinam and had well established trade with seafaring Yavanas (Greeks-Romans), Arabs, Egyptians and Chinese. Karikala built several dams across the Cauvery. In the Cauvery delta `The space on which one elephant could lie down produced enough to feed seven.' Ship-building and temple architecture were established arts. Foreigners were numerous in sea-ports. Yavanas were employed as palace guards and to police the streets. Curiously wrought iron lamps, wine, gold coins and horses were important imports. Food grain, cotton cloth, black pepper, other spices, timber, gemstones and perfumes were exported. The practice of erecting `hero-stones' as memorials for warriors who died on the battlefield was common during this Sangam Period, and it continued for several centuries.  
 
 By the ninth century, the delta region of the Cauvery basin was already densely populated; nevertheless it was still in the process of being cleared of forest and being settled. Politically the Cauvery delta was still a frontier region between the settled lands of the Pallavas in the north and Pandiyas in the south.  
 
 Imperial Chozla's began their expansion under Vijayala (AD
 
- 850-870). He captured Tanjore (AD
+850-870). He captured Tanjore (AD
 
- 850) and built a temple for the Goddess Nishumba-sudini (Durga). He was at that time a feudatory of the Pallavas. His son Aditya I, gained complete independence after the battle (AD
+850) and built a temple for the Goddess Nishumba-sudini (Durga). He was at that time a feudatory of the Pallavas. His son Aditya I, gained complete independence after the battle (AD
 
- 885) of Sri-puram-biyam near Kumbakonam . He captured the Pallava territories after a battle in AD
+885) of Sri-puram-biyam near Kumbakonam . He captured the Pallava territories after a battle in AD
 
 
 
- 903. His son Paranthaka I, ruled for 48 years (907-955). The dreams of these monarchs suffered a setback due to the invasion by Rashtrakutas from the north: the Chozlas were crushed in the battle of Takkolam, North Arcot (949 AD). The next thirty years were a period of confusion. Gandara Aditya (AD
+903. His son Paranthaka I, ruled for 48 years (907-955). The dreams of these monarchs suffered a setback due to the invasion by Rashtrakutas from the north: the Chozlas were crushed in the battle of Takkolam, North Arcot (949 AD). The next thirty years were a period of confusion. Gandara Aditya (AD
 
- 949-957) and Arinjaya (AD
+949-957) and Arinjaya (AD
 
- 957) ruled for short periods. Sundara Chozla (AD
+957) ruled for short periods. Sundara Chozla (AD
 
- 957-973) did regain a large extent of his territories. His last years were crowned by tragedy and internal strife; Uttama Chozla (AD
+957-973) did regain a large extent of his territories. His last years were crowned by tragedy and internal strife; Uttama Chozla (AD
 
- 970-985), son of Gandara Aditya conspired to murder the crown Prince Aditya II and forced the father to recognize him as the heir in preference over the younger son Arulmozli (later Raja Raja I). Raja Raja I (985-1014) recovered vast territories including Lanka and began an unchecked expansion lasting for centuries. Conquest beyond the seas was achieved by Rajendra I (1012-1044) who went as far as Bengal, Burma, the Islands of the Malayan Archipelago and the Siamese Peninsula.  
+970-985), son of Gandara Aditya conspired to murder the crown Prince Aditya II and forced the father to recognize him as the heir in preference over the younger son Arulmozli (later Raja Raja I). Raja Raja I (985-1014) recovered vast territories including Lanka and began an unchecked expansion lasting for centuries. Conquest beyond the seas was achieved by Rajendra I (1012-1044) who went as far as Bengal, Burma, the Islands of the Malayan Archipelago and the Siamese Peninsula.  
 
 Kulottunga I is said to have established embassies with Imperial China. Several hundred years later, during the last years of Kulottunga III (1178-1218), Maravarma Sundara Pandiya I, entered the heartland of the Chozla country. After that the empire struggled for its very existence; with the death of Rajendra III (1279) the Chozla territories were once again absorbed into the Pandiya Kingdom.  
 
@@ -81,7 +83,7 @@ Kulottunga I is said to have established embassies with Imperial China. Several 
 
 About the year AD
 
- 970 Chozla's of the Tamil Nation ruled an empire spreading form Cape Comorin to River North Pennar. Paranthaka II who was more famous as Sundara Chozla of Pazlayarai ruled that Empire. His capital was Tanjore City which had been captured from Muth-araya Kings by Vijayala Chozla an ancestor. Vanamadevi of Thiru-kovalur was married to Sundara Chozla. They had two sons and a daughter. First was Aditya Karikala; then came Princess Kundavai; and last was Arulmozli who later achieved historical fame as the great Raja Raja I.  
+970 Chozla's of the Tamil Nation ruled an empire spreading form Cape Comorin to River North Pennar. Paranthaka II who was more famous as Sundara Chozla of Pazlayarai ruled that Empire. His capital was Tanjore City which had been captured from Muth-araya Kings by Vijayala Chozla an ancestor. Vanamadevi of Thiru-kovalur was married to Sundara Chozla. They had two sons and a daughter. First was Aditya Karikala; then came Princess Kundavai; and last was Arulmozli who later achieved historical fame as the great Raja Raja I.  
 
 For some time now, Sundara Chozla was bed ridden with paralysis of his limbs. He was in Tanjore, unable to travel or be very active in the affairs of the state.  
 
@@ -2851,10 +2853,10 @@ Kundavai asked worriedly, "What was that uproar? It seems like shouts of an angr
 
 AadiA month of the Tamil calendar, about July-Aug AavaniA month of the Tamil calendar, about Aug-Sept AdvaitaA philosophy, belief in the non-dual nature of God AkkaElder sister, a respectful greeting for an older girl AmmaMother, a respectful greeting for women AnkushA goad used by elephant drivers AnnaElder brother, respectful address for older men Araya, raya, arasaKing, chieftain, Raja AyyaFather, mode of address for an older man Bharata NatyamClassical dance style ChakraDiscus ChampakaA fragrant flower ChanakyaA medieval personality of political cunning, a Machiavelli Devi, DevaLady, Lord IruvatchiA fragrant flower JaamamA period of time 3 hrs long; 1 Jaamam = 7½ Nazli; 1 Nazli = 24 minutes JaggeryUnrefined or brown sugar KaadalLove KaadamA league or about 10 miles Kaalaa-mukhasAscetic followers of Shiva, a fanatic sect KaaviReddish, ocher dye KadalSea KadambaA flower KamaLove, Passion KapaalikaAn ascetic sect of Saiva Faith Karadi1. A musical instrument
 
- 2. Bear KaragamFolk dance with balancing decorated pots KaraiyarCoastal, fisherfolk KarpagaA cornucopious tree of heavens KarppuSanctity of a married woman. Chastity Kavi1. Poet
+2. Bear KaragamFolk dance with balancing decorated pots KaraiyarCoastal, fisherfolk KarpagaA cornucopious tree of heavens KarppuSanctity of a married woman. Chastity Kavi1. Poet
 
- 2. Monkey KinnaraDemi-divinities; heavenly musicians KolamDecorative drawings of rice flour Konnai, KonraiA flowering tree; red flowers of the mountainsKumkumRed powder, used to decorate the foreheadKummiA folk dance of women circling while clapping handsKunrimaniA tiny red-black berry or beadKuralAncient Tamil coupletsKuravai KoothuGypsy dance or dance by maidensMalaiMountainMariammanA village deity, a pagan GoddessMarudaiA shade giving tree, a colloquial name for Madurai CityMattalamDrumMayaDeception, unrealMoringaA leafy treeMu-ttholl-ayiramA collection of romantic verse in TamilMuzlaiCaveNaaduCountryNaamamA vertical, religious mark worn by followers of VishnuNanalA sedge like grassNandavanaGardenNetri-chuttiForehead ornament Padai VeeduArmy Housing Padinettam PerukkuEighteenth day flood Palli PadaiMemorial temple PanchayatCouncil of Village Elders, often five persons ParaiA kind of country drum, an announcement PattinamCity or Town PerumalLord, God PiratiLady, Royal Princess PitamMonastic seat PunnaiA tree with yellow flowers RudrakshaA multifaceted bead, a sacred berry SaelaiLoose pleated garment of women worn with one loose end thrown over a shoulder SaivaA sect of Hinduism, follower of Shiva SalliA musical instrument SelvanBeloved, Darling (masculine) SelviBeloved, Darling (feminine) SilappadikaramA Tamil Epic SindhuFolk song TamarindA shade giving tree bearing a sour fruit ThambiYounger brother, mode of address for young men ThayeMother, mode of respectful address for women ThaazlaiA fragrant cactus Thevar-aalan,Divine man, dancers Thevar-aattiDivine woman, dancers ThevaramDevotional Poems Thiru-vai-mozliDevotional Poems ThinnaiA raised platform or dais on the front porch of houses in South India. Often used like a living room; for family gatherings, seating visitors, and sleeping in the night UdukkuSmall palm held drum UriyadiA game to get the prize-pot tied to a pole similar to the Maypole VaettiLoose lower garment of men VaishnavaA sect of Hinduism, follower of Vishnu VamsaDynasty VeenaA musical stringed instrument Velan AttamA semi-religious dance, usually by a man Villu-pattuFolk songs accompanying a string instrument, story telling VinnagaraVishnu temple YaazlA stringed musical instrument /*/*/*/*/*/*/*/*/*/*  
+2. Monkey KinnaraDemi-divinities; heavenly musicians KolamDecorative drawings of rice flour Konnai, KonraiA flowering tree; red flowers of the mountainsKumkumRed powder, used to decorate the foreheadKummiA folk dance of women circling while clapping handsKunrimaniA tiny red-black berry or beadKuralAncient Tamil coupletsKuravai KoothuGypsy dance or dance by maidensMalaiMountainMariammanA village deity, a pagan GoddessMarudaiA shade giving tree, a colloquial name for Madurai CityMattalamDrumMayaDeception, unrealMoringaA leafy treeMu-ttholl-ayiramA collection of romantic verse in TamilMuzlaiCaveNaaduCountryNaamamA vertical, religious mark worn by followers of VishnuNanalA sedge like grassNandavanaGardenNetri-chuttiForehead ornament Padai VeeduArmy Housing Padinettam PerukkuEighteenth day flood Palli PadaiMemorial temple PanchayatCouncil of Village Elders, often five persons ParaiA kind of country drum, an announcement PattinamCity or Town PerumalLord, God PiratiLady, Royal Princess PitamMonastic seat PunnaiA tree with yellow flowers RudrakshaA multifaceted bead, a sacred berry SaelaiLoose pleated garment of women worn with one loose end thrown over a shoulder SaivaA sect of Hinduism, follower of Shiva SalliA musical instrument SelvanBeloved, Darling (masculine) SelviBeloved, Darling (feminine) SilappadikaramA Tamil Epic SindhuFolk song TamarindA shade giving tree bearing a sour fruit ThambiYounger brother, mode of address for young men ThayeMother, mode of respectful address for women ThaazlaiA fragrant cactus Thevar-aalan,Divine man, dancers Thevar-aattiDivine woman, dancers ThevaramDevotional Poems Thiru-vai-mozliDevotional Poems ThinnaiA raised platform or dais on the front porch of houses in South India. Often used like a living room; for family gatherings, seating visitors, and sleeping in the night UdukkuSmall palm held drum UriyadiA game to get the prize-pot tied to a pole similar to the Maypole VaettiLoose lower garment of men VaishnavaA sect of Hinduism, follower of Vishnu VamsaDynasty VeenaA musical stringed instrument Velan AttamA semi-religious dance, usually by a man Villu-pattuFolk songs accompanying a string instrument, story telling VinnagaraVishnu temple YaazlA stringed musical instrument /*/*/*/*/*/*/*/*/*/*  
 
 This file was last updated on 4 August
 
- 2011.
+2011.

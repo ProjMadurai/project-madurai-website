@@ -8,17 +8,19 @@ genres:
   - காவியம்
 ---
 
+
+
 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
 weight: 89  
 
 authors:  
 
-  - பாரதிதாசன்  
+- பாரதிதாசன்  
 
 genres:  
 
-  - காவியம்  
+- காவியம்  
 
 ---  
 
@@ -34,7 +36,7 @@ genres:
 
 ### Literary Works of Bharathidaasan ( Kanakasubbaratnam,
 
- 1891-1964)  
+1891-1964)  
 
 IV : kutumba vilakku (in Tamil Script, unicode/utf-8format)  
 
@@ -42,7 +44,7 @@ IV : kutumba vilakku (in Tamil Script, unicode/utf-8format)
 
 புரட்சி கவிஞர் பாரதிதாசன் (கனகசுப்பரத்னம்,
 
- 1891-1964)  
+1891-1964)  
 
 படைப்புகள் - IV: குடும்ப விளக்கு  
 
@@ -64,7 +66,7 @@ Arial Unicode MS, TSCu_Inaimathi, Code2000, UniMylai,...) installed on your comp
 
 and the OS capable of rendering Tamil Scripts (Windows
 
- 2000 or Windows XP).  
+2000 or Windows XP).  
 
 ii)Use a browser that is capable of handling UTF-8 based pages  
 
@@ -74,7 +76,7 @@ ii)Use a browser that is capable of handling UTF-8 based pages
 
 © Project Madurai
 
- 1999  
+1999  
 
 Project Madurai is an open, voluntary, worldwide initiative devoted  
 
@@ -9244,7 +9246,7 @@ header page is kept intact.
 
 This file was last edited on 12 Nov.
 
- 2018  
+2018  
 
 Feel free to send the corrections to the Webmaster.  
 

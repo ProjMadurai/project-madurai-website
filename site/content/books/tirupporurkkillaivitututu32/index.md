@@ -8,20 +8,22 @@ genres:
   - இசை; பாட்டு
 ---
 
+
+
 1'  
 
 thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
 weight:
 
- 311  
+311  
 
 authors:  
 
-  -  
+-  
 genres:  
 
-  - இசை; பாட்டு  
+- இசை; பாட்டு  
 
 ---  
 
@@ -61,7 +63,7 @@ This webpage presents the Etext in Tamil script-Unicode/UTF-8 format.
 
 © Project Madurai
 
- 1998-2008  
+1998-2008  
 
 Project Madurai is an open, voluntary, worldwide initiative devoted to preparation of electronic text of tamil literary works and to distribute them free on the Internet.  
 
@@ -81,13 +83,13 @@ You are welcome to freely distribute this file, provided this header part is kep
 
   
 
- ###  . நேரிசை வெண்பாக்கள்  
+###  . நேரிசை வெண்பாக்கள்  
 
   
 
 தென்னிந்திய கல்வெட்டுத்தொகுதி, VIII, /#97, (A.R. 97 of
 
- 1902)  
+1902)  
 
 தாரு முடியு முரசுந் தமக்குரிய  
 
@@ -165,7 +167,7 @@ You are welcome to freely distribute this file, provided this header part is kep
 
   
 
- ###  . ஆசிரிய விருத்தங்கள்  
+###  . ஆசிரிய விருத்தங்கள்  
 
   
 
@@ -173,9 +175,9 @@ You are welcome to freely distribute this file, provided this header part is kep
 
 VIII /#97, பக். 50-51 (AR /#
 
- 507 of
+507 of
 
- 1902) முன்போரு படைக்கடலை விட்டரச ரானார்  
+1902) முன்போரு படைக்கடலை விட்டரச ரானார்  
 
 மூலதன மும்பரியு முறைமுறைபரி வாரித்  
 
@@ -249,13 +251,13 @@ VIII /#97, பக். 50-51 (AR /#
 
   
 
- ###  . கட்டளைக் கலித்துறைகள்  
+###  . கட்டளைக் கலித்துறைகள்  
 
   
 
 தென்னிந்திய கல்வெட்டுத்தொகுதி VIII /#97, பக்.
 
- 50.  
+50.  
 
 முருகுந்து காஞ்சியும் வஞ்சியும் கொண்டமொய்த் தார்மகதன்  
 
@@ -319,5 +321,4 @@ VIII /#97, பக். 50-51 (AR /#
 
 This file was last updated on 29 August
 
- 2008.  
-
+2008.  

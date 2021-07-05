@@ -9,11 +9,13 @@ genres:
   - வைணவம், மொழிபெயர்ப்பு
 ---
 
+
+
 ### Nālāyira Divya Prabhandam  
 
 Paśurams by Seven Azhvārs, Part 3 (pāsurams
 
- 2082 -2970)  
+2082 -2970)  
 
 English Translation by Kausalya Hart  
 
@@ -35,17 +37,17 @@ Nālāyira Divya Prabhandam - third thousand pāsurams
 
 13. 1st Thiruvandādi.- Poyhai Azhvar (2082 –
 
- 2181)  
+2181)  
 
 14. 2nd Thiruvanthaathi. Buthaththāzhvar (2182 -2281)  
 
 15. Third Thiruvandādi – Peyāzhvār (2282 –
 
- 2381)  
+2381)  
 
 16. Thirumazhisai Alvar - Nāmuhan Thiruvandāthi. (2382 –
 
- 2477)  
+2477)  
 
 17. Thiruvirutham. - Nammāzhvar (2478 -2577)  
 
@@ -53,7 +55,7 @@ Nālāyira Divya Prabhandam - third thousand pāsurams
 
 19. Nammāzhvar’s Periya Thiruvanthādi. (2585 –
 
- 2671)  
+2671)  
 
 20. Thirumangai Azhvar - Thiruvezukuṛṛirukkai (2672)  
 
@@ -63,9 +65,9 @@ Nālāyira Divya Prabhandam - third thousand pāsurams
 
   
 
- ###  3. Mudal Thiruvandādi.- Poyhai Azhvar (2082 –
+###  3. Mudal Thiruvandādi.- Poyhai Azhvar (2082 –
 
- 2181)  
+2181)  
 
   
 
@@ -1217,7 +1219,7 @@ Mudal Thiruvanthadi ends.
 
   
 
- ###  4. Second Thiruvanthaathi. Buthaththāzhvar (2182 -2281)  
+###  4. Second Thiruvanthaathi. Buthaththāzhvar (2182 -2281)  
 
   
 
@@ -2291,9 +2293,9 @@ Bhuththāzhvār pasurams end
 
   
 
- ###  5. Third Thiruvandādi – Peyāzhvār (2282 –
+###  5. Third Thiruvandādi – Peyāzhvār (2282 –
 
- 2381)  
+2381)  
 
   
 
@@ -3329,9 +3331,9 @@ as he embraces Lakshmi who is on a flower dripping with honey.
 
   
 
- ###  6. Thirumazhisai Alvar - Nāmuhan Thiruvandāthi. (2382 –
+###  6. Thirumazhisai Alvar - Nāmuhan Thiruvandāthi. (2382 –
 
- 2477)  
+2477)  
 
   
 
@@ -4375,7 +4377,7 @@ Nanmuhan Thiruvandathi ends.
 
   
 
- ###  7. Thiruvirutham. - Nammāzhvar (2478 -2577)  
+###  7. Thiruvirutham. - Nammāzhvar (2478 -2577)  
 
   
 
@@ -5901,7 +5903,7 @@ Thiruvirutham mutrum. Nammaazhvar Thiruvaḍikaḷee saraṇam
 
   
 
- ###  8. Nammaazhvar - Thiruvāsiriyam (2578 -2584)  
+###  8. Nammaazhvar - Thiruvāsiriyam (2578 -2584)  
 
   
 
@@ -6073,9 +6075,9 @@ Thiruvāsiriyam. murrum.
 
   
 
- ###  9. Nammāzhvar’s Periya Thiruvanthādi. (2585 –
+###  9. Nammāzhvar’s Periya Thiruvanthādi. (2585 –
 
- 2671)  
+2671)  
 
   
 
@@ -7113,7 +7115,7 @@ SUBHAM
 
   
 
- ###  0. Thirumangai Azhvar - Thiruvezukuṛṛirukkai (2672)  
+###  0. Thirumangai Azhvar - Thiruvezukuṛṛirukkai (2672)  
 
   
 
@@ -7249,9 +7251,9 @@ SUBHAM Thiruvezhulirrirukkai ends
 
   
 
- ###  1. Siriya thirumaḍal - Thirumangaiyāzhvār (2673 to
+###  1. Siriya thirumaḍal - Thirumangaiyāzhvār (2673 to
 
- 2712)  
+2712)  
 
   
 
@@ -7375,7 +7377,7 @@ She may tell you the truth.’
 
 10, 11,
 
- 12. “When my mother summoned her,  
+12. “When my mother summoned her,  
 
 the fortune teller with dark, tied-up hair  
 
@@ -7409,7 +7411,7 @@ from the storm with Govardhana mountain.
 
 13, 14,
 
- 15. “‘He churned the milky ocean to get nectar for the gods,  
+15. “‘He churned the milky ocean to get nectar for the gods,  
 
 he grazed the cows,  
 
@@ -7485,7 +7487,7 @@ with his bow and made him suffer as if he were in hell.
 
 18, 19,
 
- 20. “‘When handsome broad-armed Rāvaṇa  
+20. “‘When handsome broad-armed Rāvaṇa  
 
 took Sita whose lovely breasts were tied with a band to Lanka,  
 
@@ -7567,7 +7569,7 @@ and was not in love with anyone else.
 
 26,
 
- 28. The daughter says,  
+28. The daughter says,  
 
 “I prattle on because I saw his dark cloud-like body.  
 
@@ -7681,7 +7683,7 @@ SUBHAM
 
   
 
- ###  2. Periyathirumaḍal - Thirumangai (2713 -2790)  
+###  2. Periyathirumaḍal - Thirumangai (2713 -2790)  
 
   
 
@@ -8491,14 +8493,14 @@ of a flourishing palm tree.” (78)
 
 **End of part 3 (pasurams
 
- 2082 –
+2082 –
 
- 2790)**  
+2790)**  
   
   
 
 This file was last updated on 5 Sept.
 
- 2018  
+2018  
 
 Feel free to send the corrections to the webmaster.

@@ -9,22 +9,24 @@ genres:
   - பிரபந்தம்
 ---
 
+
+
 சிராமலை அந்தாதி'  
 
 thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
 weight:
 
- 337  
+337  
 
 authors:  
 
-  -  
+-  
 genres:  
 
-  - அந்தாதி  
+- அந்தாதி  
 
-  - பிரபந்தம்  
+- பிரபந்தம்  
 
 ---  
 
@@ -74,7 +76,7 @@ This webpage presents the Etext in Tamil script-UTF-8 encoding. To view Tamil te
 
 © Project Madurai
 
- 1998-2009  
+1998-2009  
 
   
 
@@ -88,27 +90,27 @@ Project Madurai is an open, voluntary, worldwide initiative devoted to preparati
 
 திருச்சிராப்பள்ளிநகர்க் குன்றுப்பாறைகளின்மேல் கட்டப்பட்டுள்ள தாயுமானவர் கோயில் படிவழியில் காணப்படும் பல்லவமன்னன் முதலாம் மகேந்திரவர்மன் அமைத்த குடைவரைக் கோயிலின் பின்புறச்சுவர்தனில் பொளித்துள்ள கல்வெட்டாகக் காண்பது இந்நூல். தென் இந்தியக் கல்வெட்டுத் தொகுதி IV எண்
 
- 167, பக்கங்கள் 21-27(A R 62 of
+167, பக்கங்கள் 21-27(A R 62 of
 
- 1888). இ·து
+1888). இ·து
 
- 102 கட்டளைக்கலித்துறைப் பாடல்களால் ஆனது. பலபாடல் வரிகள் சிற்சில இடங்களில் சிதைந்துள்ளதால் பொருளறி இடர்பாடுடன், கல்வெட்டுகளுக்கே இயல்பான எழுத்துப் பொறி வினைஞரால் வரும் சொற் பிழைகளுடன் படியின் பதிப்பினில் கண்டவாறே ஈங்கு படைக்கப்பட்டுள்ளது. சிதைந்த பகுதி [. . . .] எனவும் () என உடுக்குறிக்குள் காண்பவை படிஎடுத்தோரோ பிறரோ ஐயமுடன் சேர்த்த பகுதி ஆகலாம். இக்கல்வெட்டின் காலம்
+102 கட்டளைக்கலித்துறைப் பாடல்களால் ஆனது. பலபாடல் வரிகள் சிற்சில இடங்களில் சிதைந்துள்ளதால் பொருளறி இடர்பாடுடன், கல்வெட்டுகளுக்கே இயல்பான எழுத்துப் பொறி வினைஞரால் வரும் சொற் பிழைகளுடன் படியின் பதிப்பினில் கண்டவாறே ஈங்கு படைக்கப்பட்டுள்ளது. சிதைந்த பகுதி [. . . .] எனவும் () என உடுக்குறிக்குள் காண்பவை படிஎடுத்தோரோ பிறரோ ஐயமுடன் சேர்த்த பகுதி ஆகலாம். இக்கல்வெட்டின் காலம்
 
- 900-950 ஆகலாம் என கணித்துள்ளனர்.  
+900-950 ஆகலாம் என கணித்துள்ளனர்.  
 
   
 
 இதன் ஆசிரியர் மணியன்மகன் வேம்பையர்கோன் தமிழ்நாராயணன் என இதன் 90 வது மற்றும்
 
- 103,
+103,
 
- 104 பாயிரப் பாடல்களால் அறியலாகும். மாடமதிரை-மணலூர், மதில்வேம்பை, சேய்ஞலூர், குண்டூர் எனும் நான்கு ஊர்களுக்குத் தலைவராக சொல்லப்பட்ட இவர் சைவ சமயப் பற்றுடையவரென்பது தேற்றம். 34, 35 பாடல் வரிகள் பரிசில் வாழ்கையரோ என ஐயம் தோற்றுவிக்கிறது.  
+104 பாயிரப் பாடல்களால் அறியலாகும். மாடமதிரை-மணலூர், மதில்வேம்பை, சேய்ஞலூர், குண்டூர் எனும் நான்கு ஊர்களுக்குத் தலைவராக சொல்லப்பட்ட இவர் சைவ சமயப் பற்றுடையவரென்பது தேற்றம். 34, 35 பாடல் வரிகள் பரிசில் வாழ்கையரோ என ஐயம் தோற்றுவிக்கிறது.  
 
   
 
 'பாட்டியல்' மரபிலேயே 'உலகமடந்தை' என மங்கலச் சொல்லால் தொடங்கி, அந்தாதித் தொடையமைந்து, 'உலகத்துளே' என
 
- 102 பாடலில் மண்டலித்து, கட்டளைக்கலித்துறை யாப்பும் உள்ளமையால் இந்நூல் ஓர் அந்தாதியாம். அக்காலத்து கல்வெட்டு பொளிக்கும் மரபினிலேயே 'ஸ்வஸ்தி ஸ்ரீ' என தொடக்க எழுத்து பொறிக்கப்பட்து போலும்.  
+102 பாடலில் மண்டலித்து, கட்டளைக்கலித்துறை யாப்பும் உள்ளமையால் இந்நூல் ஓர் அந்தாதியாம். அக்காலத்து கல்வெட்டு பொளிக்கும் மரபினிலேயே 'ஸ்வஸ்தி ஸ்ரீ' என தொடக்க எழுத்து பொறிக்கப்பட்து போலும்.  
 
   
 
@@ -1194,7 +1196,7 @@ Project Madurai is an open, voluntary, worldwide initiative devoted to preparati
 
 காண்பது. தெ.இ.க.தொ. IV /#
 
- 1413  
+1413  
 
 (நேரிசை வெண்பா)  
 
@@ -1216,7 +1218,7 @@ Project Madurai is an open, voluntary, worldwide initiative devoted to preparati
 
 தெ.இ.க.தொ. IV /#
 
- 1405  
+1405  
 
   
 
@@ -1240,7 +1242,7 @@ Project Madurai is an open, voluntary, worldwide initiative devoted to preparati
 
 தெ.இ.க.தொ. IV, /#
 
- 1026  
+1026  
 
   
 
@@ -1262,9 +1264,9 @@ Project Madurai is an open, voluntary, worldwide initiative devoted to preparati
 
 தெ.இ.க.தொ. IV, /#
 
- 1338 (416 of
+1338 (416 of
 
- 1893)  
+1893)  
 
   
 
@@ -1462,7 +1464,7 @@ Project Madurai is an open, voluntary, worldwide initiative devoted to preparati
 
 கருநாடகக் கல்வெட்டுகள் தொகுதி-X /#
 
- 132  
+132  
 
 தமிழ்மொழி, கிரந்த-தமிழ் எழுத்துக்களில் (CE1179)  
 
@@ -1592,7 +1594,7 @@ Project Madurai is an open, voluntary, worldwide initiative devoted to preparati
 
 கருநாடகக் கல்வெட்டுகள் தொகுதி-X /#
 
- 131  
+131  
 
 தமிழ்மொழி, கிரந்த-தமிழ் எழுத்துக்களில். (CE1198)  
 
@@ -1742,7 +1744,7 @@ Project Madurai is an open, voluntary, worldwide initiative devoted to preparati
 
 திருவிதாங்கூர் கல்வெட்டுத் தொகுதி VI பாகம் 11 /#
 
- 125,126  
+125,126  
 
   
 
@@ -1876,9 +1878,9 @@ Project Madurai is an open, voluntary, worldwide initiative devoted to preparati
 
 சகம்
 
- 1101 (C E
+1101 (C E
 
- 1179) ஆண்டில் (இங்கு) ஆற்றங்கரையில்  
+1179) ஆண்டில் (இங்கு) ஆற்றங்கரையில்  
 
 கல்லினால் கோயில், சுற்று, மடவளாகம், மடைப்பள்ளி, தளிக்குளம்,  
 
@@ -1904,9 +1906,9 @@ Project Madurai is an open, voluntary, worldwide initiative devoted to preparati
 
 சகஆண்டு
 
- 1120 (C E
+1120 (C E
 
- 1198) பலகுடிகளை குவளாபுரத்திற்கு  
+1198) பலகுடிகளை குவளாபுரத்திற்கு  
 
 குடிபெயரச்செய்து அளகேசனாக வாழ்பவன் திரைலோக்கிய  
 
@@ -1982,9 +1984,9 @@ Project Madurai is an open, voluntary, worldwide initiative devoted to preparati
 
 அதனைச் சுற்றி முகமண்டமும்
 
- 795 கொல்லமாண்டில் (CE
+795 கொல்லமாண்டில் (CE
 
- 1615)  
+1615)  
 
 ஐப்பசி, ஏழில், அவிட்டம், முன் தசமி, வெள்ளிக்கிழமை நாளில்,  
 
@@ -1992,7 +1994,7 @@ Project Madurai is an open, voluntary, worldwide initiative devoted to preparati
 
 சங்கத்தமிழ்ச் சொல்
 
- 1600 ஆண்டுகள் கழிந்தும் மலைநாட்டு புலவர்  
+1600 ஆண்டுகள் கழிந்தும் மலைநாட்டு புலவர்  
 
 ஒருவரால் பயன் படுத்தப்பட்டுள்ளமை காண்க.  
 
@@ -2004,7 +2006,7 @@ Project Madurai is an open, voluntary, worldwide initiative devoted to preparati
 
 திருப்பணி முடித்து மூன்று ஆண்டுகள் கழிந்து கொல்லம்
 
- 798ல் பங்குனி  
+798ல் பங்குனி  
 
 கார்த்திகை மூன்றாம் பக்கம் 5ம்நாள்,பூதஉடலை நீத்துபரலோகம்  
 
@@ -2044,7 +2046,7 @@ Project Madurai is an open, voluntary, worldwide initiative devoted to preparati
 
 தெ.இ.க.தொ. IV /#
 
- 621  
+621  
 
   
 
@@ -2066,9 +2068,9 @@ Project Madurai is an open, voluntary, worldwide initiative devoted to preparati
 
 தெ.இ.க.தொ. IV /#
 
- 621, AR-173 0f
+621, AR-173 0f
 
- 1892  
+1892  
 
   
 
@@ -2110,7 +2112,7 @@ Project Madurai is an open, voluntary, worldwide initiative devoted to preparati
 
 தெ.இ.க.தொ. IV /#
 
- 228  
+228  
 
   
 
@@ -2132,7 +2134,7 @@ Project Madurai is an open, voluntary, worldwide initiative devoted to preparati
 
 தெ.இ.க.தொ. IV /#
 
- 228  
+228  
 
   
 
@@ -2154,7 +2156,7 @@ Project Madurai is an open, voluntary, worldwide initiative devoted to preparati
 
 தெ.இ.க.தொ. IV /#
 
- 228  
+228  
 
   
 
@@ -2176,7 +2178,7 @@ Project Madurai is an open, voluntary, worldwide initiative devoted to preparati
 
 தெ.இ.க.தொ. IV /#
 
- 228  
+228  
 
   
 
@@ -2216,7 +2218,7 @@ Project Madurai is an open, voluntary, worldwide initiative devoted to preparati
 
 தெ.இ.க.தொ. IV /#
 
- 228  
+228  
 
   
 
@@ -2238,7 +2240,7 @@ Project Madurai is an open, voluntary, worldwide initiative devoted to preparati
 
 தெ.இ.க.தொ. IV /#
 
- 619  
+619  
 
   
 
@@ -2260,7 +2262,7 @@ Project Madurai is an open, voluntary, worldwide initiative devoted to preparati
 
 தெ.இ.க.தொ. IV /#
 
- 618  
+618  
 
   
 
@@ -2282,7 +2284,7 @@ Project Madurai is an open, voluntary, worldwide initiative devoted to preparati
 
 தெ.இ.க.தொ. IV /#
 
- 619  
+619  
 
   
 
@@ -2304,7 +2306,7 @@ Project Madurai is an open, voluntary, worldwide initiative devoted to preparati
 
 தெ.இ.க.தொ. IV /#
 
- 620  
+620  
 
   
 
@@ -2668,7 +2670,7 @@ Project Madurai is an open, voluntary, worldwide initiative devoted to preparati
 
 தி.க.தொ. I பக்.
 
- 103  
+103  
 
   
 
@@ -2734,9 +2736,9 @@ Project Madurai is an open, voluntary, worldwide initiative devoted to preparati
 
 சக ஆண்டு
 
- 1018 ல் (CE
+1018 ல் (CE
 
- 1096)ஆனிமாத மூல நாளில்  
+1096)ஆனிமாத மூல நாளில்  
 
 சோழகுலவல்லி என்னும் ஓர் சோழமன்னனின் அதிகாரி  
 
@@ -2744,7 +2746,7 @@ Project Madurai is an open, voluntary, worldwide initiative devoted to preparati
 
 தானம் செய்து வேண்டிக்கொண்டான். (CE
 
- 1096) ல்  
+1096) ல்  
 
 ஆட்சி செய்த சோழ மன்னன் குலோத்துங்கன்-I  
 
@@ -2828,9 +2830,9 @@ Project Madurai is an open, voluntary, worldwide initiative devoted to preparati
 
 வணங்கினராகவும் குறிக்கின்றன. இவ்வெண்பா
 
- 1.14,
+1.14,
 
- 1.15  
+1.15  
 
 (கலித்துறை) பாடல்களுக்கு அடுத்து உள்ளதாகலாம். என  
 
@@ -2972,9 +2974,9 @@ Project Madurai is an open, voluntary, worldwide initiative devoted to preparati
 
 மேற்கண்ட பராக்கிரம பாண்டியன் கலியுகம்
 
- 4558ல் (CE
+4558ல் (CE
 
- 1457)  
+1457)  
 
 (அ·தாவது 11 ஆண்டுகள் கழித்து) கார்த்திகைத் மாதம் ஐந்தாம்  
 
@@ -2994,7 +2996,7 @@ Project Madurai is an open, voluntary, worldwide initiative devoted to preparati
 
 2.5 >>>>
 
- 2.10  
+2.10  
 
 பாண்டியன் தான் கட்டிய கோயிலை தன்காலத்திற்குப்பிறகு  
 
@@ -3026,13 +3028,13 @@ Project Madurai is an open, voluntary, worldwide initiative devoted to preparati
 
 2.11 >>
 
- 2.14  
+2.14  
 
 இவை இரங்கற்பாக்கள் மன்னன் சகம்
 
- 1385 (C E
+1385 (C E
 
- 1463)  
+1463)  
 
 விண்ணுலகம் எய்தினான் என்கின்றது  
 
@@ -3046,9 +3048,9 @@ Project Madurai is an open, voluntary, worldwide initiative devoted to preparati
 
 சகம்
 
- 1470 (CE
+1470 (CE
 
- 1457) பரிதாபி ஆண்டு, சித்திரை மாதம் 29 தேதி  
+1457) பரிதாபி ஆண்டு, சித்திரை மாதம் 29 தேதி  
 
 வளர்பிறை(இருண்ட பட்சம்) திங்களாகிய உரோகிணிநாள் மீன  
 

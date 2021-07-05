@@ -8,17 +8,19 @@ genres:
   - சங்ககாலம் – எட்டுத்தொகை
 ---
 
+
+
 tps://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
 
 weight: 28  
 
 authors:  
 
-  - பல ஆசிரியர்கள் (5)  
+- பல ஆசிரியர்கள் (5)  
 
 genres:  
 
-  - சங்ககாலம் – எட்டுத்தொகை  
+- சங்ககாலம் – எட்டுத்தொகை  
 
 ---  
 
@@ -58,7 +60,7 @@ Arial Unicode MS, TSCu_Inaimathi, Code2000, UniMylai,...) installed on your comp
 
 and the OS capable of rendering Tamil Scripts (Windows
 
- 2000 or Windows XP).  
+2000 or Windows XP).  
 
 ii)Use a browser that is capable of handling UTF-8 based pages  
 
@@ -68,7 +70,7 @@ ii)Use a browser that is capable of handling UTF-8 based pages
 
 C: Project Madurai
 
- 1999  
+1999  
 
 Project Madurai is an open, voluntary, worldwide initiative devoted  
 
@@ -92,7 +94,7 @@ header page is kept intact.
 
 aingurunUru : One of "eTTutokai" anthology of
 
- 500 short poems (two are missing),  
+500 short poems (two are missing),  
 
 made by kUdalUr kizhAr at the instance of Chera King  
 

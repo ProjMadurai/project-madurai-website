@@ -8,6 +8,8 @@ genres:
   - இலக்கணம்
 ---
 
+
+
 ### செய்யுளிலக்கணம் - கத்தியரூபம்.  
 
 பூவை - கலியாணசுந்தர முதலியார்  
@@ -58,7 +60,7 @@ MADRAS,
 
 15th Feb.
 
- 1893. P. CULLEAUNASUNDROM.  
+1893. P. CULLEAUNASUNDROM.  
 
 ----------  
 
@@ -116,7 +118,7 @@ Your Cheyyul ilakkanam has been well written. Concise as it is, it gives in plai
 
 16-1.
 
- 93.  
+93.  
 
 --------  
 
@@ -842,7 +844,7 @@ I have read with very great pleasure your செய்யுளிலக்க�
 
   
 
- ###  . செய்யுளியல்.  
+###  . செய்யுளியல்.  
 
   
 
@@ -2436,7 +2438,7 @@ I have read with very great pleasure your செய்யுளிலக்க�
 
   
 
- ###  . ஒழிபியல்.  
+###  . ஒழிபியல்.  
 
   
 
@@ -2914,7 +2916,7 @@ I have read with very great pleasure your செய்யுளிலக்க�
 
   
 
- ###  . பாட்டியல். [/#]  
+###  . பாட்டியல். [/#]  
 
   
 
@@ -3558,6 +3560,6 @@ I have read with very great pleasure your செய்யுளிலக்க�
 
 This file was last updated on 15 Jan.
 
- 2020.  
+2020.  
 
 Feel free to send the corrections to the webmaster.

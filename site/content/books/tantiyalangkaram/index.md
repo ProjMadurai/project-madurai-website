@@ -8,6 +8,8 @@ genres:
   - இலக்கணம்
 ---
 
+
+
 தண்டியலங்காரம்  
 
   
@@ -1352,6 +1354,6 @@ genres:
 
 லான்ற காட்சிச் சான்றோர் கடனே. This file was last revised on 4 March
 
- 2002  
+2002  
 
 Please send your comments to the [webmasters of this website](mailto:kalyan@geocities.com, kumar@vt.edu?subject=PM0145 taNTiyalankAram).

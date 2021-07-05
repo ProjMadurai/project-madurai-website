@@ -9,11 +9,13 @@ genres:
   - பிரபந்தம்
 ---
 
+
+
 ## திரிகூடராசப்பக் கவிராயரின் திருக்குற்றாலக் குறவஞ்சி -- மதிப்புரை  
 
 (ஆசிரியர் : இரசிகமணி சிதம்பரநாத முதலியார்,
 
- 1937 )  
+1937 )  
 
   
 
@@ -79,7 +81,7 @@ genres:
 
 (ரசிகமணி,
 
- 1937)  
+1937)  
 
   
 
@@ -5019,6 +5021,6 @@ genres:
 
 This page was first put up on April 11,
 
- 2001  
+2001  
 
 Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com, kumar@vt.edu?subject=PM106 :  kkuRavanjci)

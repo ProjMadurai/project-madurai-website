@@ -9,6 +9,8 @@ genres:
   - பிரபந்தம்
 ---
 
+
+
 ### கலம்பகக் கொத்து  
 
 (பேரைக் கலம்பகம், திருமயிலாசலக் கலம்பகம் மற்றும்  
@@ -63,33 +65,33 @@ INTRODUCTION
 
 The public are perhaps aware of the fact that the Government of Madras have launched upon a scheme of publication of rare manuscripts treasured in two premier institutions of this state, namely, the Madras Government Oriental Manuscripts Library, Madras and The Tanjore Maharaja Serfoji's Sarasvathi Mahal Library, Tanjore. Financial help has also been extended to Dr. U. V. Swaminatha Iyer Library, Adyar, Madras, for similar purpose. Though the publication of rare manuscripts was started by the Government of Madras as early as
 
- 1909, only 12 works were taken up for publication till
+1909, only 12 works were taken up for publication till
 
- 1942. Of these, the printing of 3 works has not yet been completed.  
+1942. Of these, the printing of 3 works has not yet been completed.  
 
 Only in the year
 
- 1949—50, a regular scheme for the publication of manuscripts was prepared and accepted by the Government of Madras under the MADRAS GOVERNMENT ORIENTAL SERIES. This scheme included the mauuscripts in all the South Indian Languages in which there are manuscripts in the Library. The selection of manuscripts was done by an Expert Committee appointed by the Government specially for this purpose. Till now
+1949—50, a regular scheme for the publication of manuscripts was prepared and accepted by the Government of Madras under the MADRAS GOVERNMENT ORIENTAL SERIES. This scheme included the mauuscripts in all the South Indian Languages in which there are manuscripts in the Library. The selection of manuscripts was done by an Expert Committee appointed by the Government specially for this purpose. Till now
 
- 157 manuscripts in different languages have been printed. Of these, 35 manuscripts are from Tanjore Maharaja Serfoji's Sarasvathi Mahal Library, Tanjore and 2 from Dr. U.V. Swaminatha Iyer Library, Adyar. In addition, 3 manuscripts, two from this library and 1 from the Dr. U. V. Swaminatha Iyer Library, Adyar, are in the press.  
+157 manuscripts in different languages have been printed. Of these, 35 manuscripts are from Tanjore Maharaja Serfoji's Sarasvathi Mahal Library, Tanjore and 2 from Dr. U.V. Swaminatha Iyer Library, Adyar. In addition, 3 manuscripts, two from this library and 1 from the Dr. U. V. Swaminatha Iyer Library, Adyar, are in the press.  
 
 While all the manuscripts under the Madras Government Oriental Series were edited by various scholars drawn from different learned institutions, the publication of manuscripts under the Madras GovernmentOriental Manuscripts Series was resumed in the year
 
- 1950–51. All the manuscripts published under this Series before
+1950–51. All the manuscripts published under this Series before
 
- 1942 were in Sanskrit. But from
+1942 were in Sanskrit. But from
 
- 1950–51, they included the manuscripts in other languages also. These are edited by the Curator with the assistance of the Pandits in respective languages. Till now 60 works have been printed including the total number of 51 since
+1950–51, they included the manuscripts in other languages also. These are edited by the Curator with the assistance of the Pandits in respective languages. Till now 60 works have been printed including the total number of 51 since
 
- 1931.  
+1931.  
 
 Since
 
- 1958-59 however no fresh manuscripts were taken up for publication in both the Series. There were several proposals for the printing of manuscripts. Of these, the Government of Madras have now sanctioned the publication of the following 7 Tamil Manuscripts in G. O. No.
+1958-59 however no fresh manuscripts were taken up for publication in both the Series. There were several proposals for the printing of manuscripts. Of these, the Government of Madras have now sanctioned the publication of the following 7 Tamil Manuscripts in G. O. No.
 
- 81859/-E6/59-15, Education, dated 5-1-1960 communicated in Proceedings RC. No.
+81859/-E6/59-15, Education, dated 5-1-1960 communicated in Proceedings RC. No.
 
- 138-K2/60 dated 27-1-1960 of the Director of Public Instruction, Madras.  
+138-K2/60 dated 27-1-1960 of the Director of Public Instruction, Madras.  
 
 I. GOVERNMENT ORIENTAL MANUSCRIPTSLIBRARY, MADRAS.  
 
@@ -131,17 +133,17 @@ In the present book, three Kalambakams are published in one volume. They are “
 
 This series is sung in praise of the presiding deity at Tentiruppērai, a village in Tirunelveli district. It is one of the famous
 
- 108 Vişṇu Sthalams and has also been sungby Ā l̤vārs, the twelve pillars of Vaişṇava sect. The deityis known as Makara-Nedum-Ku l̤ai-k-kādar and therefore Pērai-k-kalambakam is also known as “ Ku l̤ai-k-kādar Kalambakam". Tentiruppērai happens to be one of the nine sacred places of pilgrimage near Tirukurukur, the birth place of the great Vaişṇava Saint Nammā l̤vār.  
+108 Vişṇu Sthalams and has also been sungby Ā l̤vārs, the twelve pillars of Vaişṇava sect. The deityis known as Makara-Nedum-Ku l̤ai-k-kādar and therefore Pērai-k-kalambakam is also known as “ Ku l̤ai-k-kādar Kalambakam". Tentiruppērai happens to be one of the nine sacred places of pilgrimage near Tirukurukur, the birth place of the great Vaişṇava Saint Nammā l̤vār.  
 
 The author of this Kalambakam is unfortunately unknown, but it is presumed that the author is one Tirumēni Tiruvēṅkaţak-kavirāyar. From the songs, it is found that he is a great Tamil scholar and a Vaişṇavaite. He seems, naturally, to have aboundant love and regard towards the great saint Nammā l̤vār as seen from the very first poem in his praise.  
 
 The work was transcribed from Madurai Tamil Śangam manuscript in the year
 
- 1952-53 and is described in the Triennial Catalogue under number R.
+1952-53 and is described in the Triennial Catalogue under number R.
 
- 3419. It is regrettable that a complete copy could not be had. Only fifty poems viz. 1 to 46 and 98 to
+3419. It is regrettable that a complete copy could not be had. Only fifty poems viz. 1 to 46 and 98 to
 
- 101 are available. However, the lyric is so full of pathos and devotion that it richly deserves to be widely read.  
+101 are available. However, the lyric is so full of pathos and devotion that it richly deserves to be widely read.  
 
 2. TIRUMAYILĀCALA-K-KALAMBAKAM  
 
@@ -153,21 +155,21 @@ This piece contains one hundred songs, all of which are lucid, simple and full o
 
 This is described in the Triennial Catalogue of Tamil manuscripts, under No. R.
 
- 2812, palm leaf. This has been restored on paper under R. No.
+2812, palm leaf. This has been restored on paper under R. No.
 
- 5969. This was presented by Sri K. Shanmugam of Kumarakuppam, Valavanur post, S. A. District in the year
+5969. This was presented by Sri K. Shanmugam of Kumarakuppam, Valavanur post, S. A. District in the year
 
- 1951-52.  
+1951-52.  
 
 3. JNĀNA VINODAN KALAMBAKAM.  
 
 This is a piece containing one hundred songs sung in praise of one "Svarūpānandar” by his disciple named “Tattuvarāyar". The author has sung several other pieces about the greatness and other qualities of his Guru. He proclaims that his ultimate aim in his life is to be blessed by his Guru. This contains, as already said,
 
- 100 songs besides the first prayer song. There are four copies of this manuscript described under No. D.
+100 songs besides the first prayer song. There are four copies of this manuscript described under No. D.
 
- 1531 to
+1531 to
 
- 1534, all of which are on palm-leaf.  
+1534, all of which are on palm-leaf.  
 
 Srimans V. S. Krishnan, M. Pasupathi, and T. Krishnamurthi, Tamil Pandits of this library, were in charge of the preparation of the press copy of the three Kalamabakams and my thanks are due to them for helping me in editing the manuscript before giving it to the press. The Government of India have to be thanked for their kind grant to the Government of Madras for enabling the Government Oriental Manuscripts Library, Madras, to get printed these invaluable manuscripts.The Rathnam Press (Branch) also deserves my thanks for printing the manuscript neatly in a very short period of one month.  
 
@@ -261,11 +263,11 @@ Madras-5, T. CHANDRASEKHARAN,
 
 இப்பொழுது வெளியிடப்பெறும் கலம்பகக்கொத்து என்னும் இத்தொகுதியினுள் மூன்று கலம்பகங்கள் அடங்கியுள்ளன. அவை :
 
- 1. பேரைக் கலம்பகம்,
+1. பேரைக் கலம்பகம்,
 
- 2. திருமயிலாசலக் கலம்பகம்,
+2. திருமயிலாசலக் கலம்பகம்,
 
- 3. ஞான விநோதன் கலம்பகம் என்பன.  
+3. ஞான விநோதன் கலம்பகம் என்பன.  
 
 **1. பேரைக் கலம்பகம்**  
 
@@ -339,13 +341,13 @@ Madras-5, T. CHANDRASEKHARAN,
 
 இந்நூலில் முதலில் 46 பாடல்களும், இறுதியில் 98 முதல்
 
- 101 ஆவது முடியவுள்ள பாடல்களுமே உள்ளன. இடையில் விடுபட்ட பாடல்கள் கிடைக்கப்பெறவில்லை.  
+101 ஆவது முடியவுள்ள பாடல்களுமே உள்ளன. இடையில் விடுபட்ட பாடல்கள் கிடைக்கப்பெறவில்லை.  
 
 இது, இந் நூல்நிலைய மூவருடக் காட்டலாக்கு
 
- 3419 ஆம் எண்கொண்ட காகிதக் கையெழுத்துப் பிரதியினை ஆதாரமாகக் கொண்டு வெளியிடப் பெறுகின்றது. இப்பிரதி
+3419 ஆம் எண்கொண்ட காகிதக் கையெழுத்துப் பிரதியினை ஆதாரமாகக் கொண்டு வெளியிடப் பெறுகின்றது. இப்பிரதி
 
- 1951-52- ஆம் ஆண்டில் மதுரைத் தமிழ்ச் சங்கத்திலிருந்து வரவழைக்கப் பெற்ற ஓலைச்சுவடியினின்று இந் நூல்நிலையத்தில் பிரதி செய்து வைக்கப்-பட்டதாகும்.  
+1951-52- ஆம் ஆண்டில் மதுரைத் தமிழ்ச் சங்கத்திலிருந்து வரவழைக்கப் பெற்ற ஓலைச்சுவடியினின்று இந் நூல்நிலையத்தில் பிரதி செய்து வைக்கப்-பட்டதாகும்.  
 
 **2. திருமயிலாசலக் கலம்பகம்**  
 
@@ -443,9 +445,9 @@ Madras-5, T. CHANDRASEKHARAN,
 
 இவ்வண்ணம் மனத்தைக் கரையச் செய்யும் பாடல்கள் பல காண்கின்றன இந்நூலில். இதனுள் பாயிரமுட்பட
 
- 109 பாடல்களும், நூல் முடிந்தபின்பு நூற்பயன் முதலான மூன்று பாடல்களு முள்ளன. இந்நூலில் பாயிரம் என்ற தலைப்பில் உள்ள 4 பாடல்களைச் சேர்த்து மொத்தம்
+109 பாடல்களும், நூல் முடிந்தபின்பு நூற்பயன் முதலான மூன்று பாடல்களு முள்ளன. இந்நூலில் பாயிரம் என்ற தலைப்பில் உள்ள 4 பாடல்களைச் சேர்த்து மொத்தம்
 
- 104 பாடல்களளுள்ளன. ஏட்டின் இறுதியில் நூற்பயன் முதலியவற்றைக் குறிக்கும் 3 பாடல்களுள்ளன.  
+104 பாடல்களளுள்ளன. ஏட்டின் இறுதியில் நூற்பயன் முதலியவற்றைக் குறிக்கும் 3 பாடல்களுள்ளன.  
 
 இந்நூலை இயற்றிய ஆசிரியர் திருப்புகழ் சுவாமிகள் எனப்படும் தண்டபாணி சுவாமிகள் என்னும் பெயரினர் என்று தெரிகின்றது. இந்நூற் பிரதியின் முதலேட்டில் "திருநெல்வேலியில் எழுந்தருளியிருக்கும் திருப்புகழ்ச் சுவாமிகள் இயற்றிய திருமயிலாசலக் கலம்பகம்"என்ற தொடரென்று காணப்படுகின்றது.  
 
@@ -465,7 +467,7 @@ Madras-5, T. CHANDRASEKHARAN,
 
 இவர் கௌமார மதத்தைச் சார்ந்தவர் என்பது, இந்நூலின்
 
- 100-ஆவது பாடலில் வந்துள்ள 'பத்திநெறிக் கவுமாரர் பண்பு வாழி"என்ற தொடரால் விளங்குகின்றது. இவர் முருகப் பிரானிடத்தில் எல்லையில்லாப் பத்தி பூண்டவர். தமக்குப் பல வகையில் முருகனருள் கிட்டியதை இந்நூலுள் பல்வேறிடங்களில் கூறியுள்ளார்.  
+100-ஆவது பாடலில் வந்துள்ள 'பத்திநெறிக் கவுமாரர் பண்பு வாழி"என்ற தொடரால் விளங்குகின்றது. இவர் முருகப் பிரானிடத்தில் எல்லையில்லாப் பத்தி பூண்டவர். தமக்குப் பல வகையில் முருகனருள் கிட்டியதை இந்நூலுள் பல்வேறிடங்களில் கூறியுள்ளார்.  
 
 இந்நூலைக் கற்றவர்கள் அடையும் பயனைப் பின்வரும் பாடல் தெரிவிக்கின்றது.  
 
@@ -497,9 +499,9 @@ Madras-5, T. CHANDRASEKHARAN,
 
 இது, இந்நூல்நிலைய மூவருடக் காட்டலாக்கு
 
- 2812 ஆம் எண்ணில் விவரணஞ் செய்யப்பெற்றுள்ள பனையோலைப் பிரதியினை ஆதாரமாகக் கொண்டு வெளிவருகின்றது. இது,
+2812 ஆம் எண்ணில் விவரணஞ் செய்யப்பெற்றுள்ள பனையோலைப் பிரதியினை ஆதாரமாகக் கொண்டு வெளிவருகின்றது. இது,
 
- 1951-52- ஆம் ஆண்டில் குமாரக்குப்பம் ஸ்ரீ R. சண்முகம் என்பவரால் இந் நூல்நிலையத்துக்கு நன்கொடையாக அளிக்கப்பெற்றதாகும்.  
+1951-52- ஆம் ஆண்டில் குமாரக்குப்பம் ஸ்ரீ R. சண்முகம் என்பவரால் இந் நூல்நிலையத்துக்கு நன்கொடையாக அளிக்கப்பெற்றதாகும்.  
 
 **3. ஞான விநோதன் கலம்பகம்**  
 
@@ -561,7 +563,7 @@ Madras-5, T. CHANDRASEKHARAN,
 
   
 
- ###  . பேரைக் கலம்பகம்  
+###  . பேரைக் கலம்பகம்  
 
   
 
@@ -1573,7 +1575,7 @@ Madras-5, T. CHANDRASEKHARAN,
 
   
 
- ###  . திருமயிலாசலக் கலம்பகம்  
+###  . திருமயிலாசலக் கலம்பகம்  
 
   
 
@@ -3865,7 +3867,7 @@ Madras-5, T. CHANDRASEKHARAN,
 
   
 
- ###  . ஞான விநோதன் கலம்பகம்  
+###  . ஞான விநோதன் கலம்பகம்  
 
   
 
@@ -5613,9 +5615,9 @@ Madras-5, T. CHANDRASEKHARAN,
 
 தேவர்களேனும் 15தேவகியார் 30 ஒருகைமுகக் 3தேனார் பொருளைத் 44 ஒருபிழை 22தொழும்பாக்கி 39 கடல டங்கலுழி 29நாராய ணாவென 21 கண்ணகம் 24பதித்தநவரத்னமணி
 
- 101 காரணங்குறி யாய் 10பால்வடிவுந் 45 பின்னையைத் தழுவிப் 14மானென்பார் 42 பூமாது நலம் வடித்தூது 46வெடித்துச் சிவந்த 26 பெருவிட வரவணைப் 31வண்டிருக்கும் 37 மழைக்காவல்வாடைவந் தியங்க 99 மறைமு டித்தலை 6வாழி புகழப்பேரை
+101 காரணங்குறி யாய் 10பால்வடிவுந் 45 பின்னையைத் தழுவிப் 14மானென்பார் 42 பூமாது நலம் வடித்தூது 46வெடித்துச் சிவந்த 26 பெருவிட வரவணைப் 31வண்டிருக்கும் 37 மழைக்காவல்வாடைவந் தியங்க 99 மறைமு டித்தலை 6வாழி புகழப்பேரை
 
- 100 மாகவலைப் ???வாழி வலம் 19 மாவளர்த்த 25வானவர் தானவர் 9 ---------------  
+100 மாகவலைப் ???வாழி வலம் 19 மாவளர்த்த 25வானவர் தானவர் 9 ---------------  
 
 **2. திருமயிலாசலக் கலம்பகம்**  
 
@@ -5623,7 +5625,7 @@ Madras-5, T. CHANDRASEKHARAN,
 
 தொருமெய்
 
- 100ஏசகன்ற 51 அறிஞர்சூழ் 71ஏந்து பூண்முலை 23 அன்றுசிவப் பிரகாசன் 1ஏன மற 59 ஆகு மதை 70ஏனலங் கானில் 20 ஆட்டுப்பால் 2ஓதும் பனுவல் 75 ஆரார் செஞ்சடைப் 93கலையான 60 ஆன தா கின்றதினி 88கன்னிக் குறத்தி 4 ஆனமட் டினிற்பணி 11கிழமுனிவன் 57 ஆனையுரு வான 49இயல்வளமும் 61 இரங்கும் 2இருஞ்சூலம் 81  
+100ஏசகன்ற 51 அறிஞர்சூழ் 71ஏந்து பூண்முலை 23 அன்றுசிவப் பிரகாசன் 1ஏன மற 59 ஆகு மதை 70ஏனலங் கானில் 20 ஆட்டுப்பால் 2ஓதும் பனுவல் 75 ஆரார் செஞ்சடைப் 93கலையான 60 ஆன தா கின்றதினி 88கன்னிக் குறத்தி 4 ஆனமட் டினிற்பணி 11கிழமுனிவன் 57 ஆனையுரு வான 49இயல்வளமும் 61 இரங்கும் 2இருஞ்சூலம் 81  
 
 குகனே மயிலமலை 25தெய்வங்களத்தனையும் 78 குணப் பிசகும் 72தெய்வப் புலமையும் 79 குருபரா வெனத்தினமும் 12தேவருக் குஞ்சசி 44 குவிக்குங்கை 26தையலுக்கு 90 கூடுமவர்க் 41நண்ணல் கண்டு 21 கேட்டினுக்கு ளஞ்சி 83நமனஞ்சிய 56 கொற்ற வர்க்குமுயர் 69நலங்குலவு 29 கோவில் கொண்ட 32நன்றே வருக 96 சயிலமுழுக்கவும் 3நாயிற் கடையாகி 35 சலன மற்றதிரு 98நானங் கமழும் 67 சற்குருவாம் 80நானு நீயும் 30 செப்பரிய 66நிகழ்த்தரும் 24 சேயநின் 34படையா லொரு 55 சேயமா மலர் 8பண்குலவு 15 சேயமா முகங்கள் 16பரம்பிய தென்றல் 89 சேயிலங்கும் 36பவச் சாதி 82 சேய்முத் தமரர்பன்னிரண்டு 48 சொல்லு மாயப் 74பிரமாதி யாண்டதனில் தலையாலன் புடனே 84புகழனந்த 27 தனம்பகவானவர்மீதே 3புயலார் மயிலமலைப் 13 தாமரைக்கண் 42பொருசேவலணி 45 திகழுஞ் சண்முக 92மகிழ மாமலர் 77 திருமகள் சேர் 1மயங்கிசை 4 துடியடிக் களிற்றின் 40மயிலமலை 2 மயிலாசலத்துற்ற 5மயிலென 33மலியுங் கருணை 91வாத நூற்பிணக் காளர் 6 மலைத் தெய்வம் 3வார்வேல் 73 மனமுனது 50வாழுங் கிளியின் 54 மாட்டாத வென்னை 14வித்தை யாலும் 85 மின்றயங்கும் 76வியனார் கமல 58 மின்னவிர்ந் திலங்கு 99வீட்டு நேயம் 68 மின்னிலங்கிய 37வீரவடி வேற்கை 19 முத்த மனைய 18வேமப்பால் 65 முருக றாமலர் 9வேளஞ் சித்தன் 52 வஞ்சமெலாம் 38வேளணிமலர் 87 வருபல கனவினில் 97வேளைக்கருளும் 95 வரும மின்றிய 62வேளைக் குதவிடு 28 வளமலிந்த 47வேள்விடும் பூங்கணை31 வன்னமுலைத் துணையை 22  
 
@@ -5635,12 +5637,12 @@ Madras-5, T. CHANDRASEKHARAN,
 
 ஊசலாடுமிவ் 35தந்தையொடு 49 ஊன்வரு பெருநோய் 64தரையதன் மேல் 19 எனதே பிறவி 2தவிர மீதொன்று ??? என்புன்றலைமிசை78தனையாரும் 33 ஒழித்தலை 95தானிவ் வுலகின் 10 ஒன்றாயும் 1தானே வணங்குமென் 36 ஓசை தந்தமிர்த 44திணியமுருடாயொன்றை 14 கடையதாகிப் 96தீர்த்த மாவதும்68 கண்டே சொருபானந்தன் 65துங்கத் திருவடி 85 கமையால் வந்தது 21தொண்டர் 57 கலையல்லால் 79தொழிலவரடியிணை 61 கற்றவர்க ளாவாரும்???தொழுவார் 30 காலம்பல???நலனாகுவது 71 குத்திரம தாவுலகர் 51நன்று மறியேன்94 கூடாதே 53நாதனையென் 13 கொடிய விளையான் 58நின்ற தடியார் ??? சூடினேன்
 
- 100நின்றுநிலை யாது 29 செய்தவம் 76நெஞ்ச மறிய 59 செறிவுறு மடியார் 16பகராநின் றேன் 55 சொருபானந்த 89பகுத்த பேதமும் 91 ஞாலம் புகுந்தருளி 23படக்கடவது 67 ஞான்றவா ளருவி 41பட்டமதகரி 90 பதியாகின்ற 84பானந்திய சுவை 70 தவிரே 98பருதியு மதியும் 72 கற்றவர்கள் 60பாதந்தலையில் 63  
+100நின்றுநிலை யாது 29 செய்தவம் 76நெஞ்ச மறிய 59 செறிவுறு மடியார் 16பகராநின் றேன் 55 சொருபானந்த 89பகுத்த பேதமும் 91 ஞாலம் புகுந்தருளி 23படக்கடவது 67 ஞான்றவா ளருவி 41பட்டமதகரி 90 பதியாகின்ற 84பானந்திய சுவை 70 தவிரே 98பருதியு மதியும் 72 கற்றவர்கள் 60பாதந்தலையில் 63  
 
 பிணங்குவேனோ 87முன்னே நடுவே 3 பிறவியானுள 12மேனி வேறுமறிவே 18 புகழ்பெறு 4மேனின்ற5 புண்ணிய மவன் 38மொழிகிலீர் 50 புயமே குன்றமும் 11வந்தவர லாறொன்று 15 புயம்பொருந்தநடு 17வந்துபர மானந்த 83 பெறுவதினி 28வாராய் 27 போதா தனன் 74வாழு கின்றனர்கள் 9 மதிக்கை 69வாழும் பதநீ 48 மதியிலே னெனை 92வினை வனை 37 மருந்தா மவன் 56வேண்டாதே 31 மருளால் 42வேதநா யகனார் 43 மலர்மிசை மடந்தை 86வேறொன்றெனும் 24 மானா குந்துணை 25வையமினி 99 -----------------  
 
 This file was last updated on 20 May
 
- 2019.  
+2019.  
 
 Feel free to send the corrections to the Webmaster.

@@ -9,6 +9,8 @@ genres:
   - புதினம்
 ---
 
+
+
 ### விசிறி வாழை (காதல் நவீனம்)  
 
 சாவி (சா. விஸ்வநாதன்)  
@@ -33,13 +35,13 @@ genres:
 
 அட்டை வண்ணப்படம் கோபுலு, விலை ரூ
 
- 6500  
+6500  
 
 அச்சிட்டோர் : ஸ்ரீ ஸ்கந்தா ஆப்செட் பிரிண்டர்ஸ், சென்னை -600
 
 
 
- 029.  
+029.  
 
 Wrapper printed by : Madras Classic Pints (P) Ltd., Chennai-34  
 
@@ -3425,6 +3427,6 @@ Wrapper printed by : Madras Classic Pints (P) Ltd., Chennai-34
 
 This file was last updated on 29 Oct.
 
- 2018  
+2018  
 
 Feel free to send the corrections to the webmaster.
