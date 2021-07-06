@@ -1,6 +1,6 @@
 ---
 title: 'இராமாயணம் - யுத்த காண்டம் ( பகுதி 5, 6) படலங்கள் 26-32, 33-39'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 561
 authors:
   - கம்பர்

@@ -1,6 +1,6 @@
 ---
 title: 'எறிபத்த நாயனார் சரித்திரக் கீர்த்தனை'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 693
 authors:
   - வெங்கடசுப்பையர்

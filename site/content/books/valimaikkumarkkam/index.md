@@ -1,6 +1,6 @@
 ---
 title: 'வலிமைக்கு மார்க்கம் &amp; சாந்திக்கு மார்க்கம் (மொழி பெயர்ப்பு)'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 453
 authors:
   - வ.உ. சிதம்பரம் பிள்ளை

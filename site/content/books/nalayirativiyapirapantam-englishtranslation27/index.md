@@ -1,6 +1,6 @@
 ---
 title: 'நாலாயிரத் திவ்வியப் பிரபந்தம் ஆங்கில மொழிபெயர்ப்பு - பாகம் 4 (2971-4000)'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 623
 authors:
   - கௌசல்யா ஹார்ட்

@@ -1,6 +1,6 @@
 ---
 title: 'தமிழ் பழமொழிகள் தொகுப்பு ஆங்கில மொழியர்ப்புடன்'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 672
 authors:
   - பெர்சிவால்

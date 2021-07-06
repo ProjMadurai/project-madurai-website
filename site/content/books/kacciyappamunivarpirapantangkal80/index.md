@@ -1,6 +1,6 @@
 ---
 title: 'கச்சியப்பமுனிவர் பிரபந்தங்கள் - பகுதி 3 6. திருத்தணிகைப் பதிற்றுப்பத்தந்தாதி. 7. திருத்தணிகையாற்றுப்படை (உரையுடன்)'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 706
 authors:
   - கச்சியப்ப முனிவர்

@@ -1,6 +1,6 @@
 ---
 title: 'நன்மதி வெண்பா (சுமதி சதகம் / தமிழில் மொழி பெயர்ப்பு)'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 399
 authors:
   - எம்.ஆர். ஸ்ரீநிவாசய்யங்கார்

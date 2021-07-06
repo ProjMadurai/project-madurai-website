@@ -1,6 +1,6 @@
 ---
 title: 'சுப்பிரமணியர் திருவிருத்தம்; திருத்தணிகைத் திருவிருத்தம்; தொட்டிக்கலை சுப்பிரமணியத்தம்பிரான்'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 445
 authors:
   - சுப்பிரமணியத்தம்பிரான் சுவாமிகள்

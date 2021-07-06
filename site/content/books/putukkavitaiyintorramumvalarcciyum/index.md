@@ -1,6 +1,6 @@
 ---
 title: 'புதுக்கவிதையின் தோற்றமும் வளர்ச்சியும்'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 570
 authors:
   - வல்லிக்கண்ணன்

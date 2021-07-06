@@ -1,6 +1,6 @@
 ---
 title: 'திருஉந்தியார்'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 120
 authors:
   - உய்யவந்ததேவ நாயனார்

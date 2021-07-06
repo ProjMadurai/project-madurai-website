@@ -1,6 +1,6 @@
 ---
 title: 'வங்கச் சிறுகதைகள் (வங்கத்திலிருந்து தமிழாக்கம்)'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 398
 authors:
   - சு.கிருஷ்ணமூர்த்தி

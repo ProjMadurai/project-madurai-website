@@ -1,6 +1,6 @@
 ---
 title: 'நாலாயிர திவ்ய பிரபந்தம் - ஆங்கில மொழிபெயர்ப்பு (மூல பாசுரங்களுடன்)- பாகம் 1; 2 (பாசுரங்கள் 1 - 947)'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 512
 authors:
   - கௌசல்யா ஹார்ட்

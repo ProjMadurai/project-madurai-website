@@ -1,6 +1,6 @@
 ---
 title: 'சீறாப்புராணம் காண்டம்-2 பாகம்-2'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 175
 authors:
   - உமறுப் புலவர்

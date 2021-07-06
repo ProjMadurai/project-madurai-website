@@ -1,6 +1,6 @@
 ---
 title: '1. திருவண்ணாமலை வல்லாளமகாராஜன் சரித்திரக்கும்மி 2. திருவண்ணாமலை தீர்த்தக்கும்மி'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 768
 authors:
   - 1. சிறுமணவூர் முனிசாமி முதலியார் 2. சிறுமணவூர் முனிசாமி முதலியார்

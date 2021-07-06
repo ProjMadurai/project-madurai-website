@@ -1,6 +1,6 @@
 ---
 title: 'கந்த புராணம் - பகுதி 8a /யுத்த காண்டம் /பாகம் 1 (1 - 456)'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 289
 authors:
   - கச்சியப்ப சிவாச்சாரியார்

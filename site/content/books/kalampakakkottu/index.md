@@ -1,6 +1,6 @@
 ---
 title: 'கலம்பகக் கொத்து (பேரைக் கலம்பகம்,திருமயிலாசலக் கலம்பகம் ஞான விநோதன் கலம்பகம்'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 666
 authors:
   - த. சந்திரசேகரன் (தொகுப்பு)

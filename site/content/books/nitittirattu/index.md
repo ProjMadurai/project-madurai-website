@@ -1,6 +1,6 @@
 ---
 title: 'நீதித்திரட்டு - ஆசிரிய மாலை; குண்டலகேசித் திரட்டு; பெரும்பொருள் விளக்கம்; தகடூர் யாத்திரை (திரட்டு)'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 338
 authors:
   - 

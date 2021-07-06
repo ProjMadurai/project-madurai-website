@@ -1,6 +1,6 @@
 ---
 title: 'பிரபந்தத்திரட்டு: பகுதி பகுதி 33-1 : பட்டீச்சுரப்புராணம் பகுதி 33-2: திருவரன்குளப்புராணம்'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 352
 authors:
   - தி. மீனாட்சிசுந்தரம் பிள்ளை

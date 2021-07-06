@@ -1,6 +1,6 @@
 ---
 title: 'ஸ்ரீ குமரகுருபரஸ்வாமிகள் சரித்திரம் "பிரபந்தத்திரட்டு" பகுதி 34 (3409-3750)'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 701
 authors:
   - தி. மீனாட்சிசுந்தரம் பிள்ளை

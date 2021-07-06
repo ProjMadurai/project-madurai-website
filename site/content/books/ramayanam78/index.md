@@ -1,6 +1,6 @@
 ---
 title: 'இராமாயணம் /6. யுத்த காண்டம் ( பகுதி 3, 4) /படலங்கள் 16-32'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 558
 authors:
   - கம்பர்

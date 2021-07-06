@@ -1,6 +1,6 @@
 ---
 title: 'காக்கை விடு தூது'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 562
 authors:
   - பாந்தளூர் வெண்கோழியார் ச. வெள்ளைவாரணனார் (தொகுப்பு)

@@ -1,6 +1,6 @@
 ---
 title: 'ஞானக் குறவஞ்சி'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 692
 authors:
   - பதிப்பாசிரியர் : வீ. சொக்கலிங்கம்

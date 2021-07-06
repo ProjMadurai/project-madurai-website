@@ -1,6 +1,6 @@
 ---
 title: 'பெரியநாயகியம்மை கலித்துறை'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 298
 authors:
   - சிவப்பிரகாச சுவாமிகள்

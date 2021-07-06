@@ -1,6 +1,6 @@
 ---
 title: 'இராமாயணம் /4. கிட்கிந்தா காண்டம் (இரண்டாம் பகுதி) /படலங்கள் 8-16'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 539
 authors:
   - கம்பர்

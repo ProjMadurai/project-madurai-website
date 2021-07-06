@@ -1,6 +1,6 @@
 ---
 title: 'ஸ்ரீஆண்டாள் பிள்ளைத்தமிழ்'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 602
 authors:
   - மு. வேணுகோபாலசாமி நாயுடவர்கள் தொகுப்பு

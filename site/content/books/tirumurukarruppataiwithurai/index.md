@@ -1,6 +1,6 @@
 ---
 title: 'திருமுருகாற்றுப்படை - மூலமும் வையாபுரி பிள்ளை உரையும்'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 735
 authors:
   - நக்கீரர்

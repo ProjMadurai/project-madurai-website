@@ -1,6 +1,5 @@
 ---
 title: 'ஆத்திசூடி'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
 weight: 2
 authors:
   - ஒளவையார்
@@ -962,14 +961,4 @@ genres:
 
 திருவா சகமும் திருமூலர் சொல்லும்  
 
-ஒருவா சகமென் றுணர்.40  This page was first put up on June 21,
-
-2001  
-
-This unicode version was last revised on 13 Sept.
-
-2002  
-
-Please send your comments and corrections to the [Webmaster(s) of this site](mailto:kalyan@geocities.com?  
-
-subject=mp02 : auvaiyar works)
+ஒருவா சகமென் றுணர்.40 

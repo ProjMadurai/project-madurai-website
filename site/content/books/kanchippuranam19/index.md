@@ -1,6 +1,6 @@
 ---
 title: 'காஞ்சிப் புராணம் /காண்டம் 1, பகுதி 1 /பாயிரம்; படலம் 1-6 (1-444)'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 292
 authors:
   - சிவஞான யோகிகள்

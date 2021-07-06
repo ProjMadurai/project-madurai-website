@@ -1,6 +1,6 @@
 ---
 title: 'சிவகாமியின் சபதம் /பாகம் 3 /பிக்ஷுவின் காதல்'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 195
 authors:
   - கல்கி கிருஷ்ணமூர்த்தி

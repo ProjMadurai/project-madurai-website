@@ -1,6 +1,6 @@
 ---
 title: 'சிரிக்கும் பூக்கள் (பாடல்கள் தொகுப்பு)'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 535
 authors:
   - அழ.வள்ளியப்பா

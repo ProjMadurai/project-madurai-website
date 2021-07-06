@@ -1,6 +1,6 @@
 ---
 title: 'திருத்தொண்டர் புராண வரலாறு (சேக்கிழார் சுவாமிகள் புராணம்)'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 216
 authors:
   - உமாபதி சிவம்
@@ -13,7 +13,7 @@ genres:
 
 சேக்கிழார் சுவாமிகள் புராணம்)'  
 
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
+  
 
 weight:
 

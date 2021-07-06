@@ -1,6 +1,6 @@
 ---
 title: 'சுப்பிரமணியக்கடவுள் க்ஷேத்திரக்கோவைப் பிள்ளைத் தமிழ் "பழனிப்பிள்ளைத்தமிழ்'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 729
 authors:
   - (i) சிதம்பர முனிவர்; (ii) சின்னப்ப நாயக்கர்

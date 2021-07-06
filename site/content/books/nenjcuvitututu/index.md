@@ -1,6 +1,6 @@
 ---
 title: 'வினா வெண்பா; கொடிக்கவி; நெஞ்சு விடு தூது; சிவப்பிரகாசம்'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 200
 authors:
   - ஸ்ரீ ஈசான்ய ஞான தேசிகர் மீது

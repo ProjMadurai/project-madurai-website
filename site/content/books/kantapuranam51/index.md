@@ -1,6 +1,6 @@
 ---
 title: 'கந்த புராணம் - பகுதி 4 /அசுர காண்டம் (1 - 925 )'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 251
 authors:
   - கச்சியப்ப சிவாச்சாரியார்

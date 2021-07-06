@@ -1,6 +1,6 @@
 ---
 title: 'திருவருட்பா /திருமுறை 6.3 (பாடல்கள் 4615-5818)'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 146
 authors:
   - இராமலிங்க அடிகள்

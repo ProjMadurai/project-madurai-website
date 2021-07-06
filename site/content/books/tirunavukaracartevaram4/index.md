@@ -1,6 +1,6 @@
 ---
 title: 'தேவாரம் - நான்காம் திருமுறை; பாகம் 2 (பாடல்கள் 488-1070)'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 182
 authors:
   - திருநாவுக்கரசர்

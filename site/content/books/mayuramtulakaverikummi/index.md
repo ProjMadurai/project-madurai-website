@@ -1,6 +1,6 @@
 ---
 title: '1. மாயூரம் துலா காவேரி கும்மி 2. மாணிக்கவாசகர் சரித்திர கும்மி.'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 767
 authors:
   - 1. சிறுமணவூர் முனிசாமி முதலியார் 2. ஆவிடையார் கோவில் ஆத்மனாதய்யர்
@@ -15,7 +15,7 @@ genres:
 
 2. மாணிக்கவாசகர் சரித்திர கும்மி.'  
 
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
+  
 
 weight:
 

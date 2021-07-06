@@ -1,6 +1,6 @@
 ---
 title: 'பிரபந்தத்திரட்டு:பகுதி 32 (3322-3331): ஸ்ரீ சுப்பிரமணிய தேசிகர் நெஞ்சுவிடுதூது'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 351
 authors:
   - தி. மீனாட்சிசுந்தரம் பிள்ளை

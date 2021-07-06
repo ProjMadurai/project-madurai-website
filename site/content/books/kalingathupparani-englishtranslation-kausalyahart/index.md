@@ -1,6 +1,6 @@
 ---
 title: 'கலிங்கத்துப் பரணி ஆங்கில மொழிபெயர்ப்பு'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 730
 authors:
   - சயங்கொண்டார் & கௌசல்யா ஹார்ட்

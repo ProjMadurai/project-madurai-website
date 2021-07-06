@@ -1,6 +1,6 @@
 ---
 title: 'விவிலியம் /பழைய ஏற்பாடு /புத்தகம் 29 (யோவேல்); 30 (ஆமோஸ்); 31(ஒபதியா); 32 (யோனா); 33 (மீக்கா); 34 (நாகூம்); 35 (அபகூக்கு); 36 (செப்பனியா); 37 (ஆகாய்); 38 (செக்கரியா)'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 277
 authors:
   - விவிலியம்

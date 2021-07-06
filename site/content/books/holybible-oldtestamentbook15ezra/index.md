@@ -1,6 +1,6 @@
 ---
 title: 'விவிலியம் /பழைய ஏற்பாடு / புத்தகம் 15 (எஸ்ரா); 16.(நெகேமியா); 17 (எஸ்தர்); 18 (யோபு); 19 - திருப்பாடல்கள்'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 256
 authors:
   - விவிலியம்

@@ -1,6 +1,6 @@
 ---
 title: 'கூத்தியல் திரட்டு (இசை-நாட்டியக்கலை இயல் நுற்பாக்கள்)'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 340
 authors:
   - திரட்டியோன் - மயிலை சீனி வேங்கடசாமி
@@ -12,7 +12,7 @@ genres:
 
 ியக்கலை இயல் நுற்பாக்கள்)'  
 
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
+  
 
 weight:
 

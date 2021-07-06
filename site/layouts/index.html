@@ -13,9 +13,8 @@
 
   <div class="row">
     <div class="col-md-8 text-center offset-md-2">
-      <h4 class="fw-bold">மதுரை தமிழ் இலக்கிய மின்பதிப்புத் திட்டம்</h4>
-      <p class="lead fs-6">இது ஒரு உலகளாவிய தமிழர்கள் இணையம்வழி ஒன்றுகூடி தமிழ் இலக்கியங்களின் மின்பதிப்புக்களை உருவாக்கி அவற்றை இணையம்வழி உலகெங்கிலும் உள்ள தமிழர்களும் தமிழார்வலர்களும் இலவசமாக பெற வசதிசெய்யும் திட்டம்.
-      </p>
+      <h1 class="fw-bold">{{- .Title -}}</h1>
+      <p class="lead fs-6">{{- .Content -}}</p>
     </div>
   </div>
 
@@ -36,8 +35,8 @@
     {{ range (where .Site.Sections "Section" "books" ) }}
           {{ range first 8 .Pages  }}
           <div class="row-cols-1 col-md-3 my-2">
-            <h6 class="fw-bold text-truncate">
-              <a href="{{strings.TrimRight "/" .Permalink}}" class="text-decoration-none">{{.Title}}</a></h6>
+            <h2 class="fw-bold text-truncate">
+              <a href="{{strings.TrimRight "/" .Permalink}}" class="text-decoration-none">{{.Title}}</a></h2>
             {{- range $index, $element := .Params.authors }}
               {{ if gt $index 0 }} & {{ end }}
               <small>{{ . }}</small>

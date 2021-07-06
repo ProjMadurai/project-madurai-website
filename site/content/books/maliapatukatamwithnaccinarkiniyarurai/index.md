@@ -1,6 +1,6 @@
 ---
 title: 'மலைபடுகடாம் - மூலமும் நச்சினார்கினியர் உரையும்'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 505
 authors:
   - உ.வே. சாமிநாத அய்யர் (தொகுப்பு)

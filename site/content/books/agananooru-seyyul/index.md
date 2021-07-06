@@ -1,6 +1,6 @@
 ---
 title: 'அகநானூறு: பாகம் 2a & 2b செய்யுள் 121-300, நாட்டார் விளக்கவுரைகளுடன்'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 523
 authors:
   - நாவலர், ந.மு. வேங்கடசாமி நாட்டார்

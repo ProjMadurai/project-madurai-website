@@ -1,6 +1,6 @@
 ---
 title: 'சேக்கிழார் : ஆராய்ச்சி நூல்'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 526
 authors:
   - மா. இராசமாணிக்கனார்

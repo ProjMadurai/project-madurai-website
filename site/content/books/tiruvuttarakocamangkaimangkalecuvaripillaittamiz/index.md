@@ -1,6 +1,6 @@
 ---
 title: 'மங்களேசுவரி பிள்ளைத்தமிழ்'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 739
 authors:
   - வி. மு. சுப்பிரமணிய ஐயர் குறிப்புரையுடன்

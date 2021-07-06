@@ -1,6 +1,6 @@
 ---
 title: 'ஒரு கிராமத்துப் பெண்ணின் தலைப் பிரசவம்'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 185
 authors:
   - இரா. முருகன்

@@ -1,6 +1,6 @@
 ---
 title: 'சீகாழித் தலபுராணம் /பாகம் 2 / அத்தியாயம் 14 - 31'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 477
 authors:
   - அருணாசலக் கவிராயர்

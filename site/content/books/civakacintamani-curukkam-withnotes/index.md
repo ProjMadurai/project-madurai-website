@@ -1,6 +1,6 @@
 ---
 title: 'சீவக சிந்தாமணி - சுருக்கம் - உரைக் குறிப்புக்களுடன்'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 509
 authors:
   - ஔவை துரைசாமிப்பிள்ளை (தொகுப்பு)

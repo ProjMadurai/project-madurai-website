@@ -1,6 +1,6 @@
 ---
 title: 'விவிலியம் /புதிய ஏற்பாடு -6 /யாக்கோப்பு திருமுகம்'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 156
 authors:
   - விவிலியம்
@@ -12,7 +12,7 @@ genres:
 
 /யாக்கோப்பு திருமுகம்'  
 
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
+  
 
 weight:
 

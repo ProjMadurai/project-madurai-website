@@ -1,6 +1,6 @@
 ---
 title: 'அகநானூறு - களிற்றியானை நிரை (செய்யுள் 1-120 /2 பாகங்களாக)'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 490
 authors:
   - எம். முகுந்தன் (தொகுப்பு)

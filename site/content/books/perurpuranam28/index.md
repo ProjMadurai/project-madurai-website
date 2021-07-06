@@ -1,6 +1,6 @@
 ---
 title: 'பேரூர்ப் புராணம் - பகுதி 2 - படலம் 19 - 36 (1277 - 2220)'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 324
 authors:
   - கச்சியப்ப முனிவர்

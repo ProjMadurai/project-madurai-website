@@ -1,6 +1,6 @@
 ---
 title: 'இராமாயணம் /6. யுத்த காண்டம் ( பகுதி 1, 2) /படலங்கள் 1-15'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 545
 authors:
   - கம்பர்

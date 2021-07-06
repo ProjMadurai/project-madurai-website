@@ -1,6 +1,6 @@
 ---
 title: 'பழமொழி விளக்கம் /தண்டலையார் சதகம்'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 219
 authors:
   - படிக்காசுப் புலவர்
@@ -12,7 +12,7 @@ genres:
 
 சதகம்'  
 
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
+  
 
 weight:
 

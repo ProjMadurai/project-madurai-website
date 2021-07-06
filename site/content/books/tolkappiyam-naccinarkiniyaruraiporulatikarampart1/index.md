@@ -1,6 +1,6 @@
 ---
 title: 'தொல்காப்பியம் / பொருளதிகாரம்: அகத்திணையியல் (பாகம் 1)/பொருளதிகாரம்: புறத்திணையியல் (பாகம் 2)'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 500
 authors:
   - நச்சினார்கினியர் உரை

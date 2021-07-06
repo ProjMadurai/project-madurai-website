@@ -1,6 +1,6 @@
 ---
 title: 'மூன்று தமிழ் நாடகங்கள் : 1. மதன சுந்தரப் பிரசாத சந்தான விலாசம் 2. பாண்டிய கேளீ விலாஸ நாடகம் & 3. புரூரவ நாடகம்'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 679
 genres:
   - தொகுப்பு: கி.வா. ஜகன்னாதன்
@@ -16,7 +16,7 @@ authors:
 
 3. புரூரவ நாடகம்'  
 
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
+  
 
 weight:
 

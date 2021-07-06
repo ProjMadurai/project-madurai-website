@@ -1,6 +1,6 @@
 ---
 title: 'கடல் கடந்த நட்பு /ஜூடி & லட்சுமி தமிழாக்கம்'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 715
 authors:
   - நயோமி மிச்சிஸன் -ம. பெரியசாமித்தூரன்

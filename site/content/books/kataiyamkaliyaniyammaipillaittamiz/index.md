@@ -1,6 +1,6 @@
 ---
 title: 'கடையம் (வளைசை) கலியாணியம்மை பிள்ளைத்தமிழ்'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 782
 authors:
   - திருப்புலியூர் அழகிய திருச்சிற்றம்பல தேசிகர்

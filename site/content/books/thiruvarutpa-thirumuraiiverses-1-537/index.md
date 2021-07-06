@@ -1,6 +1,6 @@
 ---
 title: 'திருவருட்பா /திருமுறை 1 (பாடல்கள் 1-570)'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 18
 authors:
   - இராமலிங்க அடிகள்
@@ -13,7 +13,7 @@ genres:
 
 ல்கள் 1-570)'  
 
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
+  
 
 weight: 18  
 

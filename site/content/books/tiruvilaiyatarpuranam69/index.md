@@ -1,6 +1,6 @@
 ---
 title: 'திருவிளையாடற் புராணம் (திருவாலவாய் மான்மியம்) / 3. திருவாலவாய்க் காண்டம் (படலம் 49-65)'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 497
 authors:
   - பரஞ்சோதி முனிவர்

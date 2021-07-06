@@ -1,6 +1,6 @@
 ---
 title: '108 திருப்பதி அந்தாதி'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 476
 authors:
   - திவ்யகவி பிள்ளைப் பெருமாள் ஐயங்கார் (அழகிய மணவாள தாசர்)

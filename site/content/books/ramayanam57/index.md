@@ -1,6 +1,6 @@
 ---
 title: 'இராமாயணம் /3. ஆரணிய காண்டம் (2-ம் பகுதி); படலங்கள் 7-11'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 455
 authors:
   - கம்பர்

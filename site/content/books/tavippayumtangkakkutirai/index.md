@@ -1,6 +1,6 @@
 ---
 title: 'தாவிப் பாயும் தங்கக் குதிரை கள்வர் குகை'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 742
 authors:
   - பாவலர் நாரா. நாச்சியப்பன்

@@ -1,6 +1,6 @@
 ---
 title: 'விவிலியம் /பழைய ஏற்பாடு / புத்தகம் 21 (சபை உரையாளர்); 22 (இனிமைமிகுபாடல்); 23 (எசாயா); 24 (எரேமியா)'
-thumbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'
+
 weight: 267
 authors:
   - விவிலியம்
