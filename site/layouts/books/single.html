@@ -3,8 +3,11 @@
   {{if ne .Parent.Title "Books"}} 
   <ol class="breadcrumb">      
     <li class="breadcrumb-item" aria-current="page">
-        <a class="h4" href="{{strings.TrimRight "/" .Parent.Permalink}}">{{.Parent.Title}}</a>
+        <a class="h4" href="{{strings.TrimRight "/" .Parent.Permalink}}">{{.Parent.Parent.Title}}</a>
     </li>     
+    <li class="breadcrumb-item" aria-current="page">
+      <a class="h4" href="{{strings.TrimRight "/" .Parent.Permalink}}">{{.Parent.Title}}</a>
+  </li>     
     <li class="breadcrumb-item h5" aria-current="page">{{.Title}}</li>
   </ol>
   {{ else }}
