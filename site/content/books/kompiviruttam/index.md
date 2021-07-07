@@ -8,9 +8,6 @@ genres:
 - விருத்தம்
 ---
 
-----  
-
-MRR V. Swaminatha Iyer Avergal, Tamil Pundit, Kumbakonam College, says:-- It' gave me immense pleasure to go through "kombi Viruththam" by M.R.R.Ry V.P Subramania Mudaliar Averkal. Its diction and ideas are highly praiseworthy. It is an interesting that I cannot bring myself to attend to anything else, while reading it. It evinces the profound scholarship of the Author in classical work and bids fair to be of great use to Students. (Translated from Tamil )  
 
 ம-௱-௱ஸ்ரீ வெ.ப. சுப்பிரமணிய முதலியாரவர்களியற்றிய கோம்பி விருத்தத்தைப் படித்து நிரம்பச் சந்தோஷமடைந்தேன். இதில் அமைந்துள்ள சொல் நயமும் பொருள்நயமும் மிகப் பாராட்டற்பாலன. இதைப் படிக்கும்பொழுது இடையிலே வைத்துவிட்டு வேறொன்றைச் சொய்தற்கு எனக்கு மனம் வரவில்லை. இவர்கள் சிறந்த நூல்களில் ஒழுங்கான பாண்டித்திய முள்ளவர்களென்பதை இது வெளியாக்குகின்றது. இந்நூல், வித்தியாசாலையில் படிக்கும் மாணாக்கர்களுக்கு மிகப் பயன்றருமென்று நம்புகிறேன்.  
 
