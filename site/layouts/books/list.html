@@ -28,6 +28,7 @@
 
     <div class="row row-cols-1 row-cols-md-6 gx-4 ">
         {{ range .Pages }}
+        {{ if .Description }}
         <div class="col mb-3">
           <a  class="text-decoration-none" href="{{strings.TrimRight "/" .Permalink}}">
             <div class="card bg-light border-0 h-100">
@@ -48,9 +49,10 @@
             </div>
 
           </div>
-          </div></a>
+          </div>
+        </a>
         </div>
-        
+        {{ end }}
         {{ end }}
     </div>
 

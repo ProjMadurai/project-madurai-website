@@ -34,6 +34,7 @@
 
     {{ range (where .Site.Sections "Section" "books" ) }}
           {{ range first 8 .Pages  }}
+          {{ if .Description }}
           <div class="row-cols-1 col-md-3 my-2">
             <h2 class="fw-bold text-truncate">
               <a href="{{strings.TrimRight "/" .Permalink}}" class="text-decoration-none">{{.Title}}</a></h2>
@@ -43,7 +44,7 @@
             {{ end }}
            
           </div>
-
+          {{ end }}
           
         {{ end }} 
       {{ end }} 
