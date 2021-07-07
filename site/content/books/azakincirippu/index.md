@@ -1,30 +1,11 @@
 ---
 title: 'அழகின் சிரிப்பு'
-
 weight: 37
 authors:
-  - பாரதிதாசன்
+- பாரதிதாசன்
 genres:
-  - கவிதைகள்
+- கவிதைகள்
 ---
-
-
-
-'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
-
-weight: 37  
-
-authors:  
-
-- பாரதிதாசன்  
-
-genres:  
-
-- கவிதைகள்  
-
----  
-
-  
 
 # azakin cirippu by Bharathidasan(in tamil script, unicode format)  
 

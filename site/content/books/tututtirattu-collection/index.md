@@ -1,45 +1,14 @@
 ---
 title: 'தூதுத் திரட்டு (6 தூது நூல்கள்) 1. பெரிய தம்பி பிள்ளை பேரில் மான்விடு தூது 2. முத்துவீரப்பப் பிள்ளை பேரில் மான்விடு தூது 3. வெள்ளைய ராசேந்திரன் துகில்விடு தூது 4. செங்குந்தர் துகில்விடு தூது 5. சங்கரமூர்த்தி பேரில் விறலிவிடு தூது 6. மணவை - திருவேங்கடமுடையான் மேக விடு தூது'
-
 weight: 617
 authors:
-  - புலவர் பசுபதி, சந்திரசேகரன் தொகுப்பு
+- புலவர் பசுபதி, சந்திரசேகரன் தொகுப்பு
 genres:
-  - தூது
-  - பிரபந்தம்
+- தூது
+- பிரபந்தம்
 ---
 
-
-
-### தூதுத் திரட்டு  
-
-புலவர் பசுபதி, சந்திரசேகரன் தொகுப்பு  
-
-  
-
-**Source:**  
-
-தூதுத் திரட்டு (TUTU-T-TIRATTU)  
-
-Edited by T. CHANDRASEKHARAN  
-
-Curator, Government Oriental Manuscripts Library, Madras,  
-
-AND THE STAFF OF THE LIBRARY.  
-
-(Prepared under the orders of the Government of Madras.)  
-
-1957  
-
-Price, Rs. 2-30.  
-
-Dorson Press, 2/47, Royapettah High Road, Mylapore, Madras-4.  
-
-MADRAS GOVERNMENT ORIENTAL MANUSCRIPTS SERIES No.
-
-58.  
-
-----------------  
+-------------  
 
 பொருளடக்கம்  
 

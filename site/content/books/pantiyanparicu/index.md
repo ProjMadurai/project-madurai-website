@@ -1,14 +1,11 @@
 ---
 title: 'பாண்டியன் பரிசு'
-
 weight: 104
 authors:
-  - பாரதிதாசன்
+- பாரதிதாசன்
 genres:
-  - காவியம்
+- காவியம்
 ---
-
-
 
 ## "icai amutu" by Bharathidaasan in TSCII format  
 

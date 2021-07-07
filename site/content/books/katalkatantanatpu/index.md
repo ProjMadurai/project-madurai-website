@@ -1,69 +1,14 @@
 ---
 title: 'கடல் கடந்த நட்பு /ஜூடி & லட்சுமி தமிழாக்கம்'
-
 weight: 715
 authors:
-  - நயோமி மிச்சிஸன் -ம. பெரியசாமித்தூரன்
+- நயோமி மிச்சிஸன் -ம. பெரியசாமித்தூரன்
 genres:
-  - நாவல்
-  - மொழிபெயர்ப்பு
+- நாவல்
+- மொழிபெயர்ப்பு
 ---
 
-
-
-### கடல் கடந்த நட்பு (ஜூடி, லட்சுமி தமிழாக்கம்)  
-
-நயோமி மிச்சிஸன் /*தமிழாக்கம் : ம. பெரியசாமித்தூரன்  
-
-  
-
-**Source:**  
-
-கடல் கடந்த நட்பு (ஜூடி, லட்சுமி தமிழாக்கம்)  
-
-நயோமி மிச்சிஸன் /*தமிழாக்கம் : ம. பெரியசாமித்தூரன்)  
-
-நேஷனல் புத்தக டிரஸ்ட் ஆதரவில்  
-
-தென்மொழிகள் புத்தக டிரஸ்ட் மூலமாகப் பதிப்பிக்கப்பெற்றது  
-
-வெளியிட்டோர் : கலைஞன் பதிப்பகம்  
-
-தியாகராயநகர், சென்னை-17  
-
-KADAL KADANTHA NATPU  
-
-Tamil Translation of "JUDY AND LAKSHMI"  
-
-by NAOMI MITCHISON  
-
-Published by Ms. David Higham Associates Ltd., London.  
-
-© NAOMI MITCHISON,
-
-1959  
-
-Tamil Translation by M. PERIASAMI THOORAN  
-
-Price Rs. 1-65  
-
-Tamil First edition
-
-5000 copies, November
-
-1963  
-
-Sponsored by the National Book Trust India, New Delhi  
-
-through The Southern Languages Book Trust, Madras  
-
-Second Series: Tamil: Number Thirty Two  
-
-Publishers KALAIGNAN PATHIPPAGAM, MADRAS-17  
-
-Printed at MULLAI PRINTERS, MADRAS-6  
-
----------------  
+------------  
 
 **படையல்**  
 
@@ -84,8 +29,6 @@ Printed at MULLAI PRINTERS, MADRAS-6
 இத்துறையில் அவர்கள் மேலும் சிறந்த நூல்களை எளிய விலையில் வெளியிட்டுத் தென் பகுதி மக்களுக்கும் நாடு முழுமைக்கும் பயன்படும் வகையில் முன்னேற இறைவன் அருள்வானாக,  
 
 (சி. சுப்பிரமணியம்)  
-
-------  
 
   
 

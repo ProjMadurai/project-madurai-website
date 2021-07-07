@@ -1,63 +1,14 @@
 ---
 title: 'இரகுநாதசேதுபதி ஒருதுறைக்கோவை'
-
 weight: 405
 authors:
-  - பொன்னாங்கால் அமிர்தகவிராயரவர்
+- பொன்னாங்கால் அமிர்தகவிராயரவர்
 genres:
-  - கோவை
-  - பிரபந்தம்
+- கோவை
+- பிரபந்தம்
 ---
 
-
-
-### பொன்னாங்கால் அமிர்தகவிராயரவர்களாலியற்றிய  
-
-இரகுநாதசேதுபதி ஒருதுறைக்கோவை.  
-
-  
-
-**Source:**  
-
-பொன்னாங்கால் அமிர்தகவிராயரவர் இயற்றிய  
-
-" இரகுநாதசேதுபதி ஒருதுறைக்கோவை".  
-
-நாணிக்கண் புதைத்தல்  
-
-தில்லைவிடங்கன் சேதி.துரைசாமிப்பிள்ளை,  
-
-கேட்டுக்கொண்டபடி  
-
-இஃது சென்னை- பச்சையப்பன்காலேஜ்  
-
-தமிழ்ப்பண்டிதர்-ம-௱-ஸ்ரீ.  
-
-கிருஷ்ண‌சாமி முதலியார் மாணாக்கர்  
-
-ஆ. சென்னகேசவலு நாயுடு  
-
-அவர்களால் பார்வையிடப்பட்டு,  
-
-திரிசிரபுரம் புஸ்தகவியாபாரம்  
-
-தி. சபாபதிபிள்ளை அவர்களாற்ற‌மது,  
-
-ஸ்ரீமட்டுவார்குழல‌ம்பாள் அச்சுக்கூடத்திற்  
-
-பதிப்பிக்கப்பட்டது.  
-
-1889  
-
-________  
-
-Alert:  
-
-Please take note that the quality of the scanned image of this
-
-1889 publication is not adequate to identify unambiguously each Tamil character, particularly pure consonants (mei) in all relevant places of this poetry work. We have done our best but errors are likely, particularly at places marked with an asterisk (/*).  
-
----------------  
+------------  
 
 தெய்வமே துணை.  
 
@@ -1999,4 +1950,4 @@ Please take note that the quality of the scanned image of this
 
 This file was last updated on 4 April
 
-2012  
+2012

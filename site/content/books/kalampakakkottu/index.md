@@ -1,47 +1,14 @@
 ---
 title: 'கலம்பகக் கொத்து (பேரைக் கலம்பகம்,திருமயிலாசலக் கலம்பகம் ஞான விநோதன் கலம்பகம்'
-
 weight: 666
 authors:
-  - த. சந்திரசேகரன் (தொகுப்பு)
+- த. சந்திரசேகரன் (தொகுப்பு)
 genres:
-  - கலம்பகம்
-  - பிரபந்தம்
+- கலம்பகம்
+- பிரபந்தம்
 ---
 
-
-
-### கலம்பகக் கொத்து  
-
-(பேரைக் கலம்பகம், திருமயிலாசலக் கலம்பகம் மற்றும்  
-
-ஞான விநோதன் கலம்பகம்)  
-
-  
-
-**Source (நூல் விவரக் குறிப்பு):**  
-
-Kalampakak Kothu - கலம்பகக் கொத்து  
-
-Edited by T. CHANDRASEKHARAN, M.A., L.T.,  
-
-Curator, Government Oriental Manuscripts Library, Madras  
-
-and the Staff of the Library  
-
-Published Under the Orders of the Govt. of Madras  
-
-1960  
-
-Price Rs. 2-50  
-
-Printed at the Rathnam Press  
-
-65, Tiruppalli Street, Madras-1.  
-
-Madras Government Oriental Manuscripts Series Nr. 68  
-
-----------------  
+-------------  
 
   
 

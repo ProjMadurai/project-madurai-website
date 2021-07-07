@@ -1,35 +1,12 @@
 ---
 title: 'திருநூற்றந்தாதி'
-
 weight: 333
 authors:
-  - அவிரோதி ஆழ்வார்
+- அவிரோதி ஆழ்வார்
 genres:
-  - அந்தாதி
-  - பிரபந்தம்
+- அந்தாதி
+- பிரபந்தம்
 ---
-
-
-
-'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
-
-weight:
-
-333  
-
-authors:  
-
-- அவிரோதி ஆழ்வார்  
-
-genres:  
-
-- அந்தாதி  
-
-- பிரபந்தம்  
-
----  
-
-  
 
 # tirunURRantAti (in tamil script UTF-8)  
 

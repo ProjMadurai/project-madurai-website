@@ -1,35 +1,12 @@
 ---
 title: 'திருவருட்பா /திருமுறை 1 (பாடல்கள் 1-570)'
-
 weight: 18
 authors:
-  - இராமலிங்க அடிகள்
+- இராமலிங்க அடிகள்
 genres:
-  - சமயம்
-  - சைவம்
+- சமயம்
+- சைவம்
 ---
-
-
-
-ல்கள் 1-570)'  
-
-  
-
-weight: 18  
-
-authors:  
-
-- இராமலிங்க அடிகள்  
-
-genres:  
-
-- சமயம்  
-
-- சைவம்  
-
----  
-
-  
 
 # thiruvarutpa -thirumurai I /verses (1-537) (in tamil script, Unicode format)  
 

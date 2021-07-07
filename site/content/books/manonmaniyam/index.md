@@ -1,14 +1,11 @@
 ---
 title: 'மனோண்மணீயம்'
-
 weight: 105
 authors:
-  - சுந்தரம் பிள்ளை
+- சுந்தரம் பிள்ளை
 genres:
-  - 
+-
 ---
-
-
 
 ## manonmaNIyam by cuntaram piLLai ( in TSCII format)  
 

@@ -1,36 +1,13 @@
 ---
 title: 'மோகவாசல் (சிறுகதைத் தொகுப்பு)'
-
 weight: 82
 authors:
-  - ரஞ்சகுமார்
+- ரஞ்சகுமார்
 genres:
-  - சிறுகதைகள் தொகுப்பு
+- சிறுகதைகள் தொகுப்பு
 ---
 
-
-
-## மோகவாசல் : ரஞ்சகுமார்  
-
-  
-
-###  . சுருக்கும் ஊஞ்சலும்  
-
-2. கபரக் கொய்யாக்கள்  
-
-3. காலம் உனக்கொரு பாட்டெழுதும்  
-
-4. கோசலை  
-
-5. அரசி  
-
-6. கோளறு பதிகம்  
-
-7. மோகவாசல்  
-
-mojha vasal  
-
-a collection of short stories in Tamil---by ranjakumar (age: 30+)  
+by ranjakumar (age: 30+)  
 
 address: kayalakam, mathony, karaveddy west, karaveddy, sri lanka  
 

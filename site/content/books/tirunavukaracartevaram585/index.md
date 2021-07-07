@@ -1,29 +1,14 @@
 ---
 title: 'தேவாரம் - ஐந்தாம் திருமுறை; பாகம் 1 (பாடல்கள் 1-519)'
-
 weight: 186
 authors:
-  - திருநாவுக்கரசர்
+- திருநாவுக்கரசர்
 genres:
-  - சமயம்
-  - சைவம்
+- சமயம்
+- சைவம்
 ---
 
-
-
-## திருநாவுக்கரசு சுவாமிகள் அருளிச்செய்த  
-
-தேவாரப் பதிகங்கள்  
-
-ஐந்தாம் திருமுறை முதற் பகுதி  
-
-பாடல்கள் (1-509)  
-
-  
-
-**உள்ளுறை**  
-
-[5.001]()கோயில்(1-11)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5001)[5.002]()கோயில்(12-21)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5002)[5.003]()திருவரத்துறை(22-31)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5003)[5.004]()திருவண்ணாமலை(32-41)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5004)[5.005]()திருவண்ணாமலை(42-51)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5005)[5.006]()திருவாரூர்(52-61)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5006)[5.007]()திருவாரூர்(62-73)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5007)[5.008]()திருஅன்னியூர்(74-83)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5008)[5.009]()திருமறைக்காடு(84-93)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5009)[5.010]()திருமறைக்காடு(94-104)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5000)[5.011]()திருமீயச்சூர்(105-114)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5011)[5.012]()திருவீழிமிழலை(115-125)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5012)[5.013]()திருவீழிமிழலை(126-135)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5013)[5.014]()திருவிடைமருதூர்(136-146)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5014)[5.015]()திருவிடைமருதூர்(147-152)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5015)[5.016]()திருப்பேரெயில்(153-163)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5016)[5.017]()திருவெண்ணியூர்(164-174)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5017)[5.018]()திருக்கடம்பந்துறை(175-184)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5018)[5.019]()திருக்கடம்பூர்(185-195)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5019)[5.020]()திருக்கடம்பூர்(196-205)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5020)[5.021]()திருவின்னம்பர்(206-215)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5021)[5.022]()திருக்குடமூக்கு(216-225)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5022)[5.023]()திருநின்றியூர்(226-235)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5023)[5.024]()திருவொற்றியூர்(236-245)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5024)[5.025]()திருப்பாசூர்(246-256)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5025)[5.026]()திருவன்னியூர்(257-265)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5026)[5.027]()திருவையாறு(266-275)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5027)[5.028]()திருவையாறு(276-285)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5028)[5.029]()திருவாவடுதுறை(286-295)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5029)[5.030]()திருப்பராய்த்துறை(296-306)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5030)[5.031]()திருவானைக்கா(307-316)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5031)[5.032]()திருப்பூந்துருத்தி(317-326)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5032)[5.033]()திருச்சோற்றுத்துறை(327-337)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5033)[5.034]()திருநெய்த்தானம்(338-347)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5034)[5.035]()திருப்பழனம்(348-357)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5035)[5.036]()திருச்செம்பொன்பள்ளி(358-367)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5036)[5.037]()திருக்கடவூர்வீரட்டம்(368-378)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5037)[5.038]()திருக்கடவூர்மயானம்(379-386)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5038)[5.039]()திருமயிலாடுதுறை(387-397)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5039)[5.040]()திருக்கழிப்பாலை(398-406)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5040)[5.041]()திருப்பைஞ்ஞீலி(307-316)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5041)[5.042]()திருவேட்களம்(317-326)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5042)[5.043]()திருநல்லம்(327-337)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5043)[5.044]()திருவாமாத்தூர்(338-347)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5044)[5.045]()திருத்தோணிபுரம்(348-357)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5045)[5.046]()திருப்புகலூர்(358-367)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5046)[5.047]()திருவேகம்பம்(368-378)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5047)[5.048]()திருவேகம்பம்(379-386)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5048)[5.049]()திருவெண்காடு(387-397)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5049)[5.050]()திருவாய்மூர்(398-406)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0186.html#dt5050) ----------  [  
+-------  [  
 
 ###  .1 கோயில் - திருக்குறுந்தொகை  
 

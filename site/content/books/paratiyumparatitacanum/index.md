@@ -1,84 +1,13 @@
 ---
 title: 'பாரதியும் பாரதிதாசனும்'
-
 weight: 668
 authors:
-  - அ. ச. ஞானசம்பந்தன்
+- அ. ச. ஞானசம்பந்தன்
 genres:
-  - ஆராய்ச்சிக் கட்டுரைகள்
+- ஆராய்ச்சிக் கட்டுரைகள்
 ---
 
-
-
-### பாரதியும் பாரதிதாசனும்  
-
-பேராசிரியர் அ. ச. ஞானசம்பந்தன்  
-
-  
-
-**Source (நூல் விவரக் குறிப்பு):**  
-
-பாரதியும் பாரதிதாசனும்  
-
-பேராசிரியர் அ. ச. ஞானசம்பந்தன்  
-
-கங்கை புத்தக நிலையம்  
-
-13, தீனதயாளு தெரு, தி. நகர், சென்னை-600
-
-
-
-017.  
-
-முதற் பதிப்பு: மார்ச்
-
-1995; இரண்டாம் பதிப்பு : மார்ச்
-
-1999  
-
-விலை ரூ.
-
-30.00  
-
-Title: Bharathiyum Bharathi Dasanum  
-
-Author : A. Sa. Gnanasambandhan  
-
-Language : Tamil  
-
-Edition : Second Edition, March,
-
-1999  
-
-No. of pages: iv +
-
-160 =
-
-164  
-
-Published by : Gangai Puthakaniyalam,  
-
-13, Deenadayalu Street, Thyagaraya Nagar, Chennai-600
-
-
-
-017.  
-
-Price : Rs.
-
-30.00  
-
-Printed at Mani Offset,
-
-112, Bells Road,  
-
-Chennai-5. Ph:
-
-8555249,
-
-8588186..  
-
---------------  
+-----------  
 
   
 

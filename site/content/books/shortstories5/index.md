@@ -1,84 +1,15 @@
 ---
 title: 'கலைஞரின் சிறுகதைகள் short stories'
-
 weight: 698
 authors:
-  - கலைஞர் மு. கருணாநிதி
-  - ராஜா Kalaignar Karunanidhi
+- கலைஞர் மு. கருணாநிதி
+- ராஜா Kalaignar Karunanidhi
 genres:
-  - ஆங்கில மொழிபெயர்ப்பு English Translation
-  - சிறுகதைகள்
+- ஆங்கில மொழிபெயர்ப்பு English Translation
+- சிறுகதைகள்
 ---
 
-
-
-### கலைஞரின் சிறுகதைகள்  
-
-கலைஞர் கருணாநிதி  
-
-(ராஜா ஆங்கில மொழிபெயர்ப்பு)  
-
-  
-
-**Source:**  
-
-கலைஞரின் சிறுகதைகள்  
-
-(ஆங்கில மொழிபெயர்ப்பு)  
-
-கலைஞர் கருணாநிதி (ராஜா மொழிபெயர்ப்பு) Kalaignar in English Translation  
-
-As Is in the Original (Short Stories)  
-
-Translated by : P. Raja  
-
-Edited by : P. Marudanayagam & V. Murugan  
-
-Bharathiar University, Coimbatore, India & Macmillon Publishers India Ltd.  
-
-© Bharathiar University, Coimbatore
-
-2009  
-
-All rights reserved. No part of this publication may be reproduced or transmitted,  
-
-in any form or by any means, without permission.  
-
-First published
-
-2009  
-
-Macmillan Publishers India Ltd., Mumbai/Delhi/Chennai, Companies and representatives throughout the world  
-
-ISBN 10:0230-639259 ; ISBN 13:
-
-978-0230639256  
-
-Rs
-
-300  
-
-Published by : Rajiv Beri for Macmillan Publishers India Ltd, New Delhi
-
-110
-
-002  
-
-Typeset by : Bharati Composers, Rohini, Delhi
-
-110
-
-085  
-
-Cover Picture : Mariam Selven  
-
-Printed by S.M. Yogan at Macmillan India Press, Chennai
-
-600
-
-041  
-
-----------  
+-------  
 
 The views and content of this book are solely of the author(s).  
 
@@ -470,8 +401,6 @@ the conjugal bliss."
 
 "Yes! I've understood it," Nalayini jumped for joy. She embraced Idhaya. Tears of sorrow turned into tears of joy. And on that day began a sweet song in that hermitage.  
 
-------  
-
 /* According to Hindu mythology, Nalayini in her next birth was born as Draupadi.  
 
 ---------------  
@@ -605,8 +534,6 @@ The inspiring music from pambai drums - the youthful gyrating dance to the tune 
 -----  
 
 [2]. (formerly) a freeholder of some status who manages his farm himself as part of a village.  
-
-------  
 
 "My God! What a lovely art? But why should it be wasted in this manner? Why should they mix sandal powder with sewage water? What if you mix milk with venom or venom with milk? The result is the same”, thus she stood with awe and with an inquisitive mind. Mirasudhar[2] Mrugandu's attention turned towards Kanimozhi. He had the kavadi on his shoulders. But his heart was chanting the name of Kanimozhi. Such was his devotion to the Lord.  
 

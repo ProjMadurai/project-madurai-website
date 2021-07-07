@@ -1,35 +1,12 @@
 ---
 title: 'மதுரைக் கோவை'
-
 weight: 259
 authors:
-  - நிம்பைச் சங்கர நாரணர்
+- நிம்பைச் சங்கர நாரணர்
 genres:
-  - கோவை
-  - பிரபந்தம்
+- கோவை
+- பிரபந்தம்
 ---
-
-
-
-tps://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
-
-weight:
-
-259  
-
-authors:  
-
-- நிம்பைச் சங்கர நாரணர்  
-
-genres:  
-
-- கோவை  
-
-- பிரபந்தம்  
-
----  
-
-  
 
 # maturaikkOvai of cangkara nAraNar (in Tamil, Unicode format)  
 

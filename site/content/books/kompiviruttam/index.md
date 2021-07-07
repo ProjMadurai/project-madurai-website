@@ -1,49 +1,14 @@
 ---
 title: 'கோம்பி விருத்தம் - மூலமும் உரையும்'
-
 weight: 448
 authors:
-  - வெ.ப. சுப்பிரமணிய முதலியார்
+- வெ.ப. சுப்பிரமணிய முதலியார்
 genres:
-  - பிரபந்தம்
-  - விருத்தம்
+- பிரபந்தம்
+- விருத்தம்
 ---
 
-
-
-### கோம்பி விருத்தம் : மூலமும் உரையும்  
-
-வெ.ப. சுப்பிரமணிய முதலியார் இயற்றியது.  
-
-  
-
-உ  
-
-கணபதி துணை  
-
-**Source:**  
-
-"KOMBI VIRUTHAM"  
-
-A TAMIL POEM ADOPTED FROM "CHAMELEON"  
-
-BY V.P. SUBRAMANIA MUDALIAR, G.B.V.C.,  
-
-(Graduate of the Bombay Veterinary College.)  
-
-கோம்பி விருத்தம் : மூலமும் உரையும்  
-
-வெ.ப. சுப்பிரமணிய முதலியார் இயற்றியது.  
-
-Madras  
-
-PRINTED BY S. J. CHOWRRYAPPAH, AT THE ALBINION PRESS.  
-
-1897.  
-
-(All rights reserved.)  
-
--------  
+----  
 
 MRR V. Swaminatha Iyer Avergal, Tamil Pundit, Kumbakonam College, says:-- It' gave me immense pleasure to go through "kombi Viruththam" by M.R.R.Ry V.P Subramania Mudaliar Averkal. Its diction and ideas are highly praiseworthy. It is an interesting that I cannot bring myself to attend to anything else, while reading it. It evinces the profound scholarship of the Author in classical work and bids fair to be of great use to Students. (Translated from Tamil )  
 
@@ -84,8 +49,6 @@ V.P.S.
 பாட்டொருபக்கம் உரையொருபக்கமாக இருந்தால், இரண்டையும் ஒத்துப்பார்த்துப் பொருள் தெரிந்துகொள்ளல் சிறிது பிரயாசமாக விருக்குமென்று, அவ்வப் பாட்டின் கீழே அதனதன் உரையும் அரும்பதவிளக்கமும் விசேஷக்குறிப்பும் சேர்க்கப் பட்டிருக்கின்றன.  
 
 வெ. ப. சு.  
-
-------  
 
   
 

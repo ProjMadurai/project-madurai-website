@@ -1,37 +1,12 @@
 ---
 title: 'Manimekalai மணிமேகலை- மொழிபெயர்ப்பு - English Translation'
-
 weight: 710
 authors:
-  - cIttalai cAttanAr- Kausalya Hart
+- cIttalai cAttanAr- Kausalya Hart
 genres:
-  - காப்பியம்
-  - மொழிபெயர்ப்பு
+- காப்பியம்
+- மொழிபெயர்ப்பு
 ---
-
-
-
-யர்ப்பு - English Translation'  
-
-  
-
-weight:
-
-710  
-
-authors:  
-
-- cIttalai cAttanAr- Kausalya Hart  
-
-genres:  
-
-- காப்பியம்  
-
-- மொழிபெயர்ப்பு  
-
----  
-
-  
 
 # maNimEkalai -English Translation by Kausalya Hart (in tamil script, unicode format)  
 
@@ -505,8 +480,6 @@ Then Manimekalai with the Amudhasurabhi came, saw her mothers
 
 and went with them to see Aravanar Adigal.  
 
-------  
-
 Story of Āputhiran  
 
 Aravanar Adigal told Manimekalai the life of Āputhiran.  
@@ -526,8 +499,6 @@ She gave food to Kāyasandihai who had been cursed by a sage.
 Kāyasandihai’s hunger sickness was appeased  
 
 when she ate the food given to her by Manimekalai.  
-
-------  
 
 The story of Prince Udayakumaran and Kānchanan and the sad end of the prince  
 
@@ -564,8 +535,6 @@ and escaped the harm that the queen intended.
 When Mādhavi and Sudhamati asked Aravnar Adigal’s help to release Manimekalai,  
 
 he asked the queen to release her and she was released.  
-
-------  
 
 The story of the king Punniyarājan and Manimekalai  
 

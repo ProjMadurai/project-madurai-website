@@ -1,68 +1,13 @@
 ---
 title: 'வல்லிக்கண்ணன் கதைகள் (இரு பாகங்களாக)'
-
 weight: 579
 authors:
-  - வல்லிக்கண்ணன்
+- வல்லிக்கண்ணன்
 genres:
-  - சிறுகதைகள் தொகுப்பு
+- சிறுகதைகள் தொகுப்பு
 ---
 
-
-
-### வல்லிக்கண்ணன் கதைகள்  
-
-சிறுகதை தொகுப்பு - பாகம் 1  
-
-ஆசிரியர் வல்லிக்கண்ணன்  
-
-  
-
-**Source:**  
-
-வல்லிக்கண்ணன் கதைகள்  
-
-வல்லிக்கண்ணன்  
-
-ராஜராஜன் பதிப்பகம்  
-
-19, கண்ணதாசன் சாலை, தியாகராய நகர் சென்னை-600
-
-
-
-017.  
-
-Rs.
-
-
-
-100.00  
-
-Vallikkannan Kadhaigal  
-
-By VALLIKKANNAN  
-
-First Edition
-
-2000  
-
-Published by  
-
-Rajarajan Pathippagam  
-
-19, Kannadhasan Salai T. Nagar, Chennai-600
-
-
-
-017.  
-
-Typeset at Skill Computers Chennai -600
-
-018  
-
-Printed at Sakthi Printers Chennai-21.  
-
--------  
+----  
 
   
 
@@ -2600,4 +2545,4 @@ Printed at Sakthi Printers Chennai-21.
 
 This file was last updated on 21 Oct.
 
-2017  
+2017

@@ -1,52 +1,13 @@
 ---
 title: 'nAlaTiyAr நாலடியார் மொழிபெயர்ப்பு - English Translation'
-
 weight: 711
 authors:
-  - G.U.Pope and F.W. Ellis
+- G.U.Pope and F.W. Ellis
 genres:
-  - நீதிநெறி – பதினெண்கீழ்க்கணக்கு
+- நீதிநெறி – பதினெண்கீழ்க்கணக்கு
 ---
 
-
-
-### நாலடியார்  
-
-ஆங்கில மொழிபெயர்ப்பு - போப் மற்றும் எல்லிஸ்  
-
-Naladiyar verses with English Translation  
-
-by Rev. G.U.Pope and F.W. Ellis  
-
-  
-
-**Source:**  
-
-Naladiyar  
-
-with Translations in English by  
-
-Rev. Dr. G.U. Pope and Mr. F.W. Ellis  
-
-Forward by Dr. M. Varadarajanar  
-
-The South Indai Saiva Siddhantha Works Publishing Society  
-
-Tinnevelly, Madras- 1  
-
-©
-
-1963 (first edition March
-
-1958)  
-
-Publication No:
-
-927  
-
-Appar Achakam, Madras-1.  
-
---------------  
+-----------  
 
 **CONTENTS**  
 
@@ -2177,8 +2138,6 @@ Look well! of whom hath not the world found word to say ? And who have not by pr
 Nothing accompanies in death but deeds.  
 
 Save a man's deed: nought goes with him, search where you will. The body which men cherish so, and adorn, is itself profitless indeed when death shall seize and hurry off with it.  
-
-------  
 
 **13. தீவினையச்சம் / Ch.
 

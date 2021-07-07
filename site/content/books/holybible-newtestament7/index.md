@@ -1,32 +1,11 @@
 ---
 title: 'விவிலியம் /புதிய ஏற்பாடு /எஸியன்ஸ்'
-
 weight: 42
 authors:
-  - விவிலியம்
+- விவிலியம்
 genres:
-  - சமயம் – கிருத்துவம்
+- சமயம் – கிருத்துவம்
 ---
-
-
-
-ியன்ஸ்'  
-
-  
-
-weight: 42  
-
-authors:  
-
-- விவிலியம்  
-
-genres:  
-
-- சமயம் – கிருத்துவம்  
-
----  
-
-  
 
 # Holy Bible - New Testament - part V (in tamil script, unicode format)  
 

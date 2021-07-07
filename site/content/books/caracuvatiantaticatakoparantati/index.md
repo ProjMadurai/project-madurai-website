@@ -1,33 +1,12 @@
 ---
 title: 'சரஸ்வதி அந்தாதி'
-
 weight: 52
 authors:
-  - கம்பர்
+- கம்பர்
 genres:
-  - அந்தாதி
-  - பிரபந்தம்
+- அந்தாதி
+- பிரபந்தம்
 ---
-
-
-
-'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
-
-weight: 52  
-
-authors:  
-
-- கம்பர்  
-
-genres:  
-
-- அந்தாதி  
-
-- பிரபந்தம்  
-
----  
-
-  
 
 # caracuvati antAti & caTakOparantAti of kampar (in tamil script, unicode format)  
 

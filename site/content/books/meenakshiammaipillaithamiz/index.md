@@ -1,35 +1,12 @@
 ---
 title: 'மதுரை மீனாட்சிஅம்மை பிள்ளைத்தமிழ்'
-
 weight: 43
 authors:
-  - குமரகுருபரர்
+- குமரகுருபரர்
 genres:
-  - பிரபந்தம்
-  - பிள்ளைத்தமிழ்
+- பிரபந்தம்
+- பிள்ளைத்தமிழ்
 ---
-
-
-
-தமிழ்'  
-
-  
-
-weight: 43  
-
-authors:  
-
-- குமரகுருபரர்  
-
-genres:  
-
-- பிரபந்தம்  
-
-- பிள்ளைத்தமிழ்  
-
----  
-
-  
 
 # Meenakshiammai pillaithamiz (in tamil script, unicode format)  
 

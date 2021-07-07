@@ -1,30 +1,11 @@
 ---
 title: 'யாப்பெருங்கலக் காரிகை'
-
 weight: 55
 authors:
-  - அமிதசாகரர்
+- அமிதசாகரர்
 genres:
-  - இலக்கணம்
+- இலக்கணம்
 ---
-
-
-
-nail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
-
-weight: 55  
-
-authors:  
-
-- அமிதசாகரர்  
-
-genres:  
-
-- இலக்கணம்  
-
----  
-
-  
 
 # yApparungkalakkArikai  
 

@@ -1,32 +1,13 @@
 ---
 title: 'பரிபாடல் திரட்டு'
-
 weight: 88
 authors:
-  - 
+-
 genres:
-  - சங்ககாலம் – எட்டுத்தொகை
+- சங்ககாலம் – எட்டுத்தொகை
 ---
 
-
-
-### மரணத்துள் வாழ்வோம்  
-
-(31 கவிஞர்களின் 82 அரசியல் கவிதைகள்  
-
-  
-
-**Source:**  
-
-maraNattuL vAzvOm (A collection of 82 poems by 31 Sri Lankan authors,  
-
-**compiled by:**U. Ceran, A. Yesuraja, I. Padmanaba Iyer & Mayilangkoodalur P. Natarajan)  
-
-**Published by:** Vidiyal patippakam, 3, Mariamman Koil Street, Uppilippaalayam, Coimbatore -641
-
-015, India  
-
-**Copyright :**Poets. ---- **First Edition :**Nov.1985, ------- **Second Edition :**Dec.1996)  
+- **First Edition :**Nov.1985, ------- **Second Edition :**Dec.1996)  
 
 **தொகுப்பாளர்:** உ.சேரன், அ.யேசுராசா, இ.பத்மநாப ஐயர் & மயிலங்கூடலு¡ர் பி.நடராசன்  
 

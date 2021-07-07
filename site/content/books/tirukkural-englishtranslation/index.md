@@ -1,50 +1,11 @@
 ---
 title: 'திருக்குறள் - ஆங்கில மொழிபெயர்ப்பு'
-
 weight: 664
 authors:
-  - இராமசந்திர தீக்‌ஷிதர்
+- இராமசந்திர தீக்‌ஷிதர்
 genres:
-  - ஆங்கில மொழிபெயர்ப்பு
+- ஆங்கில மொழிபெயர்ப்பு
 ---
-
-
-
-### "tirukkuRaL" English translation  
-
-by Ramachandra dikshitar  
-
-  
-
-**Source:**  
-
-Tirukkural of Tiruvalluvar (in Roman transliteration)  
-
-with English Translation  
-
-by  
-
-V.R. Ramachandra Dikshitar, M.A.,  
-
-Professor of Indian History and Archaeology, University of Madras  
-
-with a Foreword by  
-
-Sir A. Ramaswami Mudaliar, Dewan of Mysore  
-
-The Adyar Library,
-
-1949  
-
-(The Adyar Library Series Nr. 67)  
-
-Price Rs. 3  
-
-Printed by C.Subbarayudu at the Vasanta Press,  
-
-The Theosophical Society, Adyar, Madras  
-
----------  
 
 FOREWORD  
 
@@ -5283,8 +5244,6 @@ col tokka tēṟappaṭum.
 puṟappaṭuttāṉ ākum, maṟai.  
 
 590. Let not a king honour the spy publicly; for, by so doing he will be letting out his own secret.  
-
-------  
 
 **60. ūkkam uṭaimai - CHAPTER 60— ON EXERTION**  
 

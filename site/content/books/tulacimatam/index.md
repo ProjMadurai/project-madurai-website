@@ -1,74 +1,13 @@
 ---
 title: 'துளசி மாடம்'
-
 weight: 580
 authors:
-  - தீபம் நா. பார்த்தசாரதி
+- தீபம் நா. பார்த்தசாரதி
 genres:
-  - சமூக நாவல்
+- சமூக நாவல்
 ---
 
-
-
-### துளசி மாடம்  
-
-(ராஜா அண்ணாமலை இலக்கியப் பரிசு பெற்றது)  
-
-நா. பார்த்தசாரதி  
-
-  
-
-**Source:**  
-
-துளசி மாடம் (சமூக நாவல்)  
-
-(ராஜா அண்ணாமலை இலக்கியப் பரிசு பெற்றது)  
-
-நா. பார்த்தசாரதி  
-
-தமிழ்ப் புத்தகாலயம்  
-
-15, மாசிலாமணி தெரு, தி. நகர், சென்னை -600
-
-017  
-
-ஆறாம் பதிப்பு
-
-1999 (முதல் பதிப்பு
-
-1979)  
-
-விலை ரூ
-
-75.00  
-
-Thulasi Maadam  
-
-(Tamil Social Novel)  
-
-(Raja Sir Annamalai Literary Award winnder)  
-
-by Naa. Parthasarathy  
-
-C Mrs. Parthasarathy  
-
-Sixth Edition, April
-
-1999  
-
-Published by:  
-
-Tamil Puthakalayam, 15, Masilamani Street,  
-
-T. Nagar, Chennai
-
-600
-
-017, Price Rs.
-
-75.00  
-
-----------  
+-------  
 
   
 

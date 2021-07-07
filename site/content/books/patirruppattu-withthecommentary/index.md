@@ -1,90 +1,13 @@
 ---
 title: 'பதிற்றுப்பத்து - மூலமும்; உரையும்'
-
 weight: 473
 authors:
-  - பல ஆசிரியர்கள் (ஔவை துரைசாமி பிள்ளை உரை)
+- பல ஆசிரியர்கள் (ஔவை துரைசாமி பிள்ளை உரை)
 genres:
-  - சங்ககாலம் – எட்டுத்தொகை
+- சங்ககாலம் – எட்டுத்தொகை
 ---
 
-
-
-### பதிற்றுப்பத்து /மூலமும் உரையும் - பாகம் 1  
-
-மூலமும் ஔவை துரைசாமி பிள்ளை விளக்க உரையும் .  
-
-  
-
-௨  
-
-**Source:  
-
-"பதிற்றுப்பத்து : மூலமும் விளக்க உரையும்"**  
-
-உரையாசிரியர்:  
-
-சித்தாந்த கலாநிதி, வித்துவான், திரு. ஔவை. சு. துரைசாமிப் பிள்ளை அவர்கள்  
-
-தமிழ் ஆராய்ச்சி விரிவுரையாளர். அண்ணாமலைப் பல்கலைக் கழகம்.  
-
-திருநெல்வேலி, தென்னிந்திய சைவசித்தாந்த நூற்பதிப்புக் கழகம், லிமிடெட்,  
-
-திருநெல்வேலி :: சென்னை
-
-1.  
-
-முதற் பதிப்பு: சனவரி,
-
-1950  
-
-கழக வெளியீடு:
-
-523  
-
-ஸ்ரீ பாரதி பிரஸ், சூளை, சென்னை.  
-
-(All Rights Reserved)  
-
-Published by  
-
-THE SOUTH INDIA SAIVA SIDDHANTA WORKS PUBLISHING SOCIETY, TINNEVELLY, LTD., 1/140, BROADWAY -- MADRAS
-
-1.  
-
-Head Office: 24, EAST CAR STREET, TINNEVELLI.  
-
-  
-
-### PATIRRUPPATTU  
-
-1. Introduction  
-
-By Prof. T. P. Meenakshisundaran, Avl.  
-
-  
-
-Tiru Avvai Duraiswami Pillai of the Annamalai University is well known as the modern commentator on Sangam works. He now gives the world of Scholars his commentary on Patirruppattu.  
-
-Patirrupattu is the only available source book of ancient Cera history. Among all the Sangam works this is unique in being a collection of the poems on Ceras. Ten great poets had sung the greatness of ten great Cera kings. Unfortunately of the hundred verses, the first ten and the last ten, probably singing the glories of Utiyan and Yanaikkan Mantaram Ceral Irumporai respectively, are missing. There were two ruling Cera families that of Utiyan and that of Antuvan, the former being the senior and the main Cera line of Vanchi: the latter being the Irumpoprai line of Tondi. The second Ten and the third Ten belong to the two sons of Uthiyan viz. Imaya Varampan Netun Ceral Athan and Palyanaic-celkezhu Kuttuvan. The foruth, the fifth and the sixth Tens relate respectively to the sons of Netun Ceral Athan viz. Kalamkay-k-kanni Nar Muti-c-ceral, Katal Pirakkottiya Cemkuttuvan, and Atukot-Pattu-c-ceral Athan. The rest of the book relate to the Irumporai family: the VII Ten belongs to Selvakkatunko Vazhi Athan, the VIII Ten to Perum Ceral Irumporai the conqueror of Thakatur and the IX Ten to Ilam Ceral Irumporai, the son, the grandson and the great grandson respectively of Antuvan Ceral.  
-
-Various places of importance, the great chiefs and chieftains, the foreigners like Yavanas, the warfare and important battle field, the fivefold classification of the country and other geographical details are all alluded to in this anthology. The poets of this anthology and the literary patronage of the Ceras are not myths. Paranan Kannam Kannan Katu, Vezhakkadu (Umbarkadu) and Kakkaiyur, still existing in Malayalam country, bear testimony to the conferment of Jaghirs on the poets Paranar, Kumattoor Kannanar and Kakkai-p-Padiniyar by the Chera kings, Cenkuttuvan, Imayavaramban Netumceralathan, and Atukotpattu-c-Ceral Athan repectively.  
-
-This book is important as revealing the culture, the custom and practice, the political and military life of the Tamil land, of the first few centuries of the Christian era. It is interesting to note that the conception of the fundamental unity of India, from the Himalayas to Cape Comorin, goes back, to the poems of the Sangam Age (Verse1 and 43 of this anthology). Politics had become, by that time, an all India science and the Yagas, varying according to the graduation of sovereignity, were believed to have a magical influence in establishing an ever expanding empire. This inspired the ambitious kings of Tamil land to perform the Royal sacrifices; and the study of their scred texts and related literature became very popular. Further, the political unrest in the North drove the Sanskrit, Pali and Prakrit scholars to South India. Manimekalai, the Tamil epic reveals the Tamil land as a centre of all- India learning, with its intellectual capital at Kancipuram. The beginning of this development is seen in Patirrupattu itself.  
-
-The Yagas are mentioned in many places. The Rajasuya was not unknown; there was a Cola of the name Rajasuya Vetta Peru Nar' Killi ie, Nal Killi the great who had performed the Rajasuya Yaga There was the great Pandya of many Yagas viz. Palyakacalai Muthu Kutimi-p-Peru Vazhuthi. The Ceras, as seen from this book, were no exceptions. The Putra Kameshti yaga is, it may be suggested, men- tioned in poem No. 74 by Arisilkizhar, a Non-Brahmin poet. There we learn that the queen donned on her beautiful shoulders a circular skin of the stag, well cut out and decked with pearls and precious stones. Was the skin made thus into a valuable amulet? In the Atharva Veda are two charms for obtaining a son ( III, 23 & VI.11). The second of these mantras is relevant to the study of this Putrakameshti. This consists of three parts and when the third part,which runs thus "May Prajapati elsewhere afford the birth of a female but here shall bestow a man" was recited, acoording to the sutras (Kans.35-9) which explain the procedure, "The fire is surrounded with the wool of a male animal and the wool is tied upon the woman" (probably as an amulet). Instead of the wool we find the skin of the stag, the male animal, being used in the sacrifice performed by the Cera king.  
-
-This reference to this Putra-kameshti is very important. The question is very often raised whether the Ceras who ruled over a country where the Marumakkal Tayam or matriarchal succession now reigns supreme, were following the law of Makkal Tayam or patriarchial succession, as their colleagues the Colas anmd the Pandyas did, or were following the law of Marumakkal Tayam, as followed by the kings of Malayalam today. The wife of the king under the Marumakkal Tayam is never called the Queen. In Pattirrupattu, every Cera king is praised as the husband of the chaste consort,. But this does not help us to decide the issue raised. The Putra kameshti poem, however, conclusively pro- ves, it was the son of the consort that becomes the king, thus establish- ing beyond doubt the patriarchal succession of these kings. There is one other difficulty, for the Padikam speaks of the mothers of these kings as " Velavikoman Pathuman Devi " etc. It is this kind of expression that has really created the confusion. Devi ordinarily means a wife; this phrase will then denote a wife of a Velir chief Pathuman etc. How can the wife of a chief be also wife of the Cera king? This lead some scholars to assume that the succession was matriarchal, where the mother of the ruling prince is never the wife of the king. But as this theory runs counter to the explicit statement of the Putra kameshti poem, one has to explain the word according to Tiru T.V Sadasiva Panda- rathar as meaning "daughter", a usage made clear by such phrases as Ceran ma Devi, Pancavan ma Devi, all wives of Colas and not of Ceras or Pandyas. Or Ceran ma devi etc. may be an elliptical short hand expression for "The great Cola queen the daughter of the Pandya or Cera". Nam,es like Sentan korran or Kiran Korran etc. mean Korran son of Centan or Kiran . Therefore Patuman Madevi may mean the Queen, the daughter of Pathuman. One is justified in referring to the usage of the Imperial Cola inscriptions in view of the close kinship that exists between the Meykkirtis of the later Colas and the Patikams of Patirrupattu, as explained by tiru T.V. Sadasiva Pandaratar in his short introduction to the present commentary.  
-
-In other places also, the Cera kings are praised in Pattirupattu, for bringing forth children. The theory of three debts or duties to the Devas, the ancestors, and the learned, to be discharged respec- tively, by every man, by performing sacrifices, by bringing forth child- ren, and by learning the ancient texts, is, as seen by this very poem and poem No. 70 as old as the Sangam age. Therefore, when Parimel- azahgar speaks of this in his commentary on the chapter on children in Tirukkural, he is not going against any Tamil tradition. There is an old commentary on Patirruppattu, whose importance cannot be easily exaggerated; but to the modern reader it is but a series of algebraical formula. The present commentary explains all that is necessary for elucidating the text for the man in the street-the defied abstraction of modern democracy; and serves, therefore, as a valuable key for unlocking the closely preserved treasure-chest of the old commentary.  
-
-The Sangam poets caught the spirit of the poetic moment and enshrined it in the most appropriate and correct poetic phrase, afraid of spoiling its effect by any elaboration. Brevity is the life of their poetry. This explains why the anthologies of the Sangam verses are arranged according to the length of verses, as Kurum Tokai, Nedum Tokai, Aim Kuru Nuru etc. In every poem there is the heart or life centre-a beautiful phrase which is the very quint essence of the poem and this phrase by common acceptance and appreciation, becomes according to Sangam usage, the very name of the verse. This is seen in every one of the verses in the present work. The new commentary has brought out the poetic significance of all these poetic phrases, thus helping us to understand the poetic theory of the Sangam age.  
-
-On an occasion like this, one cannot but think with reverential gratitude, of the late lamented Dr.Swaminatha Aiyar, but of whose untiring zeal and toil we could not be boasting either of Patirruppattu or its ancient commentary. What has been thus made available is now made more and more popular by the present commentator. My friend Tiru Vellaivaranan has brought out the importance of the new commentary. Whether one agrees with all the points or not, one has to agree that this commentary is very valuable for a close study of the ancient work by the modern man. I deem it, therefore a great privilege, as desired by my friend Tiru Avvai Duraiswami Pillai, to introduce, with heartfelt thanks, this work, to the over grateful public of Tamil land.  
-
-Madras 26-10-49 T.P. Meenakshisundaram.  
-
--------  
+----  
 
   
 
@@ -3018,4 +2941,4 @@ ii. இமயவரம்பன் நெடுஞ்சேரலாதன் �
 
 This file was last updated on 2 feb.
 
-2014  
+2014

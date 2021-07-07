@@ -1,34 +1,12 @@
 ---
 title: 'நந்திக்கலம்பகம்'
-
 weight: 142
 authors:
-  - 
+-
 genres:
-  - கலம்பகம்
-  - பிரபந்தம்
+- கலம்பகம்
+- பிரபந்தம்
 ---
-
-
-
-'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
-
-weight:
-
-142  
-
-authors:  
-
--  
-genres:  
-
-- கலம்பகம்  
-
-- பிரபந்தம்  
-
----  
-
-  
 
 # nantikkalampakam (in tamil script, unicode format)  
 

@@ -1,33 +1,11 @@
 ---
 title: 'கல்வெட்டுப் பாடல்கள் மஞ்சரி-1'
-
 weight: 311
 authors:
-  - 
+-
 genres:
-  - இசை; பாட்டு
+- இசை; பாட்டு
 ---
-
-
-
-1'  
-
-  
-
-weight:
-
-311  
-
-authors:  
-
--  
-genres:  
-
-- இசை; பாட்டு  
-
----  
-
-  
 
 # tiruppOrUrk kiLLai viTutUtu (in unicode format)  
 
@@ -321,4 +299,4 @@ VIII /#97, பக். 50-51 (AR /#
 
 This file was last updated on 29 August
 
-2008.  
+2008.

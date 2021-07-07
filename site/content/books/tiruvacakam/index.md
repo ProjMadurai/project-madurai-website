@@ -1,15 +1,12 @@
 ---
 title: 'திருவாசகம் - 1 (1-10)'
-
 weight: 3
 authors:
-  - மாணிக்க வாசகர்
+- மாணிக்க வாசகர்
 genres:
-  - சமயம்
-  - சைவம்
+- சமயம்
+- சைவம்
 ---
-
-
 
 ### tiruvAcakam of mAnikka vAcakar  
 
@@ -4258,4 +4255,4 @@ Etext of this work (tiruvAcakam) was first released in Mylai, Inaimathi formats 
 
 The TSCII version was first put up on Dec 12,
 
-2001  
+2001

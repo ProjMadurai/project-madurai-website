@@ -1,41 +1,14 @@
 ---
 title: 'Manimekalai (Tamil Classics in English'
-
 weight: 755
 authors:
-  - A Madhavaiah
+- A Madhavaiah
 genres:
-  - காப்பியம்
-  - மொழிபெயர்ப்பு
+- காப்பியம்
+- மொழிபெயர்ப்பு
 ---
 
-
-
-### Manimekalai by A Madhavaiah  
-
-Tamil Classics for English Readers  
-
-  
-
-**Source:**  
-
-Manimekalai  
-
-By A. Madhaviah  
-
-Tamil Classics for English Readers  
-
-With a Foreword by Dr. S. Krishnaswami Aiyangar  
-
-Madras: The Indian Publishing House, Ltd,  
-
-1923  
-
-Price Rs. One,  
-
-All Rights Reserved  
-
-----------------  
+-------------  
 
   
 
@@ -948,8 +921,6 @@ Then Manimekalai saluted the image and left the temple, taking on the form of a 
 [$] Some scholars think that Thiru-Vanjaikkalam (Cranganore) on the West Coast was the Vanji referred to here, while others declare that it was no other than the modern Karur in the Trichinopoly district.  
 
 [/#] I have wholly omitted the chapter relating to non-Buddhistic creeds and the last two chapters in which the tenets of Buddhism are set forth The curious reader who delights in dialectics is referred to the original.  
-
-------  
 
 Manimekalai then put off her disguise and searched all over the outskirts of the city of Vanji for the holy Aravana, Madhavi and Suthamathi, but in vain. The city was surrounded by a deep and wide moat which was covered over with many-hued lotuses and water lilies haunted by bees, shining like a rain bow. Into this moat the many private and public drains and water-courses of the city emptied themselves; and so sweet-smelling were the waters with scents, cosmetics, sandal paste, spices and other fragrances, that the very alligators and fish in the moat were inoffensive in odour. The high wall of the fort was defended by many kinds of missile-engines and strongly garrisoned. Between the moat and the wall stretched a low jungle which was carefully guarded, and the cattle grazed there. Crossing these, Manimekalai approached the lofty white gateway of the city, highly wrought, and waving with flags and banners. The gateway looked like a hill of silver which had been tunnelled through. She entered, and wandered about on her quest, wondering at the magnificence and splendour of the city.  
 

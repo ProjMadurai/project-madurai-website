@@ -1,15 +1,12 @@
 ---
 title: 'திருவருட்பா /அகவல்'
-
 weight: 31
 authors:
-  - இராமலிங்க அடிகள்
+- இராமலிங்க அடிகள்
 genres:
-  - சமயம்
-  - சைவம்
+- சமயம்
+- சைவம்
 ---
-
-
 
 ### thiruvarutpa / ahaval & of Ramalinga Adigal  
 

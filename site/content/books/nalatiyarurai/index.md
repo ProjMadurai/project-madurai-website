@@ -1,106 +1,13 @@
 ---
 title: 'திருக்குறள் /ஆங்கில மொழியாக்கம் (tirukkural - English translation)'
-
 weight: 17
 authors:
-  - சுத்தானந்த பாரதியார்
+- சுத்தானந்த பாரதியார்
 genres:
-  - நீதிநெறி – பதினெண்கீழ்க்கணக்கு
+- நீதிநெறி – பதினெண்கீழ்க்கணக்கு
 ---
 
-
-
-### திருக்குறள் : குறட்பாக்கள் தமிழிலும் கவியோகி மகரிஷி  
-
-சுத்தானந்த பாரதியாரின் ஆங்கில மொழியாக்கமும்  
-
-  
-
-**1. அறத்துப்பால் - Part I - VIRTUE**  
-
-1.1 பாயிரம் - PREFACE  
-
-  
-
-1. கடவுள் வாழ்த்துThe praise of God
-
-2. வான் சிறப்புThe blessing of Rain
-
-3. நீத்தார் பெருமைThe merit of Ascetics
-
-4. அறன் வலியுறுத்தல்The power of virtue  
-
-1.2 இல்லறவியல் - DOMESTIC VIRTUE  
-
-  
-
-5. இல்வாழ்க்கைMarried Life
-
-6. வாழ்க்கைத் துணைநலம்The worth of a wife
-
-7. மக்கட்பேறுThe wealth of children
-
-8. அன்புடைமைLoving-kindness
-
-9. விருந்தோம்பல்Hospitality
-
-10.. இனியவை கூறல்Sweet words
-
-11. செய்ந்நன்றி அறிதல்Gratitude
-
-12. நடுநிலைமைEquity
-
-13. அடக்கமுடைமைSelf-control
-
-14. ஒழுக்கமுடைமைGood decorum
-
-15. பிறனில் விழையாமைAgainst coveting another's wife
-
-16. பொறையுடைமைForgiveness
-
-17. அழுக்காறாமைAvoid envy
-
-18. வெஃகாமைAgainst covetousness
-
-19. புறங்கூறாமைAgainst slander
-
-20. பயனில சொல்லாமைAgainst vain speaking 21 தீவினையச்சம்Fear of sin
-
-22. ஒப்புரவறிதல்Duty to society
-
-23. ஈகைCharity
-
-24. புகழ்Renown  
-
-1.3 துறவறவியல் - ASCETIC VIRTUE  
-
-  
-
-25. அருளுடைமைCompassion
-
-26. புலால்மறுத்தல்Abstinence from flesh
-
-27. தவம்Penance
-
-28. கூடாஒழுக்கம்Imposture 29 கள்ளாமைThe absence of fraud
-
-30. வாய்மைVeracity
-
-31. வெகுளாமைRestraining anger
-
-32. இன்னா செய்யாமைnon-violence
-
-33. கொல்லாமைNon-killing 34 நிலையாமைInstability
-
-35. துறவுRenunciation
-
-36. மெய்யுணர்தல்Truth consciousness
-
-37. அவா அறுத்தல்Curbing of desire
-
-38. ஊழ்.Destiny  
-
--------  
+----  
 
   
 
@@ -3038,8 +2945,6 @@ The honest men, heaven receives.
 
 290  
 
-------  
-
   
 
 ###  0. வாய்மை - Veracity  
@@ -3902,8 +3807,6 @@ You gain the native blissful state.
 
 370  
 
-------  
-
   
 
 ###  8. ஊழ் - Destiny  
@@ -4259,8 +4162,6 @@ He is the Light of Kings who has
 Bounty, justice, care and grace.
 
 390  
-
-------  
 
   
 
@@ -5448,8 +5349,6 @@ Fearless with feet in deep quagmire.
 
 500  
 
-------  
-
   
 
 ###  1. தெரிந்து தெளிதல் - Testing of men for confidence  
@@ -5880,8 +5779,6 @@ When the mind on it is set.
 
 540  
 
-------  
-
   
 
 ###  5. செங்கோன்மை - Just government  
@@ -6101,8 +5998,6 @@ Cows give less if kings guard no more.
 /* the six functions are : learning, teaching, giving,  
 
 getting, sacrificing, kindling sacrifice - These are duties of Vedic savants.  
-
-------  
 
   
 
@@ -6425,8 +6320,6 @@ Give not the spy open reward
 It would divulge the secret heard!
 
 590  
-
-------  
 
   
 

@@ -1,33 +1,12 @@
 ---
 title: 'மதுராபுரி அம்பிகைமாலை'
-
 weight: 50
 authors:
-  - குலசேகர பாண்டியன்
+- குலசேகர பாண்டியன்
 genres:
-  - பிரபந்தம்
-  - மாலை
+- பிரபந்தம்
+- மாலை
 ---
-
-
-
-nail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
-
-weight: 50  
-
-authors:  
-
-- குலசேகர பாண்டியன்  
-
-genres:  
-
-- பிரபந்தம்  
-
-- மாலை  
-
----  
-
-  
 
 # Mathuraik kalampakam (in tamil script, unicode format)  
 

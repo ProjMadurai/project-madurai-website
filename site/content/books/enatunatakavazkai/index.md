@@ -1,35 +1,12 @@
 ---
 title: 'இருளும் ஒளியும் (நாவல்)'
-
 weight: 719
 authors:
-  - ஸரோஜா ராமமூர்த்தி
+- ஸரோஜா ராமமூர்த்தி
 genres:
-  - நாவல்
-  - புதினம்
+- நாவல்
+- புதினம்
 ---
-
-
-
-mbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
-
-weight:
-
-719  
-
-authors:  
-
-- ஸரோஜா ராமமூர்த்தி  
-
-genres:  
-
-- நாவல்  
-
-- புதினம்  
-
----  
-
-  
 
 # enatu nATaka vAzkai by TKC Shanmugam, part 3 (in tamil script, unicode format)  
 

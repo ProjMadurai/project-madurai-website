@@ -1,28 +1,11 @@
 ---
 title: 'விவேக சிந்தாமணி'
-
 weight: 59
 authors:
-  - 
+-
 genres:
-  - 
+-
 ---
-
-
-
-'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
-
-weight: 59  
-
-authors:  
-
--  
-genres:  
-
--  
----  
-
-  
 
 # vivEka cinthAmani (in tamil script, Unicode/utf-8 format)  
 

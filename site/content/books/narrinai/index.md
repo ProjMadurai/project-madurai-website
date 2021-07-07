@@ -1,31 +1,11 @@
 ---
 title: 'நற்றிணை'
-
 weight: 296
 authors:
-  - 
+-
 genres:
-  - சங்ககாலம் – எட்டுத்தொகை
+- சங்ககாலம் – எட்டுத்தொகை
 ---
-
-
-
-/akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
-
-weight:
-
-296  
-
-authors:  
-
--  
-genres:  
-
-- சங்ககாலம் – எட்டுத்தொகை  
-
----  
-
-  
 
 # naRRiNai (in tamil script Unicode format)  
 

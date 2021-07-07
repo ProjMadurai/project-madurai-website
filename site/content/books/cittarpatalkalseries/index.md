@@ -1,32 +1,11 @@
 ---
 title: 'சித்தர் (பட்டினத்தார்) பாடல்கள்'
-
 weight: 83
 authors:
-  - பட்டினத்துப் பிள்ளையார்
+- பட்டினத்துப் பிள்ளையார்
 genres:
-  - சித்தர் பாடல்கள்
+- சித்தர் பாடல்கள்
 ---
-
-
-
-கள்'  
-
-  
-
-weight: 83  
-
-authors:  
-
-- பட்டினத்துப் பிள்ளையார்  
-
-genres:  
-
-- சித்தர் பாடல்கள்  
-
----  
-
-  
 
 # cittar pAtalkaL Series -part II (paTTinattAr pATalkaL) (in tamil script, unicode / utf-8 format)  
 

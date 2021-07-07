@@ -1,93 +1,14 @@
 ---
 title: 'திருவருட்பா /திருமுறை 6.3 (பாடல்கள் 4615-5818)'
-
 weight: 146
 authors:
-  - இராமலிங்க அடிகள்
+- இராமலிங்க அடிகள்
 genres:
-  - சமயம்
-  - சைவம்
+- சமயம்
+- சைவம்
 ---
 
-
-
-## திரு அருட்பிரகாச வள்ளலார் இயற்றி அருளிய திருஅருட்பா  
-
-ஆறாம் திருமுறை - மூன்றாம் பகுதி பாடல்கள் (4615 -5063)  
-
-  
-
-**உள்ளுறை**  
-
-[81]()அருட்பெருஞ்ஜோதி அகவல்(4615 -4616)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0146_01.html#dt81)[82.]()அருட்பெருஞ்சோதி அட்டகம்(4617 ஖
-
-4624)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0146_01.html#dt82)[83]()இறை இன்பக் குழைவு(4625 ஖
-
-4634)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0146_01.html#dt83)[84]()பெறாப் பேறு(4635 ஖
-
-4644)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0146_01.html#dt84)[85]()சிவானந்தத் தழுந்தல்(4645 ஖
-
-4654)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0146_01.html#dt85)[86.]()திருவருட் பெருமை(4655 ஖
-
-4664)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0146_01.html#dt86)[87.]()அச்சோப் பத்து(4665 ஖
-
-4674)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0146_01.html#dt87)[88.]()அனுபவ நிலை(
-
-4675 ஖
-
-4682)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0146_01.html#dt88)[89.]()அருட் பெருஞ்சோதி அடைவு(4683 ஖
-
-4695)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0146_01.html#dt89)[90.]()அடிமைப் பேறு(4696 ஖
-
-4705)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0146_01.html#dt90)[91.]()உலப்பில் இன்பம்(4706 ஖
-
-4715)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0146_01.html#dt91)[92.]()மெய் இன்பப் பேறு(4716 ஖
-
-4726)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0146_01.html#dt92)[93.]()சிவ புண்ணியப் பேறு(4727 ஖
-
-4736)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0146_01.html#dt93)[94.]()சிவானந்தப் பற்று(4737 ஖
-
-4746)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0146_01.html#dt94)[95.]()இறை எளிமையை வியத்தல்(4747 ஖
-
-4756)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0146_01.html#dt95)[96.]()திருநடப் புகழ்ச்சி(4757 ஖
-
-4766)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0146_01.html#dt96)[97.]()திருவருட் பேறு(4767 ஖
-
-4776)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0146_01.html#dt97)[98.]()அருட் கொடைப் புகழ்ச்சி(4777 ஖
-
-4796)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0146_01.html#dt98)[99.]()திருவருட் கொடை(4797 ஖
-
-4806)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0146_01.html#dt99)[100.]()அனுபவ சித்தி(4807 ஖
-
-4817)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0146_01.html#dt100)[101.]()பொன்வடிவப் பேறு(4818 ஖
-
-4833)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0146_01.html#dt101)[102.]()தத்துவ வெற்றி(4834 ஖
-
-4853)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0146_01.html#dt102)[103.]()பேறடைவு(4854 ஖
-
-4863)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0146_01.html#dt103)[104.]()அடைக்கலம் புகுதல்(4864 ஖
-
-4874)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0146_01.html#dt104)[105.]()இறைவரவு இயம்பல்(4875 ஖
-
-4884)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0146_01.html#dt105)[106.]()திருப்பள்ளி எழுச்சி(4885 ஖
-
-4894)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0146_01.html#dt106)[107.]()திரு உந்தியார்(4895 ஖
-
-4904)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0146_01.html#dt107)[108.]()அருள் அற்புதம்(4905 ஖
-
-4913)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0146_01.html#dt1082)[109.]()ஆணிப் பொன்னம்பலக் காட்சி(4914-4946)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0146_01.html#dt109)[110.]()அருட் காட்சி(4947 ஖
-
-4950)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0146_01.html#dt110)[111]()பந்தாடல்(4951 ஖
-
-4962)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0146_01.html#dt110)[112]()மெய்யருள் வியப்பு(4963 ஖
-
-5063)[மின்பதிப்பு](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0146_01.html#dt111)  
-
-அடிக்குறிப்புகளில் காணப்படும் பதிப்பாசிரியர்களின் பெயர்ச் சுருக்க விரிவு  
-
-  
-
-1. தொ.வே --- தொழுவூர் வேலாயுத முதலியார்  
+தொழுவூர் வேலாயுத முதலியார்  
 
 2. ஆ.பா --- ஆ.பாலகிருஷ்ண பிள்ளை  
 

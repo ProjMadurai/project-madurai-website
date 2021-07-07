@@ -1,34 +1,11 @@
 ---
 title: 'எனது நாடக வாழ்க்கை - முதல் பாகம் (3 பாகங்களாக)'
-
 weight: 681
 authors:
-  - அவ்வை தி.க. சண்முகம்
+- அவ்வை தி.க. சண்முகம்
 genres:
-  - வரலாறு
+- வரலாறு
 ---
-
-
-
-ாகம் (3 பாகங்களாக)'  
-
-  
-
-weight:
-
-681  
-
-authors:  
-
-- அவ்வை தி.க. சண்முகம்  
-
-genres:  
-
-- வரலாறு  
-
----  
-
-  
 
 # enatu nATaka vAzkai by TKC Shanmugam (in tamil script, unicode format)  
 

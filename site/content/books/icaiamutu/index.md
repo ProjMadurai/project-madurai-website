@@ -1,14 +1,11 @@
 ---
 title: 'இசை அமுது'
-
 weight: 93
 authors:
-  - பாரதிதாசன்
+- பாரதிதாசன்
 genres:
-  - இசைப்பாடல்
+- இசைப்பாடல்
 ---
-
-
 
 ### "icai amutu" by Bharathidaasan  
 

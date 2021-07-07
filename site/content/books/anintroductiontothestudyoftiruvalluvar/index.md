@@ -1,34 +1,11 @@
 ---
 title: 'திருவள்ளுவர் ஆய்வுக்கான ஓர் அறிமுகம் சொற்பொழிவு - ஆங்கிலத்தில்'
-
 weight: 688
 authors:
-  - ஔவை துரைசாமி பிள்ளை
+- ஔவை துரைசாமி பிள்ளை
 genres:
-  - சொற்பொழிவு
+- சொற்பொழிவு
 ---
-
-
-
-அறிமுகம் சொற்பொழிவு - ஆங்கிலத்தில்'  
-
-  
-
-weight:
-
-688  
-
-authors:  
-
-- ஔவை துரைசாமி பிள்ளை  
-
-genres:  
-
-- சொற்பொழிவு  
-
----  
-
-  
 
 # An Introduction to the Study of Tiruvalluvar by auvai turaicAmi piLLai (in tamil script, unicode format)  
 
@@ -1351,8 +1328,6 @@ The seventh and the last adhikarana, Oupanishadha, deals with some secret formul
 A cursory reading of the topics and the contents of Kama Sutra cited above and a superficial comparision with the contents of the Kamatthu Pal of Kural will expose to you the fallacy of the argument and the falsity of the statement that Tiruvalluvar's Kamathu Pal is a translation of Vatsayana's Kama Sutra. On the other hand it must be clearly understood that Tiruvalluvar's treatment of Kamatthu Pal in Tirukural is completely orginal and the thoughts and ideas found in it are expressed purely in accor dance with the indigenous spirit and concept of the Tamilans. Tiruvalluvar is precisely psycho logical and entirely free from the vulgar and indecent sexualities such as found in other books dealing with sex.  
 
 It is a great misfortune for the Tamils to have in their midst some scholars who in the name of research dare not hesitate to misrepresent things and utter falsehood to impress both the unlettered people of the Tamil land and the influential non-Tamils that nothing is original in Tamil. That day is fast approaching when the political, social, economic, cultural and literary history will be brought to light and the false attempt to belittle the cultural eminence of the Tamils will be frustrated. Thanks to the ardent love being evinced towards the study of Kural, people are becoming enlightened. Thanks. 'Long live Tiruvalluvar. ..  
-
-------  
 
 This file was last updated on 9 dec.
 

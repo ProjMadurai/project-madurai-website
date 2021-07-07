@@ -1,29 +1,11 @@
 ---
 title: 'பாஞ்சாலி சபதம்'
-
 weight: 91
 authors:
-  - சி. சுப்ரமணிய பாரதியார்
+- சி. சுப்ரமணிய பாரதியார்
 genres:
-  - 
+-
 ---
-
-
-
-https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
-
-weight: 91  
-
-authors:  
-
-- சி. சுப்ரமணிய பாரதியார்  
-
-genres:  
-
--  
----  
-
-  
 
 # Songs of C. Subramania Bharathiyar - part IV (in tamil script, unicode/utf-8 format)  
 

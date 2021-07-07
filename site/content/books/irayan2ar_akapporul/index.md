@@ -1,33 +1,11 @@
 ---
 title: 'களவியல் என்னும் இறையனார் அகப்பொருள்'
-
 weight: 301
 authors:
-  - 
+-
 genres:
-  - இலக்கணம்
+- இலக்கணம்
 ---
-
-
-
-்பொருள்'  
-
-  
-
-weight:
-
-301  
-
-authors:  
-
--  
-genres:  
-
-- இலக்கணம்  
-
----  
-
-  
 
 # iRayan2Ar_akapporuL (in tamil script unicode/UTF-8 format)  
 

@@ -1,32 +1,11 @@
 ---
 title: 'சித்தர் பாடல்கள் (மெய்ஞ்ஞானப் புலம்பல்)'
-
 weight: 74
 authors:
-  - பத்ரகிரியார்
+- பத்ரகிரியார்
 genres:
-  - சித்தர் பாடல்கள்
+- சித்தர் பாடல்கள்
 ---
-
-
-
-் புலம்பல்)'  
-
-  
-
-weight: 74  
-
-authors:  
-
-- பத்ரகிரியார்  
-
-genres:  
-
-- சித்தர் பாடல்கள்  
-
----  
-
-  
 
 # meynjAnap pulampal (Siddar's series) (in tamil script, unicode format)  
 

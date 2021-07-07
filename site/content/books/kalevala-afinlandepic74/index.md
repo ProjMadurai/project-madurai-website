@@ -1,30 +1,11 @@
 ---
 title: 'கலேவலா - தமிழாக்கம் - 3'
-
 weight: 44
 authors:
-  - உதயணன்
+- உதயணன்
 genres:
-  - காப்பியம்
+- காப்பியம்
 ---
-
-
-
-mbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
-
-weight: 44  
-
-authors:  
-
-- உதயணன்  
-
-genres:  
-
-- காப்பியம்  
-
----  
-
-  
 
 # Kalevala - A Finland Epic (in tamil script, unicode format)  
 

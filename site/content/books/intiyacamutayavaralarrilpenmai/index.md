@@ -1,34 +1,11 @@
 ---
 title: 'இந்திய சமுதாய வரலாற்றில் பெண்மை'
-
 weight: 687
 authors:
-  - ராஜம் கிருஷ்ணன்
+- ராஜம் கிருஷ்ணன்
 genres:
-  - ஆராய்ச்சிக் கட்டுரைகள்
+- ஆராய்ச்சிக் கட்டுரைகள்
 ---
-
-
-
-்மை'  
-
-  
-
-weight:
-
-687  
-
-authors:  
-
-- ராஜம் கிருஷ்ணன்  
-
-genres:  
-
-- ஆராய்ச்சிக் கட்டுரைகள்  
-
----  
-
-  
 
 # intiya camutAya varalARRil peNmai by rAjam kirushNan (in tamil script, unicode format)  
 

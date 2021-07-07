@@ -1,89 +1,14 @@
 ---
 title: 'திருவாசகம் - ஆங்கில மொழிபெயர்ப்பு'
-
 weight: 658
 authors:
-  - கௌசல்யா ஹார்ட்
-  - மாணிக்க வாசகர்
+- கௌசல்யா ஹார்ட்
+- மாணிக்க வாசகர்
 genres:
-  - ஆங்கில மொழிபெயர்ப்பு
+- ஆங்கில மொழிபெயர்ப்பு
 ---
 
-
-
-### tiruvAcakam of mAnikka vAcakar  
-
-English Translationby Kausalya Hart  
-
-  
-
-**Introduction**  
-
-The Thiruvasagam is divided into 3 parts, each of which has many sections. The Tamil version on Project Madurai, which is followed here, numbers each stanza in order, indicated in the translation by a number in brackets at the end of the stanza. Sections 1-4 of part 1 each count as a stanza, and line numbers are given in those sections to correspond to the Project Madurai versions. After section 4 of part I, each stanza has two numbers: at the beginning the number in the section and at the end in brackets the cumulative number that corresponds to the number in Project Madurai (cf. PM releases /#0003, /#0094 and /#0222). The English names given before each section are not a literal translation of the Tamil immediately before them but are intended to give the reader a better idea of the content of the section than a literal translation would.  
-
-Part I, The Lord of the Vedas.  
-
-Sections 1-4 praise Lord Shiva in the traditional way. In section 5, a devotee asks for the lord’s help so that he can escape from his karma and future births. In section 6, a weak devotee praises the lord and ask him not to leave him.  
-
-Part II, Dancing for the Dancer of Thillai.  
-
-In sections 7 - 20 women praise the lord as they play. In it, various ceremonies are described that even today are followed in the worship of Shiva.  
-
-Part III, The Plea of the Devotee.  
-
-In sections 21 -51 a devotee asks for the lord’s help so he can join him and leave this world.  
-
-  
-
-cf: **[மாணிக்க வாசகர் அருளிய திருவாசகம் (PM/#0003)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0003.html).**  
-
-[English Translation of tiruvAcakam by Rev. G.U. Pope (part 1)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0094.html)  
-
-[English Translation of tiruvAcakam by Rev. G.U. Pope (part 2)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0222.html)  
-
-  
-
-### tiruvAcakam of mAnikkavAcakar  
-
-Part I. The Lord of the Vedas  
-
-  
-
-1. Sivapuranam [1] The Timelessness of the Lord  
-
-2. Keerthi Thiruvakaval [2] A divine akaval poem describing the Lord’s fame  
-
-3. Thiruvandappakudi: Civanathu Thula Sukkumattai Viyanthathu [3] The Lord as the universe and the creation of the world  
-
-4. Potri Thiruvakaval: Cakattin Urpatti [4] A soul is born, grows, becomes a devotee and praises the Lord  
-
-5. Thiruchadagam [5-104] A hundred divine songs asking for the Lord’s grace and describing the weakness of the soul and how it has not done service to the Lord  
-
-  
-
-5.1. Mey Uṇartal—Knowing the Lord as the truth [5-14]  
-
-5.2. Arivuruthal—The soul, worried that it lives on the earth in vain without doing service to the lord, searches for his grace [15-24]  
-
-5.3. Cuttaruthal—The soul longs for true knowledge to know the Lord [25-34]  
-
-5.4. Atmacuthi—The soul worries that it has not searched for the lord and asks for his grace [35-44]  
-
-5.5. Kaimaru Koduthal—The soul asks the lord for his grace and asks his help to unite with him [45-54]  
-
-5.6. Anupokacuthi—The soul does not want to live on the earth without joining the lord and asks for his help to reach him [55-64]  
-
-5.7. Karuniyattal Irangal—Praising the Lord for his compassion and asking his grace [65-74]  
-
-5.8. Ananthathu Azhuthal—Wanting to plunge into the joy of the Lord and unite with him [75-84]  
-
-5.9. Anantha Paravacam—Desiring the ecstasy of uniting with the Lord [85-94]  
-
-5.10. Anantha Athitham—The soul longs for the extreme joy of uniting with the lord [95-104]  
-
-6. Neethal Vinnappam [105-154] The soul entreats the lord not to leave it to suffer in the world  
-
-------------  
+---------  
 
   
 

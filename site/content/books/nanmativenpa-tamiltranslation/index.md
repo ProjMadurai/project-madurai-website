@@ -1,47 +1,14 @@
 ---
 title: 'நன்மதி வெண்பா (சுமதி சதகம் / தமிழில் மொழி பெயர்ப்பு)'
-
 weight: 399
 authors:
-  - எம்.ஆர். ஸ்ரீநிவாசய்யங்கார்
+- எம்.ஆர். ஸ்ரீநிவாசய்யங்கார்
 genres:
-  - சதகம்; மொழிபெயர்ப்பு
-  - பிரபந்தம்
+- சதகம்; மொழிபெயர்ப்பு
+- பிரபந்தம்
 ---
 
-
-
-### நன்மதி வெண்பா.  
-
-(சுமதி சதகம் / தமிழில் மொழி பெயர்ப்பு)  
-
-எம்.ஆர். ஸ்ரீநிவாசய்யங்காராலியற்றப்பட்டது.  
-
-  
-
-source:  
-
-Nanmathi Venba: A Translation  
-
-Telugu Sumati Satakam  
-
-by  
-
-M.R. Sreenivasa Aiyangar  
-
-(Late Teacher, Hindu High School,Silethputhur /*)  
-
-Madras: The Vaijayanthi Press,  
-
-32, Mount Road  
-
-1910  
-
-Copy Right Registered Price As
-
-4.  
-
-------------------  
+---------------  
 
 நன்மதி வெண்பா.  
 

@@ -1,36 +1,12 @@
 ---
 title: 'கல்வெட்டுப் பாடல்கள் மஞ்சரி; சிராமலை அந்தாதி'
-
 weight: 337
 authors:
-  - 
+-
 genres:
-  - அந்தாதி
-  - பிரபந்தம்
+- அந்தாதி
+- பிரபந்தம்
 ---
-
-
-
-சிராமலை அந்தாதி'  
-
-  
-
-weight:
-
-337  
-
-authors:  
-
--  
-genres:  
-
-- அந்தாதி  
-
-- பிரபந்தம்  
-
----  
-
-  
 
 # kalvETTup pATalkaL manjari (in Unicode tamil text)  
 

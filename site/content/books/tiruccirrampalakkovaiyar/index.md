@@ -1,30 +1,11 @@
 ---
 title: 'திருச்சிற்றம்பலக் கோவையார்'
-
 weight: 54
 authors:
-  - மாணிக்க வாசகர்
+- மாணிக்க வாசகர்
 genres:
-  - சமயம்
+- சமயம்
 ---
-
-
-
-  
-
-weight: 54  
-
-authors:  
-
-- மாணிக்க வாசகர்  
-
-genres:  
-
-- சமயம்  
-
----  
-
-  
 
 # tirucciRRampalakkOvaiyAr of mAnikkavacakar (in tamil script, unicode format)  
 

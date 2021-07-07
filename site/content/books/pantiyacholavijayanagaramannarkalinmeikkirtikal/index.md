@@ -1,14 +1,11 @@
 ---
 title: 'பாண்டிய; சோழ; விஜயநகர அரசர் மெய்கீர்த்திகள்'
-
 weight: 134
 authors:
-  - 
+-
 genres:
-  - 
+-
 ---
-
-
 
 **Short notes on meikkIrtikaL**  
 

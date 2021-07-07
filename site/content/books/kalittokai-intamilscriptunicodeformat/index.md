@@ -1,14 +1,11 @@
 ---
 title: 'கலித்தொகை'
-
 weight: 221
 authors:
-  - 
+-
 genres:
-  - சங்ககாலம் – எட்டுத்தொகை
+- சங்ககாலம் – எட்டுத்தொகை
 ---
-
-
 
 **Notes on Kalittokai (from Kamil Zvelebil's Lexicon of Tamil Literature, p.
 

@@ -1,33 +1,12 @@
 ---
 title: 'திருக்கடவூர் பதிகங்கள்'
-
 weight: 75
 authors:
-  - அபிராமி பட்டர்
+- அபிராமி பட்டர்
 genres:
-  - சமயம்
-  - சைவம்
+- சமயம்
+- சைவம்
 ---
-
-
-
-bnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
-
-weight: 75  
-
-authors:  
-
-- அபிராமி பட்டர்  
-
-genres:  
-
-- சமயம்  
-
-- சைவம்  
-
----  
-
-  
 
 # thiruk kadavUr prapanthankaL (in tamil script, unicode format)  
 

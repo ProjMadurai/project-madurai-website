@@ -1,14 +1,11 @@
 ---
 title: 'தொல்காப்பியம்'
-
 weight: 100
 authors:
-  - தொல்காப்பியர்
+- தொல்காப்பியர்
 genres:
-  - இலக்கணம்
+- இலக்கணம்
 ---
-
-
 
 ### tolkAppiyam -part I - ezuttatikAram (in Tamil Script, TSCII format)  
 

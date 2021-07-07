@@ -1,33 +1,12 @@
 ---
 title: 'கண்ணன் பாட்டு'
-
 weight: 49
 authors:
-  - சி. சுப்ரமணிய பாரதியார்
+- சி. சுப்ரமணிய பாரதியார்
 genres:
-  - தொகுப்பு
-  - பாடல்கள்
+- தொகுப்பு
+- பாடல்கள்
 ---
-
-
-
-ttps://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
-
-weight: 49  
-
-authors:  
-
-- சி. சுப்ரமணிய பாரதியார்  
-
-genres:  
-
-- தொகுப்பு  
-
-- பாடல்கள்  
-
----  
-
-  
 
 # Songs of C. Subramania Bharathiyar - part III(in tamil script, unicode format)  
 
@@ -1719,8 +1698,6 @@ header page is kept intact.
 
 கண்ணின் முன் நின்றதடீ! ... .7  
 
-------  
-
 **11. கண்ணன் - என் காதலன் - 2  
 
 **  
@@ -2079,8 +2056,6 @@ header page is kept intact.
 
 வாழும் வழியென்னடி தோழி? ... 6  
 
-------  
-
 **15. கண்ணன் - என் காந்தன்  
 
 **  
@@ -2310,8 +2285,6 @@ header page is kept intact.
 காரிய மில்லையடி வீண்ட சப்பிலே - கனி  
 
 கண்டவன் தோலுரிக்கக் காத்தி ருப்பனோ? ... 2  
-
-------  
 
 **19. கண்ணம்மா - என் காதலி - 4  
 

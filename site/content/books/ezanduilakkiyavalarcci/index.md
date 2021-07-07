@@ -1,14 +1,11 @@
 ---
 title: 'ஏழாண்டு இலக்கிய வளர்ச்சி'
-
 weight: 58
 authors:
-  - மு. தளையசிங்கம்
+- மு. தளையசிங்கம்
 genres:
-  - வரலாறு
+- வரலாறு
 ---
-
-
 
 ## Tamil Works of Contemporary Sri Lankan Authors - I  
 

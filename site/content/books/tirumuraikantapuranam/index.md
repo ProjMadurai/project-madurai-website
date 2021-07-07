@@ -1,35 +1,12 @@
 ---
 title: 'திருமுறைகண்ட புராணம்'
-
 weight: 213
 authors:
-  - உமாபதி சிவம்
+- உமாபதி சிவம்
 genres:
-  - சமயம்
-  - சைவம்
+- சமயம்
+- சைவம்
 ---
-
-
-
-ail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
-
-weight:
-
-213  
-
-authors:  
-
-- உமாபதி சிவம்  
-
-genres:  
-
-- சமயம்  
-
-- சைவம்  
-
----  
-
-  
 
 # tirumuRai kaNTa purANam (in tamil script, TSCII format)  
 

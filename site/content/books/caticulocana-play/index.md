@@ -1,80 +1,13 @@
 ---
 title: 'சதி-சுலோசனா (நாடகம்)'
-
 weight: 429
 authors:
-  - பம்மல் சம்பந்த முதலியார்
+- பம்மல் சம்பந்த முதலியார்
 genres:
-  - நாடகம்
+- நாடகம்
 ---
 
-
-
-### பம்மல் சம்பந்த முதலியார் அவர்களின்  
-
-சதி-சுலோசனா (நாடகம்)  
-
-  
-
-**Source:**  
-
-SATI SULOCHANA  
-
-A TAMIL DRAMA  
-
-BY  
-
-RAO BAHADUR. P. SAMBANDAM. B.A., B.L.,  
-
-Author of:  
-
-The Two Sisters, Galava, The Eye of Love, The Curse of Urvasi, The Merchant of  
-
-Vanipura, Fate and Love, Simhalanatha,Pushpavallli, Amaladitya, Magapathi,  
-
-The Ideal Wife, Siruthondar, The Golden Fetters, True Love, The Bandit Chief,  
-
-Bricks-Between, At Any Cost, The Fair Ghost, The Wedding of Valli, Brahmin  
-
-Vs Non-Brahmin, Vijayarangam, As you like it, Ratnavali, Lord Buddha,  
-
-The Tragedy of Silence, The Good Fairy, Geetha manjari, The True Brother,  
-
-Malavikagnimitra, Chandrahari, The Demon Land, Sabapathy Part I, The Pongal  
-
-Feast or Sabapathy Part II, A Rehearsal or Sabapathy Part III, Sabapathy Part IV,  
-
-Blessed in a Wife, The Dancing Girl, Subadra Arjuna, Karna the Giver, Sahadeva's Stratagem,  
-
-The Surgeon General's prescription. Vichu's Wife, Sakuntala, Vikramorvasi,  
-
-The Point of View, The Two Selves, The Tragic Denouncement, The Sub-Assistant  
-
-Magistrate of Sultanpet, Harischandra, Blind Ambition, Markandeya, Sarangadhara,  
-
-Manohara, The Two Friends, The Knavery of Kalappa, As We Sow-So We Reap.  
-
-Over Forty Years Before the Footlights Parts I & II. The search, Prince Koneri,  
-
-The crown in the Shandy, The Gypsy Girl, Vaikunta Vaithiyar, The Tamil Drama etc.  
-
-in Tamil; and Harischandra and Yayathi in English.  
-
-FIRST EDITION  
-
-MADRAS  
-
-PRINTED BY THE PEERLESS PRESS  
-
-15, LINGHI CHETTY STREET, GT.  
-
-[All Rights Reserved.
-
-1935 Price per Copy
-
-2.00]  
-
-----------------------------  
+-------------------------  
 
 உ  
 
@@ -2472,4 +2405,4 @@ sp; காட்சி முடிகிறது.
 
 This file was last updated on 20 July
 
-2012  
+2012

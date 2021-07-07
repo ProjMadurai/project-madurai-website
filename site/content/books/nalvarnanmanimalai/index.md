@@ -1,35 +1,12 @@
 ---
 title: 'நால்வர் நான்மணி மாலை'
-
 weight: 138
 authors:
-  - துரைமங்கலம் சிவப்பிரகாச சுவாமிகள்
+- துரைமங்கலம் சிவப்பிரகாச சுவாமிகள்
 genres:
-  - பிரபந்தம்
-  - மாலை
+- பிரபந்தம்
+- மாலை
 ---
-
-
-
-ail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
-
-weight:
-
-138  
-
-authors:  
-
-- துரைமங்கலம் சிவப்பிரகாச சுவாமிகள்  
-
-genres:  
-
-- பிரபந்தம்  
-
-- மாலை  
-
----  
-
-  
 
 # nAlvar nAnmaNi mAlai (in tamil script, unicode format)  
 

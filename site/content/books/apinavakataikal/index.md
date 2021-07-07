@@ -1,40 +1,13 @@
 ---
 title: 'அபிநவ கதைகள்'
-
 weight: 391
 authors:
-  - வ. சு. செங்கல்வராய முதலியார்
+- வ. சு. செங்கல்வராய முதலியார்
 genres:
-  - கதைகள்
+- கதைகள்
 ---
 
-
-
-### அபிநவ கதைகள்  
-
-(தி. செல்வகேசவராய முதலியார்)  
-
-  
-
-Source:  
-
-TAMIL NOVELETTES  
-
-அபிநவ கதைகள்  
-
-T. CHELVAKESAVAROYA MUDALIAR, M.A.  
-
-Pachchaiyappa's College.  
-
-THIRD EDITION  
-
-MADRAS  
-
-PRINTED AT THE S R C K PRESS COMPANY  
-
-1921  
-
---------------------  
+-----------------  
 
   
 
@@ -1080,4 +1053,4 @@ Printed at the S.P.C.K. Press, Vepery, Madras-B.15909.
 
 - This file was last updated on 2 October
 
-2011  
+2011

@@ -1,38 +1,13 @@
 ---
 title: 'சங்க காலத்தில் தமிழ் நாட்டில் பெண்களின் நிலை'
-
 weight: 550
 authors:
-  - சி. பாலசுப்பிரமணியன் (சிற்பி)
+- சி. பாலசுப்பிரமணியன் (சிற்பி)
 genres:
-  - சொற்பொழிவு
+- சொற்பொழிவு
 ---
 
-
-
-**source:**  
-
-The Status of Women in Tamil Nadu During the Sangam Age  
-
-Dr. C. BALASUBRA MANIAN  
-
-Vice - Chancellor. TAMIL UNIVERSITY. ΤΗΑΝJΑVUR-613
-
-
-
-005.  
-
-МАRUМАLАRР РАТlРРАКАМ. MADRAS - 6OO O29  
-
-Selling rights :  
-
-PAARI NILAYAM,
-
-184, PRAKASAM SAALAI, MADRAS-600 1
-
-08.  
-
-------------------  
+---------------  
 
 F Ο R Ε W Ο R D  
 
@@ -2956,4 +2931,4 @@ A Critical Study of Kuruntokai
 
 This file was last updated on 20 November
 
-2016.  
+2016.

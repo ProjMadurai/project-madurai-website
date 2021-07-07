@@ -1,32 +1,11 @@
 ---
 title: 'விவிலியம் /புதிய ஏற்பாடு /ஏக்ட்ஸ்'
-
 weight: 39
 authors:
-  - விவிலியம்
+- விவிலியம்
 genres:
-  - சமயம் – கிருத்துவம்
+- சமயம் – கிருத்துவம்
 ---
-
-
-
-்ட்ஸ்'  
-
-  
-
-weight: 39  
-
-authors:  
-
-- விவிலியம்  
-
-genres:  
-
-- சமயம் – கிருத்துவம்  
-
----  
-
-  
 
 # Holy Bible - New Testament - part III (in tamil script, unicode format)  
 

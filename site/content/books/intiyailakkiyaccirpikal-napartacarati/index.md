@@ -1,34 +1,11 @@
 ---
 title: 'இந்திய இலக்கியச் சிற்பிகள் : நா. பார்த்தசாரதி'
-
 weight: 750
 authors:
-  - திருப்பூர் கிருஷ்ணன்
+- திருப்பூர் கிருஷ்ணன்
 genres:
-  - வரலாறு / சரித்திரம்
+- வரலாறு / சரித்திரம்
 ---
-
-
-
-நா. பார்த்தசாரதி'  
-
-  
-
-weight:
-
-750  
-
-authors:  
-
-- திருப்பூர் கிருஷ்ணன்  
-
-genres:  
-
-- வரலாறு / சரித்திரம்  
-
----  
-
-  
 
 # intiya ilakkiyac ciRpikaL- nA. pArtacArati (in tamil script, unicode format)  
 

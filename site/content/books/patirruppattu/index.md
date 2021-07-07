@@ -1,30 +1,11 @@
 ---
 title: 'பதிற்றுப்பத்து'
-
 weight: 38
 authors:
-  - பல ஆசிரியர்கள்
+- பல ஆசிரியர்கள்
 genres:
-  - சங்ககாலம் – எட்டுத்தொகை
+- சங்ககாலம் – எட்டுத்தொகை
 ---
-
-
-
-https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
-
-weight: 38  
-
-authors:  
-
-- பல ஆசிரியர்கள்  
-
-genres:  
-
-- சங்ககாலம் – எட்டுத்தொகை  
-
----  
-
-  
 
 # patiRRuppattu (in tamil script, unicode format)  
 

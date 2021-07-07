@@ -1,34 +1,12 @@
 ---
 title: 'பாண்டிக் கோவை'
-
 weight: 336
 authors:
-  - 
+-
 genres:
-  - கோவை
-  - பிரபந்தம்
+- கோவை
+- பிரபந்தம்
 ---
-
-
-
-ttps://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
-
-weight:
-
-336  
-
-authors:  
-
--  
-genres:  
-
-- கோவை  
-
-- பிரபந்தம்  
-
----  
-
-  
 
 # pANTik kOvai (in tamil script, Unicode/UTF-8 format)  
 

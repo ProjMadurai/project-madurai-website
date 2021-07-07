@@ -1,34 +1,9 @@
 ---
 title: 'சங்கரன்கோயில் கோமதியம்மை பிள்ளைத் தமிழ்'
-
 weight: 738
 authors:
-  - முத்துவீரக் கவிராயர்
+- முத்துவீரக் கவிராயர்
 
 ---
-
-
-
-்ளைத் தமிழ்'  
-
-  
-
-weight:
-
-738  
-
-authors:  
-
-- முத்துவீரக் கவிராயர்  
-
-tags:  
-
-- cake  
-
-- chocolate  
-
----  
-
-  
 
 # komathiyammai pillai tamil by kavirayar

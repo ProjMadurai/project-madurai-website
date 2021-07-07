@@ -1,32 +1,11 @@
 ---
 title: 'விவிலியம் /புதிய ஏற்பாடு /மத்தேயு'
-
 weight: 19
 authors:
-  - விவிலியம்
+- விவிலியம்
 genres:
-  - சமயம் – கிருத்துவம்
+- சமயம் – கிருத்துவம்
 ---
-
-
-
-்தேயு'  
-
-  
-
-weight: 19  
-
-authors:  
-
-- விவிலியம்  
-
-genres:  
-
-- சமயம் – கிருத்துவம்  
-
----  
-
-  
 
 # Holy Bible - New Testament - part Ia (Book of Mathew) (in tamil script, Unicode format)  
 

@@ -1,80 +1,13 @@
 ---
 title: 'சமுதாய மறுமலர்ச்சி இலக்கியங்கள் (இலக்கியச் சொற்பொழிவுகள்)'
-
 weight: 793
 authors:
-  - குன்றக்குடி அடிகள்
+- குன்றக்குடி அடிகள்
 genres:
-  - ஆராய்ச்சிக் கட்டுரைகள்
+- ஆராய்ச்சிக் கட்டுரைகள்
 ---
 
-
-
-### சமுதாய மறுமலர்ச்சி இலக்கியங்கள் (சொற்பொழிவுகள்)  
-
-தவத்திரு குன்றக்குடி அடிகளார்  
-
-  
-
-**Source:**  
-
-சமுதாய மறுமலர்ச்சி இலக்கியங்கள்  
-
-தவத்திரு குன்றக்குடி அடிகளார்  
-
-கலைவாணி புத்தகாலயம்  
-
-நல்ல நூல் வெளியீட்டாளர்கள்  
-
-16/2, ராஜாபாதர் தெரு, பாண்டிபஜார்,  
-
-தியாகராயநகர். சென்னை-600
-
-
-
-017.  
-
-கலைவாணி வெளியீடு K
-
-483  
-
-முதற்பதிப்பு : டிசம்பர்,
-
-1993  
-
-விலை: ரூ.
-
-25.00 PRICE : Rs. ரூ
-
-25.00  
-
-SAMUTHAYA MARUMALARCH ILAKKHIANGAL  
-
-– A collection of essays in literature on improvement of social reforms  
-
-by Thavathiru KUNDRAKUDI ADIGALAR  
-
-First Edition : December,
-
-1993.  
-
-Published by : KAVINGER SEENI. THRUNAAVUKKARASU,  
-
-KALAIVAANI PUTHAKALAYAM,  
-
-16/2, Rajabathar street, Pondy Bazaar, T.Nagar, Madras-600
-
-
-
-017.  
-
-Printed at: ALEX Printers, Madras-600
-
-
-
-094.  
-
---------------  
+-----------  
 
 **சமுதாய மறுமலர்ச்சி இலக்கியங்கள் - முன்னுரை**  
 

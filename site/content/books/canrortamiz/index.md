@@ -1,32 +1,11 @@
 ---
 title: 'சான்றோர் தமிழ்'
-
 weight: 686
 authors:
-  - சி. பாலசுப்பிரமணியன் (சிற்பி)
+- சி. பாலசுப்பிரமணியன் (சிற்பி)
 genres:
-  - இலக்கியக் கட்டுரைகள்
+- இலக்கியக் கட்டுரைகள்
 ---
-
-
-
-https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
-
-weight:
-
-686  
-
-authors:  
-
-- சி. பாலசுப்பிரமணியன் (சிற்பி)  
-
-genres:  
-
-- இலக்கியக் கட்டுரைகள்  
-
----  
-
-  
 
 # cAnROr tamiz by cirpi ci. pAlacuppiramaNiyan (in tamil script, unicode format)  
 

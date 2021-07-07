@@ -1,48 +1,13 @@
 ---
 title: 'தமிழ் பழமொழிகள் தொகுப்பு ஆங்கில மொழியர்ப்புடன்'
-
 weight: 672
 authors:
-  - பெர்சிவால்
+- பெர்சிவால்
 genres:
-  - பழமொழிகள்
+- பழமொழிகள்
 ---
 
-
-
-### தமிழ் பழமொழிகள் தொகுப்பும்  
-
-ஆங்கில மொழிபெயர்ப்பும், ஆசிரியர் பெர்சிவால்  
-
-Tamil Proverbs with Their Translation  
-
-by Rev. P. Percival  
-
-  
-
-**Source:**  
-
-TAMIL PROVERBS  
-
-WITH THEIR ENGLISH TRANSLATION.  
-
-CONTAINING UPWARDS OF SIX THOUSAND PROVERBS.  
-
-BY THE REV. P. PERCIVAL,  
-
-CHAPLAIN, MADRAS MILITARY FEMALE ORPHAN ASYLUM :  
-
-AUTHOR OF THE LAND OF THE VEDA, etc.  
-
-SECOND EDITION.  
-
-MADRAS: PRINTED AND PUBLISHED AT THE DINAVARTAMANI PRESS,  
-
-LITTLE BOURNE, MYLAPORE.  
-
-1874  
-
---------------  
+-----------  
 
 **PREFACE TO THE FIRST EDITION.**  
 

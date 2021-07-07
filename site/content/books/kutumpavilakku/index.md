@@ -1,30 +1,11 @@
 ---
 title: 'குடும்ப விளக்கு'
-
 weight: 89
 authors:
-  - பாரதிதாசன்
+- பாரதிதாசன்
 genres:
-  - காவியம்
+- காவியம்
 ---
-
-
-
-'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
-
-weight: 89  
-
-authors:  
-
-- பாரதிதாசன்  
-
-genres:  
-
-- காவியம்  
-
----  
-
-  
 
 # kutumpa vilakku (in tamil script, unicode/utf-8 format)  
 

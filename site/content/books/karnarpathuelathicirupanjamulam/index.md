@@ -1,30 +1,11 @@
 ---
 title: 'ஏலாதி; சிறு பஞ்ச மூலம்'
-
 weight: 29
 authors:
-  - கணிமேதாவியார்
+- கணிமேதாவியார்
 genres:
-  - நீதிநெறி – பதினெண்கீழ்க்கணக்கு
+- நீதிநெறி – பதினெண்கீழ்க்கணக்கு
 ---
-
-
-
-bnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
-
-weight: 29  
-
-authors:  
-
-- கணிமேதாவியார்  
-
-genres:  
-
-- நீதிநெறி – பதினெண்கீழ்க்கணக்கு  
-
----  
-
-  
 
 # kAr nArpathu, ElAthi & ciru panja mUlam (in tamil script, unicode format)  
 

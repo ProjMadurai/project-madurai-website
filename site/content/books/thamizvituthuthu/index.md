@@ -1,33 +1,12 @@
 ---
 title: 'தமிழ் விடுதூது'
-
 weight: 40
 authors:
-  - மதுரை சொக்கநாதர்
+- மதுரை சொக்கநாதர்
 genres:
-  - தூது
-  - பிரபந்தம்
+- தூது
+- பிரபந்தம்
 ---
-
-
-
-https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
-
-weight: 40  
-
-authors:  
-
-- மதுரை சொக்கநாதர்  
-
-genres:  
-
-- தூது  
-
-- பிரபந்தம்  
-
----  
-
-  
 
 # Thamiz vitu thUthu (in tamil script, unicode format)  
 

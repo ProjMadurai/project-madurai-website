@@ -1,48 +1,13 @@
 ---
 title: 'புதிய தமிழ்ச் சிறுகதைகள்'
-
 weight: 411
 authors:
-  - அசோகமித்திரன்
+- அசோகமித்திரன்
 genres:
-  - சிறுகதைகள் தொகுப்பு
+- சிறுகதைகள் தொகுப்பு
 ---
 
-
-
-### புதிய தமிழ்ச் சிறுகதைகள்  
-
-தொகுப்பாசிரியர்: அசோகமித்திரன்  
-
-  
-
-**Source:**  
-
-புதிய தமிழ்ச் சிறுகதைகள்  
-
-தொகுப்பாசிரியர்: அசோகமித்திரன்  
-
-நேஷனல் புக் டிரஸ்ட்  
-
-இந்தியா. புது டில்லி.  
-
-1984 (1906)  
-
-© உரிமை அந்தந்த ஆசிரியருக்கு  
-
-விலை: ரூ. 8-00  
-
-RECENT TAMIL SHORT STORIES (TAMIL)  
-
-Published by the Director,  
-
-National Book Trust, India,  
-
-A-5, Green Park, New Delhi-110016 and  
-
-printed at Sree Seva Mandir, 32, Bazullah Road, T.Nagar, Madras-17.  
-
---------------------  
+-----------------  
 
 **முன்னுரை**  
 
@@ -2908,4 +2873,4 @@ printed at Sree Seva Mandir, 32, Bazullah Road, T.Nagar, Madras-17.
 
 This file was last updated on 16 April
 
-2012  
+2012

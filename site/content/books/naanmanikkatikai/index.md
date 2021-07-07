@@ -1,30 +1,11 @@
 ---
 title: 'நான்மணிக்கடிகை'
-
 weight: 47
 authors:
-  - விளம்பிநாகனார்
+- விளம்பிநாகனார்
 genres:
-  - நீதிநெறி – பதினெண்கீழ்க்கணக்கு
+- நீதிநெறி – பதினெண்கீழ்க்கணக்கு
 ---
-
-
-
-https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
-
-weight: 47  
-
-authors:  
-
-- விளம்பிநாகனார்  
-
-genres:  
-
-- நீதிநெறி – பதினெண்கீழ்க்கணக்கு  
-
----  
-
-  
 
 # naanmaNikkaTikai (in tamil script, unicode format)  
 

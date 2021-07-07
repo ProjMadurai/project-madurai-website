@@ -1,34 +1,11 @@
 ---
 title: 'விவிலியம் /புதிய ஏற்பாடு -6 /யாக்கோப்பு திருமுகம்'
-
 weight: 156
 authors:
-  - விவிலியம்
+- விவிலியம்
 genres:
-  - சமயம் – கிருத்துவம்
+- சமயம் – கிருத்துவம்
 ---
-
-
-
-/யாக்கோப்பு திருமுகம்'  
-
-  
-
-weight:
-
-156  
-
-authors:  
-
-- விவிலியம்  
-
-genres:  
-
-- சமயம் – கிருத்துவம்  
-
----  
-
-  
 
 # Holy Bible - New Testament - part VI (in tamil script, unicode format)  
 

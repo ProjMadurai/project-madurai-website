@@ -1,35 +1,12 @@
 ---
 title: 'நரி விருத்தம்'
-
 weight: 342
 authors:
-  - திருத்தக்க தேவர்
+- திருத்தக்க தேவர்
 genres:
-  - பிரபந்தம்
-  - விருத்தம்
+- பிரபந்தம்
+- விருத்தம்
 ---
-
-
-
-ttps://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
-
-weight:
-
-342  
-
-authors:  
-
-- திருத்தக்க தேவர்  
-
-genres:  
-
-- பிரபந்தம்  
-
-- விருத்தம்  
-
----  
-
-  
 
 # "nari viruttam" of tiruttakkatEvar (in UTF-8)  
 

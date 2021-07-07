@@ -1,30 +1,11 @@
 ---
 title: 'உலகநீதி'
-
 weight: 22
 authors:
-  - உலகநாதர்
+- உலகநாதர்
 genres:
-  - நீதிநெறி நூல்கள்
+- நீதிநெறி நூல்கள்
 ---
-
-
-
-/akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
-
-weight: 22  
-
-authors:  
-
-- உலகநாதர்  
-
-genres:  
-
-- நீதிநெறி நூல்கள்  
-
----  
-
-  
 
 # ulakaneethi of ulakanaathar (in tamil script, unicode format)  
 

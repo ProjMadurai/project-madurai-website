@@ -1,29 +1,14 @@
 ---
 title: 'மதுரைக் காஞ்சி'
-
 weight: 71
 authors:
-  - மாங்குடி மருதனார்
+- மாங்குடி மருதனார்
 genres:
-  - சங்ககாலம்
-  - பத்துப்பாட்டு
+- சங்ககாலம்
+- பத்துப்பாட்டு
 ---
 
-
-
-### maturaikkAnjci of mangkuTi marutanAr  
-
-(work in pattuppATTu anthologies) (in Tamil Script, TSCII format)  
-
-  
-
-சங்க கால நூல்களான பத்துப் பாட்டுக்களில் ஆறாவதான  
-
-மதுரைக் காஞ்சி  
-
-  
-
-------  
+---  
 
   
 

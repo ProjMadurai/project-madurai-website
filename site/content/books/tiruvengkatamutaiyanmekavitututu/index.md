@@ -1,15 +1,12 @@
 ---
 title: 'தூதுத் திரட்டு : மணவை திருவேங்கடமுடையான் மேகவிடுதூது'
-
 weight: 353
 authors:
-  - 
+-
 genres:
-  - தூது
-  - பிரபந்தம்
+- தூது
+- பிரபந்தம்
 ---
-
-
 
 ### தூதுத் திரட்டு ::  
 
@@ -955,4 +952,4 @@ This edition published under the name of Tututtirattu consists of six works.
 
 This file was last updated on 26 Feb.
 
-2010  
+2010

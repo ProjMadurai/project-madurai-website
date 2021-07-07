@@ -1,33 +1,12 @@
 ---
 title: 'கந்தர் அலங்காரம்'
-
 weight: 23
 authors:
-  - அருணகிரிநாதர்
+- அருணகிரிநாதர்
 genres:
-  - சமயம்
-  - சைவம்
+- சமயம்
+- சைவம்
 ---
-
-
-
-'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
-
-weight: 23  
-
-authors:  
-
-- அருணகிரிநாதர்  
-
-genres:  
-
-- சமயம்  
-
-- சைவம்  
-
----  
-
-  
 
 # kandar anubuthi, kandar alangaram and vel/mayil/cEval viruttham (in tamil script, Unicode format)  
 

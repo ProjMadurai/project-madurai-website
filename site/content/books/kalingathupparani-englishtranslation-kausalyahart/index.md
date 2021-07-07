@@ -1,36 +1,13 @@
 ---
 title: 'கலிங்கத்துப் பரணி ஆங்கில மொழிபெயர்ப்பு'
-
 weight: 730
 authors:
-  - சயங்கொண்டார் & கௌசல்யா ஹார்ட்
+- சயங்கொண்டார் & கௌசல்யா ஹார்ட்
 genres:
-  - ஆங்கில மொழிபெயர்ப்பு
+- ஆங்கில மொழிபெயர்ப்பு
 ---
 
-
-
-### Kalingathupparani (The War of Kalingam) -English Translation  
-
-by Dr. Kausalya Hart  
-
-  
-
-**Source:**  
-
-Kalingathupparani (The War of Kalingam)  
-
-by Jayangondar  
-
-English Translation by Dr. Kausalya Hart  
-
-(retired Tamil Lecturer)  
-
-South and Southeast Asian Studies  
-
-University of California, Berkeley, California, USA.  
-
--------------  
+----------  
 
   
 
@@ -228,8 +205,6 @@ with his matchless wheel of law that removes poverty
 
 and spreads his fame everywhere.  
 
-------  
-
 9,
 
 10. Let us worship Ganesa,  
@@ -274,8 +249,6 @@ May he rule all the lands surrounded by the oceans
 
 and all the directions under his one royal umbrella.  
 
-------  
-
 13. Saraswathi, the goddess of art and literature  
 
 abides on our king’s tongue.  
@@ -289,8 +262,6 @@ and the goddess of victory shines,
 adorning our king’s arms.  
 
 Let us praise them all.  
-
-------  
 
 14. The goddess of the earth thinks,  
 
@@ -310,8 +281,6 @@ Let us worship the goddess of earth
 
 so that our king may live long.  
 
-------  
-
 15. When Kama, the god of love  
 
 shot his arrows at Shiva,  
@@ -327,8 +296,6 @@ the lotus hands and feet of our goddess.
 Let us worship the flower-like ankleted feet  
 
 of that powerful goddess, bowing our heads to her.  
-
-------  
 
 16. Let us worship the goddess Parvathi  
 

@@ -1,30 +1,11 @@
 ---
 title: 'விவிலியம் /புதிய ஏற்பாடு /2'
-
 weight: 30
 authors:
-  - விவிலியம்
+- விவிலியம்
 genres:
-  - சமயம் – கிருத்துவம்
+- சமயம் – கிருத்துவம்
 ---
-
-
-
-  
-
-weight: 30  
-
-authors:  
-
-- விவிலியம்  
-
-genres:  
-
-- சமயம் – கிருத்துவம்  
-
----  
-
-  
 
 # Holy Bible - New Testament - part IIa (in tamil script, uncode format)  
 

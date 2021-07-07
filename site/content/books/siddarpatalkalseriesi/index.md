@@ -1,30 +1,11 @@
 ---
 title: 'சித்தர் பாடல்கள் தொகுப்பு'
-
 weight: 76
 authors:
-  - அழுகணிச் சித்தர்; இராமதேவர்; கடுவெளிச் சித்தர்;
+- அழுகணிச் சித்தர்; இராமதேவர்; கடுவெளிச் சித்தர்;
 genres:
-  - சித்தர் பாடல்கள்
+- சித்தர் பாடல்கள்
 ---
-
-
-
-humbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
-
-weight: 76  
-
-authors:  
-
-- அழுகணிச் சித்தர்; இராமதேவர்; கடுவெளிச் சித்தர்;  
-
-genres:  
-
-- சித்தர் பாடல்கள்  
-
----  
-
-  
 
 # Siddar pAtalkaL Series I) (in tamil script, Unicode format)  
 

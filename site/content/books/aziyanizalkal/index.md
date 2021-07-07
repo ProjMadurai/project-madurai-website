@@ -1,14 +1,11 @@
 ---
 title: 'அழியா நிழல்கள்'
-
 weight: 66
 authors:
-  - எம்.ஏ. நுஃமான்
+- எம்.ஏ. நுஃமான்
 genres:
-  - கவிதைத் தொகுப்பு
+- கவிதைத் தொகுப்பு
 ---
-
-
 
 ## Tamil Works of Contemporary Sri Lankan Authors - III  
 

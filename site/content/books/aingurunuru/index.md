@@ -1,30 +1,11 @@
 ---
 title: 'ஐங்குறு நூறு'
-
 weight: 28
 authors:
-  - பல ஆசிரியர்கள் (5)
+- பல ஆசிரியர்கள் (5)
 genres:
-  - சங்ககாலம் – எட்டுத்தொகை
+- சங்ககாலம் – எட்டுத்தொகை
 ---
-
-
-
-tps://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
-
-weight: 28  
-
-authors:  
-
-- பல ஆசிரியர்கள் (5)  
-
-genres:  
-
-- சங்ககாலம் – எட்டுத்தொகை  
-
----  
-
-  
 
 # aingurunUru (in tamil script, unicode format)  
 

@@ -1,31 +1,11 @@
 ---
 title: 'பகவத் கீதை /தமிழாக்கம்; விளக்கவுரை'
-
 weight: 14
 authors:
-  - சி. சுப்ரமணிய பாரதியார்
+- சி. சுப்ரமணிய பாரதியார்
 genres:
-  - 
+-
 ---
-
-
-
-்கவுரை'  
-
-  
-
-weight: 14  
-
-authors:  
-
-- சி. சுப்ரமணிய பாரதியார்  
-
-genres:  
-
--  
----  
-
-  
 
 # Bhagavad Gita - Subramaniya Bharathi Commentary (in tamil script, Unicode format)  
 

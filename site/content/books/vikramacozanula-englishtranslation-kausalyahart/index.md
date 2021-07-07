@@ -1,71 +1,14 @@
 ---
 title: 'விக்ரம சோழன் உலா (ஆங்கில மொழிபெயர்ப்பு)'
-
 weight: 415
 authors:
-  - கௌசல்யா ஹார்ட்
+- கௌசல்யா ஹார்ட்
 genres:
-  - உலா; மொழிபெயர்ப்பு
-  - பிரபந்தம்
+- உலா; மொழிபெயர்ப்பு
+- பிரபந்தம்
 ---
 
-
-
-### VIKRAMA CHOLAN ULAA  
-
-by OTTAKKUTHAR  
-
-(12th century)  
-
-Translated by  
-
-Kausalya Hart  
-
-  
-
-Introduction by  
-
-Gita Pai  
-
-Department of South and South East AsianStudies  
-
-University of California  
-
-Berkeley, California  
-
-September,
-
-2011  
-
-**Note:** The verses of Vikkiramacōḻaṉ Ulā in Tamil script (Unicode format) has been released earlier as PM release /#116.  
-
-You can access the text using the following link (opens up in a new webpage!  
-
-[Vikkiramacōḻaṉ Ulā verses in Tamil unicode](http://www.projectmadurai.org/pm_etexts/utf8/pmuni0116.html)  
-
-  
-
-### PREFACE by George Hart  
-
-  
-
-The **Vikkiramacōḻaṉ Ulā**is extraordinarily rich in language, symbolism, and texture. It connects the king, his procession, his elephant, his entourage, and the women who see him in a vast and varied canvas where many things happen at once. As we read it, we become part of a happening, and are drawn from one end of this great vision to the other, slowly forgetting ourselves and, like the king's women, finding ourselves overwhelmed by his glory and splendor. Oṭṭakkūttaṉ’s achievement is to have created an extraordinarily compelling work out of a simple and rather unimaginative template. This translation makes this wonderful poem available in a form that all can enjoy. Gita has added an informative introduction about the king, the poet, and the poem. The present work grew out of work done by Kausalya Hart and Gita Pai, who read Oṭṭakkūttaṉ’s Vikkiramacōḻaṉ Ulā together for research purposes. This translation is meant to make available to the general public a work that has long been admired by students of Tamil literature. Footnotes and diacritical marks have been avoided (except in the introduction), as they often confuse everyone but scholars. And for clarity, occasional additions have been made here and there. The result is a fine translation that can be enjoyed by the Tamil public in general.  
-
-  
-
-### INTRODUCTION by Gita Pai  
-
-  
-
-The **Vikkiramacōḻaṉ Ulā**is a panegyric poem relating the military valor and sexual magnetism of a prominent king of the Chola dynasty, which ruled for four centuries (849-1279 CE) over much of southern India, Sri Lanka and parts of Southeast Asia. The Chola sovereigns were one of the longest-lived imperial lineages in the history of south Asia. They are known for their efficient administrative system, which combined a vigorous central control with a very large measure of local autonomy[1] . The great temples of Tañjāvūr, Gangaikondacōḻapuram, Dārācuram and Tribhuvani as well as the smaller temples in other parts of Tamilnadu, attest to the grandeur and majestic excellence of Chola temple architecture and stone sculpture. As patrons of the arts, the Chola monarchs liberally commissioned other fine arts such as painting, music, poetry, drama, dance and bronze cast sculpture. The Chola dynasty was the dominant culture, artistic, religious and political force in south India from the 9th to the 13th centuries.  
-
-The references to the Chola dynasty are ancient. Northern inscriptions of the Mauryan emperor Ashoka refer to the Cholas, and Sangam literature produced roughly around
-
-300 BCE to
-
-300 CE detail the dominance of three dynasties over the areas of modern day Tamilnadu and Kerala: The Pandyas were based in Madurai to the south, the Cholas in Uṟaiyūr (modern Tiruccirāppaḷḷi) and the Cheras west of the Cholas in Karur and Kerala in the west[2]. The frequent attacks of the Pallavas, Cheras, and the Pandyas diminished the Chola power and it was not until the 8th century CE that their glory began to shine when the Pallavas’ power declined.  
-
------------  
+--------  
 
 [1] Stein, Burton. “The Segmentary State in South Indian History” in Realm and Region in India, Robert Fox, editor, Duke University Press,
 
@@ -2809,4 +2752,4 @@ murrum.
 
 This file was last updated on 5 May
 
-2012  
+2012

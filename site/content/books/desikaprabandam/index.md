@@ -1,33 +1,12 @@
 ---
 title: 'தேசிக பிரபந்தம்'
-
 weight: 13
 authors:
-  - வேதாந்த தேசிகர்
+- வேதாந்த தேசிகர்
 genres:
-  - சமயம்
-  - வைணவம்
+- சமயம்
+- வைணவம்
 ---
-
-
-
-'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
-
-weight: 13  
-
-authors:  
-
-- வேதாந்த தேசிகர்  
-
-genres:  
-
-- சமயம்  
-
-- வைணவம்  
-
----  
-
-  
 
 # desika prabandam (in tamil script, Unicode format)  
 
@@ -92,8 +71,6 @@ You are welcome to freely distribute this file, provided this
 header page is kept intact.  
 
 பாயிரம்  
-
-------  
 
 ஸ்ரீ  
 
@@ -3463,8 +3440,6 @@ header page is kept intact.
 
 கையிற் கனிபோலக் கண்டு.  
 
-------  
-
 7. அடைக்கலப் பத்து  
 
 7.1:  
@@ -3818,8 +3793,6 @@ header page is kept intact.
 நறையுடை, ஒளிமதி, வருவது, விரைகமழ்,  
 
 துதிகளும், அறிவிலர், பெருகிய, ஈருலகை.  
-
-------  
 
 10. திருச்சின்ன மாலை  
 
@@ -5063,8 +5036,6 @@ header page is kept intact.
 
 ஆரணங்க, வெற்புடன், பெற்றனை, ஒருமதி.  
 
-------  
-
 17. நவமணிமாலை  
 
 17.1:  
@@ -5260,8 +5231,6 @@ header page is kept intact.
 தேசொத்தார், உருளம், வஞ்சனை மலியும், மையும்,  
 
 மஞ்சு, பொருத்தம், அந்தமில்சீர்,  
-
-------  
 
 18. பிரபந்தசாரம்  
 

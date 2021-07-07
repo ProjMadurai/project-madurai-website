@@ -1,30 +1,11 @@
 ---
 title: 'சூளாமணி'
-
 weight: 35
 authors:
-  - தோலாமொழித் தேவர்
+- தோலாமொழித் தேவர்
 genres:
-  - காப்பியம்
+- காப்பியம்
 ---
-
-
-
-/akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
-
-weight: 35  
-
-authors:  
-
-- தோலாமொழித் தேவர்  
-
-genres:  
-
-- காப்பியம்  
-
----  
-
-  
 
 # chooLaamaNi -Introduction(in tamil script, unicode format)  
 

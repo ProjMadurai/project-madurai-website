@@ -1,29 +1,11 @@
 ---
 title: 'நளவெண்பா'
-
 weight: 15
 authors:
-  - புகழேந்திப் புலவர்
+- புகழேந்திப் புலவர்
 genres:
-  - 
+-
 ---
-
-
-
-//akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
-
-weight: 15  
-
-authors:  
-
-- புகழேந்திப் புலவர்  
-
-genres:  
-
--  
----  
-
-  
 
 # naLaveNpA by pukaZenthip pulavar (in tamil script, Unicode format)  
 
@@ -84,8 +66,6 @@ header page is kept intact.
 புகழேந்திப் புலவர் இயற்றிய நளவெண்பா  
 
 பாயிரம்  
-
-------  
 
 கடவுள் வணக்கம்  
 

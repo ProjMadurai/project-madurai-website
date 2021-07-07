@@ -1,30 +1,11 @@
 ---
 title: 'இன்னிலை'
-
 weight: 27
 authors:
-  - பொய்கையார்
+- பொய்கையார்
 genres:
-  - நீதிநெறி – பதினெண்கீழ்க்கணக்கு
+- நீதிநெறி – பதினெண்கீழ்க்கணக்கு
 ---
-
-
-
-/akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
-
-weight: 27  
-
-authors:  
-
-- பொய்கையார்  
-
-genres:  
-
-- நீதிநெறி – பதினெண்கீழ்க்கணக்கு  
-
----  
-
-  
 
 # ainthiNai50, ainthiNai70, thiNaimozhi50 & innilai (in tamil script, unicode format)  
 

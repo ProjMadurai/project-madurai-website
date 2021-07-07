@@ -1,30 +1,11 @@
 ---
 title: 'இன்னா நாற்பது'
-
 weight: 25
 authors:
-  - கபிலர்
+- கபிலர்
 genres:
-  - நீதிநெறி – பதினெண்கீழ்க்கணக்கு
+- நீதிநெறி – பதினெண்கீழ்க்கணக்கு
 ---
-
-
-
-ttps://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
-
-weight: 25  
-
-authors:  
-
-- கபிலர்  
-
-genres:  
-
-- நீதிநெறி – பதினெண்கீழ்க்கணக்கு  
-
----  
-
-  
 
 # inna40, iniyavai40, kalavazhi40 & muthumozikkAnchi (in tamil script, unicode format)  
 

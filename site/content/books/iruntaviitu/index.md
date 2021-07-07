@@ -1,14 +1,11 @@
 ---
 title: 'இருண்ட வீடு'
-
 weight: 86
 authors:
-  - பாரதிதாசன்
+- பாரதிதாசன்
 genres:
-  - காவியம்
+- காவியம்
 ---
-
-
 
 ## "iruNTa viiTu" by Bharathidaasan in TSCII format  
 

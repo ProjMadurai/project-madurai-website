@@ -1,34 +1,11 @@
 ---
 title: 'பழமொழி விளக்கம் /தண்டலையார் சதகம்'
-
 weight: 219
 authors:
-  - படிக்காசுப் புலவர்
+- படிக்காசுப் புலவர்
 genres:
-  - சிற்றிலக்கியம்
+- சிற்றிலக்கியம்
 ---
-
-
-
-சதகம்'  
-
-  
-
-weight:
-
-219  
-
-authors:  
-
-- படிக்காசுப் புலவர்  
-
-genres:  
-
-- சிற்றிலக்கியம்  
-
----  
-
-  
 
 # taNTalaiyAr catkam of paTikkAcup pulavar (in tamil script, TSCII format)  
 

@@ -1,30 +1,11 @@
 ---
 title: 'கலேவலா - தமிழாக்கம் - 2'
-
 weight: 33
 authors:
-  - உதயணன்
+- உதயணன்
 genres:
-  - இலக்கியம்
+- இலக்கியம்
 ---
-
-
-
-mbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
-
-weight: 33  
-
-authors:  
-
-- உதயணன்  
-
-genres:  
-
-- இலக்கியம்  
-
----  
-
-  
 
 # Kalevala - A Finland Epic -part II (songs 19-25) <br> (in tamil script, unicode format)  
 

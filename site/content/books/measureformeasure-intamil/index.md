@@ -1,14 +1,11 @@
 ---
 title: 'தன்னுயிரைப்போல மன்னுயிரை நினை /Measure for Measure (a tale from Shakespeare) Tamil Translation'
-
 weight: 281
 authors:
-  - பண்டித நடேச சாஸ்திரியார் (தமிழாக்கம்)
+- பண்டித நடேச சாஸ்திரியார் (தமிழாக்கம்)
 genres:
-  - நாவல்; மொழிபெயர்ப்பு
+- நாவல்; மொழிபெயர்ப்பு
 ---
-
-
 
 ### Measure for Measure (a Tale from Shakespeare)  
 

@@ -1,15 +1,12 @@
 ---
 title: 'நாமக்கல் கவிஞர் பாடல்கள் - 3'
-
 weight: 85
 authors:
-  - நாமக்கல் இராமலிங்கம் பிள்ளை
+- நாமக்கல் இராமலிங்கம் பிள்ளை
 genres:
-  - தொகுப்பு
-  - பாடல்கள்
+- தொகுப்பு
+- பாடல்கள்
 ---
-
-
 
 ### Namakkal kavinjar V. Ramalingam Pillai (1888-1972) pATalkaL- part III  
 

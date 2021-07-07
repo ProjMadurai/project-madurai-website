@@ -1,35 +1,12 @@
 ---
 title: 'சோமேசர் முதுமொழி வெண்பா'
-
 weight: 137
 authors:
-  - சிவஞான முனிவர்
+- சிவஞான முனிவர்
 genres:
-  - பிரபந்தம்
-  - வெண்பா
+- பிரபந்தம்
+- வெண்பா
 ---
-
-
-
-mbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
-
-weight:
-
-137  
-
-authors:  
-
-- சிவஞான முனிவர்  
-
-genres:  
-
-- பிரபந்தம்  
-
-- வெண்பா  
-
----  
-
-  
 
 # cOmEcar mutumozi veNpA(in tamil script, unicode format)  
 

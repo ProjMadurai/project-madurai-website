@@ -1,66 +1,13 @@
 ---
 title: 'காதலினால் அல்ல'
-
 weight: 148
 authors:
-  - இரா. கார்த்திகேசு
+- இரா. கார்த்திகேசு
 genres:
-  - நாவல் / புதினம்
+- நாவல் / புதினம்
 ---
 
-
-
-### காதலினால் அல்ல! (நாவல்)  
-
-ரெ.கார்த்திகேசு  
-
-  
-
-**Source**  
-
-  
-
-காதலினால் அல்ல! (நாவல்)  
-
-ரெ.கார்த்திகேசு  
-
-வெளியீட்டாளர் : முகில் என்டர்பிரைசஸ், மலேசியா மற்றும்  
-
-மித்ரா பப்ளிகேஷன்ஸ், இந்தியா  
-
-வெளியீடு:
-
-1999; பக்கங்கள்-308  
-
-ISBN: 1
-
-876626
-
-364  
-
-Publisher’s note:  
-
-The novel entitled “Kaathalinaal Alla” by R.Karthigesu is published in India by Mithra Publications (1999)  
-
-and in Malaysia by Muhil Enterprises (1999)  
-
-Copyright by Author.  
-
-Date of Publication 25 December
-
-1999.;  
-
-ISBN1
-
-876626
-
-364; Total number of pages
-
-
-
-308.  
-
---------  
+-----  
 
   
 

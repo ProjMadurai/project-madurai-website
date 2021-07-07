@@ -1,14 +1,11 @@
 ---
 title: 'அகங்களும் முகங்களும்'
-
 weight: 65
 authors:
-  - சு. வில்வரத்தினம்
+- சு. வில்வரத்தினம்
 genres:
-  - கவிதைத் தொகுப்பு
+- கவிதைத் தொகுப்பு
 ---
-
-
 
 ## Tamil Works of Contemporary Sri Lankan Authors - II  
 

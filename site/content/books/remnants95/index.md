@@ -1,14 +1,11 @@
 ---
 title: 'வளையாபதி'
-
 weight: 62
 authors:
-  - 
+-
 genres:
-  - காப்பியம்
+- காப்பியம்
 ---
-
-
 
 The following transcription scheme is used to represent letters that are foreign to pure Tamil:  
 

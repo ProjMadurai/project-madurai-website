@@ -1,33 +1,12 @@
 ---
 title: 'திருமுறை 9 /திருஇசைப்பா'
-
 weight: 92
 authors:
-  - சேந்தனார்
+- சேந்தனார்
 genres:
-  - சமயம்
-  - சைவம்
+- சமயம்
+- சைவம்
 ---
-
-
-
-mbnail: 'https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
-
-weight: 92  
-
-authors:  
-
-- சேந்தனார்  
-
-genres:  
-
-- சமயம்  
-
-- சைவம்  
-
----  
-
-  
 
 # tiruisappA, tiruppallANTu (9th thirumurai) (in Tamil, unicode/utf-7 format)  
 

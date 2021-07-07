@@ -1,33 +1,12 @@
 ---
 title: 'சண்முக கவசம்'
-
 weight: 34
 authors:
-  - பாம்பன் குமரகுருதாச சுவாமிகள்
+- பாம்பன் குமரகுருதாச சுவாமிகள்
 genres:
-  - சமயம்
-  - சைவம்
+- சமயம்
+- சைவம்
 ---
-
-
-
-tps://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/saffron-770x433.jpeg?NbdQ1v2j67d5MD8B8kZ1Vck7M6rseCRO'  
-
-weight: 34  
-
-authors:  
-
-- பாம்பன் குமரகுருதாச சுவாமிகள்  
-
-genres:  
-
-- சமயம்  
-
-- சைவம்  
-
----  
-
-  
 
 # canmuka kavacham & thiruchendur kandar kalivenpa(in tamil script, unicode format)  
 
