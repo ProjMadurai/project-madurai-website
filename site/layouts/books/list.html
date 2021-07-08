@@ -36,7 +36,6 @@
             <h6 class="text-truncate fw-bold text-center pt-4">{{ .Title }}</h6>
             {{- range $index, $element := .Params.authors }}
             {{ if gt $index 0 }} & {{ end }}
-            
                 <p class="text-center"><small>{{ . }}</small></p>
             {{ end }} 
             
@@ -44,8 +43,15 @@
           </div>
           <div class="card-footer border-0 bg-light">
             <div class="d-flex">
-              <span class="bg-transparent border-0 ms-auto"><a href="#" ><i class="fas fa-share-alt"></i></a></span>
-              <span class="bg-transparent border-0 ms-auto"><a href="https://www.projectmadurai.org/pm_etexts/pdf/pm0001.pdf"><i class="fas fa-download"></i></a></span>
+              <span class="bg-transparent border-0 ms-auto">
+                <a href="#" ><i class="fas fa-share-alt"></i></a></span>
+                {{ if .Params.bookId }}
+              <span class="bg-transparent border-0 ms-auto">
+                <a href="https://www.projectmadurai.org/pm_etexts/pdf/pm{{ .Params.bookId }}.pdf" download="{{.Title}}.pdf">
+                  <i class="fas fa-download"></i>
+                </a>
+                </span>
+                {{ end }} 
             </div>
 
           </div>
