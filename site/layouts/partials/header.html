@@ -2,37 +2,31 @@
   <!-- Fixed navbar -->
   <nav class="navbar navbar-light navbar-expand-md fixed-top position-relative border-bottom">
     <div class="container-fluid">
-      
+
       <a class="navbar-brand fw-bolder" href="/">
         <i class="fas fa-gopuram"></i>
         <span>திட்டம் மதுரை</span></a>
-      <button
-        class="navbar-toggler"
-        type="button"
-        data-bs-toggle="collapse"
-        data-bs-target="#navbarCollapse"
-        aria-controls="navbarCollapse"
-        aria-expanded="false"
-        aria-label="Toggle navigation"
-      >
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
+        aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarCollapse">
         <ul class="navbar-nav ms-auto mb-2 mb-md-0">
           <li class="nav-item">
-            <a class="nav-link {{if eq .Type "page"}}active{{end}} fw-bold" aria-current="page" href="#">முகப்பு</a>
+            <a class="nav-link {{if eq .Type "books"}}active{{end}} fw-bold" href="{{ "/books" | relURL
+              }}">புத்தகங்கள்</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link {{if eq .Type "books"}}active{{end}} fw-bold" href="{{ "/books" | relURL }}">புத்தகங்கள்</a>
+            <a class="nav-link {{if eq .Type "writers"}}active{{end}} fw-bold" href="{{ "/writers" | relURL
+              }}">ஆசிரியர்கள்</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link {{if eq .Type "writers"}}active{{end}} fw-bold" href="{{ "/writers" | relURL }}">ஆசிரியர்கள்</a>
+            <a class="nav-link {{if eq .Type "volunteers"}}active{{end}} fw-bold" href="{{ "/volunteers" | relURL
+              }}">தொண்டர்கள்</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link {{if eq .Type "volunteers"}}active{{end}} fw-bold" href="{{ "/volunteers" | relURL }}">தொண்டர்கள்</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link {{if eq .Type "mission"}}active{{end}} fw-bold" href="{{ "/mission" | relURL }}">நோக்கம்</a>
+            <a class="nav-link {{if eq .Type "mission"}}active{{end}} fw-bold" href="{{ "/mission" | relURL
+              }}">நோக்கம்</a>
           </li>
 
         </ul>
@@ -42,10 +36,11 @@
           <button class="btn" type="submit"><i class="fas fa-search"></i></button>
         </form>
         {{ end }}
-        
-       
+
+
       </div>
     </div>
   </nav>
-     <img src="{{ "images/Vector.svg" | relURL }}" alt="main img" class="position-absolute top-3 start-50 translate-middle">
+  <img src="{{ "images/Vector.svg" | relURL }}" alt="main img"
+    class="position-absolute top-3 start-50 translate-middle">
 </header>
