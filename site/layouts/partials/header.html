@@ -11,6 +11,14 @@
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarCollapse">
+        {{ if not .IsHome }}
+
+        <form class="d-flex">
+          <input class="form-control me-2" type="search" placeholder="தேடுக" aria-label="Search">
+          <button class="btn" type="submit"><i class="fas fa-search"></i></button>
+        </form>
+        {{ end }}
+
         <ul class="navbar-nav ms-auto mb-2 mb-md-0">
           <li class="nav-item">
             <a class="nav-link {{if eq .Type "books"}}active{{end}} fw-bold" href="{{ "/books" | relURL
@@ -31,11 +39,7 @@
 
         </ul>
 
-        {{ if not .IsHome }}
-        <form class="d-flex">
-          <button class="btn" type="submit"><i class="fas fa-search"></i></button>
-        </form>
-        {{ end }}
+        
 
 
       </div>
