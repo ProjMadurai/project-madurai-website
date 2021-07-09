@@ -4,10 +4,11 @@ if (
   !window.location.href.endsWith("/books") &&
   !window.location.href.endsWith("/books/")
 ) {
-  searchTxt.addEventListener("focus", (event) => {
+  searchTxt.addEventListener("focus", () => {
     window.location.href = "/books";
   });
 } else {
+  // eslint-disable-next-line no-undef
   const index = new FlexSearch.Document({
     document: {
       id: "title",
@@ -17,7 +18,6 @@ if (
   searchTxt.addEventListener("input", (event) => {
     if (event.currentTarget.value.trim().length !== 0) {
       document.querySelectorAll("div.card-body").forEach((card) => {
-        const bName = card.querySelector("h6").innerText;
         const bName = card.querySelector("h6").innerText;
         if (bName.startsWith(event.currentTarget.value)) {
           console.log(card);
