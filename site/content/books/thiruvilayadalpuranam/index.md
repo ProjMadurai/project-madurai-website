@@ -1,9 +1,0 @@
----
-title: 'திருவிளையாடற் புராணம் /1. மதுரைக் காண்டம்'
-weight: 463
-authors:
-- பரஞ்சோதி முனிவர்
-
----
-
-# thiruvilayadal puranam by paramjhothi
