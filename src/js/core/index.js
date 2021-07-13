@@ -8,51 +8,35 @@ if (
     window.location.href = "/books";
   });
 } else {
-  // eslint-disable-next-line no-undef
-  const index = new FlexSearch.Document({
-    document: {
-      id: "title",
-      field: ["title", "author", "tags"],
-    },
-  });
   searchTxt.addEventListener("input", (event) => {
-    if (event.currentTarget.value.trim().length !== 0) {
+    const searchText = event.currentTarget.value.trim();
+
+    if (searchText.trim().length === 0) {
       document.querySelectorAll("div.card-body").forEach((card) => {
+        const theELement = card.parentElement.parentElement.parentElement;
+        theELement.classList.remove("d-none");
+      });
+    } else {
+      document.querySelectorAll("div.card-body").forEach((card) => {
+        const theELement = card.parentElement.parentElement.parentElement;
         const bName = card.querySelector("h6").innerText;
-        if (bName.startsWith(event.currentTarget.value)) {
-          console.log(card);
+        let isMatching = false;
+        if (bName.startsWith(searchText)) {
+          isMatching = true;
+        } else {
+          const authors = card.querySelector("p").innerText;
+          if (authors.indexOf(searchText) !== -1) {
+            isMatching = true;
+          }
+        }
+
+        if (isMatching) {
+          theELement.classList.remove("d-none");
+        } else {
+          theELement.classList.add("d-none");
         }
       });
     }
   });
-
   searchTxt.focus();
-
-  const books = [
-    {
-      title: "ஆத்திசூடி",
-      author: "ஒளவையார்",
-      tags: ["d", "v"],
-    },
-    {
-      title: "கொன்றை வேந்தன்",
-      author: "ஒளவையார்",
-      tags: ["f", "gggggtytyt"],
-    },
-    {
-      title: "நல்வழி",
-      author: "ஒளவையார்",
-      tags: ["f", "gggggtytyt"],
-    },
-    {
-      title: "மூதுரை",
-      author: "ஒளவையார்",
-      tags: ["f", "gggggtytyt"],
-    },
-  ];
-
-  // add posts to the index
-  books.forEach((book) => {
-    index.add(book);
-  });
 }
