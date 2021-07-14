@@ -31,7 +31,7 @@
         {{ if .Description }}
         <div class="col mb-3">
           <a  class="text-decoration-none" href="{{strings.TrimRight "/" .Permalink}}">
-            <div class="card bg-light border-0 h-100">
+            <div class="card bg-light border-0 h-100 book-layout">
           <div class="card-body m-2 bg-dark" style="height:130px">
             <h6 class="text-truncate fw-bold text-center pt-4">{{ .Title }}</h6>
             {{- range $index, $element := .Params.authors }}
