@@ -44,13 +44,16 @@
             <div class="d-flex">
              <span class="bg-transparent border-0 ms-auto">
                 <a href="#" ><i class="fas fa-share-alt"></i></a></span> 
-                {{ if .Params.bookId }}
+            
+                <span class="bg-transparent border-0 ms-auto">
+                  <a href="#" ><i class="fas fa-book-reader"></i></a></span> 
+                
               <span class="bg-transparent border-0 ms-auto">
                 <a href="https://www.projectmadurai.org/pm_etexts/pdf/pm{{ .Params.bookId }}.pdf" download="{{.Title}}.pdf">
                   <i class="fas fa-download"></i>
                 </a>
                 </span>
-                {{ end }} 
+          
             </div>
 
           </div>
