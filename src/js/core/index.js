@@ -21,7 +21,7 @@ if (
         const theELement = card.parentElement.parentElement.parentElement;
         const bName = card.querySelector("h6").innerText;
         let isMatching = false;
-        if (bName.startsWith(searchText)) {
+        if (bName.indexOf(searchText) !== -1) {
           isMatching = true;
         } else {
           const authors = card.querySelector("p").innerText;

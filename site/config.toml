@@ -1,8 +1,21 @@
 languageLang = "ta"
-title = "திட்டம் மதுரை"
-authors = "சதிஷ் குமார் தியாகராஜன், தாஜுல் கான்,விஜயசேகர்"
+title = "மதுரைத் திட்டம்"
+authors = "கே. கல்யாண சுந்தரம்"
 
 # uncomment the next line to disable listing authors
 # disableKinds = ["taxonomyTerm"]
 
+[markup]
+  [markup.asciidocExt]
+    backend = "html5"
+    extensions = []
+    failureLevel = "fatal"
+    noHeaderOrFooter = true
+    preserveTOC = false
+    safeMode = "unsafe"
+    sectionNumbers = false
+    trace = true
+    verbose = false
+    workingFolderCurrent = false
+    [markup.asciidocExt.attributes]
 
