@@ -1,6 +1,6 @@
 class Book {
   constructor() {
-    const searchTxt = document.querySelector(".form-control");
+    const searchTxt = document.querySelector(".search-nav");
 
     searchTxt.addEventListener("input", (event) => {
       const searchText = event.currentTarget.value.trim().toLowerCase();
@@ -13,9 +13,16 @@ class Book {
       } else {
         document.querySelectorAll("div.card-body").forEach((card) => {
           const theELement = card.parentElement.parentElement.parentElement;
-          const bName = card.querySelector("h6").innerText;
+          const theTitleEl = card.querySelector("h6");
+          const bName = theTitleEl.innerText;
+          const terms = theTitleEl.dataset.terms
+            ? theTitleEl.dataset.terms
+            : "";
           let isMatching = false;
-          if (bName.indexOf(searchText) !== -1) {
+          if (
+            bName.indexOf(searchText) !== -1 ||
+            terms.indexOf(searchText) !== -1
+          ) {
             isMatching = true;
           } else {
             const authors = card.querySelector("p").innerText;

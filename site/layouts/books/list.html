@@ -36,7 +36,7 @@
           <div class="card-body m-2 bg-dark" style="height:130px">
             <h6 class="text-truncate fw-bold text-center pt-4"
             {{ if .Params.terms }} 
-            date-terms="{{- range $index, $element := .Params.terms }}{{ if gt $index 0 }} & {{ end }}{{ . }}{{ end }}"
+            data-terms="{{- range $index, $element := .Params.terms }}{{ if gt $index 0 }} & {{ end }}{{ . }}{{ end }}"
             {{ end }} 
             >{{ .Title }}</h6>
             {{- range $index, $element := .Params.authors }}
