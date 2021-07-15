@@ -30,8 +30,9 @@
         {{ range .Pages }}
         {{ if .Description }}
         <div class="col mb-3">
-          <a  class="text-decoration-none" href="{{strings.TrimRight "/" .Permalink}}">
+          
             <div class="card bg-light border-0 h-100 book-layout">
+              <a  class="text-decoration-none" href="{{strings.TrimRight "/" .Permalink}}">
           <div class="card-body m-2 bg-dark" style="height:130px">
             <h6 class="text-truncate fw-bold text-center pt-4">{{ .Title }}</h6>
             {{- range $index, $element := .Params.authors }}
@@ -40,17 +41,23 @@
             {{ end }} 
            
           </div>
+        </a>
           <div class="card-footer border-0 bg-light">
             <div class="d-flex">
              <span class="bg-transparent border-0 ms-auto">
-                <a href="#" ><img src="/site/static/images/aws.svg" alt="img"></a></span> 
+                <a href="#" >
+                  <img src="https://git-scm.com/images/mobi.png" width="25px" height="30px">
+                </a></span> 
             
                 <span class="bg-transparent border-0 ms-auto">
-                  <a href="#"><img src="/site/static/images/epub.svg" alt="img"></a></span> 
+                  <a href="#">
+                    <img src="https://git-scm.com/images/epub.png" width="25px" height="30px">
+                  </a>
+                </span> 
                 
               <span class="bg-transparent border-0 ms-auto">
                 <a href="#">
-                  <img src="/site/static/images/pdf.svg" alt="img">
+                  <img src="https://git-scm.com/images/pdf.png" width="25px" height="30px">
                 </a>
                 </span>
           
@@ -58,7 +65,7 @@
 
           </div>
           </div>
-        </a>
+        
         </div>
         {{ end }}
         {{ end }}

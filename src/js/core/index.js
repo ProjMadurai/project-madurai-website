@@ -9,7 +9,7 @@ if (
   });
 } else {
   searchTxt.addEventListener("input", (event) => {
-    const searchText = event.currentTarget.value.trim();
+    const searchText = event.currentTarget.value.trim().toLowerCase();
 
     if (searchText.trim().length === 0) {
       document.querySelectorAll("div.card-body").forEach((card) => {
@@ -29,7 +29,6 @@ if (
             isMatching = true;
           }
         }
-
         if (isMatching) {
           theELement.classList.remove("d-none");
         } else {
