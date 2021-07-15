@@ -34,7 +34,11 @@
             <div class="card bg-light border-0 h-100 book-layout">
               <a  class="text-decoration-none" href="{{strings.TrimRight "/" .Permalink}}">
           <div class="card-body m-2 bg-dark" style="height:130px">
-            <h6 class="text-truncate fw-bold text-center pt-4">{{ .Title }}</h6>
+            <h6 class="text-truncate fw-bold text-center pt-4"
+            {{ if .Params.terms }} 
+            date-terms="{{- range $index, $element := .Params.terms }}{{ if gt $index 0 }} & {{ end }}{{ . }}{{ end }}"
+            {{ end }} 
+            >{{ .Title }}</h6>
             {{- range $index, $element := .Params.authors }}
             {{ if gt $index 0 }} & {{ end }}
                 <p class="text-center"><small>{{ . }}</small></p>
