@@ -27,6 +27,13 @@ body {
   -moz-user-select: none;
   user-select: none;
 }
+.search-mbl{
+  position: absolute;
+  top:11px;
+}
+.ml-0{
+  margin-left:-5px;
+}
 
 @media only screen and (max-width: 736px) {
   .writer-img,.volunteers-img{
