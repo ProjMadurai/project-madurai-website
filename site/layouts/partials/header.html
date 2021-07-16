@@ -4,7 +4,7 @@
     <div class="container-fluid">
 
       <a class="navbar-brand fw-bolder" href="/">
-        <img src="{{ "images/logo.svg" | relURL }}" alt="main img" width="95px" class="header-logo">
+        <img src="{{ "images/logo.svg" | relURL }}" alt="main img" width="54px" class="header-logo">
         <span>{{ .Site.Title }}</span></a>
            
         <button class="navbar-toggler border-0 btn-outline-0"disabled type="link" data-bs-toggle="collapse" data-bs-target="#search" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
@@ -40,10 +40,10 @@
           <a class="btn search-nav" href="/books">
             <i class="fas fa-search"></i>
           </a>
-          <!-- <li class="nav-item">
+          <li class="nav-item">
             <a class="nav-link {{if eq .Type "books"}}active{{end}} fw-bold" href="{{ "/books" | relURL
               }}">புத்தகங்கள்</a>
-          </li> -->
+          </li>
      
           <li class="nav-item">
             <a class="nav-link {{if eq .Type "writers"}}active{{end}} fw-bold" href="{{ "/writers" | relURL
@@ -51,7 +51,7 @@
           </li>
           <li class="nav-item">
             <a class="nav-link {{if eq .Type "volunteers"}}active{{end}} fw-bold" href="{{ "/volunteers/volunters-page" | relURL
-              }}">தொண்டர்கள்</a>
+              }}">தன்னார்வலர்கள்</a>
           </li>
           <li class="nav-item">
             <a class="nav-link {{if eq .Type "mission"}}active{{end}} fw-bold" href="{{ "/mission" | relURL

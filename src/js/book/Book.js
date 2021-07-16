@@ -1,10 +1,8 @@
 class Book {
   constructor() {
-    const searchTxt = document.querySelector(".search-nav");
+    const searchTxt = document.querySelector(".search-nav-box");
 
-    searchTxt.addEventListener("input", (event) => {
-      const searchText = event.currentTarget.value.trim().toLowerCase();
-
+    const searchBooks = (searchText) => {
       if (searchText.trim().length === 0) {
         document.querySelectorAll("div.card-body").forEach((card) => {
           const theELement = card.parentElement.parentElement.parentElement;
@@ -14,7 +12,7 @@ class Book {
         document.querySelectorAll("div.card-body").forEach((card) => {
           const theELement = card.parentElement.parentElement.parentElement;
           const theTitleEl = card.querySelector("h6");
-          const bName = theTitleEl.innerText;
+          const bName = theTitleEl.innerText.toLowerCase();
           const terms = theTitleEl.dataset.terms
             ? theTitleEl.dataset.terms
             : "";
@@ -37,7 +35,19 @@ class Book {
           }
         });
       }
+    };
+
+    searchTxt.addEventListener("input", (event) => {
+      searchBooks(event.currentTarget.value.trim().toLowerCase());
     });
+
+    const urlParams = new URLSearchParams(window.location.search);
+
+    if (urlParams.has("search")) {
+      searchTxt.value = urlParams.get("search").trim();
+      searchBooks(searchTxt.value.toLowerCase());
+    }
+
     searchTxt.focus();
   }
 }
