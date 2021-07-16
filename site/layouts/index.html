@@ -43,7 +43,7 @@
               <a href="{{strings.TrimRight "/" .Permalink}}" class="text-decoration-none">{{.Title}}</a></h2>
             {{- range $index, $element := .Params.authors }}
               {{ if gt $index 0 }} & {{ end }}
-              <small>{{ . }}</small>
+              <small class="h6">{{ . }}</small>
             {{ end }}
            
           </div>
