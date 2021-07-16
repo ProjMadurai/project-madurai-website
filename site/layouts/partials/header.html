@@ -29,15 +29,17 @@
         <form class="d-flex">
           {{if eq .Type "books"}}
           <input class="form-control me-2 search-nav-box" type="search" placeholder="தேடுக" aria-label="Search">
+          <button type="button" class="btn-close p-2 bg-danger" aria-label="Close"></button>
           {{else}}
-          <a class="btn search-nav" href="/books">
-            <i class="fas fa-search"></i>
-          </a>
+          
           {{end}}
         </form>
         {{ end }}
 
         <ul class="navbar-nav ms-auto mb-2 mb-md-0">
+          <a class="btn search-nav" href="/books">
+            <i class="fas fa-search"></i>
+          </a>
           <!-- <li class="nav-item">
             <a class="nav-link {{if eq .Type "books"}}active{{end}} fw-bold" href="{{ "/books" | relURL
               }}">புத்தகங்கள்</a>

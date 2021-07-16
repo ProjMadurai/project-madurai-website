@@ -34,16 +34,8 @@ body {
 .ml-0{
   margin-left:-5px;
 }
-.search-nav{
-    position: absolute;
-    left: 72%;
-    top: 12px;
-}
 .search-nav-box{
-  width: 300px;
-  position: absolute;
-  left: 53%;
-  top: 12px;
+  width: 500PX;
 }
 
 @media only screen and (max-width: 736px) {
@@ -58,4 +50,5 @@ body {
   .search-nav{
     display: none;
   }
+
 }
