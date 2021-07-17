@@ -1,6 +1,6 @@
 ---
 title: குலசேகர ஆழ்வார்
-thumbnail: 'https://techatpark.github.io/project-madurai-website/images/Man_icon.svg'
+thumbnail: 'https://raw.githubusercontent.com/ProjMadurai/project-madurai-website/main/site/static/images/Man_icon.svg'
 ---
 
 குலசேகர ஆழ்வார் பன்னிரு ஆழ்வார்களில் ஒருவர். இவரைக் குலசேகரப் பெருமாள் என்றும் அழைக்கின்றனர்.

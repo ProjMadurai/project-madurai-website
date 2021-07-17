@@ -1,7 +1,6 @@
 ---
 title: சிறுமணவூர் முனிசாமி முதலியார்
-thumbnail: 'https://techatpark.github.io/project-madurai-website/images/Man_icon.svg'
-avatar: 'https://github.com/thiruvalluvar.png?size=100'
+thumbnail: 'https://raw.githubusercontent.com/ProjMadurai/project-madurai-website/main/site/static/images/Man_icon.svg'
 ---
 
 சிறுமணவூர் முனிசாமி முதலியார்

@@ -1,6 +1,6 @@
 ---
 title: திருவரங்கத்து அமுதனார்
-thumbnail: 'https://techatpark.github.io/project-madurai-website/images/Man_icon.svg'
+thumbnail: 'https://raw.githubusercontent.com/ProjMadurai/project-madurai-website/main/site/static/images/Man_icon.svg'
 photo_credit: '[Clem Onojeghuo](https://unsplash.com/@clemono2)'
 avatar: 'https://github.com/thiruvalluvar.png?size=100'
 ---
