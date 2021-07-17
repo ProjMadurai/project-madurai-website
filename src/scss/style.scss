@@ -31,9 +31,7 @@ body {
   position: absolute;
   top:11px;
 }
-.ml-0{
-  margin-left:-5px;
-}
+
 .search-nav-box{
   width: 500PX;
 }
@@ -52,5 +50,15 @@ body {
   }
   .header-logo{
     display: none;
+  }
+  .ml-0{
+    background-color: #cdc0ad;
+  }
+} 
+
+@media only screen and (max-width: 568px) {
+
+  .navbar-brand{
+    width:55%;
   }
 }
