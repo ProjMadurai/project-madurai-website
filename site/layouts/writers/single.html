@@ -7,5 +7,36 @@
   {{- .Content -}}
 </main>
 
+
+<div class="row row-cols-1 row-cols-md-6 gx-4 ">
+
+  {{ range (where .Site.Sections "Section" "books" ) }}
+  
+        {{ range  .Pages  }}
+
+        {{if in .Params.authors $.Page.Title}}
+        
+        <div class="col mb-3">
+          
+          <div class="card bg-light border-0 h-100 book-layout">
+            <a  class="text-decoration-none" href="{{strings.TrimRight "/" .Permalink}}">
+        <div class="card-body m-2 bg-dark" style="height:130px">
+          <h6 class="text-truncate fw-bold text-center pt-4">{{ .Params.title }}</h6>
+         
+        </div>
+      </a>
+        
+        </div>
+      
+      </div>
+
+        {{ end }}
+        
+      {{ end }} 
+    {{ end }} 
+
+
+</div>
+
 </div>
 {{ end }}
