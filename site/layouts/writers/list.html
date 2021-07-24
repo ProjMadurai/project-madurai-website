@@ -4,22 +4,20 @@
   
 
 <main class="pt-3">
-
-    <div class="row row-cols-1 row-cols-md-6 gx-4">
+  <ul class="list-group">
         {{ range .Pages }}
-        <div class="col mb-3">
-          <a href="{{strings.TrimRight "/" .Permalink}}" class="text-decoration-none">
-          <div class="card border-0 h-100" >
-          <img src="{{strings.TrimRight "/" .Params.thumbnail}}" class="p-2 writer-img" alt="..." style="height: 130px;">
-          <div class="card-body">
-          <h6 class=" text-truncate fw-bold text-center">{{ .Title }}</h6>
-          </div>
-          </div>
-          </a>
-        </div>
+
+        
+          <li class="list-group-item">
+            <a href="{{strings.TrimRight "/" .Permalink}}" class="text-decoration-none">
+              {{ .Title }}
+            </a>
+          </li>
+        
+
         
         {{ end }}
-    </div>
+      </ul>
 
 
 </main>
